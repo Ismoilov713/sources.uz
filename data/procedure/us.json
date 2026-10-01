@@ -1,89 +1,186 @@
 {
-  "code": "us",
-  "updated": "2026-10-01",
-  "basis": "AQSh federal jinoyat protsessi: Federal Rules of Criminal Procedure (FRCrP), Federal Rules of Appellate Procedure (FRAP), Federal Rules of Evidence (FRE), AQSh Konstitutsiyasining 5- va 6-tuzatishlari, 18 U.S.C. §3231, 28 U.S.C. §1291. Matnlar Cornell LII sahifalaridan (rasmiy matn nusxasi) olingan. Diqqat: bu faqat federal tizim, har bir shtatning o'z jinoyat-protsessual qoidalari bor va ular farq qilishi mumkin. O'zbekcha bayon bizning tarjimamiz.",
-  "stages": {
-    "trial_prep": {
-      "summary": "Hibsga olingan shaxs imkon qadar tez magistrat sudya oldiga olib kelinadi (FRCrP 5(a)(1)(A)). Juda yengil huquqbuzarlik (petty offense) bo'lmagan ayblovlarda magistrat sudya dastlabki eshituv (preliminary hearing) o'tkazadi, agar ayblanuvchi voz kechmasa yoki unga allaqachon indictment e'lon qilinmagan bo'lsa (5.1(a)). Bir yildan ortiq ozodlikdan mahrum qilish yoki o'lim jazosi nazarda tutilgan jinoyatlar bo'yicha ayblov katta hay'at (grand jury) tomonidan indictment orqali qo'yilishi shart; ayblanuvchi ochiq sudda indictment'dan voz kechsa, prokuratura information bilan ayblashi mumkin (7(a), (b)). Katta hay'at 16–23 a'zodan iborat bo'lib, indictment uchun kamida 12 a'zo rozi bo'lishi kerak (6(a)(1), 6(f)). Sud majlisidan oldin taraflar sud tergovisiz hal qilinadigan e'tirozlarni oldindan beriladigan iltimosnomalar (pretrial motions) bilan ko'taradi; ayrimlari (masalan, noto'g'ri venue, ayblov hujjatidagi nuqson, katta hay'at jarayonidagi xato) imkon bo'lsa sud muhokamasidan oldin berilishi shart (12(b)(3)); yurisdiksiya yo'qligi haqidagi iltimos esa ish tugaguncha istalgan vaqtda berilishi mumkin (12(b)(2)).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRCrP", "ref": "Rules 5, 5.1, 6, 7, 12(b)", "url": "https://www.law.cornell.edu/rules/frcrmp" },
-        { "title": "AQSh Konstitutsiyasi, 5-tuzatish", "ref": "katta hay'at", "url": "https://www.law.cornell.edu/constitution/fifth_amendment", "original": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ..." }
-      ]
-    },
-    "court_composition": {
-      "summary": "Federal jinoyatlar bo'yicha birinchi instansiya — AQSh federal okrug sudlari (district courts); ular federal qonunlar bo'yicha jinoyatlarga ishlarni boshlang'ich vakolatda ko'radi, shtatlar sudlarining vakolati saqlanadi (18 U.S.C. §3231). Sud tarkibi: sudya va hakamlar hay'ati (jury). Hakamlar hay'ati odatda 12 kishi (FRCrP 23(b)(1)); taraflar yozma stipulyatsiya bilan kichikroq hay'atga rozi bo'lishi mumkin. Hakamlar hay'atisiz ko'rish (bench trial) faqat ayblanuvchi yozma ravishda voz kechsa, hukumat rozi bo'lsa va sud tasdiqlasa mumkin (23(a)). Hakamlarni saralashda sud yoki advokatlar nomzodlarni so'roq qiladi (24(a)); har bir tomonda kafolatsiz rad qilish (peremptory challenges) soni cheklangan: og'ir jinoyat uchun hukumatda 6, ayblanuvchilarda birgalikda 10; o'lim jazosi so'ralganda har tomonda 20 (24(b)). 6-tuzatish xolis hakamlar hay'atining huquqini kafolatlaydi.",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRCrP", "ref": "Rules 23, 24", "url": "https://www.law.cornell.edu/rules/frcrmp" },
-        { "title": "18 U.S.C. §3231", "ref": "", "url": "https://www.law.cornell.edu/uscode/text/18/3231" },
-        { "title": "AQSh Konstitutsiyasi, 6-tuzatish", "ref": "", "url": "https://www.law.cornell.edu/constitution/sixth_amendment", "original": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury ..." }
-      ]
-    },
-    "defendant_presence": {
-      "summary": "6-tuzatish ayblanuvchiga tezkor va ochiq sud, ayblov mohiyati haqida xabardor qilinish, o'ziga qarshi guvohlar bilan yuzlashish, o'z guvohlarini chaqirtirish majburlash choralari va himoyachi yordami huquqlarini beradi. FRCrP Rule 43(a) bo'yicha ayblanuvchi dastlabki taqdim etish, arraignment va aybga javob berish paytida, sudning har bir bosqichida (hakamlar tanlashdan hukm e'lon qilinishigacha) va jazo tayinlashda ishtirok etishi shart. Ishtirok shart bo'lmagan hollar: tashkilot sifatida ayblanuvchi, yengil jinoyat (bir yilgacha) bo'yicha yozma rozilik bilan video orqali yoki ishtirokisiz, faqat huquqiy masala bo'yicha eshituv, jazoni tuzatish (43(b)). Sud boshlangandan keyin ayblanuvchi ixtiyoriy ravishda kelmasa yoki tartibni buzgani uchun chiqarilsa, ishtirok huquqidan voz kechgan hisoblanadi va sud hukm chiqarishgacha uning yo'qligida davom etishi mumkin (43(c)). Arraignment'da qatnashishdan voz kechish tartibi Rule 10(b)da ko'rsatilgan.",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRCrP", "ref": "Rule 43(a)–(c), Rule 10(b)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_43" },
-        { "title": "AQSh Konstitutsiyasi, 6-tuzatish", "ref": "", "url": "https://www.law.cornell.edu/constitution/sixth_amendment" }
-      ]
-    },
-    "opening": {
-      "summary": "Sud majlisini ochish, ishtirokchilar kelganini tekshirish va prokuror hamda himoyachining kirish nutqlari (opening statements) tartibi bu tahlilda ko'rilgan federal qoidalarda alohida bosqich sifatida belgilanmagan. Manba (masalan, sud amaliyoti qoidalari yoki Federal Judicial Center qo'llanmasi) kutilmoqda.",
-      "status": "tekshirilmagan",
-      "sources": []
-    },
-    "charge_and_plea": {
-      "summary": "Arraignment ochiq sudda o'tkaziladi: ayblanuvchida indictment yoki information nusxasi borligi ta'minlanadi, ayblov o'qib eshittiriladi yoki mohiyati bayon qilinadi va undan aybiga munosabat so'raladi (10(a)). Ayblanuvchi aybsiz (not guilty), aybdor (guilty) yoki sudning roziligi bilan nolo contendere (aybni tan olmay, ayblovga e'tiroz bildirmaslik) deb javob berishi mumkin (11(a)(1)). Javob berishdan bosh tortsa, sud 'aybsiz' deb yozadi (11(a)(4)). Aybga iqror bo'lishdan oldin sud ochiq sudda ayblanuvchiga shaxsan murojaat qiladi va uning tushunganini aniqlaydi (11(b)(1)); hukm chiqarishdan oldin sud iqrorlikka faktik asos borligini aniqlashi shart (11(b)(3)).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "FRCrP", "ref": "Rules 10(a), 11(a), 11(b)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_11" }]
-    },
-    "scope_change_charge": {
-      "summary": "Ayblov hujjati (indictment yoki information) qisqa, aniq va ochiq yozma bayon bo'lishi, ayblovning asosiy faktlarini o'z ichiga olishi va prokuror imzosi bilan bo'lishi kerak (7(c)(1)). Ayblov hujjatidagi nuqsonlar (masalan, bir moddada ikki jinoyatni birlashtirish yoki bir jinoyatni bir necha moddada ko'rsatish) sudgacha beriladigan iltimosnoma bilan ko'tarilishi shart (12(b)(3)(B)). Information (prokuratura ayblov hujjati) hukmdan oldin istalgan vaqtda o'zgartirilishi mumkin, agar boshqa yoki qo'shimcha jinoyat ayblanmasa va ayblanuvchining muhim huquqi zarar ko'rmasa (7(e)); bu qoida faqat information'ga tegishli (indictment uchun alohida qoida bu tahlilda o'qilmadi). Hay'at ayblanuvchini ayblangan jinoyatga kiruvchi yengilroq jinoyatda yoki ayblangan jinoyatga suiqasd/tayyorgarlikda ham aybdor deb topishi mumkin (31(c)). Dalillar yetarli bo'lmasa, hukumat dalillarini yopgandan keyin yoki barcha dalillar tugagach, sud ayblanuvchi iltimosiga ko'ra oqlov hukmini (judgment of acquittal) chiqarishi shart; sud buni o'z tashabbusi bilan ham ko'rishi mumkin (29(a)).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "FRCrP", "ref": "Rules 7(c)(1), 7(e), 12(b)(3)(B), 29(a), 31(c)", "url": "https://www.law.cornell.edu/rules/frcrmp" }]
-    },
-    "evidence": {
-      "summary": "Federal Rules of Evidence 611(a) bo'yicha sud guvohlarni so'roq qilish va dalillarni taqdim etish tartibi ustidan oqilona nazoratni amalga oshiradi: haqiqatni aniqlash uchun samarali bo'lsin, vaqt isrof bo'lmasin va guvohlar hurmatsizlikdan himoyalansin. Kross-so'roq (cross-examination) bevosita so'roq (direct) predmeti va guvohning ishonchliligi doirasi bilan cheklanadi, sud kengroq ruxsat berishi mumkin (611(b)). Etakchi savollar odatda to'g'ridan-to'g'ri so'roqda ishlatilmaydi (611(c)). Konstitutsiya bo'yicha ayblanuvchi o'ziga qarshi guvoh bo'lishga majbur etilmaydi (5-tuzatish) va unga qarshi guvohlar bilan yuzlashish huquqi beriladi (6-tuzatish). Hukumat o'z dalillarini birinchi taqdim etadi, shundan keyingina ayblanuvchi o'z dalillarini keltirishi mumkin (FRCrP 29(a)).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRE", "ref": "Rule 611", "url": "https://www.law.cornell.edu/rules/fre/rule_611" },
-        { "title": "FRCrP", "ref": "Rule 29(a)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_29" },
-        { "title": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar", "ref": "", "url": "https://www.law.cornell.edu/constitution/sixth_amendment" }
-      ]
-    },
-    "negotiated": {
-      "summary": "Prokuror va himoyachi (yoki o'zi himoyalanayotgan ayblanuvchi) plea agreement tuzishi mumkin; sud bu muzokaralarda ishtirok etmasligi shart (11(c)(1)). Kelishuv uch turdagi bo'lishi mumkin: (A) boshqa ayblovlarni qo'ymaslik yoki bekor qilish; (B) muayyan jazo yoki Sentencing Guidelines qoidasini tavsiya qilish (sudni bog'lamaydi); (C) muayyan jazo yoki oraliqni kelishib olish (sud kelishuvni qabul qilgach, sudni bog'laydi). Kelishuv taklif etilganda ochiq sudda e'lon qilinadi (11(c)(2)). Sud (A) va (C) turlarini qabul qilishi, rad etishi yoki taqdim etilgan sudgacha hisobotni (presentence report) ko'rib chiqquncha qarorni kechiktirishi mumkin (11(c)(3)(A)); (B) turida sud tavsiyaga amal qilmasa, ayblanuvchi iqrorlikni qaytarib olish huquqiga ega emasligi tushuntiriladi (11(c)(3)(B)). Shuningdek shartli iqrorlik (conditional plea) mumkin: sudning va hukumatning roziligi bilan ayblanuvchi sudgacha bo'lgan muayyan iltimosnoma bo'yicha yuqori sud tekshiruvi huquqini saqlab qoladi (11(a)(2)).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "FRCrP", "ref": "Rule 11(a)(2), 11(c)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_11" }]
-    },
-    "closing": {
-      "summary": "Yakuniy nutqlar tartibi: avval hukumat (ayblov) so'zlaydi, so'ng himoya, keyin hukumat javob beradi (rebuttal) (FRCrP 29.1). Sud hakamlar hay'atiga qonun bo'yicha ko'rsatmalar beradi: taraflar yozma ravishda ko'rsatma so'rashi mumkin; sud yakuniy nutqlardan oldin ko'rsatmalar bo'yicha qarorini taraflarga bildiradi; ko'rsatmalar nutqlardan oldin yoki keyin yoki ikkala vaqtda ham o'qilishi mumkin (Rule 30(a)–(c)). Rule 29.1 izohiga ko'ra, bu tartib ayblanuvchi javob berish yoki bermaslikni hal qilishdan oldin ayblovning asosiy dalillarini bilishini ta'minlash uchun yaratilgan. O'zbekistondagi 'oxirgi so'z'ga o'xshash huquq AQShda hukm chiqarish bosqichida beriladi: jazo tayinlashdan oldin sud ayblanuvchining himoyachisiga so'z beradi, ayblanuvchining o'ziga shaxsan murojaat qilib, jazoni yengillashtiruvchi ma'lumot yoki fikrini aytishga imkon beradi va hukumat vakiliga teng imkoniyat beradi; jabrlanuvchi ham eshitiladi (32(i)(4)). Hukm e'lon qilingach, ayblanuvchiga apellyatsiya huquqi tushuntiriladi (32(j)(1)). Ya'ni bu huquq aybdorlik masalasi hal bo'lgandan keyin, jazo tayinlashdan oldin beriladi.",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRCrP", "ref": "Rules 29.1, 30, 32(i)(4), 32(j)(1)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_29.1" }
-      ]
-    },
-    "verdict": {
-      "summary": "Hakamlar hay'ati hukmni ochiq sudda sudyaga taqdim etadi va hukm bir ovozdan (unanimous) bo'lishi shart (31(a)). Hay'at bir necha ayblov yoki ayblanuvchi bo'yicha kelisha olmasa, kelishgan moddalar bo'yicha hukm chiqarishi mumkin; kelisha olmagan moddalarda sud mistrial e'lon qilishi, hukumat esa ayblanuvchini qayta sudga tortishi mumkin (31(b)). Hay'atsiz ko'rilgan ishda sud o'zi aybdor yoki aybsiz deb topadi va, tomon so'rasa, faktik xulosalarini bayon qiladi (23(c)). Jazo alohida bosqichda tayinlanadi: probatsiya xodimi sudgacha hisobot (presentence report) tayyorlaydi (32(c)); sud jazoni nomaqbul kechiktirmay tayinlaydi (32(b)); hisobot Sentencing Komissiyasining tavsiyaviy yo'riqnomalari asosida jazo oralig'ini hisoblaydi (32(d)(1)). Hukmdan keyin ayblanuvchi iltimosiga ko'ra sud 'adolat manfaatlari talab qilsa' hukmni bekor qilib, yangi sud (new trial) tayinlashi mumkin; yangi aniqlangan dalillar bo'yicha iltimos hukmdan keyin 3 yil ichida, boshqa asoslarda 14 kun ichida beriladi (33).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "FRCrP", "ref": "Rules 23(c), 31, 32(b)–(d), 33", "url": "https://www.law.cornell.edu/rules/frcrmp" }]
-    },
-    "appeal": {
-      "summary": "Ayblanuvchi apellyatsiya bildirishnomasini (notice of appeal) hukm yoki ajrim qayd etilganidan keyin 14 kun ichida okrug sudiga beradi (yoki hukumat apellyatsiya bergandan keyin 14 kun ichida, qaysi biri keyin bo'lsa); hukumat apellyatsiya berishga haqli bo'lsa, buni 30 kun ichida qiladi (FRAP 4(b)(1)). Federal apellyatsiya sudlari okrug sudlarining yakuniy qarorlari ustidan shikoyatlarni ko'rish vakolatiga ega (28 U.S.C. §1291).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRAP", "ref": "Rule 4(b)(1)", "url": "https://www.law.cornell.edu/rules/frap/rule_4" },
-        { "title": "28 U.S.C. §1291", "ref": "", "url": "https://www.law.cornell.edu/uscode/text/28/1291" }
-      ]
-    },
-    "cassation": {
-      "summary": "Federal tizimda O'zbekiston va Qozog'istondagi kassatsiya/taftishga mos alohida bosqich ko'rsatilmagan. Apellyatsiya sudlarining ishlarini AQSh Oliy sudi quyidagi yo'llar bilan ko'rib chiqishi mumkin: har qanday tomon arizasi bilan beriladigan writ of certiorari (hukmgacha yoki hukmdan keyin ham) yoki apellyatsiya sudi tomonidan qonuniy savolni Oliy sudga sertifikatsiya qilish (28 U.S.C. §1254). Oliy sud boshlang'ich yurisdiksiyasi Konstitutsiya III moddasi 2-bo'limida belgilangan ishlar bilan cheklanadi, boshqa ishlarda apellyatsiya yurisdiksiyasiga ega (Konstitutsiya, Art. III §2).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "28 U.S.C. §1254", "ref": "", "url": "https://www.law.cornell.edu/uscode/text/28/1254" },
-        { "title": "AQSh Konstitutsiyasi, III modda", "ref": "§2", "url": "https://www.law.cornell.edu/constitution/articleiii" }
-      ]
-    }
-  }
+    "code":  "us",
+    "updated":  "2026-10-01",
+    "basis":  "AQSh federal jinoyat protsessi: Federal Rules of Criminal Procedure (FRCrP), Federal Rules of Appellate Procedure (FRAP), Federal Rules of Evidence (FRE), AQSh Konstitutsiyasining 5- va 6-tuzatishlari, 18 U.S.C. §3231, 28 U.S.C. §1291. Matnlar Cornell LII sahifalaridan (rasmiy matn nusxasi) olingan. Diqqat: bu faqat federal tizim, har bir shtatning o\u0027z jinoyat-protsessual qoidalari bor va ular farq qilishi mumkin. O\u0027zbekcha bayon bizning tarjimamiz.",
+    "stages":  {
+                   "trial_prep":  {
+                                      "summary":  "Hibsga olingan shaxs imkon qadar tez magistrat sudya oldiga olib kelinadi (FRCrP 5(a)(1)(A)). Juda yengil huquqbuzarlik (petty offense) bo\u0027lmagan ayblovlarda magistrat sudya dastlabki eshituv (preliminary hearing) o\u0027tkazadi, agar ayblanuvchi voz kechmasa yoki unga allaqachon indictment e\u0027lon qilinmagan bo\u0027lsa (5.1(a)). Bir yildan ortiq ozodlikdan mahrum qilish yoki o\u0027lim jazosi nazarda tutilgan jinoyatlar bo\u0027yicha ayblov katta hay\u0027at (grand jury) tomonidan indictment orqali qo\u0027yilishi shart; ayblanuvchi ochiq sudda indictment\u0027dan voz kechsa, prokuratura information bilan ayblashi mumkin (7(a), (b)). Katta hay\u0027at 16–23 a\u0027zodan iborat bo\u0027lib, indictment uchun kamida 12 a\u0027zo rozi bo\u0027lishi kerak (6(a)(1), 6(f)). Sud majlisidan oldin taraflar sud tergovisiz hal qilinadigan e\u0027tirozlarni oldindan beriladigan iltimosnomalar (pretrial motions) bilan ko\u0027taradi; ayrimlari (masalan, noto\u0027g\u0027ri venue, ayblov hujjatidagi nuqson, katta hay\u0027at jarayonidagi xato) imkon bo\u0027lsa sud muhokamasidan oldin berilishi shart (12(b)(3)); yurisdiksiya yo\u0027qligi haqidagi iltimos esa ish tugaguncha istalgan vaqtda berilishi mumkin (12(b)(2)).",
+                                      "status":  "tasdiqlangan",
+                                      "sources":  [
+                                                      {
+                                                          "title":  "FRCrP",
+                                                          "ref":  "Rules 5, 5.1, 6, 7, 12(b)",
+                                                          "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                      },
+                                                      {
+                                                          "title":  "AQSh Konstitutsiyasi, 5-tuzatish",
+                                                          "ref":  "katta hay\u0027at",
+                                                          "url":  "https://www.law.cornell.edu/constitution/fifth_amendment",
+                                                          "original":  "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ..."
+                                                      }
+                                                  ]
+                                  },
+                   "court_composition":  {
+                                             "summary":  "Federal jinoyatlar bo\u0027yicha birinchi instansiya — AQSh federal okrug sudlari (district courts); ular federal qonunlar bo\u0027yicha jinoyatlarga ishlarni boshlang\u0027ich vakolatda ko\u0027radi, shtatlar sudlarining vakolati saqlanadi (18 U.S.C. §3231). Sud tarkibi: sudya va hakamlar hay\u0027ati (jury). Hakamlar hay\u0027ati odatda 12 kishi (FRCrP 23(b)(1)); taraflar yozma stipulyatsiya bilan kichikroq hay\u0027atga rozi bo\u0027lishi mumkin. Hakamlar hay\u0027atisiz ko\u0027rish (bench trial) faqat ayblanuvchi yozma ravishda voz kechsa, hukumat rozi bo\u0027lsa va sud tasdiqlasa mumkin (23(a)). Hakamlarni saralashda sud yoki advokatlar nomzodlarni so\u0027roq qiladi (24(a)); har bir tomonda kafolatsiz rad qilish (peremptory challenges) soni cheklangan: og\u0027ir jinoyat uchun hukumatda 6, ayblanuvchilarda birgalikda 10; o\u0027lim jazosi so\u0027ralganda har tomonda 20 (24(b)). 6-tuzatish xolis hakamlar hay\u0027atining huquqini kafolatlaydi.",
+                                             "status":  "tasdiqlangan",
+                                             "sources":  [
+                                                             {
+                                                                 "title":  "FRCrP",
+                                                                 "ref":  "Rules 23, 24",
+                                                                 "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                             },
+                                                             {
+                                                                 "title":  "18 U.S.C. §3231",
+                                                                 "ref":  "",
+                                                                 "url":  "https://www.law.cornell.edu/uscode/text/18/3231"
+                                                             },
+                                                             {
+                                                                 "title":  "AQSh Konstitutsiyasi, 6-tuzatish",
+                                                                 "ref":  "",
+                                                                 "url":  "https://www.law.cornell.edu/constitution/sixth_amendment",
+                                                                 "original":  "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury ..."
+                                                             }
+                                                         ]
+                                         },
+                   "defendant_presence":  {
+                                              "summary":  "6-tuzatish ayblanuvchiga tezkor va ochiq sud, ayblov mohiyati haqida xabardor qilinish, o\u0027ziga qarshi guvohlar bilan yuzlashish, o\u0027z guvohlarini chaqirtirish majburlash choralari va himoyachi yordami huquqlarini beradi. FRCrP Rule 43(a) bo\u0027yicha ayblanuvchi dastlabki taqdim etish, arraignment va aybga javob berish paytida, sudning har bir bosqichida (hakamlar tanlashdan hukm e\u0027lon qilinishigacha) va jazo tayinlashda ishtirok etishi shart. Ishtirok shart bo\u0027lmagan hollar: tashkilot sifatida ayblanuvchi, yengil jinoyat (bir yilgacha) bo\u0027yicha yozma rozilik bilan video orqali yoki ishtirokisiz, faqat huquqiy masala bo\u0027yicha eshituv, jazoni tuzatish (43(b)). Sud boshlangandan keyin ayblanuvchi ixtiyoriy ravishda kelmasa yoki tartibni buzgani uchun chiqarilsa, ishtirok huquqidan voz kechgan hisoblanadi va sud hukm chiqarishgacha uning yo\u0027qligida davom etishi mumkin (43(c)). Arraignment\u0027da qatnashishdan voz kechish tartibi Rule 10(b)da ko\u0027rsatilgan.",
+                                              "status":  "tasdiqlangan",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "FRCrP",
+                                                                  "ref":  "Rule 43(a)–(c), Rule 10(b)",
+                                                                  "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_43"
+                                                              },
+                                                              {
+                                                                  "title":  "AQSh Konstitutsiyasi, 6-tuzatish",
+                                                                  "ref":  "",
+                                                                  "url":  "https://www.law.cornell.edu/constitution/sixth_amendment"
+                                                              }
+                                                          ]
+                                          },
+                   "opening":  {
+                                   "summary":  "Sud majlisi hakamlar qasamyod qilgandan keyin boshlanadi. AQSh sudlarining rasmiy hakamlar qo\u0027llanmasiga ko\u0027ra birinchi bosqich — advokatlarning kirish nutqlari (opening statements); ba\u0027zan bir yoki bir necha tomonning kirish nutqi o\u0027tkazib yuboriladi. Qo\u0027llanma sakkiz bosqichni fuqarolik ishlari uchun keltiradi (kirish nutqlari, da\u0027vogarning dalillari, javobgarning dalillari, rad etuvchi dalillar, yakuniy nutqlar, sudyaning hakamlarga ko\u0027rsatmasi, maslahat, hukm); jinoyat ishida hukumat dalillarni birinchi taqdim etishi FRCrP 29(a) dan, yakuniy nutqlar tartibi Rule 29.1 dan ma\u0027lum. Kirish va yakuniy nutqlar dalil emas; guvohlarni tomonlar bir-biriga kross-so\u0027roq qila oladi. Ushbu bosqich federal qoidalarda (FRCrP) alohida moddada belgilanmagan, amaliyot sud va qo\u0027llanmalarga tayanadi.",
+                                   "status":  "tasdiqlangan",
+                                   "sources":  [
+                                                   {
+                                                       "title":  "AQSh sud ma\u0027muriy idorasi: Handbook for Trial Jurors Serving in the United States District Courts",
+                                                       "ref":  "\"The Eight Stages of Trial\", \"The Arguments of Counsel\"",
+                                                       "url":  "https://www.uscourts.gov/sites/default/files/trial-handbook.pdf"
+                                                   },
+                                                   {
+                                                       "title":  "FRCrP",
+                                                       "ref":  "Rules 24, 29(a), 29.1",
+                                                       "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                   }
+                                               ]
+                               },
+                   "charge_and_plea":  {
+                                           "summary":  "Arraignment ochiq sudda o\u0027tkaziladi: ayblanuvchida indictment yoki information nusxasi borligi ta\u0027minlanadi, ayblov o\u0027qib eshittiriladi yoki mohiyati bayon qilinadi va undan aybiga munosabat so\u0027raladi (10(a)). Ayblanuvchi aybsiz (not guilty), aybdor (guilty) yoki sudning roziligi bilan nolo contendere (aybni tan olmay, ayblovga e\u0027tiroz bildirmaslik) deb javob berishi mumkin (11(a)(1)). Javob berishdan bosh tortsa, sud \u0027aybsiz\u0027 deb yozadi (11(a)(4)). Aybga iqror bo\u0027lishdan oldin sud ochiq sudda ayblanuvchiga shaxsan murojaat qiladi va uning tushunganini aniqlaydi (11(b)(1)); hukm chiqarishdan oldin sud iqrorlikka faktik asos borligini aniqlashi shart (11(b)(3)).",
+                                           "status":  "tasdiqlangan",
+                                           "sources":  [
+                                                           {
+                                                               "title":  "FRCrP",
+                                                               "ref":  "Rules 10(a), 11(a), 11(b)",
+                                                               "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_11"
+                                                           }
+                                                       ]
+                                       },
+                   "scope_change_charge":  {
+                                               "summary":  "Ayblov hujjati (indictment yoki information) qisqa, aniq va ochiq yozma bayon bo\u0027lishi, ayblovning asosiy faktlarini o\u0027z ichiga olishi va prokuror imzosi bilan bo\u0027lishi kerak (7(c)(1)). Ayblov hujjatidagi nuqsonlar (masalan, bir moddada ikki jinoyatni birlashtirish yoki bir jinoyatni bir necha moddada ko\u0027rsatish) sudgacha beriladigan iltimosnoma bilan ko\u0027tarilishi shart (12(b)(3)(B)). Information (prokuratura ayblov hujjati) hukmdan oldin istalgan vaqtda o\u0027zgartirilishi mumkin, agar boshqa yoki qo\u0027shimcha jinoyat ayblanmasa va ayblanuvchining muhim huquqi zarar ko\u0027rmasa (7(e)); bu qoida faqat information\u0027ga tegishli (indictment uchun alohida qoida bu tahlilda o\u0027qilmadi). Hay\u0027at ayblanuvchini ayblangan jinoyatga kiruvchi yengilroq jinoyatda yoki ayblangan jinoyatga suiqasd/tayyorgarlikda ham aybdor deb topishi mumkin (31(c)). Dalillar yetarli bo\u0027lmasa, hukumat dalillarini yopgandan keyin yoki barcha dalillar tugagach, sud ayblanuvchi iltimosiga ko\u0027ra oqlov hukmini (judgment of acquittal) chiqarishi shart; sud buni o\u0027z tashabbusi bilan ham ko\u0027rishi mumkin (29(a)).",
+                                               "status":  "tasdiqlangan",
+                                               "sources":  [
+                                                               {
+                                                                   "title":  "FRCrP",
+                                                                   "ref":  "Rules 7(c)(1), 7(e), 12(b)(3)(B), 29(a), 31(c)",
+                                                                   "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                               }
+                                                           ]
+                                           },
+                   "evidence":  {
+                                    "summary":  "Federal Rules of Evidence 611(a) bo\u0027yicha sud guvohlarni so\u0027roq qilish va dalillarni taqdim etish tartibi ustidan oqilona nazoratni amalga oshiradi: haqiqatni aniqlash uchun samarali bo\u0027lsin, vaqt isrof bo\u0027lmasin va guvohlar hurmatsizlikdan himoyalansin. Kross-so\u0027roq (cross-examination) bevosita so\u0027roq (direct) predmeti va guvohning ishonchliligi doirasi bilan cheklanadi, sud kengroq ruxsat berishi mumkin (611(b)). Etakchi savollar odatda to\u0027g\u0027ridan-to\u0027g\u0027ri so\u0027roqda ishlatilmaydi (611(c)). Konstitutsiya bo\u0027yicha ayblanuvchi o\u0027ziga qarshi guvoh bo\u0027lishga majbur etilmaydi (5-tuzatish) va unga qarshi guvohlar bilan yuzlashish huquqi beriladi (6-tuzatish). Hukumat o\u0027z dalillarini birinchi taqdim etadi, shundan keyingina ayblanuvchi o\u0027z dalillarini keltirishi mumkin (FRCrP 29(a)).",
+                                    "status":  "tasdiqlangan",
+                                    "sources":  [
+                                                    {
+                                                        "title":  "FRE",
+                                                        "ref":  "Rule 611",
+                                                        "url":  "https://www.law.cornell.edu/rules/fre/rule_611"
+                                                    },
+                                                    {
+                                                        "title":  "FRCrP",
+                                                        "ref":  "Rule 29(a)",
+                                                        "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_29"
+                                                    },
+                                                    {
+                                                        "title":  "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
+                                                        "ref":  "",
+                                                        "url":  "https://www.law.cornell.edu/constitution/sixth_amendment"
+                                                    }
+                                                ]
+                                },
+                   "negotiated":  {
+                                      "summary":  "Prokuror va himoyachi (yoki o\u0027zi himoyalanayotgan ayblanuvchi) plea agreement tuzishi mumkin; sud bu muzokaralarda ishtirok etmasligi shart (11(c)(1)). Kelishuv uch turdagi bo\u0027lishi mumkin: (A) boshqa ayblovlarni qo\u0027ymaslik yoki bekor qilish; (B) muayyan jazo yoki Sentencing Guidelines qoidasini tavsiya qilish (sudni bog\u0027lamaydi); (C) muayyan jazo yoki oraliqni kelishib olish (sud kelishuvni qabul qilgach, sudni bog\u0027laydi). Kelishuv taklif etilganda ochiq sudda e\u0027lon qilinadi (11(c)(2)). Sud (A) va (C) turlarini qabul qilishi, rad etishi yoki taqdim etilgan sudgacha hisobotni (presentence report) ko\u0027rib chiqquncha qarorni kechiktirishi mumkin (11(c)(3)(A)); (B) turida sud tavsiyaga amal qilmasa, ayblanuvchi iqrorlikni qaytarib olish huquqiga ega emasligi tushuntiriladi (11(c)(3)(B)). Shuningdek shartli iqrorlik (conditional plea) mumkin: sudning va hukumatning roziligi bilan ayblanuvchi sudgacha bo\u0027lgan muayyan iltimosnoma bo\u0027yicha yuqori sud tekshiruvi huquqini saqlab qoladi (11(a)(2)).",
+                                      "status":  "tasdiqlangan",
+                                      "sources":  [
+                                                      {
+                                                          "title":  "FRCrP",
+                                                          "ref":  "Rule 11(a)(2), 11(c)",
+                                                          "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_11"
+                                                      }
+                                                  ]
+                                  },
+                   "closing":  {
+                                   "summary":  "Yakuniy nutqlar tartibi: avval hukumat (ayblov) so\u0027zlaydi, so\u0027ng himoya, keyin hukumat javob beradi (rebuttal) (FRCrP 29.1). Sud hakamlar hay\u0027atiga qonun bo\u0027yicha ko\u0027rsatmalar beradi: taraflar yozma ravishda ko\u0027rsatma so\u0027rashi mumkin; sud yakuniy nutqlardan oldin ko\u0027rsatmalar bo\u0027yicha qarorini taraflarga bildiradi; ko\u0027rsatmalar nutqlardan oldin yoki keyin yoki ikkala vaqtda ham o\u0027qilishi mumkin (Rule 30(a)–(c)). Rule 29.1 izohiga ko\u0027ra, bu tartib ayblanuvchi javob berish yoki bermaslikni hal qilishdan oldin ayblovning asosiy dalillarini bilishini ta\u0027minlash uchun yaratilgan. O\u0027zbekistondagi \u0027oxirgi so\u0027z\u0027ga o\u0027xshash huquq AQShda hukm chiqarish bosqichida beriladi: jazo tayinlashdan oldin sud ayblanuvchining himoyachisiga so\u0027z beradi, ayblanuvchining o\u0027ziga shaxsan murojaat qilib, jazoni yengillashtiruvchi ma\u0027lumot yoki fikrini aytishga imkon beradi va hukumat vakiliga teng imkoniyat beradi; jabrlanuvchi ham eshitiladi (32(i)(4)). Hukm e\u0027lon qilingach, ayblanuvchiga apellyatsiya huquqi tushuntiriladi (32(j)(1)). Ya\u0027ni bu huquq aybdorlik masalasi hal bo\u0027lgandan keyin, jazo tayinlashdan oldin beriladi.",
+                                   "status":  "tasdiqlangan",
+                                   "sources":  [
+                                                   {
+                                                       "title":  "FRCrP",
+                                                       "ref":  "Rules 29.1, 30, 32(i)(4), 32(j)(1)",
+                                                       "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_29.1"
+                                                   }
+                                               ]
+                               },
+                   "verdict":  {
+                                   "summary":  "Hakamlar hay\u0027ati hukmni ochiq sudda sudyaga taqdim etadi va hukm bir ovozdan (unanimous) bo\u0027lishi shart (31(a)). Hay\u0027at bir necha ayblov yoki ayblanuvchi bo\u0027yicha kelisha olmasa, kelishgan moddalar bo\u0027yicha hukm chiqarishi mumkin; kelisha olmagan moddalarda sud mistrial e\u0027lon qilishi, hukumat esa ayblanuvchini qayta sudga tortishi mumkin (31(b)). Hay\u0027atsiz ko\u0027rilgan ishda sud o\u0027zi aybdor yoki aybsiz deb topadi va, tomon so\u0027rasa, faktik xulosalarini bayon qiladi (23(c)). Jazo alohida bosqichda tayinlanadi: probatsiya xodimi sudgacha hisobot (presentence report) tayyorlaydi (32(c)); sud jazoni nomaqbul kechiktirmay tayinlaydi (32(b)); hisobot Sentencing Komissiyasining tavsiyaviy yo\u0027riqnomalari asosida jazo oralig\u0027ini hisoblaydi (32(d)(1)). Hukmdan keyin ayblanuvchi iltimosiga ko\u0027ra sud \u0027adolat manfaatlari talab qilsa\u0027 hukmni bekor qilib, yangi sud (new trial) tayinlashi mumkin; yangi aniqlangan dalillar bo\u0027yicha iltimos hukmdan keyin 3 yil ichida, boshqa asoslarda 14 kun ichida beriladi (33).",
+                                   "status":  "tasdiqlangan",
+                                   "sources":  [
+                                                   {
+                                                       "title":  "FRCrP",
+                                                       "ref":  "Rules 23(c), 31, 32(b)–(d), 33",
+                                                       "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                   }
+                                               ]
+                               },
+                   "appeal":  {
+                                  "summary":  "Ayblanuvchi apellyatsiya bildirishnomasini (notice of appeal) hukm yoki ajrim qayd etilganidan keyin 14 kun ichida okrug sudiga beradi (yoki hukumat apellyatsiya bergandan keyin 14 kun ichida, qaysi biri keyin bo\u0027lsa); hukumat apellyatsiya berishga haqli bo\u0027lsa, buni 30 kun ichida qiladi (FRAP 4(b)(1)). Federal apellyatsiya sudlari okrug sudlarining yakuniy qarorlari ustidan shikoyatlarni ko\u0027rish vakolatiga ega (28 U.S.C. §1291).",
+                                  "status":  "tasdiqlangan",
+                                  "sources":  [
+                                                  {
+                                                      "title":  "FRAP",
+                                                      "ref":  "Rule 4(b)(1)",
+                                                      "url":  "https://www.law.cornell.edu/rules/frap/rule_4"
+                                                  },
+                                                  {
+                                                      "title":  "28 U.S.C. §1291",
+                                                      "ref":  "",
+                                                      "url":  "https://www.law.cornell.edu/uscode/text/28/1291"
+                                                  }
+                                              ]
+                              },
+                   "cassation":  {
+                                     "summary":  "Federal tizimda O\u0027zbekiston va Qozog\u0027istondagi kassatsiya/taftishga mos alohida bosqich ko\u0027rsatilmagan. Apellyatsiya sudlarining ishlarini AQSh Oliy sudi quyidagi yo\u0027llar bilan ko\u0027rib chiqishi mumkin: har qanday tomon arizasi bilan beriladigan writ of certiorari (hukmgacha yoki hukmdan keyin ham) yoki apellyatsiya sudi tomonidan qonuniy savolni Oliy sudga sertifikatsiya qilish (28 U.S.C. §1254). Oliy sud boshlang\u0027ich yurisdiksiyasi Konstitutsiya III moddasi 2-bo\u0027limida belgilangan ishlar bilan cheklanadi, boshqa ishlarda apellyatsiya yurisdiksiyasiga ega (Konstitutsiya, Art. III §2).",
+                                     "status":  "tasdiqlangan",
+                                     "sources":  [
+                                                     {
+                                                         "title":  "28 U.S.C. §1254",
+                                                         "ref":  "",
+                                                         "url":  "https://www.law.cornell.edu/uscode/text/28/1254"
+                                                     },
+                                                     {
+                                                         "title":  "AQSh Konstitutsiyasi, III modda",
+                                                         "ref":  "§2",
+                                                         "url":  "https://www.law.cornell.edu/constitution/articleiii"
+                                                     }
+                                                 ]
+                                 }
+               }
 }

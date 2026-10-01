@@ -1,104 +1,147 @@
 {
-  "updated": "2026-10-01",
-  "note": "Quyidagi manbalar matni ochilib, asosiy da'volari o'qib tekshirilgan. Academia.edu, ResearchGate va ScienceDirect avtomatik kirishni ko'pincha 403 xatosi bilan bloklaydi, shuning uchun ochiq jurnal va institutsional sayt nusxalaridan foydalanildi. Ilmiy maqolalar qonun matnini almashtirmaydi: har bir sahifadagi jarayon bayoni asosiy qonun matniga asoslangan, ilmiy manbalar kontekst, tahlil va amaliyot (statistika) uchun.",
-  "verified": [
-    {
-      "id": "fjc-comparative",
-      "type": "institutsional ma'lumot (AQSh Federal Judicial Center)",
-      "citation": "Federal Judicial Center, Judiciaries Worldwide, 'Comparative Criminal Procedure'. Muallif va sana ko'rsatilmagan.",
-      "url": "https://judiciariesworldwide.fjc.gov/comparative-criminal-procedure",
-      "supports": "Raqobatli (adversarial) va inkvizitsion tizimlar farqi; fuqarolik huquqi mamlakatlarida aralash sudlar (kasbiy sudyalar + xalq vakillari); AQShda plea bargaining keng, boshqa ko'p mamlakatlarda cheklangan; inkvizitsion sudlarda dalil tartibi qat'iy belgilanmagan va majlislar uzluksiz bo'lmasligi mumkin.",
-      "countries": ["us", "de", "fr", "tr", "uz", "kz"]
-    },
-    {
-      "id": "fjc-profiles",
-      "type": "institutsional ma'lumot (AQSh Federal Judicial Center)",
-      "citation": "Federal Judicial Center, Judiciaries Worldwide, davlat profillari: Germany, France, Turkey, Uzbekistan, United States.",
-      "url": "https://judiciariesworldwide.fjc.gov/",
-      "supports": "Huquq tizimi turi, sudyalarni tayinlash va muddat, xalq ishtiroki. Ogohlantirish: Fransiya profili 9 hakam deydi, hozirgi CPP 296 birinchi instansiyada 6 hakamni belgilaydi (qonun ustun); Qozog'iston profili mavjud emas.",
-      "countries": ["de", "fr", "tr", "uz", "us"]
-    },
-    {
-      "id": "jahn-2020",
-      "type": "ilmiy maqola (hakamli jurnal, ochiq kirish)",
-      "citation": "Matthias Jahn va Charlotte Schmitt-Leonardy, 'The German Verständigung and Consensual Elements in German Criminal Trials', German Law Journal, 21(6), 2020, 1134–1148.",
-      "url": "https://doi.org/10.1017/glj.2020.69",
-      "supports": "Germaniyada §257c StPO bo'yicha kelishuvning (Verständigung) haqiqiy amaliyoti: rasmiy kelishuvlar 2017 yilda tuman sudlari ishlarining 0,62% va viloyat sudlari ishlarining 7,28% ini tashkil etgan; norasmiy kelishuvlar ko'p uchraydi.",
-      "countries": ["de"]
-    },
-    {
-      "id": "hans-germain-2011",
-      "type": "ilmiy maqola (hakamli huquq sharhi)",
-      "citation": "Valerie P. Hans va Claire M. Germain, 'The French Jury at a Crossroads', Chicago-Kent Law Review, 86, 2011, 737.",
-      "url": "https://scholarship.kentlaw.iit.edu/cklawreview/vol86/iss2/10/",
-      "supports": "Fransuz hakamlar hay'ati inqilobdan keyin mustaqil fuqarolar hay'atidan kasbiy sudyalar va fuqarolardan iborat aralash sudga aylangan; apellyatsiya cour d'assises, ayrim jinoyatlarni hakamlar hay'ati ko'rishidan chiqarish. Maqola 2011 yilda yozilgan, 2019 yildan keyingi cour criminelle départementale islohoti uni qamramagan; shuning uchun joriy qoidalar uchun CPP ishlatilgan.",
-      "countries": ["fr"]
-    },
-    {
-      "id": "cabar-2019",
-      "type": "tahliliy maqola (CABAR.asia, hakamli emas)",
-      "citation": "Slyamzhar Akhmedzharov (Qozog'iston strategik tadqiqotlar instituti), 'Kazakhstan: Why the Institute of Trial Jury Cannot Function in Full Power?', CABAR.asia, 3.09.2019.",
-      "url": "https://cabar.asia/en/kazakhstan-why-the-institute-of-trial-jury-cannot-function-in-full-power",
-      "supports": "Qozog'istonda hakamlar sudi (1 sudya + 10 hakam) jinoyat ishlarining 1% dan kamini ko'radi; sudya va hakamlar aybdorlik va jazo bo'yicha birga qaror qiladi; 2012–2015 yillardagi oqlov hukmlarining taxminan yarmi apellyatsiyada bekor qilingan (muallif ma'lumoti, 2019).",
-      "countries": ["kz"]
-    },
-    {
-      "id": "dudko-2019",
-      "type": "ilmiy maqola (hakamli jurnal)",
-      "citation": "Nina Dudko, Mariya Neymark, Evgeniy Petuchov, 'Trial Jury in Russian Federation and the Republic of Kazakhstan: Comparative Legal Analysis', Religación, 4(18), 2019, 90–97.",
-      "url": "https://revista.religacion.com/index.php/religacion/article/view/403",
-      "supports": "Qozog'istonda sudya va hakamlar fakt va huquq masalalarini birga hal qiladi (aralash model), Rossiyada esa fakt va huquq vakolatlari ajratilgan klassik hakamlar sudi.",
-      "countries": ["kz"]
-    },
-    {
-      "id": "yodgorov-2024",
-      "type": "rasmiy nuqtai nazar (Sudyalar oliy kengashi raisi maqolasi)",
-      "citation": "Kholmumin Yodgorov, 'The Judicial System of Uzbekistan: Reforms and Outcomes', Regional Dialogue, 7.05.2024.",
-      "url": "https://regionaldialogue.org/article/judicial-system-uzbekistan-reforms-and-outcomes",
-      "supports": "Sudyalar oliy kengashi 2017 yil fevralida tuzilgan; sudyalar ochiq tanlov orqali tanlanadi; kengash 21 a'zodan iborat (11 sudya); Oliy sudyalar maktabi 2019 yilda ochilgan. Muallif tizimning o'z rahbari, shuning uchun bu rasmiy nuqtai nazar, mustaqil baho emas.",
-      "countries": ["uz"]
-    }
-  ],
-  "unverified": [
-    {
-      "citation": "Trochev, A., 'Between Convictions and Reconciliations: Processing Criminal Cases in Kazakhstan' (Cornell International Law Journal sayti).",
-      "url": "https://ww3.lawschool.cornell.edu/research/ILJ/upload/Trochev-final.pdf",
-      "why": "PDF matnini o'qib bo'lmadi (kodirovka buzilgan); sarlavhasi qidiruv natijasida ko'rindi, mazmuni tekshirilmadi. O'qish uchun tavsiya."
-    },
-    {
-      "citation": "'New Kazakhstani quasi-jury system: Challenges, trends and reforms', ScienceDirect.",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1756061611000097",
-      "why": "Sayt avtomatik kirishni bloklaydi (403); muallif va annotatsiya tekshirilmadi."
-    },
-    {
-      "citation": "'Uzbekistan: A New Dimension of Judicial Reforms', ResearchGate.",
-      "url": "https://www.researchgate.net/publication/375081410_Uzbekistan_A_New_Dimension_of_Judicial_Reforms",
-      "why": "ResearchGate 403 xatosi; mazmuni tekshirilmadi."
-    },
-    {
-      "citation": "Turk jinoyat protsessi bo'yicha dergipark.org.tr maqolalari (masalan, TAAD, 14(53), 2023).",
-      "url": "https://dergipark.org.tr/en/download/article-file/2881540",
-      "why": "PDF matni o'qib bo'lmadi; mazmuni tekshirilmadi."
-    }
-  ],
-  "discrepancies": [
-    {
-      "topic": "Turkiya: istinaf muddati",
-      "secondary": "Bir ikkilamchi huquqiy blog 'Art. 273 CMK bo'yicha 15 kun' deb yozadi.",
-      "primary": "CMK 273(1) matni: gerekçali hukm tebliğ qilingan kundan 'iki hafta' (14 kun).",
-      "decision": "Qonun matni asos qilindi (2 hafta)."
-    },
-    {
-      "topic": "Fransiya: hakamlar soni",
-      "secondary": "FJC profili: 3 kasbiy sudya va 9 fuqaro.",
-      "primary": "CPP 296: birinchi instansiyada 6, apellyatsiyada 9 hakam; CPP 380-16/380-17: hakamlarsiz cour criminelle départementale.",
-      "decision": "Qonun matni asos qilindi; FJC ma'lumoti eskirgan deb belgilandi."
-    },
-    {
-      "topic": "O'zbekiston: sudyalar vakolat muddati",
-      "secondary": "UzA 2021 va FJC: 5 yil, 10 yil, muddatsiz.",
-      "primary": "'Sudlar to'g'risida'gi Qonun 71-modda (joriy tahrir) shuni tasdiqlaydi.",
-      "decision": "Tasdiqlandi; avvalgi 'ziddiyatli' belgi olib tashlandi."
-    }
-  ]
+    "updated":  "2026-10-01",
+    "note":  "Quyidagi manbalar matni ochilib, asosiy da\u0027volari o\u0027qib tekshirilgan. Academia.edu, ResearchGate va ScienceDirect avtomatik kirishni ko\u0027pincha 403 xatosi bilan bloklaydi, shuning uchun ochiq jurnal va institutsional sayt nusxalaridan foydalanildi. Ilmiy maqolalar qonun matnini almashtirmaydi: har bir sahifadagi jarayon bayoni asosiy qonun matniga asoslangan, ilmiy manbalar kontekst, tahlil va amaliyot (statistika) uchun.",
+    "verified":  [
+                     {
+                         "id":  "fjc-comparative",
+                         "type":  "institutsional ma\u0027lumot (AQSh Federal Judicial Center)",
+                         "citation":  "Federal Judicial Center, Judiciaries Worldwide, \u0027Comparative Criminal Procedure\u0027. Muallif va sana ko\u0027rsatilmagan.",
+                         "url":  "https://judiciariesworldwide.fjc.gov/comparative-criminal-procedure",
+                         "supports":  "Raqobatli (adversarial) va inkvizitsion tizimlar farqi; fuqarolik huquqi mamlakatlarida aralash sudlar (kasbiy sudyalar + xalq vakillari); AQShda plea bargaining keng, boshqa ko\u0027p mamlakatlarda cheklangan; inkvizitsion sudlarda dalil tartibi qat\u0027iy belgilanmagan va majlislar uzluksiz bo\u0027lmasligi mumkin.",
+                         "countries":  [
+                                           "us",
+                                           "de",
+                                           "fr",
+                                           "tr",
+                                           "uz",
+                                           "kz"
+                                       ]
+                     },
+                     {
+                         "id":  "fjc-profiles",
+                         "type":  "institutsional ma\u0027lumot (AQSh Federal Judicial Center)",
+                         "citation":  "Federal Judicial Center, Judiciaries Worldwide, davlat profillari: Germany, France, Turkey, Uzbekistan, United States.",
+                         "url":  "https://judiciariesworldwide.fjc.gov/",
+                         "supports":  "Huquq tizimi turi, sudyalarni tayinlash va muddat, xalq ishtiroki. Ogohlantirish: Fransiya profili 9 hakam deydi, hozirgi CPP 296 birinchi instansiyada 6 hakamni belgilaydi (qonun ustun); Qozog\u0027iston profili mavjud emas.",
+                         "countries":  [
+                                           "de",
+                                           "fr",
+                                           "tr",
+                                           "uz",
+                                           "us"
+                                       ]
+                     },
+                     {
+                         "id":  "jahn-2020",
+                         "type":  "ilmiy maqola (hakamli jurnal, ochiq kirish)",
+                         "citation":  "Matthias Jahn va Charlotte Schmitt-Leonardy, \u0027The German Verständigung and Consensual Elements in German Criminal Trials\u0027, German Law Journal, 21(6), 2020, 1134–1148.",
+                         "url":  "https://doi.org/10.1017/glj.2020.69",
+                         "supports":  "Germaniyada §257c StPO bo\u0027yicha kelishuvning (Verständigung) haqiqiy amaliyoti: rasmiy kelishuvlar 2017 yilda tuman sudlari ishlarining 0,62% va viloyat sudlari ishlarining 7,28% ini tashkil etgan; norasmiy kelishuvlar ko\u0027p uchraydi.",
+                         "countries":  [
+                                           "de"
+                                       ]
+                     },
+                     {
+                         "id":  "hans-germain-2011",
+                         "type":  "ilmiy maqola (hakamli huquq sharhi)",
+                         "citation":  "Valerie P. Hans va Claire M. Germain, \u0027The French Jury at a Crossroads\u0027, Chicago-Kent Law Review, 86, 2011, 737.",
+                         "url":  "https://scholarship.kentlaw.iit.edu/cklawreview/vol86/iss2/10/",
+                         "supports":  "Fransuz hakamlar hay\u0027ati inqilobdan keyin mustaqil fuqarolar hay\u0027atidan kasbiy sudyalar va fuqarolardan iborat aralash sudga aylangan; apellyatsiya cour d\u0027assises, ayrim jinoyatlarni hakamlar hay\u0027ati ko\u0027rishidan chiqarish. Maqola 2011 yilda yozilgan, 2019 yildan keyingi cour criminelle départementale islohoti uni qamramagan; shuning uchun joriy qoidalar uchun CPP ishlatilgan.",
+                         "countries":  [
+                                           "fr"
+                                       ]
+                     },
+                     {
+                         "id":  "cabar-2019",
+                         "type":  "tahliliy maqola (CABAR.asia, hakamli emas)",
+                         "citation":  "Slyamzhar Akhmedzharov (Qozog\u0027iston strategik tadqiqotlar instituti), \u0027Kazakhstan: Why the Institute of Trial Jury Cannot Function in Full Power?\u0027, CABAR.asia, 3.09.2019.",
+                         "url":  "https://cabar.asia/en/kazakhstan-why-the-institute-of-trial-jury-cannot-function-in-full-power",
+                         "supports":  "Qozog\u0027istonda hakamlar sudi (1 sudya + 10 hakam) jinoyat ishlarining 1% dan kamini ko\u0027radi; sudya va hakamlar aybdorlik va jazo bo\u0027yicha birga qaror qiladi; 2012–2015 yillardagi oqlov hukmlarining taxminan yarmi apellyatsiyada bekor qilingan (muallif ma\u0027lumoti, 2019).",
+                         "countries":  [
+                                           "kz"
+                                       ]
+                     },
+                     {
+                         "id":  "dudko-2019",
+                         "type":  "ilmiy maqola (hakamli jurnal)",
+                         "citation":  "Nina Dudko, Mariya Neymark, Evgeniy Petuchov, \u0027Trial Jury in Russian Federation and the Republic of Kazakhstan: Comparative Legal Analysis\u0027, Religación, 4(18), 2019, 90–97.",
+                         "url":  "https://revista.religacion.com/index.php/religacion/article/view/403",
+                         "supports":  "Qozog\u0027istonda sudya va hakamlar fakt va huquq masalalarini birga hal qiladi (aralash model), Rossiyada esa fakt va huquq vakolatlari ajratilgan klassik hakamlar sudi.",
+                         "countries":  [
+                                           "kz"
+                                       ]
+                     },
+                     {
+                         "id":  "yodgorov-2024",
+                         "type":  "rasmiy nuqtai nazar (Sudyalar oliy kengashi raisi maqolasi)",
+                         "citation":  "Kholmumin Yodgorov, \u0027The Judicial System of Uzbekistan: Reforms and Outcomes\u0027, Regional Dialogue, 7.05.2024.",
+                         "url":  "https://regionaldialogue.org/article/judicial-system-uzbekistan-reforms-and-outcomes",
+                         "supports":  "Sudyalar oliy kengashi 2017 yil fevralida tuzilgan; sudyalar ochiq tanlov orqali tanlanadi; kengash 21 a\u0027zodan iborat (11 sudya); Oliy sudyalar maktabi 2019 yilda ochilgan. Muallif tizimning o\u0027z rahbari, shuning uchun bu rasmiy nuqtai nazar, mustaqil baho emas.",
+                         "countries":  [
+                                           "uz"
+                                       ]
+                     },
+                     {
+                         "id":  "uscourts-handbook",
+                         "type":  "rasmiy qo\u0027llanma (AQSh federal sudlar ma\u0027muriy idorasi)",
+                         "citation":  "Administrative Office of the U.S. Courts, Handbook for Trial Jurors Serving in the United States District Courts.",
+                         "url":  "https://www.uscourts.gov/sites/default/files/trial-handbook.pdf",
+                         "supports":  "Hakamlar uchun sud bosqichlari tavsifi: kirish nutqlari, dalillar, yakuniy nutqlar, sudyaning ko\u0027rsatmasi, maslahat va hukm. Sakkiz bosqich fuqarolik ishlari uchun keltirilgan; hakamlarga mo\u0027ljallangan umumiy tushuntirish, qonun emas.",
+                         "countries":  [
+                                           "us"
+                                       ]
+                     },
+                     {
+                         "id":  "globalex-kz",
+                         "type":  "ma\u0027lumot qo\u0027llanma (NYU Globalex)",
+                         "citation":  "Oleg Stalbovsky va Maria Stalbovskaya, \u0027Laws of the Republic of Kazakhstan: A Guide to Web Based Resources\u0027, Globalex, 2006.",
+                         "url":  "https://www.nyulawglobal.org/globalex/kazakhstan.html",
+                         "supports":  "Qozog\u0027iston huquq tizimi kontinental (Rim-german) oilasiga mansub, Rossiya va Sovet huquq nazariyasi ta\u0027sirida. 2006 yilgi qo\u0027llanma: sud tizimi qismi eskirgan, faqat tasnif uchun ishlatildi.",
+                         "countries":  [
+                                           "kz"
+                                       ]
+                     }
+                 ],
+    "unverified":  [
+                       {
+                           "citation":  "Trochev, A., \u0027Between Convictions and Reconciliations: Processing Criminal Cases in Kazakhstan\u0027 (Cornell International Law Journal sayti).",
+                           "url":  "https://ww3.lawschool.cornell.edu/research/ILJ/upload/Trochev-final.pdf",
+                           "why":  "PDF matnini o\u0027qib bo\u0027lmadi (kodirovka buzilgan); sarlavhasi qidiruv natijasida ko\u0027rindi, mazmuni tekshirilmadi. O\u0027qish uchun tavsiya."
+                       },
+                       {
+                           "citation":  "\u0027New Kazakhstani quasi-jury system: Challenges, trends and reforms\u0027, ScienceDirect.",
+                           "url":  "https://www.sciencedirect.com/science/article/abs/pii/S1756061611000097",
+                           "why":  "Sayt avtomatik kirishni bloklaydi (403); muallif va annotatsiya tekshirilmadi."
+                       },
+                       {
+                           "citation":  "\u0027Uzbekistan: A New Dimension of Judicial Reforms\u0027, ResearchGate.",
+                           "url":  "https://www.researchgate.net/publication/375081410_Uzbekistan_A_New_Dimension_of_Judicial_Reforms",
+                           "why":  "ResearchGate 403 xatosi; mazmuni tekshirilmadi."
+                       },
+                       {
+                           "citation":  "Turk jinoyat protsessi bo\u0027yicha dergipark.org.tr maqolalari (masalan, TAAD, 14(53), 2023).",
+                           "url":  "https://dergipark.org.tr/en/download/article-file/2881540",
+                           "why":  "PDF matni o\u0027qib bo\u0027lmadi; mazmuni tekshirilmadi."
+                       }
+                   ],
+    "discrepancies":  [
+                          {
+                              "topic":  "Turkiya: istinaf muddati",
+                              "secondary":  "Bir ikkilamchi huquqiy blog \u0027Art. 273 CMK bo\u0027yicha 15 kun\u0027 deb yozadi.",
+                              "primary":  "CMK 273(1) matni: gerekçali hukm tebliğ qilingan kundan \u0027iki hafta\u0027 (14 kun).",
+                              "decision":  "Qonun matni asos qilindi (2 hafta)."
+                          },
+                          {
+                              "topic":  "Fransiya: hakamlar soni",
+                              "secondary":  "FJC profili: 3 kasbiy sudya va 9 fuqaro.",
+                              "primary":  "CPP 296: birinchi instansiyada 6, apellyatsiyada 9 hakam; CPP 380-16/380-17: hakamlarsiz cour criminelle départementale.",
+                              "decision":  "Qonun matni asos qilindi; FJC ma\u0027lumoti eskirgan deb belgilandi."
+                          },
+                          {
+                              "topic":  "O\u0027zbekiston: sudyalar vakolat muddati",
+                              "secondary":  "UzA 2021 va FJC: 5 yil, 10 yil, muddatsiz.",
+                              "primary":  "\u0027Sudlar to\u0027g\u0027risida\u0027gi Qonun 71-modda (joriy tahrir) shuni tasdiqlaydi.",
+                              "decision":  "Tasdiqlandi; avvalgi \u0027ziddiyatli\u0027 belgi olib tashlandi."
+                          }
+                      ]
 }

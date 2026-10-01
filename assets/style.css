@@ -29,3 +29,5 @@ details{margin-top:4px}summary{cursor:pointer}q{display:block;font-style:italic}
 .note{color:var(--mut);font-size:.9rem;margin:8px 0 16px}
 h2{font-size:1.1rem;margin:20px 0 8px}
 .cell a{word-break:break-all}
+.warn{max-width:1400px;margin:8px auto 0;padding:10px 16px;border:1px solid var(--warn);border-radius:8px;color:var(--fg);background:transparent;font-size:.9rem}
+@media (max-width:1432px){.warn{margin-left:16px;margin-right:16px}}

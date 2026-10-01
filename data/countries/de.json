@@ -82,10 +82,15 @@
                                                                ]
                                                },
                      "judicial_council":  {
-                                              "summary":  "Manba kutilmoqda.",
-                                              "status":  "tekshirilmagan",
+                                              "summary":  "Germaniyada yagona milliy \u0027sudyalar kengashi\u0027 bu tahlilda konstitutsiya matnidan topilmadi. Federal oliy sudlar (jumladan, Bundesgerichtshof) sudyalarini tayinlashda tegishli federal vazir Richterwahlausschuss (sudyalarni saylash qo\u0027mitasi) bilan birga qaror qiladi: qo\u0027mita tegishli Land vazirlari va Bundestag saylagan teng sondagi a\u0027zolardan iborat (GG Art. 95(2)). Landlar o\u0027z sudyalari uchun shunday qo\u0027mita belgilashi mumkin (Art. 98(4)).",
+                                              "status":  "tasdiqlangan",
                                               "sources":  [
-
+                                                              {
+                                                                  "title":  "Grundgesetz (nemis asl)",
+                                                                  "ref":  "Art. 95(2), 98(4)",
+                                                                  "url":  "https://www.gesetze-im-internet.de/gg/",
+                                                                  "retrieved":  "2026-10-01"
+                                                              }
                                                           ]
                                           },
                      "public_participation":  {

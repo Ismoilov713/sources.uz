@@ -1,4 +1,4 @@
-﻿# Tarjimani huquqshunos bilan tekshirish varag'i
+# Tarjimani huquqshunos bilan tekshirish varag'i
 
 Saytdagi jarayon bayonlari asosiy qonun matnidan o'zbekchaga o'girilgan (o'zbek manbasi — asl). Tekshiruvchi har bir qatorda asl moddani ochib, quyidagilarni solishtiradi: (1) raqamlar va muddatlar, (2) moddalar raqami, (3) atamalar (data/glossary.json), (4) ma'no siljishi yo'qligi. Tasdiqlangach katakni belgilang.
 
@@ -108,7 +108,7 @@ Fayl: data/procedure/us.json. Asosiy manba: https://www.law.cornell.edu/rules/fr
 | Ishni sudga tayyorlash | Rules 5, 5.1, 6, 7, 12(b); katta hay'at | tasdiqlangan | [ ] |
 | Sud tarkibi | Rules 23, 24 | tasdiqlangan | [ ] |
 | Sudlanuvchining ishtiroki | Rule 43(a)–(c), Rule 10(b) | tasdiqlangan | [ ] |
-| Majlisni ochish |  | tekshirilmagan | [ ] |
+| Majlisni ochish | Handbook for Trial Jurors; Rules 24, 29(a), 29.1 | tasdiqlangan | [ ] |
 | Ayblovni e'lon qilish va aybga munosabat | Rules 10(a), 11(a), 11(b) | tasdiqlangan | [ ] |
 | Muhokama doirasi, ayblovni o'zgartirish | Rules 7(c)(1), 7(e), 12(b)(3)(B), 29(a), 31(c) | tasdiqlangan | [ ] |
 | Sud tergovi | Rule 611; Rule 29(a) | tasdiqlangan | [ ] |

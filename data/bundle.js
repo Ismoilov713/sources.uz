@@ -83,10 +83,15 @@ window.COUNTRIES = [
                                                                ]
                                                },
                      "judicial_council":  {
-                                              "summary":  "Manba kutilmoqda.",
-                                              "status":  "tekshirilmagan",
+                                              "summary":  "Germaniyada yagona milliy \u0027sudyalar kengashi\u0027 bu tahlilda konstitutsiya matnidan topilmadi. Federal oliy sudlar (jumladan, Bundesgerichtshof) sudyalarini tayinlashda tegishli federal vazir Richterwahlausschuss (sudyalarni saylash qo\u0027mitasi) bilan birga qaror qiladi: qo\u0027mita tegishli Land vazirlari va Bundestag saylagan teng sondagi a\u0027zolardan iborat (GG Art. 95(2)). Landlar o\u0027z sudyalari uchun shunday qo\u0027mita belgilashi mumkin (Art. 98(4)).",
+                                              "status":  "tasdiqlangan",
                                               "sources":  [
-
+                                                              {
+                                                                  "title":  "Grundgesetz (nemis asl)",
+                                                                  "ref":  "Art. 95(2), 98(4)",
+                                                                  "url":  "https://www.gesetze-im-internet.de/gg/",
+                                                                  "retrieved":  "2026-10-01"
+                                                              }
                                                           ]
                                           },
                      "public_participation":  {
@@ -128,117 +133,290 @@ window.COUNTRIES = [
                  }
 },
 {
-  "code": "fr",
-  "name": "Fransiya",
-  "updated": "2026-10-01",
-  "criteria": {
-    "legal_family": {
-      "summary": "Fransiya fuqarolik huquqi (civil law) an'anasiga mansub; tizim tarixan 1804 yilgi Napoleon kodeksi bilan shakllangan (Federal Judicial Center ma'lumoti).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "Federal Judicial Center, Judiciaries Worldwide: France", "ref": "country profile (institutsional/ilmiy-ma'lumot manbai)", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }]
-    },
-    "structure": {
-      "summary": "Jinoyat ishlarida tribunal de police (contravention), tribunal correctionnel (délit) va cour d'assises (crime) birinchi instansiya; délit bo'yicha apellyatsiyani cour d'appel ko'radi (CPP 496); oxirgi instansiya — Cour de cassation (jinoyat palatasi, CPP 567). Sudlar tizimi odatiy sudlar va ma'muriy sudlarga bo'linadi; Konstitutsiyaviy kengash qonunlarni konstitutsiyaga muvofiqligini tekshiradi (FJC).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "Code de procédure pénale", "ref": "178, 179, 181, 496, 567", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "retrieved": "2026-10-01" },
-        { "title": "FJC, Judiciaries Worldwide: France", "ref": "court structure", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }
-      ]
-    },
-    "constitutional_review": { "summary": "Konstitutsiyaviy kengash (Conseil constitutionnel) qonunlarning konstitutsiyaga muvofiqligini mustaqil tekshiradi (FJC). Konstitutsiya matni bu tahlilda alohida o'qilmadi.", "status": "tekshirilmagan", "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }] },
-    "judge_appointment": {
-      "summary": "Sudyalar milliy tanlov imtihonidan o'tib, Milliy sudyalik maktabida (ENM) 2,5 yil o'qiydi; muvaffaqiyatli nomzodlarni rasman Prezident tayinlaydi. Yuqori lavozimlar uchun Sudyalar oliy kengashi (Conseil supérieur de la magistrature) nomzod taklif qilishi mumkin (FJC). Manba ikkilamchi (institutsional sahifa); Konstitutsiya va organik qonunlardan tekshirish kerak.",
-      "status": "tekshirilmagan",
-      "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "judicial appointments", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }]
-    },
-    "judge_term": {
-      "summary": "Sudyalar lavozimda Konstitutsiya himoyasida; majburiy nafaqa yoshi 67 (ba'zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi (FJC). Manba ikkilamchi.",
-      "status": "tekshirilmagan",
-      "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "judicial tenure", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }]
-    },
-    "judicial_independence": { "summary": "Manba kutilmoqda (Konstitutsiya Art. 64, organik qonun).", "status": "tekshirilmagan", "sources": [] },
-    "judicial_council": { "summary": "Sudyalar oliy kengashi (Conseil supérieur de la magistrature) nomzodlar taklif qilishi mumkinligi FJC sahifasida eslatilgan; tarkibi va vakolati o'qilmadi.", "status": "tekshirilmagan", "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }] },
-    "public_participation": {
-      "summary": "Og'ir jinoyatlar (crime) bo'yicha cour d'assises hakamlar (jurés) bilan ishlaydi: birinchi instansiyada 6, apellyatsiyada 9 hakam, ular kasbiy sudyalar bilan birga qaror chiqaradi (CPP 296, 359). 15 yoki 20 yil jazo bilan jazolanadigan jinoyatlar bo'yicha voyaga yetgan ayblanuvchilar uchun hakamlarsiz cour criminelle départementale ham mavjud (CPP 380-16, 380-17). Federal Judicial Center sahifasidagi '3 sudya va 9 fuqaro' modeli eskirgan; qonun matni (CPP) ustun deb olindi.",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "Code de procédure pénale", "ref": "296, 359, 380-16, 380-17", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "retrieved": "2026-10-01" },
-        { "title": "FJC, Judiciaries Worldwide: France", "ref": "lay participation (eskirgan ma'lumot bilan farqi izohlangan)", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }
-      ]
-    },
-    "openness_language": {
-      "summary": "Cour d'assises majlislari ochiq, ammo jamoat tartibi yoki axloqqa xavf bo'lsa yopiq o'tkaziladi; zo'rlash va ayrim og'ir jinoyatlarda jabrlanuvchi talabiga ko'ra yopiq majlis qonun bo'yicha shart (CPP 306). Ayblanuvchi frantsuz tilini bilmasa, tarjimon jalb etiladi (CPP 272).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "272, 306", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "retrieved": "2026-10-01" }]
-    },
-    "financing": {
-      "summary": "Adliya vazirligi sudlarning ma'muriy boshqaruvini, xodimlari, binolari va resurslarini boshqaradi (FJC). Byudjet manbalari haqida aniq manba kutilmoqda.",
-      "status": "tekshirilmagan",
-      "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }]
-    }
-  }
-}
-,
+    "code":  "fr",
+    "name":  "Fransiya",
+    "updated":  "2026-10-01",
+    "criteria":  {
+                     "legal_family":  {
+                                          "summary":  "Fransiya fuqarolik huquqi (civil law) an\u0027anasiga mansub; tizim tarixan 1804 yilgi Napoleon kodeksi bilan shakllangan (Federal Judicial Center ma\u0027lumoti).",
+                                          "status":  "tasdiqlangan",
+                                          "sources":  [
+                                                          {
+                                                              "title":  "Federal Judicial Center, Judiciaries Worldwide: France",
+                                                              "ref":  "country profile (institutsional/ilmiy-ma\u0027lumot manbai)",
+                                                              "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
+                                                              "retrieved":  "2026-10-01"
+                                                          }
+                                                      ]
+                                      },
+                     "structure":  {
+                                       "summary":  "Jinoyat ishlarida tribunal de police (contravention), tribunal correctionnel (délit) va cour d\u0027assises (crime) birinchi instansiya; délit bo\u0027yicha apellyatsiyani cour d\u0027appel ko\u0027radi (CPP 496); oxirgi instansiya — Cour de cassation (jinoyat palatasi, CPP 567). Sudlar tizimi odatiy sudlar va ma\u0027muriy sudlarga bo\u0027linadi; Konstitutsiyaviy kengash qonunlarni konstitutsiyaga muvofiqligini tekshiradi (FJC).",
+                                       "status":  "tasdiqlangan",
+                                       "sources":  [
+                                                       {
+                                                           "title":  "Code de procédure pénale",
+                                                           "ref":  "178, 179, 181, 496, 567",
+                                                           "url":  "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "FJC, Judiciaries Worldwide: France",
+                                                           "ref":  "court structure",
+                                                           "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
+                                                   ]
+                                   },
+                     "constitutional_review":  {
+                                                   "summary":  "Conseil constitutionnel (Konstitutsiyaviy kengash) to\u0027qqiz a\u0027zodan iborat; vakolat muddati 9 yil, qayta tayinlanmaydi; uch a\u0027zoni Prezident, uch a\u0027zoni Milliy assambleya raisi, uch a\u0027zoni Senat raisi tayinlaydi; sobiq prezidentlar umrbod huquqiy a\u0027zo (Art. 56). Sudda ko\u0027rilayotgan ishda qonun Konstitutsiya kafolatlagan huquqlarni buzadi deb ta\u0027kidlansa, Davlat kengashi yoki Cassation sudi orqali masala Konstitutsiyaviy kengashga yuboriladi (Art. 61-1); noqonuniy deb topilgan norma bekor qilinadi, qarorlarga shikoyat qilinmaydi (Art. 62).",
+                                                   "status":  "tasdiqlangan",
+                                                   "sources":  [
+                                                                   {
+                                                                       "title":  "Konstitutsiya (1958, amaldagi tahrir)",
+                                                                       "ref":  "Art. 56, 61-1, 62",
+                                                                       "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   }
+                                                               ]
+                                               },
+                     "judge_appointment":  {
+                                               "summary":  "Sudya (siège) magistratlarni tayinlashni Sudyalar oliy kengashi (CSM) ishtirokida amalga oshirishadi: Cassation sudi sudyalari, apellyatsiya sudi birinchi raisi va ayrim tribunal raislari tayinlanishi uchun CSM ning sudyalar bo\u0027yicha tarkibi taklif beradi; boshqa sudyalar uning \u0027majburiy fikri\u0027 (avis conforme) bilan tayinlanadi (Art. 65). Prokuror (parquet) tayinlashlarida CSM faqat fikr beradi. Sudyalarni tanlash tartibi (tanlov imtihoni, ENM) FJC ma\u0027lumotiga ko\u0027ra: milliy imtihon va 2,5 yillik tayyorlov.",
+                                               "status":  "tasdiqlangan",
+                                               "sources":  [
+                                                               {
+                                                                   "title":  "Konstitutsiya (1958)",
+                                                                   "ref":  "Art. 65",
+                                                                   "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+                                                                   "retrieved":  "2026-10-01"
+                                                               },
+                                                               {
+                                                                   "title":  "FJC, Judiciaries Worldwide: France",
+                                                                   "ref":  "tayyorlov",
+                                                                   "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
+                                                                   "retrieved":  "2026-10-01"
+                                                               }
+                                                           ]
+                                           },
+                     "judge_term":  {
+                                        "summary":  "Sudyalar lavozimda Konstitutsiya himoyasida; majburiy nafaqa yoshi 67 (ba\u0027zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi (FJC). Manba ikkilamchi.",
+                                        "status":  "tekshirilmagan",
+                                        "sources":  [
+                                                        {
+                                                            "title":  "FJC, Judiciaries Worldwide: France",
+                                                            "ref":  "judicial tenure",
+                                                            "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
+                                                            "retrieved":  "2026-10-01"
+                                                        }
+                                                    ]
+                                    },
+                     "judicial_independence":  {
+                                                   "summary":  "Respublika Prezidenti sud hokimiyati mustaqilligining kafili; unga Sudyalar oliy kengashi yordam beradi; sudyalar (siège) o\u0027rnidan siljitilmaydi (inamovibles); magistratlar maqomi organik qonun bilan belgilanadi (Art. 64). Hech kim o\u0027zboshimchalik bilan ushlab turilmaydi; sud hokimiyati shaxs erkinligining qo\u0027riqchisi (Art. 66).",
+                                                   "status":  "tasdiqlangan",
+                                                   "sources":  [
+                                                                   {
+                                                                       "title":  "Konstitutsiya (1958)",
+                                                                       "ref":  "Art. 64, 66",
+                                                                       "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   }
+                                                               ]
+                                               },
+                     "judicial_council":  {
+                                              "summary":  "Sudyalar oliy kengashi (Conseil supérieur de la magistrature, CSM) ikki tarkibga ega: sudyalar (siège) va prokurorlar (parquet) bo\u0027yicha. Sudyalar tarkibiga Cassation sudi birinchi raisi rais, 5 sudya, 1 prokuror, 1 Davlat kengashi a\u0027zosi, 1 advokat va parlament, sud va ma\u0027muriy tizimga mansub bo\u0027lmagan 6 malakali shaxs kiradi (Prezident, Milliy assambleya va Senat raislari ikkitadan tayinlaydi). Prokuror tarkibi Cassation sudi prokurori raisligida. CSM tayinlashlar bo\u0027yicha taklif/fikr beradi va sudyalar uchun intizomiy kengash vazifasini bajaradi; fuqaro ham organik qonun doirasida murojaat qilishi mumkin (Art. 65).",
+                                              "status":  "tasdiqlangan",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Konstitutsiya (1958)",
+                                                                  "ref":  "Art. 65",
+                                                                  "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+                                                                  "retrieved":  "2026-10-01"
+                                                              }
+                                                          ]
+                                          },
+                     "public_participation":  {
+                                                  "summary":  "Og\u0027ir jinoyatlar (crime) bo\u0027yicha cour d\u0027assises hakamlar (jurés) bilan ishlaydi: birinchi instansiyada 6, apellyatsiyada 9 hakam, ular kasbiy sudyalar bilan birga qaror chiqaradi (CPP 296, 359). 15 yoki 20 yil jazo bilan jazolanadigan jinoyatlar bo\u0027yicha voyaga yetgan ayblanuvchilar uchun hakamlarsiz cour criminelle départementale ham mavjud (CPP 380-16, 380-17). Federal Judicial Center sahifasidagi \u00273 sudya va 9 fuqaro\u0027 modeli eskirgan; qonun matni (CPP) ustun deb olindi.",
+                                                  "status":  "tasdiqlangan",
+                                                  "sources":  [
+                                                                  {
+                                                                      "title":  "Code de procédure pénale",
+                                                                      "ref":  "296, 359, 380-16, 380-17",
+                                                                      "url":  "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+                                                                      "retrieved":  "2026-10-01"
+                                                                  },
+                                                                  {
+                                                                      "title":  "FJC, Judiciaries Worldwide: France",
+                                                                      "ref":  "lay participation (eskirgan ma\u0027lumot bilan farqi izohlangan)",
+                                                                      "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
+                                                                      "retrieved":  "2026-10-01"
+                                                                  }
+                                                              ]
+                                              },
+                     "openness_language":  {
+                                               "summary":  "Cour d\u0027assises majlislari ochiq, ammo jamoat tartibi yoki axloqqa xavf bo\u0027lsa yopiq o\u0027tkaziladi; zo\u0027rlash va ayrim og\u0027ir jinoyatlarda jabrlanuvchi talabiga ko\u0027ra yopiq majlis qonun bo\u0027yicha shart (CPP 306). Ayblanuvchi frantsuz tilini bilmasa, tarjimon jalb etiladi (CPP 272).",
+                                               "status":  "tasdiqlangan",
+                                               "sources":  [
+                                                               {
+                                                                   "title":  "Code de procédure pénale",
+                                                                   "ref":  "272, 306",
+                                                                   "url":  "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+                                                                   "retrieved":  "2026-10-01"
+                                                               }
+                                                           ]
+                                           },
+                     "financing":  {
+                                       "summary":  "Adliya vazirligi sudlarning ma\u0027muriy boshqaruvini, xodimlari, binolari va resurslarini boshqaradi (FJC). Byudjet manbalari haqida aniq manba kutilmoqda.",
+                                       "status":  "tekshirilmagan",
+                                       "sources":  [
+                                                       {
+                                                           "title":  "FJC, Judiciaries Worldwide: France",
+                                                           "ref":  "",
+                                                           "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
+                                                   ]
+                                   }
+                 }
+},
 {
-  "code": "kz",
-  "name": "Qozog'iston",
-  "updated": "2026-10-01",
-  "criteria": {
-    "legal_family": { "summary": "Ilmiy manba bo'yicha hali to'ldirilmagan.", "status": "tekshirilmagan", "sources": [] },
-    "structure": {
-      "summary": "Konstitutsiya bo'yicha Qozog'iston sudlari: Oliy sud, mahalliy va qonun bilan tuziladigan boshqa sudlar; maxsus va favqulodda sudlar tuzish mumkin emas (76-modda). Sud tizimi Konstitutsiya va konstitutsiyaviy qonun bilan belgilanadi. Sud hokimiyati fuqarolik, ma'muriy, jinoyat va boshqa sud ishlari shakllari orqali amalga oshiriladi; qonunda ko'rsatilgan hollarda jinoyat ishlari hakamlar hay'ati ishtirokida ko'riladi (76(2)). Oliy sud fuqarolik, ma'muriy, jinoyat va boshqa ishlar bo'yicha oliy sud organi (82-modda). Jinoyat protsessida birinchi instansiya sifatida tuman va unga tenglashtirilgan sudlar, ixtisoslashgan tumanlararo sudlar (jinoyat ishlari bo'yicha va voyaga yetmaganlar), harbiy sudlar, viloyat va unga tenglashtirilgan sudlar, Harbiy sud, Oliy sud ko'rsatilgan (UPK 306–313-moddalar sarlavhalari); apellyatsiyani viloyat va unga tenglashtirilgan sudlar (harbiy ishlarda Harbiy sud) ko'radi (UPK 416), kassatsiyani Kassatsiya sudi (UPK 484). Konstitutsiyaviy sud alohida organ (72-modda).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "QR Konstitutsiyasi (2026, 01.07.2026 dan kuchda)", "ref": "72, 76, 82-moddalar", "url": "https://adilet.zan.kz/rus/docs/K2600000000", "retrieved": "2026-10-01" },
-        { "title": "UPK RK", "ref": "306–313, 416, 484-moddalar", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "retrieved": "2026-10-01" }
-      ]
-    },
-    "constitutional_review": {
-      "summary": "Konstitutsiyaviy sud mustaqil davlat organi bo'lib, konstitutsiyaviy nazoratni amalga oshiradi va Konstitutsiya ustunligini ta'minlaydi (72(1)). U Prezident, Kurultay raisi, deputatlarning kamida beshdan bir qismi yoki Bosh vazir murojaati bilan, Prezident imzolagunga qadar Kurultay qabul qilgan qonunlarning, Kurultay qarorlarining va ratifikatsiyadan oldin xalqaro shartnomalarning Konstitutsiyaga muvofiqligini ko'radi, Konstitutsiyaga rasmiy sharh beradi (73(1)). Sudlar murojaatlarini ham ko'radi: sud qo'llanilishi kerak bo'lgan qonun Konstitutsiyada mustahkamlangan huquq va erkinliklarni cheklaydi deb topsa, ishni to'xtatib Konstitutsiyaviy sudga murojaat qilishi shart (79). Fuqarolar ham o'z huquqlariga bevosita daxldor normativ-huquqiy hujjatlar bo'yicha murojaat qila oladi (73(3)). Konstitutsiyaviy sud qarorlari qabul qilingan kundan kuchga kiradi, butun respublikada umumiy majburiy, qat'iy va ustidan shikoyat qilinmaydi (75-modda, 4-qism).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "QR Konstitutsiyasi (2026)", "ref": "72, 73, 75(4), 79-moddalar", "url": "https://adilet.zan.kz/rus/docs/K2600000000", "retrieved": "2026-10-01" }]
-    },
-    "judge_appointment": {
-      "summary": "Oliy sud raisini Prezident Oliy sud kengashi (Высший Судебный Совет) tavsiyasi bilan tayinlaydi; Oliy sud sudyalarini Kurultay Prezident taqdimiga binoan saylaydi (taqdim Oliy sud kengashi tavsiyasiga asoslanadi); mahalliy va boshqa sudlar sudyalarini Prezident Oliy sud kengashi tavsiyasi bilan tayinlaydi (83-modda). Konstitutsiyaviy sud raisini Prezident, sudyalarini Prezident Kurultay deputatlarining umumiy sonining ko'pchilik roziligi bilan tayinlaydi (72).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "QR Konstitutsiyasi (2026)", "ref": "72(3)–(4), 83-moddalar", "url": "https://adilet.zan.kz/rus/docs/K2600000000", "retrieved": "2026-10-01", "original": "Судьи местных и других судов назначаются на должности Президентом Республики Казахстан по рекомендации Высшего Судебного Совета. (ст. 83, ч. 2)" }]
-    },
-    "judge_term": {
-      "summary": "Oliy sud raisi 6 yilga tayinlanadi va Konstitutsiyaga ko'ra bu lavozimga bir kishi bir martadan ortiq tayinlanmaydi (83(1)). Konstitutsiyaviy sud raisi va sudyalarining vakolat muddati 8 yil, shu lavozimga bir kishi bir martadan ortiq tayinlanmaydi (72(2)–(3)). Sudlar 'doimiy sudyalar'dan tashkil topadi; sudya vakolati faqat qonunda belgilangan asoslarda to'xtatilishi yoki tugatilishi mumkin (80(1)). Oddiy sudyalar uchun muayyan muddat Konstitutsiyada ko'rsatilmagan.",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "QR Konstitutsiyasi (2026)", "ref": "72(2), 80(1), 83(1)", "url": "https://adilet.zan.kz/rus/docs/K2600000000", "retrieved": "2026-10-01" }]
-    },
-    "judicial_independence": {
-      "summary": "Sudya odil sudlovni amalga oshirishda mustaqil va faqat Konstitutsiya va qonunga bo'ysunadi; sud ishiga aralashish mumkin emas va javobgarlikka olib keladi; sudyalar muayyan ishlar bo'yicha hisob bermaydi (78(1)–(2)). Sudya ushlab turilishi, qamoqqa olinishi, jinoiy javobgarlikka tortilishi va hokazo faqat Prezident roziligi bilan (Oliy sud kengashi xulosasiga asoslanib) yoki Kurultay roziligi bilan mumkin; jinoyat ustida ushlash va og'ir yoki o'ta og'ir jinoyatlar bundan mustasno (80(2)). Sudya lavozimi deputatlik, boshqa haq to'lanadigan lavozim (o'qituvchilik, ilmiy, ijodiy bundan mustasno) va tadbirkorlik bilan mos kelmaydi (80(4)). Qonunga xilof dalil yuridik kuchga ega emas, hech kim faqat o'z iqrori asosida mahkum etilmaydi, shubhalar ayblanuvchi foydasiga talqin qilinadi (78(3)).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "QR Konstitutsiyasi (2026)", "ref": "78, 80-moddalar", "url": "https://adilet.zan.kz/rus/docs/K2600000000", "retrieved": "2026-10-01" }]
-    },
-    "judicial_council": {
-      "summary": "Oliy sud kengashi (Высший Судебный Совет) sudyalarni tayinlash tavsiyalarini beradi (83); uning raisini Prezident tayinlaydi, maqomi, tarkibi va ishi qonun bilan belgilanadi (83(4)–(5)).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "QR Konstitutsiyasi (2026)", "ref": "83-modda", "url": "https://adilet.zan.kz/rus/docs/K2600000000", "retrieved": "2026-10-01" }]
-    },
-    "public_participation": {
-      "summary": "Qonunda ko'rsatilgan hollarda jinoyat ishlari hakamlar hay'ati ishtirokida ko'riladi (Konstitutsiya 76(2)). UPK bo'yicha: bir sudya va o'n hakam; ayblanuvchi iltimosiga ko'ra, o'ta og'ir jinoyatlar bo'yicha (terrorizm, davlat xavfsizligi, jinoiy guruh va boshqa istisnolar bundan mustasno) (UPK 52, 631, 632).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "QR Konstitutsiyasi (2026)", "ref": "76(2)", "url": "https://adilet.zan.kz/rus/docs/K2600000000", "retrieved": "2026-10-01" },
-        { "title": "UPK RK", "ref": "52, 631, 632", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "retrieved": "2026-10-01" }
-      ]
-    },
-    "openness_language": {
-      "summary": "Jinoyat ishlarini ko'rish barcha sudlarda ochiq o'tadi; ochiqlikni cheklash davlat siri va qonun bilan qo'riqlanadigan boshqa sir manfaatlariga zid bo'lganda mumkin; yopiq majlis sudning asoslangan qarori bilan voyaga yetmaganlar jinoyatlari, jinsiy jinoyatlar va boshqa ishlarda, shuningdek ishtirokchilar xavfsizligi talab qilganda mumkin (UPK 29). Sud ishi tili haqidagi qoidalar hali o'qilmadi.",
-      "status": "tekshirilmagan",
-      "sources": [{ "title": "UPK RK", "ref": "29-modda", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "retrieved": "2026-10-01" }]
-    },
-    "financing": {
-      "summary": "Sudlarni moliyalashtirish va sudyalarni uy-joy bilan ta'minlash respublika byudjeti hisobidan amalga oshiriladi va odil sudlovni to'liq va mustaqil amalga oshirish imkonini ta'minlashi kerak (81-modda).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "QR Konstitutsiyasi (2026)", "ref": "81-modda", "url": "https://adilet.zan.kz/rus/docs/K2600000000", "retrieved": "2026-10-01" }]
-    }
-  }
-}
-,
+    "code":  "kz",
+    "name":  "Qozog\u0027iston",
+    "updated":  "2026-10-01",
+    "criteria":  {
+                     "legal_family":  {
+                                          "summary":  "Qozog\u0027iston huquq tizimi kontinental (Rim-german) huquq oilasi an\u0027analariga mansub; unga Rossiya va Sovet huquq nazariyasi va amaliyoti sezilarli ta\u0027sir ko\u0027rsatgan (Globalex qo\u0027llanmasi, 2006; tuzilma qismi eskirgan, tasnif uchun ishlatildi).",
+                                          "status":  "tasdiqlangan",
+                                          "sources":  [
+                                                          {
+                                                              "title":  "Globalex (NYU), Laws of the Republic of Kazakhstan: A Guide to Web Based Resources",
+                                                              "ref":  "O. Stalbovsky, M. Stalbovskaya, 2006",
+                                                              "url":  "https://www.nyulawglobal.org/globalex/kazakhstan.html",
+                                                              "retrieved":  "2026-10-01"
+                                                          }
+                                                      ]
+                                      },
+                     "structure":  {
+                                       "summary":  "Konstitutsiya bo\u0027yicha Qozog\u0027iston sudlari: Oliy sud, mahalliy va qonun bilan tuziladigan boshqa sudlar; maxsus va favqulodda sudlar tuzish mumkin emas (76-modda). Sud tizimi Konstitutsiya va konstitutsiyaviy qonun bilan belgilanadi. Sud hokimiyati fuqarolik, ma\u0027muriy, jinoyat va boshqa sud ishlari shakllari orqali amalga oshiriladi; qonunda ko\u0027rsatilgan hollarda jinoyat ishlari hakamlar hay\u0027ati ishtirokida ko\u0027riladi (76(2)). Oliy sud fuqarolik, ma\u0027muriy, jinoyat va boshqa ishlar bo\u0027yicha oliy sud organi (82-modda). Jinoyat protsessida birinchi instansiya sifatida tuman va unga tenglashtirilgan sudlar, ixtisoslashgan tumanlararo sudlar (jinoyat ishlari bo\u0027yicha va voyaga yetmaganlar), harbiy sudlar, viloyat va unga tenglashtirilgan sudlar, Harbiy sud, Oliy sud ko\u0027rsatilgan (UPK 306–313-moddalar sarlavhalari); apellyatsiyani viloyat va unga tenglashtirilgan sudlar (harbiy ishlarda Harbiy sud) ko\u0027radi (UPK 416), kassatsiyani Kassatsiya sudi (UPK 484). Konstitutsiyaviy sud alohida organ (72-modda).",
+                                       "status":  "tasdiqlangan",
+                                       "sources":  [
+                                                       {
+                                                           "title":  "QR Konstitutsiyasi (2026, 01.07.2026 dan kuchda)",
+                                                           "ref":  "72, 76, 82-moddalar",
+                                                           "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "UPK RK",
+                                                           "ref":  "306–313, 416, 484-moddalar",
+                                                           "url":  "https://adilet.zan.kz/rus/docs/K1400000231",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
+                                                   ]
+                                   },
+                     "constitutional_review":  {
+                                                   "summary":  "Konstitutsiyaviy sud mustaqil davlat organi bo\u0027lib, konstitutsiyaviy nazoratni amalga oshiradi va Konstitutsiya ustunligini ta\u0027minlaydi (72(1)). U Prezident, Kurultay raisi, deputatlarning kamida beshdan bir qismi yoki Bosh vazir murojaati bilan, Prezident imzolagunga qadar Kurultay qabul qilgan qonunlarning, Kurultay qarorlarining va ratifikatsiyadan oldin xalqaro shartnomalarning Konstitutsiyaga muvofiqligini ko\u0027radi, Konstitutsiyaga rasmiy sharh beradi (73(1)). Sudlar murojaatlarini ham ko\u0027radi: sud qo\u0027llanilishi kerak bo\u0027lgan qonun Konstitutsiyada mustahkamlangan huquq va erkinliklarni cheklaydi deb topsa, ishni to\u0027xtatib Konstitutsiyaviy sudga murojaat qilishi shart (79). Fuqarolar ham o\u0027z huquqlariga bevosita daxldor normativ-huquqiy hujjatlar bo\u0027yicha murojaat qila oladi (73(3)). Konstitutsiyaviy sud qarorlari qabul qilingan kundan kuchga kiradi, butun respublikada umumiy majburiy, qat\u0027iy va ustidan shikoyat qilinmaydi (75-modda, 4-qism).",
+                                                   "status":  "tasdiqlangan",
+                                                   "sources":  [
+                                                                   {
+                                                                       "title":  "QR Konstitutsiyasi (2026)",
+                                                                       "ref":  "72, 73, 75(4), 79-moddalar",
+                                                                       "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   }
+                                                               ]
+                                               },
+                     "judge_appointment":  {
+                                               "summary":  "Oliy sud raisini Prezident Oliy sud kengashi (Высший Судебный Совет) tavsiyasi bilan tayinlaydi; Oliy sud sudyalarini Kurultay Prezident taqdimiga binoan saylaydi (taqdim Oliy sud kengashi tavsiyasiga asoslanadi); mahalliy va boshqa sudlar sudyalarini Prezident Oliy sud kengashi tavsiyasi bilan tayinlaydi (83-modda). Konstitutsiyaviy sud raisini Prezident, sudyalarini Prezident Kurultay deputatlarining umumiy sonining ko\u0027pchilik roziligi bilan tayinlaydi (72).",
+                                               "status":  "tasdiqlangan",
+                                               "sources":  [
+                                                               {
+                                                                   "title":  "QR Konstitutsiyasi (2026)",
+                                                                   "ref":  "72(3)–(4), 83-moddalar",
+                                                                   "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
+                                                                   "retrieved":  "2026-10-01",
+                                                                   "original":  "Судьи местных и других судов назначаются на должности Президентом Республики Казахстан по рекомендации Высшего Судебного Совета. (ст. 83, ч. 2)"
+                                                               }
+                                                           ]
+                                           },
+                     "judge_term":  {
+                                        "summary":  "Oliy sud raisi 6 yilga tayinlanadi va Konstitutsiyaga ko\u0027ra bu lavozimga bir kishi bir martadan ortiq tayinlanmaydi (83(1)). Konstitutsiyaviy sud raisi va sudyalarining vakolat muddati 8 yil, shu lavozimga bir kishi bir martadan ortiq tayinlanmaydi (72(2)–(3)). Sudlar \u0027doimiy sudyalar\u0027dan tashkil topadi; sudya vakolati faqat qonunda belgilangan asoslarda to\u0027xtatilishi yoki tugatilishi mumkin (80(1)). Oddiy sudyalar uchun muayyan muddat Konstitutsiyada ko\u0027rsatilmagan.",
+                                        "status":  "tasdiqlangan",
+                                        "sources":  [
+                                                        {
+                                                            "title":  "QR Konstitutsiyasi (2026)",
+                                                            "ref":  "72(2), 80(1), 83(1)",
+                                                            "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
+                                                            "retrieved":  "2026-10-01"
+                                                        }
+                                                    ]
+                                    },
+                     "judicial_independence":  {
+                                                   "summary":  "Sudya odil sudlovni amalga oshirishda mustaqil va faqat Konstitutsiya va qonunga bo\u0027ysunadi; sud ishiga aralashish mumkin emas va javobgarlikka olib keladi; sudyalar muayyan ishlar bo\u0027yicha hisob bermaydi (78(1)–(2)). Sudya ushlab turilishi, qamoqqa olinishi, jinoiy javobgarlikka tortilishi va hokazo faqat Prezident roziligi bilan (Oliy sud kengashi xulosasiga asoslanib) yoki Kurultay roziligi bilan mumkin; jinoyat ustida ushlash va og\u0027ir yoki o\u0027ta og\u0027ir jinoyatlar bundan mustasno (80(2)). Sudya lavozimi deputatlik, boshqa haq to\u0027lanadigan lavozim (o\u0027qituvchilik, ilmiy, ijodiy bundan mustasno) va tadbirkorlik bilan mos kelmaydi (80(4)). Qonunga xilof dalil yuridik kuchga ega emas, hech kim faqat o\u0027z iqrori asosida mahkum etilmaydi, shubhalar ayblanuvchi foydasiga talqin qilinadi (78(3)).",
+                                                   "status":  "tasdiqlangan",
+                                                   "sources":  [
+                                                                   {
+                                                                       "title":  "QR Konstitutsiyasi (2026)",
+                                                                       "ref":  "78, 80-moddalar",
+                                                                       "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   }
+                                                               ]
+                                               },
+                     "judicial_council":  {
+                                              "summary":  "Oliy sud kengashi (Высший Судебный Совет) sudyalarni tayinlash tavsiyalarini beradi (83); uning raisini Prezident tayinlaydi, maqomi, tarkibi va ishi qonun bilan belgilanadi (83(4)–(5)).",
+                                              "status":  "tasdiqlangan",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "QR Konstitutsiyasi (2026)",
+                                                                  "ref":  "83-modda",
+                                                                  "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
+                                                                  "retrieved":  "2026-10-01"
+                                                              }
+                                                          ]
+                                          },
+                     "public_participation":  {
+                                                  "summary":  "Qonunda ko\u0027rsatilgan hollarda jinoyat ishlari hakamlar hay\u0027ati ishtirokida ko\u0027riladi (Konstitutsiya 76(2)). UPK bo\u0027yicha: bir sudya va o\u0027n hakam; ayblanuvchi iltimosiga ko\u0027ra, o\u0027ta og\u0027ir jinoyatlar bo\u0027yicha (terrorizm, davlat xavfsizligi, jinoiy guruh va boshqa istisnolar bundan mustasno) (UPK 52, 631, 632).",
+                                                  "status":  "tasdiqlangan",
+                                                  "sources":  [
+                                                                  {
+                                                                      "title":  "QR Konstitutsiyasi (2026)",
+                                                                      "ref":  "76(2)",
+                                                                      "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
+                                                                      "retrieved":  "2026-10-01"
+                                                                  },
+                                                                  {
+                                                                      "title":  "UPK RK",
+                                                                      "ref":  "52, 631, 632",
+                                                                      "url":  "https://adilet.zan.kz/rus/docs/K1400000231",
+                                                                      "retrieved":  "2026-10-01"
+                                                                  }
+                                                              ]
+                                              },
+                     "openness_language":  {
+                                               "summary":  "Jinoyat ishlarini ko\u0027rish barcha sudlarda ochiq o\u0027tadi; ochiqlikni cheklash davlat siri va qonun qo\u0027riqlaydigan boshqa sir manfaatlariga zid bo\u0027lganda mumkin; yopiq majlis sudning asoslangan qarori bilan voyaga yetmaganlar jinoyatlari, jinsiy jinoyatlar va boshqa ishlarda hamda ishtirokchilar xavfsizligi talab qilganda o\u0027tkaziladi (UPK 29). Jinoyat protsessi qozoq tilida yuritiladi, qozoq tili bilan bir qatorda rus tili va zarur bo\u0027lsa boshqa tillar ishlatiladi; tilni bilmaydiganlarga o\u0027z ona tilida so\u0027zlash, bepul tarjimon va zarur materiallarning bepul tarjimasi kafolatlanadi (UPK 30).",
+                                               "status":  "tasdiqlangan",
+                                               "sources":  [
+                                                               {
+                                                                   "title":  "UPK RK",
+                                                                   "ref":  "29, 30-moddalar",
+                                                                   "url":  "https://adilet.zan.kz/rus/docs/K1400000231",
+                                                                   "retrieved":  "2026-10-01"
+                                                               }
+                                                           ]
+                                           },
+                     "financing":  {
+                                       "summary":  "Sudlarni moliyalashtirish va sudyalarni uy-joy bilan ta\u0027minlash respublika byudjeti hisobidan amalga oshiriladi va odil sudlovni to\u0027liq va mustaqil amalga oshirish imkonini ta\u0027minlashi kerak (81-modda).",
+                                       "status":  "tasdiqlangan",
+                                       "sources":  [
+                                                       {
+                                                           "title":  "QR Konstitutsiyasi (2026)",
+                                                           "ref":  "81-modda",
+                                                           "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
+                                                   ]
+                                   }
+                 }
+},
 {
     "code":  "tr",
     "name":  "Turkiya",
@@ -990,95 +1168,191 @@ window.PROCEDURE = [
 }
 ,
 {
-  "code": "us",
-  "updated": "2026-10-01",
-  "basis": "AQSh federal jinoyat protsessi: Federal Rules of Criminal Procedure (FRCrP), Federal Rules of Appellate Procedure (FRAP), Federal Rules of Evidence (FRE), AQSh Konstitutsiyasining 5- va 6-tuzatishlari, 18 U.S.C. §3231, 28 U.S.C. §1291. Matnlar Cornell LII sahifalaridan (rasmiy matn nusxasi) olingan. Diqqat: bu faqat federal tizim, har bir shtatning o'z jinoyat-protsessual qoidalari bor va ular farq qilishi mumkin. O'zbekcha bayon bizning tarjimamiz.",
-  "stages": {
-    "trial_prep": {
-      "summary": "Hibsga olingan shaxs imkon qadar tez magistrat sudya oldiga olib kelinadi (FRCrP 5(a)(1)(A)). Juda yengil huquqbuzarlik (petty offense) bo'lmagan ayblovlarda magistrat sudya dastlabki eshituv (preliminary hearing) o'tkazadi, agar ayblanuvchi voz kechmasa yoki unga allaqachon indictment e'lon qilinmagan bo'lsa (5.1(a)). Bir yildan ortiq ozodlikdan mahrum qilish yoki o'lim jazosi nazarda tutilgan jinoyatlar bo'yicha ayblov katta hay'at (grand jury) tomonidan indictment orqali qo'yilishi shart; ayblanuvchi ochiq sudda indictment'dan voz kechsa, prokuratura information bilan ayblashi mumkin (7(a), (b)). Katta hay'at 16–23 a'zodan iborat bo'lib, indictment uchun kamida 12 a'zo rozi bo'lishi kerak (6(a)(1), 6(f)). Sud majlisidan oldin taraflar sud tergovisiz hal qilinadigan e'tirozlarni oldindan beriladigan iltimosnomalar (pretrial motions) bilan ko'taradi; ayrimlari (masalan, noto'g'ri venue, ayblov hujjatidagi nuqson, katta hay'at jarayonidagi xato) imkon bo'lsa sud muhokamasidan oldin berilishi shart (12(b)(3)); yurisdiksiya yo'qligi haqidagi iltimos esa ish tugaguncha istalgan vaqtda berilishi mumkin (12(b)(2)).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRCrP", "ref": "Rules 5, 5.1, 6, 7, 12(b)", "url": "https://www.law.cornell.edu/rules/frcrmp" },
-        { "title": "AQSh Konstitutsiyasi, 5-tuzatish", "ref": "katta hay'at", "url": "https://www.law.cornell.edu/constitution/fifth_amendment", "original": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ..." }
-      ]
-    },
-    "court_composition": {
-      "summary": "Federal jinoyatlar bo'yicha birinchi instansiya — AQSh federal okrug sudlari (district courts); ular federal qonunlar bo'yicha jinoyatlarga ishlarni boshlang'ich vakolatda ko'radi, shtatlar sudlarining vakolati saqlanadi (18 U.S.C. §3231). Sud tarkibi: sudya va hakamlar hay'ati (jury). Hakamlar hay'ati odatda 12 kishi (FRCrP 23(b)(1)); taraflar yozma stipulyatsiya bilan kichikroq hay'atga rozi bo'lishi mumkin. Hakamlar hay'atisiz ko'rish (bench trial) faqat ayblanuvchi yozma ravishda voz kechsa, hukumat rozi bo'lsa va sud tasdiqlasa mumkin (23(a)). Hakamlarni saralashda sud yoki advokatlar nomzodlarni so'roq qiladi (24(a)); har bir tomonda kafolatsiz rad qilish (peremptory challenges) soni cheklangan: og'ir jinoyat uchun hukumatda 6, ayblanuvchilarda birgalikda 10; o'lim jazosi so'ralganda har tomonda 20 (24(b)). 6-tuzatish xolis hakamlar hay'atining huquqini kafolatlaydi.",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRCrP", "ref": "Rules 23, 24", "url": "https://www.law.cornell.edu/rules/frcrmp" },
-        { "title": "18 U.S.C. §3231", "ref": "", "url": "https://www.law.cornell.edu/uscode/text/18/3231" },
-        { "title": "AQSh Konstitutsiyasi, 6-tuzatish", "ref": "", "url": "https://www.law.cornell.edu/constitution/sixth_amendment", "original": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury ..." }
-      ]
-    },
-    "defendant_presence": {
-      "summary": "6-tuzatish ayblanuvchiga tezkor va ochiq sud, ayblov mohiyati haqida xabardor qilinish, o'ziga qarshi guvohlar bilan yuzlashish, o'z guvohlarini chaqirtirish majburlash choralari va himoyachi yordami huquqlarini beradi. FRCrP Rule 43(a) bo'yicha ayblanuvchi dastlabki taqdim etish, arraignment va aybga javob berish paytida, sudning har bir bosqichida (hakamlar tanlashdan hukm e'lon qilinishigacha) va jazo tayinlashda ishtirok etishi shart. Ishtirok shart bo'lmagan hollar: tashkilot sifatida ayblanuvchi, yengil jinoyat (bir yilgacha) bo'yicha yozma rozilik bilan video orqali yoki ishtirokisiz, faqat huquqiy masala bo'yicha eshituv, jazoni tuzatish (43(b)). Sud boshlangandan keyin ayblanuvchi ixtiyoriy ravishda kelmasa yoki tartibni buzgani uchun chiqarilsa, ishtirok huquqidan voz kechgan hisoblanadi va sud hukm chiqarishgacha uning yo'qligida davom etishi mumkin (43(c)). Arraignment'da qatnashishdan voz kechish tartibi Rule 10(b)da ko'rsatilgan.",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRCrP", "ref": "Rule 43(a)–(c), Rule 10(b)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_43" },
-        { "title": "AQSh Konstitutsiyasi, 6-tuzatish", "ref": "", "url": "https://www.law.cornell.edu/constitution/sixth_amendment" }
-      ]
-    },
-    "opening": {
-      "summary": "Sud majlisini ochish, ishtirokchilar kelganini tekshirish va prokuror hamda himoyachining kirish nutqlari (opening statements) tartibi bu tahlilda ko'rilgan federal qoidalarda alohida bosqich sifatida belgilanmagan. Manba (masalan, sud amaliyoti qoidalari yoki Federal Judicial Center qo'llanmasi) kutilmoqda.",
-      "status": "tekshirilmagan",
-      "sources": []
-    },
-    "charge_and_plea": {
-      "summary": "Arraignment ochiq sudda o'tkaziladi: ayblanuvchida indictment yoki information nusxasi borligi ta'minlanadi, ayblov o'qib eshittiriladi yoki mohiyati bayon qilinadi va undan aybiga munosabat so'raladi (10(a)). Ayblanuvchi aybsiz (not guilty), aybdor (guilty) yoki sudning roziligi bilan nolo contendere (aybni tan olmay, ayblovga e'tiroz bildirmaslik) deb javob berishi mumkin (11(a)(1)). Javob berishdan bosh tortsa, sud 'aybsiz' deb yozadi (11(a)(4)). Aybga iqror bo'lishdan oldin sud ochiq sudda ayblanuvchiga shaxsan murojaat qiladi va uning tushunganini aniqlaydi (11(b)(1)); hukm chiqarishdan oldin sud iqrorlikka faktik asos borligini aniqlashi shart (11(b)(3)).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "FRCrP", "ref": "Rules 10(a), 11(a), 11(b)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_11" }]
-    },
-    "scope_change_charge": {
-      "summary": "Ayblov hujjati (indictment yoki information) qisqa, aniq va ochiq yozma bayon bo'lishi, ayblovning asosiy faktlarini o'z ichiga olishi va prokuror imzosi bilan bo'lishi kerak (7(c)(1)). Ayblov hujjatidagi nuqsonlar (masalan, bir moddada ikki jinoyatni birlashtirish yoki bir jinoyatni bir necha moddada ko'rsatish) sudgacha beriladigan iltimosnoma bilan ko'tarilishi shart (12(b)(3)(B)). Information (prokuratura ayblov hujjati) hukmdan oldin istalgan vaqtda o'zgartirilishi mumkin, agar boshqa yoki qo'shimcha jinoyat ayblanmasa va ayblanuvchining muhim huquqi zarar ko'rmasa (7(e)); bu qoida faqat information'ga tegishli (indictment uchun alohida qoida bu tahlilda o'qilmadi). Hay'at ayblanuvchini ayblangan jinoyatga kiruvchi yengilroq jinoyatda yoki ayblangan jinoyatga suiqasd/tayyorgarlikda ham aybdor deb topishi mumkin (31(c)). Dalillar yetarli bo'lmasa, hukumat dalillarini yopgandan keyin yoki barcha dalillar tugagach, sud ayblanuvchi iltimosiga ko'ra oqlov hukmini (judgment of acquittal) chiqarishi shart; sud buni o'z tashabbusi bilan ham ko'rishi mumkin (29(a)).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "FRCrP", "ref": "Rules 7(c)(1), 7(e), 12(b)(3)(B), 29(a), 31(c)", "url": "https://www.law.cornell.edu/rules/frcrmp" }]
-    },
-    "evidence": {
-      "summary": "Federal Rules of Evidence 611(a) bo'yicha sud guvohlarni so'roq qilish va dalillarni taqdim etish tartibi ustidan oqilona nazoratni amalga oshiradi: haqiqatni aniqlash uchun samarali bo'lsin, vaqt isrof bo'lmasin va guvohlar hurmatsizlikdan himoyalansin. Kross-so'roq (cross-examination) bevosita so'roq (direct) predmeti va guvohning ishonchliligi doirasi bilan cheklanadi, sud kengroq ruxsat berishi mumkin (611(b)). Etakchi savollar odatda to'g'ridan-to'g'ri so'roqda ishlatilmaydi (611(c)). Konstitutsiya bo'yicha ayblanuvchi o'ziga qarshi guvoh bo'lishga majbur etilmaydi (5-tuzatish) va unga qarshi guvohlar bilan yuzlashish huquqi beriladi (6-tuzatish). Hukumat o'z dalillarini birinchi taqdim etadi, shundan keyingina ayblanuvchi o'z dalillarini keltirishi mumkin (FRCrP 29(a)).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRE", "ref": "Rule 611", "url": "https://www.law.cornell.edu/rules/fre/rule_611" },
-        { "title": "FRCrP", "ref": "Rule 29(a)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_29" },
-        { "title": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar", "ref": "", "url": "https://www.law.cornell.edu/constitution/sixth_amendment" }
-      ]
-    },
-    "negotiated": {
-      "summary": "Prokuror va himoyachi (yoki o'zi himoyalanayotgan ayblanuvchi) plea agreement tuzishi mumkin; sud bu muzokaralarda ishtirok etmasligi shart (11(c)(1)). Kelishuv uch turdagi bo'lishi mumkin: (A) boshqa ayblovlarni qo'ymaslik yoki bekor qilish; (B) muayyan jazo yoki Sentencing Guidelines qoidasini tavsiya qilish (sudni bog'lamaydi); (C) muayyan jazo yoki oraliqni kelishib olish (sud kelishuvni qabul qilgach, sudni bog'laydi). Kelishuv taklif etilganda ochiq sudda e'lon qilinadi (11(c)(2)). Sud (A) va (C) turlarini qabul qilishi, rad etishi yoki taqdim etilgan sudgacha hisobotni (presentence report) ko'rib chiqquncha qarorni kechiktirishi mumkin (11(c)(3)(A)); (B) turida sud tavsiyaga amal qilmasa, ayblanuvchi iqrorlikni qaytarib olish huquqiga ega emasligi tushuntiriladi (11(c)(3)(B)). Shuningdek shartli iqrorlik (conditional plea) mumkin: sudning va hukumatning roziligi bilan ayblanuvchi sudgacha bo'lgan muayyan iltimosnoma bo'yicha yuqori sud tekshiruvi huquqini saqlab qoladi (11(a)(2)).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "FRCrP", "ref": "Rule 11(a)(2), 11(c)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_11" }]
-    },
-    "closing": {
-      "summary": "Yakuniy nutqlar tartibi: avval hukumat (ayblov) so'zlaydi, so'ng himoya, keyin hukumat javob beradi (rebuttal) (FRCrP 29.1). Sud hakamlar hay'atiga qonun bo'yicha ko'rsatmalar beradi: taraflar yozma ravishda ko'rsatma so'rashi mumkin; sud yakuniy nutqlardan oldin ko'rsatmalar bo'yicha qarorini taraflarga bildiradi; ko'rsatmalar nutqlardan oldin yoki keyin yoki ikkala vaqtda ham o'qilishi mumkin (Rule 30(a)–(c)). Rule 29.1 izohiga ko'ra, bu tartib ayblanuvchi javob berish yoki bermaslikni hal qilishdan oldin ayblovning asosiy dalillarini bilishini ta'minlash uchun yaratilgan. O'zbekistondagi 'oxirgi so'z'ga o'xshash huquq AQShda hukm chiqarish bosqichida beriladi: jazo tayinlashdan oldin sud ayblanuvchining himoyachisiga so'z beradi, ayblanuvchining o'ziga shaxsan murojaat qilib, jazoni yengillashtiruvchi ma'lumot yoki fikrini aytishga imkon beradi va hukumat vakiliga teng imkoniyat beradi; jabrlanuvchi ham eshitiladi (32(i)(4)). Hukm e'lon qilingach, ayblanuvchiga apellyatsiya huquqi tushuntiriladi (32(j)(1)). Ya'ni bu huquq aybdorlik masalasi hal bo'lgandan keyin, jazo tayinlashdan oldin beriladi.",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRCrP", "ref": "Rules 29.1, 30, 32(i)(4), 32(j)(1)", "url": "https://www.law.cornell.edu/rules/frcrmp/rule_29.1" }
-      ]
-    },
-    "verdict": {
-      "summary": "Hakamlar hay'ati hukmni ochiq sudda sudyaga taqdim etadi va hukm bir ovozdan (unanimous) bo'lishi shart (31(a)). Hay'at bir necha ayblov yoki ayblanuvchi bo'yicha kelisha olmasa, kelishgan moddalar bo'yicha hukm chiqarishi mumkin; kelisha olmagan moddalarda sud mistrial e'lon qilishi, hukumat esa ayblanuvchini qayta sudga tortishi mumkin (31(b)). Hay'atsiz ko'rilgan ishda sud o'zi aybdor yoki aybsiz deb topadi va, tomon so'rasa, faktik xulosalarini bayon qiladi (23(c)). Jazo alohida bosqichda tayinlanadi: probatsiya xodimi sudgacha hisobot (presentence report) tayyorlaydi (32(c)); sud jazoni nomaqbul kechiktirmay tayinlaydi (32(b)); hisobot Sentencing Komissiyasining tavsiyaviy yo'riqnomalari asosida jazo oralig'ini hisoblaydi (32(d)(1)). Hukmdan keyin ayblanuvchi iltimosiga ko'ra sud 'adolat manfaatlari talab qilsa' hukmni bekor qilib, yangi sud (new trial) tayinlashi mumkin; yangi aniqlangan dalillar bo'yicha iltimos hukmdan keyin 3 yil ichida, boshqa asoslarda 14 kun ichida beriladi (33).",
-      "status": "tasdiqlangan",
-      "sources": [{ "title": "FRCrP", "ref": "Rules 23(c), 31, 32(b)–(d), 33", "url": "https://www.law.cornell.edu/rules/frcrmp" }]
-    },
-    "appeal": {
-      "summary": "Ayblanuvchi apellyatsiya bildirishnomasini (notice of appeal) hukm yoki ajrim qayd etilganidan keyin 14 kun ichida okrug sudiga beradi (yoki hukumat apellyatsiya bergandan keyin 14 kun ichida, qaysi biri keyin bo'lsa); hukumat apellyatsiya berishga haqli bo'lsa, buni 30 kun ichida qiladi (FRAP 4(b)(1)). Federal apellyatsiya sudlari okrug sudlarining yakuniy qarorlari ustidan shikoyatlarni ko'rish vakolatiga ega (28 U.S.C. §1291).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "FRAP", "ref": "Rule 4(b)(1)", "url": "https://www.law.cornell.edu/rules/frap/rule_4" },
-        { "title": "28 U.S.C. §1291", "ref": "", "url": "https://www.law.cornell.edu/uscode/text/28/1291" }
-      ]
-    },
-    "cassation": {
-      "summary": "Federal tizimda O'zbekiston va Qozog'istondagi kassatsiya/taftishga mos alohida bosqich ko'rsatilmagan. Apellyatsiya sudlarining ishlarini AQSh Oliy sudi quyidagi yo'llar bilan ko'rib chiqishi mumkin: har qanday tomon arizasi bilan beriladigan writ of certiorari (hukmgacha yoki hukmdan keyin ham) yoki apellyatsiya sudi tomonidan qonuniy savolni Oliy sudga sertifikatsiya qilish (28 U.S.C. §1254). Oliy sud boshlang'ich yurisdiksiyasi Konstitutsiya III moddasi 2-bo'limida belgilangan ishlar bilan cheklanadi, boshqa ishlarda apellyatsiya yurisdiksiyasiga ega (Konstitutsiya, Art. III §2).",
-      "status": "tasdiqlangan",
-      "sources": [
-        { "title": "28 U.S.C. §1254", "ref": "", "url": "https://www.law.cornell.edu/uscode/text/28/1254" },
-        { "title": "AQSh Konstitutsiyasi, III modda", "ref": "§2", "url": "https://www.law.cornell.edu/constitution/articleiii" }
-      ]
-    }
-  }
-}
-,
+    "code":  "us",
+    "updated":  "2026-10-01",
+    "basis":  "AQSh federal jinoyat protsessi: Federal Rules of Criminal Procedure (FRCrP), Federal Rules of Appellate Procedure (FRAP), Federal Rules of Evidence (FRE), AQSh Konstitutsiyasining 5- va 6-tuzatishlari, 18 U.S.C. §3231, 28 U.S.C. §1291. Matnlar Cornell LII sahifalaridan (rasmiy matn nusxasi) olingan. Diqqat: bu faqat federal tizim, har bir shtatning o\u0027z jinoyat-protsessual qoidalari bor va ular farq qilishi mumkin. O\u0027zbekcha bayon bizning tarjimamiz.",
+    "stages":  {
+                   "trial_prep":  {
+                                      "summary":  "Hibsga olingan shaxs imkon qadar tez magistrat sudya oldiga olib kelinadi (FRCrP 5(a)(1)(A)). Juda yengil huquqbuzarlik (petty offense) bo\u0027lmagan ayblovlarda magistrat sudya dastlabki eshituv (preliminary hearing) o\u0027tkazadi, agar ayblanuvchi voz kechmasa yoki unga allaqachon indictment e\u0027lon qilinmagan bo\u0027lsa (5.1(a)). Bir yildan ortiq ozodlikdan mahrum qilish yoki o\u0027lim jazosi nazarda tutilgan jinoyatlar bo\u0027yicha ayblov katta hay\u0027at (grand jury) tomonidan indictment orqali qo\u0027yilishi shart; ayblanuvchi ochiq sudda indictment\u0027dan voz kechsa, prokuratura information bilan ayblashi mumkin (7(a), (b)). Katta hay\u0027at 16–23 a\u0027zodan iborat bo\u0027lib, indictment uchun kamida 12 a\u0027zo rozi bo\u0027lishi kerak (6(a)(1), 6(f)). Sud majlisidan oldin taraflar sud tergovisiz hal qilinadigan e\u0027tirozlarni oldindan beriladigan iltimosnomalar (pretrial motions) bilan ko\u0027taradi; ayrimlari (masalan, noto\u0027g\u0027ri venue, ayblov hujjatidagi nuqson, katta hay\u0027at jarayonidagi xato) imkon bo\u0027lsa sud muhokamasidan oldin berilishi shart (12(b)(3)); yurisdiksiya yo\u0027qligi haqidagi iltimos esa ish tugaguncha istalgan vaqtda berilishi mumkin (12(b)(2)).",
+                                      "status":  "tasdiqlangan",
+                                      "sources":  [
+                                                      {
+                                                          "title":  "FRCrP",
+                                                          "ref":  "Rules 5, 5.1, 6, 7, 12(b)",
+                                                          "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                      },
+                                                      {
+                                                          "title":  "AQSh Konstitutsiyasi, 5-tuzatish",
+                                                          "ref":  "katta hay\u0027at",
+                                                          "url":  "https://www.law.cornell.edu/constitution/fifth_amendment",
+                                                          "original":  "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ..."
+                                                      }
+                                                  ]
+                                  },
+                   "court_composition":  {
+                                             "summary":  "Federal jinoyatlar bo\u0027yicha birinchi instansiya — AQSh federal okrug sudlari (district courts); ular federal qonunlar bo\u0027yicha jinoyatlarga ishlarni boshlang\u0027ich vakolatda ko\u0027radi, shtatlar sudlarining vakolati saqlanadi (18 U.S.C. §3231). Sud tarkibi: sudya va hakamlar hay\u0027ati (jury). Hakamlar hay\u0027ati odatda 12 kishi (FRCrP 23(b)(1)); taraflar yozma stipulyatsiya bilan kichikroq hay\u0027atga rozi bo\u0027lishi mumkin. Hakamlar hay\u0027atisiz ko\u0027rish (bench trial) faqat ayblanuvchi yozma ravishda voz kechsa, hukumat rozi bo\u0027lsa va sud tasdiqlasa mumkin (23(a)). Hakamlarni saralashda sud yoki advokatlar nomzodlarni so\u0027roq qiladi (24(a)); har bir tomonda kafolatsiz rad qilish (peremptory challenges) soni cheklangan: og\u0027ir jinoyat uchun hukumatda 6, ayblanuvchilarda birgalikda 10; o\u0027lim jazosi so\u0027ralganda har tomonda 20 (24(b)). 6-tuzatish xolis hakamlar hay\u0027atining huquqini kafolatlaydi.",
+                                             "status":  "tasdiqlangan",
+                                             "sources":  [
+                                                             {
+                                                                 "title":  "FRCrP",
+                                                                 "ref":  "Rules 23, 24",
+                                                                 "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                             },
+                                                             {
+                                                                 "title":  "18 U.S.C. §3231",
+                                                                 "ref":  "",
+                                                                 "url":  "https://www.law.cornell.edu/uscode/text/18/3231"
+                                                             },
+                                                             {
+                                                                 "title":  "AQSh Konstitutsiyasi, 6-tuzatish",
+                                                                 "ref":  "",
+                                                                 "url":  "https://www.law.cornell.edu/constitution/sixth_amendment",
+                                                                 "original":  "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury ..."
+                                                             }
+                                                         ]
+                                         },
+                   "defendant_presence":  {
+                                              "summary":  "6-tuzatish ayblanuvchiga tezkor va ochiq sud, ayblov mohiyati haqida xabardor qilinish, o\u0027ziga qarshi guvohlar bilan yuzlashish, o\u0027z guvohlarini chaqirtirish majburlash choralari va himoyachi yordami huquqlarini beradi. FRCrP Rule 43(a) bo\u0027yicha ayblanuvchi dastlabki taqdim etish, arraignment va aybga javob berish paytida, sudning har bir bosqichida (hakamlar tanlashdan hukm e\u0027lon qilinishigacha) va jazo tayinlashda ishtirok etishi shart. Ishtirok shart bo\u0027lmagan hollar: tashkilot sifatida ayblanuvchi, yengil jinoyat (bir yilgacha) bo\u0027yicha yozma rozilik bilan video orqali yoki ishtirokisiz, faqat huquqiy masala bo\u0027yicha eshituv, jazoni tuzatish (43(b)). Sud boshlangandan keyin ayblanuvchi ixtiyoriy ravishda kelmasa yoki tartibni buzgani uchun chiqarilsa, ishtirok huquqidan voz kechgan hisoblanadi va sud hukm chiqarishgacha uning yo\u0027qligida davom etishi mumkin (43(c)). Arraignment\u0027da qatnashishdan voz kechish tartibi Rule 10(b)da ko\u0027rsatilgan.",
+                                              "status":  "tasdiqlangan",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "FRCrP",
+                                                                  "ref":  "Rule 43(a)–(c), Rule 10(b)",
+                                                                  "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_43"
+                                                              },
+                                                              {
+                                                                  "title":  "AQSh Konstitutsiyasi, 6-tuzatish",
+                                                                  "ref":  "",
+                                                                  "url":  "https://www.law.cornell.edu/constitution/sixth_amendment"
+                                                              }
+                                                          ]
+                                          },
+                   "opening":  {
+                                   "summary":  "Sud majlisi hakamlar qasamyod qilgandan keyin boshlanadi. AQSh sudlarining rasmiy hakamlar qo\u0027llanmasiga ko\u0027ra birinchi bosqich — advokatlarning kirish nutqlari (opening statements); ba\u0027zan bir yoki bir necha tomonning kirish nutqi o\u0027tkazib yuboriladi. Qo\u0027llanma sakkiz bosqichni fuqarolik ishlari uchun keltiradi (kirish nutqlari, da\u0027vogarning dalillari, javobgarning dalillari, rad etuvchi dalillar, yakuniy nutqlar, sudyaning hakamlarga ko\u0027rsatmasi, maslahat, hukm); jinoyat ishida hukumat dalillarni birinchi taqdim etishi FRCrP 29(a) dan, yakuniy nutqlar tartibi Rule 29.1 dan ma\u0027lum. Kirish va yakuniy nutqlar dalil emas; guvohlarni tomonlar bir-biriga kross-so\u0027roq qila oladi. Ushbu bosqich federal qoidalarda (FRCrP) alohida moddada belgilanmagan, amaliyot sud va qo\u0027llanmalarga tayanadi.",
+                                   "status":  "tasdiqlangan",
+                                   "sources":  [
+                                                   {
+                                                       "title":  "AQSh sud ma\u0027muriy idorasi: Handbook for Trial Jurors Serving in the United States District Courts",
+                                                       "ref":  "\"The Eight Stages of Trial\", \"The Arguments of Counsel\"",
+                                                       "url":  "https://www.uscourts.gov/sites/default/files/trial-handbook.pdf"
+                                                   },
+                                                   {
+                                                       "title":  "FRCrP",
+                                                       "ref":  "Rules 24, 29(a), 29.1",
+                                                       "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                   }
+                                               ]
+                               },
+                   "charge_and_plea":  {
+                                           "summary":  "Arraignment ochiq sudda o\u0027tkaziladi: ayblanuvchida indictment yoki information nusxasi borligi ta\u0027minlanadi, ayblov o\u0027qib eshittiriladi yoki mohiyati bayon qilinadi va undan aybiga munosabat so\u0027raladi (10(a)). Ayblanuvchi aybsiz (not guilty), aybdor (guilty) yoki sudning roziligi bilan nolo contendere (aybni tan olmay, ayblovga e\u0027tiroz bildirmaslik) deb javob berishi mumkin (11(a)(1)). Javob berishdan bosh tortsa, sud \u0027aybsiz\u0027 deb yozadi (11(a)(4)). Aybga iqror bo\u0027lishdan oldin sud ochiq sudda ayblanuvchiga shaxsan murojaat qiladi va uning tushunganini aniqlaydi (11(b)(1)); hukm chiqarishdan oldin sud iqrorlikka faktik asos borligini aniqlashi shart (11(b)(3)).",
+                                           "status":  "tasdiqlangan",
+                                           "sources":  [
+                                                           {
+                                                               "title":  "FRCrP",
+                                                               "ref":  "Rules 10(a), 11(a), 11(b)",
+                                                               "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_11"
+                                                           }
+                                                       ]
+                                       },
+                   "scope_change_charge":  {
+                                               "summary":  "Ayblov hujjati (indictment yoki information) qisqa, aniq va ochiq yozma bayon bo\u0027lishi, ayblovning asosiy faktlarini o\u0027z ichiga olishi va prokuror imzosi bilan bo\u0027lishi kerak (7(c)(1)). Ayblov hujjatidagi nuqsonlar (masalan, bir moddada ikki jinoyatni birlashtirish yoki bir jinoyatni bir necha moddada ko\u0027rsatish) sudgacha beriladigan iltimosnoma bilan ko\u0027tarilishi shart (12(b)(3)(B)). Information (prokuratura ayblov hujjati) hukmdan oldin istalgan vaqtda o\u0027zgartirilishi mumkin, agar boshqa yoki qo\u0027shimcha jinoyat ayblanmasa va ayblanuvchining muhim huquqi zarar ko\u0027rmasa (7(e)); bu qoida faqat information\u0027ga tegishli (indictment uchun alohida qoida bu tahlilda o\u0027qilmadi). Hay\u0027at ayblanuvchini ayblangan jinoyatga kiruvchi yengilroq jinoyatda yoki ayblangan jinoyatga suiqasd/tayyorgarlikda ham aybdor deb topishi mumkin (31(c)). Dalillar yetarli bo\u0027lmasa, hukumat dalillarini yopgandan keyin yoki barcha dalillar tugagach, sud ayblanuvchi iltimosiga ko\u0027ra oqlov hukmini (judgment of acquittal) chiqarishi shart; sud buni o\u0027z tashabbusi bilan ham ko\u0027rishi mumkin (29(a)).",
+                                               "status":  "tasdiqlangan",
+                                               "sources":  [
+                                                               {
+                                                                   "title":  "FRCrP",
+                                                                   "ref":  "Rules 7(c)(1), 7(e), 12(b)(3)(B), 29(a), 31(c)",
+                                                                   "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                               }
+                                                           ]
+                                           },
+                   "evidence":  {
+                                    "summary":  "Federal Rules of Evidence 611(a) bo\u0027yicha sud guvohlarni so\u0027roq qilish va dalillarni taqdim etish tartibi ustidan oqilona nazoratni amalga oshiradi: haqiqatni aniqlash uchun samarali bo\u0027lsin, vaqt isrof bo\u0027lmasin va guvohlar hurmatsizlikdan himoyalansin. Kross-so\u0027roq (cross-examination) bevosita so\u0027roq (direct) predmeti va guvohning ishonchliligi doirasi bilan cheklanadi, sud kengroq ruxsat berishi mumkin (611(b)). Etakchi savollar odatda to\u0027g\u0027ridan-to\u0027g\u0027ri so\u0027roqda ishlatilmaydi (611(c)). Konstitutsiya bo\u0027yicha ayblanuvchi o\u0027ziga qarshi guvoh bo\u0027lishga majbur etilmaydi (5-tuzatish) va unga qarshi guvohlar bilan yuzlashish huquqi beriladi (6-tuzatish). Hukumat o\u0027z dalillarini birinchi taqdim etadi, shundan keyingina ayblanuvchi o\u0027z dalillarini keltirishi mumkin (FRCrP 29(a)).",
+                                    "status":  "tasdiqlangan",
+                                    "sources":  [
+                                                    {
+                                                        "title":  "FRE",
+                                                        "ref":  "Rule 611",
+                                                        "url":  "https://www.law.cornell.edu/rules/fre/rule_611"
+                                                    },
+                                                    {
+                                                        "title":  "FRCrP",
+                                                        "ref":  "Rule 29(a)",
+                                                        "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_29"
+                                                    },
+                                                    {
+                                                        "title":  "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
+                                                        "ref":  "",
+                                                        "url":  "https://www.law.cornell.edu/constitution/sixth_amendment"
+                                                    }
+                                                ]
+                                },
+                   "negotiated":  {
+                                      "summary":  "Prokuror va himoyachi (yoki o\u0027zi himoyalanayotgan ayblanuvchi) plea agreement tuzishi mumkin; sud bu muzokaralarda ishtirok etmasligi shart (11(c)(1)). Kelishuv uch turdagi bo\u0027lishi mumkin: (A) boshqa ayblovlarni qo\u0027ymaslik yoki bekor qilish; (B) muayyan jazo yoki Sentencing Guidelines qoidasini tavsiya qilish (sudni bog\u0027lamaydi); (C) muayyan jazo yoki oraliqni kelishib olish (sud kelishuvni qabul qilgach, sudni bog\u0027laydi). Kelishuv taklif etilganda ochiq sudda e\u0027lon qilinadi (11(c)(2)). Sud (A) va (C) turlarini qabul qilishi, rad etishi yoki taqdim etilgan sudgacha hisobotni (presentence report) ko\u0027rib chiqquncha qarorni kechiktirishi mumkin (11(c)(3)(A)); (B) turida sud tavsiyaga amal qilmasa, ayblanuvchi iqrorlikni qaytarib olish huquqiga ega emasligi tushuntiriladi (11(c)(3)(B)). Shuningdek shartli iqrorlik (conditional plea) mumkin: sudning va hukumatning roziligi bilan ayblanuvchi sudgacha bo\u0027lgan muayyan iltimosnoma bo\u0027yicha yuqori sud tekshiruvi huquqini saqlab qoladi (11(a)(2)).",
+                                      "status":  "tasdiqlangan",
+                                      "sources":  [
+                                                      {
+                                                          "title":  "FRCrP",
+                                                          "ref":  "Rule 11(a)(2), 11(c)",
+                                                          "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_11"
+                                                      }
+                                                  ]
+                                  },
+                   "closing":  {
+                                   "summary":  "Yakuniy nutqlar tartibi: avval hukumat (ayblov) so\u0027zlaydi, so\u0027ng himoya, keyin hukumat javob beradi (rebuttal) (FRCrP 29.1). Sud hakamlar hay\u0027atiga qonun bo\u0027yicha ko\u0027rsatmalar beradi: taraflar yozma ravishda ko\u0027rsatma so\u0027rashi mumkin; sud yakuniy nutqlardan oldin ko\u0027rsatmalar bo\u0027yicha qarorini taraflarga bildiradi; ko\u0027rsatmalar nutqlardan oldin yoki keyin yoki ikkala vaqtda ham o\u0027qilishi mumkin (Rule 30(a)–(c)). Rule 29.1 izohiga ko\u0027ra, bu tartib ayblanuvchi javob berish yoki bermaslikni hal qilishdan oldin ayblovning asosiy dalillarini bilishini ta\u0027minlash uchun yaratilgan. O\u0027zbekistondagi \u0027oxirgi so\u0027z\u0027ga o\u0027xshash huquq AQShda hukm chiqarish bosqichida beriladi: jazo tayinlashdan oldin sud ayblanuvchining himoyachisiga so\u0027z beradi, ayblanuvchining o\u0027ziga shaxsan murojaat qilib, jazoni yengillashtiruvchi ma\u0027lumot yoki fikrini aytishga imkon beradi va hukumat vakiliga teng imkoniyat beradi; jabrlanuvchi ham eshitiladi (32(i)(4)). Hukm e\u0027lon qilingach, ayblanuvchiga apellyatsiya huquqi tushuntiriladi (32(j)(1)). Ya\u0027ni bu huquq aybdorlik masalasi hal bo\u0027lgandan keyin, jazo tayinlashdan oldin beriladi.",
+                                   "status":  "tasdiqlangan",
+                                   "sources":  [
+                                                   {
+                                                       "title":  "FRCrP",
+                                                       "ref":  "Rules 29.1, 30, 32(i)(4), 32(j)(1)",
+                                                       "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_29.1"
+                                                   }
+                                               ]
+                               },
+                   "verdict":  {
+                                   "summary":  "Hakamlar hay\u0027ati hukmni ochiq sudda sudyaga taqdim etadi va hukm bir ovozdan (unanimous) bo\u0027lishi shart (31(a)). Hay\u0027at bir necha ayblov yoki ayblanuvchi bo\u0027yicha kelisha olmasa, kelishgan moddalar bo\u0027yicha hukm chiqarishi mumkin; kelisha olmagan moddalarda sud mistrial e\u0027lon qilishi, hukumat esa ayblanuvchini qayta sudga tortishi mumkin (31(b)). Hay\u0027atsiz ko\u0027rilgan ishda sud o\u0027zi aybdor yoki aybsiz deb topadi va, tomon so\u0027rasa, faktik xulosalarini bayon qiladi (23(c)). Jazo alohida bosqichda tayinlanadi: probatsiya xodimi sudgacha hisobot (presentence report) tayyorlaydi (32(c)); sud jazoni nomaqbul kechiktirmay tayinlaydi (32(b)); hisobot Sentencing Komissiyasining tavsiyaviy yo\u0027riqnomalari asosida jazo oralig\u0027ini hisoblaydi (32(d)(1)). Hukmdan keyin ayblanuvchi iltimosiga ko\u0027ra sud \u0027adolat manfaatlari talab qilsa\u0027 hukmni bekor qilib, yangi sud (new trial) tayinlashi mumkin; yangi aniqlangan dalillar bo\u0027yicha iltimos hukmdan keyin 3 yil ichida, boshqa asoslarda 14 kun ichida beriladi (33).",
+                                   "status":  "tasdiqlangan",
+                                   "sources":  [
+                                                   {
+                                                       "title":  "FRCrP",
+                                                       "ref":  "Rules 23(c), 31, 32(b)–(d), 33",
+                                                       "url":  "https://www.law.cornell.edu/rules/frcrmp"
+                                                   }
+                                               ]
+                               },
+                   "appeal":  {
+                                  "summary":  "Ayblanuvchi apellyatsiya bildirishnomasini (notice of appeal) hukm yoki ajrim qayd etilganidan keyin 14 kun ichida okrug sudiga beradi (yoki hukumat apellyatsiya bergandan keyin 14 kun ichida, qaysi biri keyin bo\u0027lsa); hukumat apellyatsiya berishga haqli bo\u0027lsa, buni 30 kun ichida qiladi (FRAP 4(b)(1)). Federal apellyatsiya sudlari okrug sudlarining yakuniy qarorlari ustidan shikoyatlarni ko\u0027rish vakolatiga ega (28 U.S.C. §1291).",
+                                  "status":  "tasdiqlangan",
+                                  "sources":  [
+                                                  {
+                                                      "title":  "FRAP",
+                                                      "ref":  "Rule 4(b)(1)",
+                                                      "url":  "https://www.law.cornell.edu/rules/frap/rule_4"
+                                                  },
+                                                  {
+                                                      "title":  "28 U.S.C. §1291",
+                                                      "ref":  "",
+                                                      "url":  "https://www.law.cornell.edu/uscode/text/28/1291"
+                                                  }
+                                              ]
+                              },
+                   "cassation":  {
+                                     "summary":  "Federal tizimda O\u0027zbekiston va Qozog\u0027istondagi kassatsiya/taftishga mos alohida bosqich ko\u0027rsatilmagan. Apellyatsiya sudlarining ishlarini AQSh Oliy sudi quyidagi yo\u0027llar bilan ko\u0027rib chiqishi mumkin: har qanday tomon arizasi bilan beriladigan writ of certiorari (hukmgacha yoki hukmdan keyin ham) yoki apellyatsiya sudi tomonidan qonuniy savolni Oliy sudga sertifikatsiya qilish (28 U.S.C. §1254). Oliy sud boshlang\u0027ich yurisdiksiyasi Konstitutsiya III moddasi 2-bo\u0027limida belgilangan ishlar bilan cheklanadi, boshqa ishlarda apellyatsiya yurisdiksiyasiga ega (Konstitutsiya, Art. III §2).",
+                                     "status":  "tasdiqlangan",
+                                     "sources":  [
+                                                     {
+                                                         "title":  "28 U.S.C. §1254",
+                                                         "ref":  "",
+                                                         "url":  "https://www.law.cornell.edu/uscode/text/28/1254"
+                                                     },
+                                                     {
+                                                         "title":  "AQSh Konstitutsiyasi, III modda",
+                                                         "ref":  "§2",
+                                                         "url":  "https://www.law.cornell.edu/constitution/articleiii"
+                                                     }
+                                                 ]
+                                 }
+               }
+},
 {
   "code": "uz",
   "updated": "2026-10-01",
@@ -1149,110 +1423,152 @@ window.PROCEDURE = [
 
 ];
 window.SCHOLARSHIP = {
-  "updated": "2026-10-01",
-  "note": "Quyidagi manbalar matni ochilib, asosiy da'volari o'qib tekshirilgan. Academia.edu, ResearchGate va ScienceDirect avtomatik kirishni ko'pincha 403 xatosi bilan bloklaydi, shuning uchun ochiq jurnal va institutsional sayt nusxalaridan foydalanildi. Ilmiy maqolalar qonun matnini almashtirmaydi: har bir sahifadagi jarayon bayoni asosiy qonun matniga asoslangan, ilmiy manbalar kontekst, tahlil va amaliyot (statistika) uchun.",
-  "verified": [
-    {
-      "id": "fjc-comparative",
-      "type": "institutsional ma'lumot (AQSh Federal Judicial Center)",
-      "citation": "Federal Judicial Center, Judiciaries Worldwide, 'Comparative Criminal Procedure'. Muallif va sana ko'rsatilmagan.",
-      "url": "https://judiciariesworldwide.fjc.gov/comparative-criminal-procedure",
-      "supports": "Raqobatli (adversarial) va inkvizitsion tizimlar farqi; fuqarolik huquqi mamlakatlarida aralash sudlar (kasbiy sudyalar + xalq vakillari); AQShda plea bargaining keng, boshqa ko'p mamlakatlarda cheklangan; inkvizitsion sudlarda dalil tartibi qat'iy belgilanmagan va majlislar uzluksiz bo'lmasligi mumkin.",
-      "countries": ["us", "de", "fr", "tr", "uz", "kz"]
-    },
-    {
-      "id": "fjc-profiles",
-      "type": "institutsional ma'lumot (AQSh Federal Judicial Center)",
-      "citation": "Federal Judicial Center, Judiciaries Worldwide, davlat profillari: Germany, France, Turkey, Uzbekistan, United States.",
-      "url": "https://judiciariesworldwide.fjc.gov/",
-      "supports": "Huquq tizimi turi, sudyalarni tayinlash va muddat, xalq ishtiroki. Ogohlantirish: Fransiya profili 9 hakam deydi, hozirgi CPP 296 birinchi instansiyada 6 hakamni belgilaydi (qonun ustun); Qozog'iston profili mavjud emas.",
-      "countries": ["de", "fr", "tr", "uz", "us"]
-    },
-    {
-      "id": "jahn-2020",
-      "type": "ilmiy maqola (hakamli jurnal, ochiq kirish)",
-      "citation": "Matthias Jahn va Charlotte Schmitt-Leonardy, 'The German Verständigung and Consensual Elements in German Criminal Trials', German Law Journal, 21(6), 2020, 1134–1148.",
-      "url": "https://doi.org/10.1017/glj.2020.69",
-      "supports": "Germaniyada §257c StPO bo'yicha kelishuvning (Verständigung) haqiqiy amaliyoti: rasmiy kelishuvlar 2017 yilda tuman sudlari ishlarining 0,62% va viloyat sudlari ishlarining 7,28% ini tashkil etgan; norasmiy kelishuvlar ko'p uchraydi.",
-      "countries": ["de"]
-    },
-    {
-      "id": "hans-germain-2011",
-      "type": "ilmiy maqola (hakamli huquq sharhi)",
-      "citation": "Valerie P. Hans va Claire M. Germain, 'The French Jury at a Crossroads', Chicago-Kent Law Review, 86, 2011, 737.",
-      "url": "https://scholarship.kentlaw.iit.edu/cklawreview/vol86/iss2/10/",
-      "supports": "Fransuz hakamlar hay'ati inqilobdan keyin mustaqil fuqarolar hay'atidan kasbiy sudyalar va fuqarolardan iborat aralash sudga aylangan; apellyatsiya cour d'assises, ayrim jinoyatlarni hakamlar hay'ati ko'rishidan chiqarish. Maqola 2011 yilda yozilgan, 2019 yildan keyingi cour criminelle départementale islohoti uni qamramagan; shuning uchun joriy qoidalar uchun CPP ishlatilgan.",
-      "countries": ["fr"]
-    },
-    {
-      "id": "cabar-2019",
-      "type": "tahliliy maqola (CABAR.asia, hakamli emas)",
-      "citation": "Slyamzhar Akhmedzharov (Qozog'iston strategik tadqiqotlar instituti), 'Kazakhstan: Why the Institute of Trial Jury Cannot Function in Full Power?', CABAR.asia, 3.09.2019.",
-      "url": "https://cabar.asia/en/kazakhstan-why-the-institute-of-trial-jury-cannot-function-in-full-power",
-      "supports": "Qozog'istonda hakamlar sudi (1 sudya + 10 hakam) jinoyat ishlarining 1% dan kamini ko'radi; sudya va hakamlar aybdorlik va jazo bo'yicha birga qaror qiladi; 2012–2015 yillardagi oqlov hukmlarining taxminan yarmi apellyatsiyada bekor qilingan (muallif ma'lumoti, 2019).",
-      "countries": ["kz"]
-    },
-    {
-      "id": "dudko-2019",
-      "type": "ilmiy maqola (hakamli jurnal)",
-      "citation": "Nina Dudko, Mariya Neymark, Evgeniy Petuchov, 'Trial Jury in Russian Federation and the Republic of Kazakhstan: Comparative Legal Analysis', Religación, 4(18), 2019, 90–97.",
-      "url": "https://revista.religacion.com/index.php/religacion/article/view/403",
-      "supports": "Qozog'istonda sudya va hakamlar fakt va huquq masalalarini birga hal qiladi (aralash model), Rossiyada esa fakt va huquq vakolatlari ajratilgan klassik hakamlar sudi.",
-      "countries": ["kz"]
-    },
-    {
-      "id": "yodgorov-2024",
-      "type": "rasmiy nuqtai nazar (Sudyalar oliy kengashi raisi maqolasi)",
-      "citation": "Kholmumin Yodgorov, 'The Judicial System of Uzbekistan: Reforms and Outcomes', Regional Dialogue, 7.05.2024.",
-      "url": "https://regionaldialogue.org/article/judicial-system-uzbekistan-reforms-and-outcomes",
-      "supports": "Sudyalar oliy kengashi 2017 yil fevralida tuzilgan; sudyalar ochiq tanlov orqali tanlanadi; kengash 21 a'zodan iborat (11 sudya); Oliy sudyalar maktabi 2019 yilda ochilgan. Muallif tizimning o'z rahbari, shuning uchun bu rasmiy nuqtai nazar, mustaqil baho emas.",
-      "countries": ["uz"]
-    }
-  ],
-  "unverified": [
-    {
-      "citation": "Trochev, A., 'Between Convictions and Reconciliations: Processing Criminal Cases in Kazakhstan' (Cornell International Law Journal sayti).",
-      "url": "https://ww3.lawschool.cornell.edu/research/ILJ/upload/Trochev-final.pdf",
-      "why": "PDF matnini o'qib bo'lmadi (kodirovka buzilgan); sarlavhasi qidiruv natijasida ko'rindi, mazmuni tekshirilmadi. O'qish uchun tavsiya."
-    },
-    {
-      "citation": "'New Kazakhstani quasi-jury system: Challenges, trends and reforms', ScienceDirect.",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1756061611000097",
-      "why": "Sayt avtomatik kirishni bloklaydi (403); muallif va annotatsiya tekshirilmadi."
-    },
-    {
-      "citation": "'Uzbekistan: A New Dimension of Judicial Reforms', ResearchGate.",
-      "url": "https://www.researchgate.net/publication/375081410_Uzbekistan_A_New_Dimension_of_Judicial_Reforms",
-      "why": "ResearchGate 403 xatosi; mazmuni tekshirilmadi."
-    },
-    {
-      "citation": "Turk jinoyat protsessi bo'yicha dergipark.org.tr maqolalari (masalan, TAAD, 14(53), 2023).",
-      "url": "https://dergipark.org.tr/en/download/article-file/2881540",
-      "why": "PDF matni o'qib bo'lmadi; mazmuni tekshirilmadi."
-    }
-  ],
-  "discrepancies": [
-    {
-      "topic": "Turkiya: istinaf muddati",
-      "secondary": "Bir ikkilamchi huquqiy blog 'Art. 273 CMK bo'yicha 15 kun' deb yozadi.",
-      "primary": "CMK 273(1) matni: gerekçali hukm tebliğ qilingan kundan 'iki hafta' (14 kun).",
-      "decision": "Qonun matni asos qilindi (2 hafta)."
-    },
-    {
-      "topic": "Fransiya: hakamlar soni",
-      "secondary": "FJC profili: 3 kasbiy sudya va 9 fuqaro.",
-      "primary": "CPP 296: birinchi instansiyada 6, apellyatsiyada 9 hakam; CPP 380-16/380-17: hakamlarsiz cour criminelle départementale.",
-      "decision": "Qonun matni asos qilindi; FJC ma'lumoti eskirgan deb belgilandi."
-    },
-    {
-      "topic": "O'zbekiston: sudyalar vakolat muddati",
-      "secondary": "UzA 2021 va FJC: 5 yil, 10 yil, muddatsiz.",
-      "primary": "'Sudlar to'g'risida'gi Qonun 71-modda (joriy tahrir) shuni tasdiqlaydi.",
-      "decision": "Tasdiqlandi; avvalgi 'ziddiyatli' belgi olib tashlandi."
-    }
-  ]
-}
-;
+    "updated":  "2026-10-01",
+    "note":  "Quyidagi manbalar matni ochilib, asosiy da\u0027volari o\u0027qib tekshirilgan. Academia.edu, ResearchGate va ScienceDirect avtomatik kirishni ko\u0027pincha 403 xatosi bilan bloklaydi, shuning uchun ochiq jurnal va institutsional sayt nusxalaridan foydalanildi. Ilmiy maqolalar qonun matnini almashtirmaydi: har bir sahifadagi jarayon bayoni asosiy qonun matniga asoslangan, ilmiy manbalar kontekst, tahlil va amaliyot (statistika) uchun.",
+    "verified":  [
+                     {
+                         "id":  "fjc-comparative",
+                         "type":  "institutsional ma\u0027lumot (AQSh Federal Judicial Center)",
+                         "citation":  "Federal Judicial Center, Judiciaries Worldwide, \u0027Comparative Criminal Procedure\u0027. Muallif va sana ko\u0027rsatilmagan.",
+                         "url":  "https://judiciariesworldwide.fjc.gov/comparative-criminal-procedure",
+                         "supports":  "Raqobatli (adversarial) va inkvizitsion tizimlar farqi; fuqarolik huquqi mamlakatlarida aralash sudlar (kasbiy sudyalar + xalq vakillari); AQShda plea bargaining keng, boshqa ko\u0027p mamlakatlarda cheklangan; inkvizitsion sudlarda dalil tartibi qat\u0027iy belgilanmagan va majlislar uzluksiz bo\u0027lmasligi mumkin.",
+                         "countries":  [
+                                           "us",
+                                           "de",
+                                           "fr",
+                                           "tr",
+                                           "uz",
+                                           "kz"
+                                       ]
+                     },
+                     {
+                         "id":  "fjc-profiles",
+                         "type":  "institutsional ma\u0027lumot (AQSh Federal Judicial Center)",
+                         "citation":  "Federal Judicial Center, Judiciaries Worldwide, davlat profillari: Germany, France, Turkey, Uzbekistan, United States.",
+                         "url":  "https://judiciariesworldwide.fjc.gov/",
+                         "supports":  "Huquq tizimi turi, sudyalarni tayinlash va muddat, xalq ishtiroki. Ogohlantirish: Fransiya profili 9 hakam deydi, hozirgi CPP 296 birinchi instansiyada 6 hakamni belgilaydi (qonun ustun); Qozog\u0027iston profili mavjud emas.",
+                         "countries":  [
+                                           "de",
+                                           "fr",
+                                           "tr",
+                                           "uz",
+                                           "us"
+                                       ]
+                     },
+                     {
+                         "id":  "jahn-2020",
+                         "type":  "ilmiy maqola (hakamli jurnal, ochiq kirish)",
+                         "citation":  "Matthias Jahn va Charlotte Schmitt-Leonardy, \u0027The German Verständigung and Consensual Elements in German Criminal Trials\u0027, German Law Journal, 21(6), 2020, 1134–1148.",
+                         "url":  "https://doi.org/10.1017/glj.2020.69",
+                         "supports":  "Germaniyada §257c StPO bo\u0027yicha kelishuvning (Verständigung) haqiqiy amaliyoti: rasmiy kelishuvlar 2017 yilda tuman sudlari ishlarining 0,62% va viloyat sudlari ishlarining 7,28% ini tashkil etgan; norasmiy kelishuvlar ko\u0027p uchraydi.",
+                         "countries":  [
+                                           "de"
+                                       ]
+                     },
+                     {
+                         "id":  "hans-germain-2011",
+                         "type":  "ilmiy maqola (hakamli huquq sharhi)",
+                         "citation":  "Valerie P. Hans va Claire M. Germain, \u0027The French Jury at a Crossroads\u0027, Chicago-Kent Law Review, 86, 2011, 737.",
+                         "url":  "https://scholarship.kentlaw.iit.edu/cklawreview/vol86/iss2/10/",
+                         "supports":  "Fransuz hakamlar hay\u0027ati inqilobdan keyin mustaqil fuqarolar hay\u0027atidan kasbiy sudyalar va fuqarolardan iborat aralash sudga aylangan; apellyatsiya cour d\u0027assises, ayrim jinoyatlarni hakamlar hay\u0027ati ko\u0027rishidan chiqarish. Maqola 2011 yilda yozilgan, 2019 yildan keyingi cour criminelle départementale islohoti uni qamramagan; shuning uchun joriy qoidalar uchun CPP ishlatilgan.",
+                         "countries":  [
+                                           "fr"
+                                       ]
+                     },
+                     {
+                         "id":  "cabar-2019",
+                         "type":  "tahliliy maqola (CABAR.asia, hakamli emas)",
+                         "citation":  "Slyamzhar Akhmedzharov (Qozog\u0027iston strategik tadqiqotlar instituti), \u0027Kazakhstan: Why the Institute of Trial Jury Cannot Function in Full Power?\u0027, CABAR.asia, 3.09.2019.",
+                         "url":  "https://cabar.asia/en/kazakhstan-why-the-institute-of-trial-jury-cannot-function-in-full-power",
+                         "supports":  "Qozog\u0027istonda hakamlar sudi (1 sudya + 10 hakam) jinoyat ishlarining 1% dan kamini ko\u0027radi; sudya va hakamlar aybdorlik va jazo bo\u0027yicha birga qaror qiladi; 2012–2015 yillardagi oqlov hukmlarining taxminan yarmi apellyatsiyada bekor qilingan (muallif ma\u0027lumoti, 2019).",
+                         "countries":  [
+                                           "kz"
+                                       ]
+                     },
+                     {
+                         "id":  "dudko-2019",
+                         "type":  "ilmiy maqola (hakamli jurnal)",
+                         "citation":  "Nina Dudko, Mariya Neymark, Evgeniy Petuchov, \u0027Trial Jury in Russian Federation and the Republic of Kazakhstan: Comparative Legal Analysis\u0027, Religación, 4(18), 2019, 90–97.",
+                         "url":  "https://revista.religacion.com/index.php/religacion/article/view/403",
+                         "supports":  "Qozog\u0027istonda sudya va hakamlar fakt va huquq masalalarini birga hal qiladi (aralash model), Rossiyada esa fakt va huquq vakolatlari ajratilgan klassik hakamlar sudi.",
+                         "countries":  [
+                                           "kz"
+                                       ]
+                     },
+                     {
+                         "id":  "yodgorov-2024",
+                         "type":  "rasmiy nuqtai nazar (Sudyalar oliy kengashi raisi maqolasi)",
+                         "citation":  "Kholmumin Yodgorov, \u0027The Judicial System of Uzbekistan: Reforms and Outcomes\u0027, Regional Dialogue, 7.05.2024.",
+                         "url":  "https://regionaldialogue.org/article/judicial-system-uzbekistan-reforms-and-outcomes",
+                         "supports":  "Sudyalar oliy kengashi 2017 yil fevralida tuzilgan; sudyalar ochiq tanlov orqali tanlanadi; kengash 21 a\u0027zodan iborat (11 sudya); Oliy sudyalar maktabi 2019 yilda ochilgan. Muallif tizimning o\u0027z rahbari, shuning uchun bu rasmiy nuqtai nazar, mustaqil baho emas.",
+                         "countries":  [
+                                           "uz"
+                                       ]
+                     },
+                     {
+                         "id":  "uscourts-handbook",
+                         "type":  "rasmiy qo\u0027llanma (AQSh federal sudlar ma\u0027muriy idorasi)",
+                         "citation":  "Administrative Office of the U.S. Courts, Handbook for Trial Jurors Serving in the United States District Courts.",
+                         "url":  "https://www.uscourts.gov/sites/default/files/trial-handbook.pdf",
+                         "supports":  "Hakamlar uchun sud bosqichlari tavsifi: kirish nutqlari, dalillar, yakuniy nutqlar, sudyaning ko\u0027rsatmasi, maslahat va hukm. Sakkiz bosqich fuqarolik ishlari uchun keltirilgan; hakamlarga mo\u0027ljallangan umumiy tushuntirish, qonun emas.",
+                         "countries":  [
+                                           "us"
+                                       ]
+                     },
+                     {
+                         "id":  "globalex-kz",
+                         "type":  "ma\u0027lumot qo\u0027llanma (NYU Globalex)",
+                         "citation":  "Oleg Stalbovsky va Maria Stalbovskaya, \u0027Laws of the Republic of Kazakhstan: A Guide to Web Based Resources\u0027, Globalex, 2006.",
+                         "url":  "https://www.nyulawglobal.org/globalex/kazakhstan.html",
+                         "supports":  "Qozog\u0027iston huquq tizimi kontinental (Rim-german) oilasiga mansub, Rossiya va Sovet huquq nazariyasi ta\u0027sirida. 2006 yilgi qo\u0027llanma: sud tizimi qismi eskirgan, faqat tasnif uchun ishlatildi.",
+                         "countries":  [
+                                           "kz"
+                                       ]
+                     }
+                 ],
+    "unverified":  [
+                       {
+                           "citation":  "Trochev, A., \u0027Between Convictions and Reconciliations: Processing Criminal Cases in Kazakhstan\u0027 (Cornell International Law Journal sayti).",
+                           "url":  "https://ww3.lawschool.cornell.edu/research/ILJ/upload/Trochev-final.pdf",
+                           "why":  "PDF matnini o\u0027qib bo\u0027lmadi (kodirovka buzilgan); sarlavhasi qidiruv natijasida ko\u0027rindi, mazmuni tekshirilmadi. O\u0027qish uchun tavsiya."
+                       },
+                       {
+                           "citation":  "\u0027New Kazakhstani quasi-jury system: Challenges, trends and reforms\u0027, ScienceDirect.",
+                           "url":  "https://www.sciencedirect.com/science/article/abs/pii/S1756061611000097",
+                           "why":  "Sayt avtomatik kirishni bloklaydi (403); muallif va annotatsiya tekshirilmadi."
+                       },
+                       {
+                           "citation":  "\u0027Uzbekistan: A New Dimension of Judicial Reforms\u0027, ResearchGate.",
+                           "url":  "https://www.researchgate.net/publication/375081410_Uzbekistan_A_New_Dimension_of_Judicial_Reforms",
+                           "why":  "ResearchGate 403 xatosi; mazmuni tekshirilmadi."
+                       },
+                       {
+                           "citation":  "Turk jinoyat protsessi bo\u0027yicha dergipark.org.tr maqolalari (masalan, TAAD, 14(53), 2023).",
+                           "url":  "https://dergipark.org.tr/en/download/article-file/2881540",
+                           "why":  "PDF matni o\u0027qib bo\u0027lmadi; mazmuni tekshirilmadi."
+                       }
+                   ],
+    "discrepancies":  [
+                          {
+                              "topic":  "Turkiya: istinaf muddati",
+                              "secondary":  "Bir ikkilamchi huquqiy blog \u0027Art. 273 CMK bo\u0027yicha 15 kun\u0027 deb yozadi.",
+                              "primary":  "CMK 273(1) matni: gerekçali hukm tebliğ qilingan kundan \u0027iki hafta\u0027 (14 kun).",
+                              "decision":  "Qonun matni asos qilindi (2 hafta)."
+                          },
+                          {
+                              "topic":  "Fransiya: hakamlar soni",
+                              "secondary":  "FJC profili: 3 kasbiy sudya va 9 fuqaro.",
+                              "primary":  "CPP 296: birinchi instansiyada 6, apellyatsiyada 9 hakam; CPP 380-16/380-17: hakamlarsiz cour criminelle départementale.",
+                              "decision":  "Qonun matni asos qilindi; FJC ma\u0027lumoti eskirgan deb belgilandi."
+                          },
+                          {
+                              "topic":  "O\u0027zbekiston: sudyalar vakolat muddati",
+                              "secondary":  "UzA 2021 va FJC: 5 yil, 10 yil, muddatsiz.",
+                              "primary":  "\u0027Sudlar to\u0027g\u0027risida\u0027gi Qonun 71-modda (joriy tahrir) shuni tasdiqlaydi.",
+                              "decision":  "Tasdiqlandi; avvalgi \u0027ziddiyatli\u0027 belgi olib tashlandi."
+                          }
+                      ]
+};
 window.GLOSSARY = {
   "note": "Atamalar loyiha ichida ishlatilgan tarjimalarga mos keladi. Rasmiy o'zbekcha muqobili bo'lmagan atamalarda asl atama saqlangan. Huquqshunos tomonidan tasdiqlanishi kerak.",
   "terms": [
