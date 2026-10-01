@@ -4,42 +4,48 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Sud tizimlari solishtiruvi</title>
+<meta name="description" content="O'zbekiston va xorijiy davlatlarda jinoyat ishi bo'yicha sud jarayonini bosqichma-bosqich solishtirish: Qozog'iston, Turkiya, Germaniya, Fransiya, AQSh, Buyuk Britaniya.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23173a5e'/%3E%3Cpath d='M32 12v34M18 20h28M22 20l-8 16h16zM42 20l-8 16h16zM22 50h20' stroke='%23f2c14e' stroke-width='3.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<header>
-  <h1>Sud tizimlari solishtiruvi</h1>
-  <p>O'zbekiston va xorijiy davlatlar sud tizimlarini manbalar asosida solishtiring.</p>
-</header>
-<div class="warn" role="note">
-  <b>Diqqat:</b> o'zbekcha bayonlar asosiy qonun matnlaridan bu loyiha doirasida o'girilgan va hali huquqshunos tekshiruvidan o'tmagan. Rasmiy tarjima emas, huquqiy maslahat ham emas. Muhim muddatlar va moddalarni foydalanishdan oldin rasmiy manbada tekshiring (har bir qatorda havola bor).
+<div class="shell">
+  <aside class="side" id="side">
+    <a class="brand" href="#/home">
+      <span class="logo" aria-hidden="true">
+        <svg viewBox="0 0 64 64" width="28" height="28"><path d="M32 12v34M18 20h28M22 20l-8 16h16zM42 20l-8 16h16zM22 50h20" stroke="currentColor" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <span class="brand-t">Sud tizimlari<br><b>solishtiruvi</b></span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Bo'limlar">
+      <a href="#/home" data-tab="home"><i>🏠</i><span>Bosh sahifa</span></a>
+      <a href="#/procedure" data-tab="procedure"><i>⚖️</i><span>Sud jarayoni</span></a>
+      <a href="#/system" data-tab="system"><i>🏛️</i><span>Sud tizimi</span></a>
+      <a href="#/scholarship" data-tab="scholarship"><i>📚</i><span>Ilmiy manbalar</span></a>
+      <a href="#/glossary" data-tab="glossary"><i>🔤</i><span>Atamalar lug'ati</span></a>
+    </nav>
+    <section class="side-block" id="sideCompare">
+      <h4>Davlatlar</h4>
+      <div id="picker" class="chips"></div>
+      <div class="quick">
+        <button type="button" id="selAll">Hammasi</button>
+        <button type="button" id="selNone">Tozalash</button>
+      </div>
+      <label class="sw"><input type="checkbox" id="onlyDiff"><span></span> Faqat farqlar</label>
+      <label class="sw"><input type="checkbox" id="onlyVerified"><span></span> Faqat tasdiqlangan</label>
+    </section>
+    <p class="side-foot">© 2026 Sud tizimlari solishtiruvi loyihasi<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a></p>
+  </aside>
+
+  <div class="main">
+    <div class="warn" role="note"><b>Diqqat:</b> o'zbekcha bayonlar qonun matnlaridan bu loyiha doirasida o'girilgan va hali huquqshunos tekshiruvidan o'tmagan. Rasmiy tarjima ham, huquqiy maslahat ham emas. Muhim muddat va moddalarni rasmiy manbada tekshiring.</div>
+    <main id="view"></main>
+    <footer class="foot">
+      <p>Ma'lumot xarakteridagi material. Qonunlar o'zgaradi, har bir qatorda manba va olingan sana ko'rsatilgan.</p>
+      <p>Loyiha kodi va ma'lumotlari: <a href="https://github.com/Ismoilov713/sources.uz" target="_blank" rel="noopener">GitHub</a>.</p>
+    </footer>
+  </div>
 </div>
-<main>
-  <nav class="tabs">
-    <button class="tab active" data-tab="procedure">Jinoyat ishi bo'yicha sud jarayoni</button>
-    <button class="tab" data-tab="system">Sud tizimi (umumiy)</button>
-    <button class="tab" data-tab="scholarship">Ilmiy manbalar</button>
-    <button class="tab" data-tab="glossary">Atamalar lug'ati</button>
-  </nav>
-  <p id="intro" class="intro"></p>
-  <section class="controls" id="controls">
-    <label>Davlatlar:
-      <span id="picker"></span>
-    </label>
-    <label class="check"><input type="checkbox" id="onlyDiff"> Faqat farqlarni ko'rsat</label>
-    <label class="check"><input type="checkbox" id="onlyVerified"> Faqat tasdiqlangan ma'lumot</label>
-  </section>
-  <section id="legend" class="legend">
-    <span class="badge tasdiqlangan">tasdiqlangan</span> asosiy manba moddasi bilan
-    <span class="badge tekshirilmagan">tekshirilmagan</span> manba kutilmoqda
-    <span class="badge ziddiyatli">ziddiyatli</span> manbalar mos kelmaydi
-  </section>
-  <div id="table"></div>
-</main>
-<footer>
-  <p>© 2026 Sud tizimlari solishtiruvi loyihasi. Litsenziya: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a> (muallifni ko'rsating, tijoriy maqsadda ishlatmang, o'zgartirishni shu litsenziya bilan tarqating).</p>
-  <p>Ma'lumot xarakteridagi material, huquqiy maslahat emas. Qonunlar o'zgaradi, har bir qatorda manba va olingan sana ko'rsatilgan.</p>
-</footer>
 <script src="data/bundle.js"></script>
 <script src="assets/app.js"></script>
 </body>
