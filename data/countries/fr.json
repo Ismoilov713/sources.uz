@@ -64,12 +64,18 @@
                                                            ]
                                            },
                      "judge_term":  {
-                                        "summary":  "Sudyalar lavozimda Konstitutsiya himoyasida; majburiy nafaqa yoshi 67 (ba\u0027zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi (FJC). Manba ikkilamchi.",
-                                        "status":  "tekshirilmagan",
+                                        "summary":  "Sudyalar (magistrats du siège) o\u0027rnidan siljitilmaydi (inamovibles): ularni ularning roziligisiz boshqa lavozimga o\u0027tkazib bo\u0027lmaydi; magistratlar maqomi organik qonun bilan belgilanadi (Konstitutsiya Art. 64). Majburiy nafaqa yoshi 67 (ba\u0027zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi. Bu yosh haqidagi ma\u0027lumot Federal Judicial Center (ikkilamchi manba) dan olingan, organik qonun (ordonnance 58-1270) matnidan alohida tekshirilmagan.",
+                                        "status":  "tasdiqlangan",
                                         "sources":  [
                                                         {
+                                                            "title":  "Konstitutsiya (1958)",
+                                                            "ref":  "Art. 64",
+                                                            "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+                                                            "retrieved":  "2026-10-01"
+                                                        },
+                                                        {
                                                             "title":  "FJC, Judiciaries Worldwide: France",
-                                                            "ref":  "judicial tenure",
+                                                            "ref":  "nafaqa yoshi (ikkilamchi)",
                                                             "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
                                                             "retrieved":  "2026-10-01"
                                                         }

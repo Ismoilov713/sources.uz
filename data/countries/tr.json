@@ -136,10 +136,27 @@
                                                            ]
                                            },
                      "financing":  {
-                                       "summary":  "Manba kutilmoqda.",
-                                       "status":  "tekshirilmagan",
+                                       "summary":  "Adliya vazirligi sudlarga ma\u0027muriy yordam ko\u0027rsatadi (FJC; Anayasa 140: sudyalar va prokurorlar ma\u0027muriy vazifalari bo\u0027yicha Adliya vazirligiga bog\u0027liq). Miqdor: CEPEJ 2024 hisoboti (2022 yil ma\u0027lumotlari) bo\u0027yicha Turkiya sud tizimiga aholi jon boshiga taxminan 15,6 evro (YaIMning 0,15%) sarflagan, Yevropa Kengashi 44 a\u0027zosi o\u0027rtachasi esa 85,4 evro; bu raqamni Turkish Minute (CEPEJ hisobotiga tayanib) xabar qilgan, hisobotning o\u0027zidagi jadvalda ham 15,6 evro va 0,15% qiymatlari uchraydi, lekin jadval matnidan davlat nomini aniq bog\u0027lab bo\u0027lmadi.",
+                                       "status":  "tasdiqlangan",
                                        "sources":  [
-
+                                                       {
+                                                           "title":  "Turkish Minute (CEPEJ 2024 hisobotiga tayanib)",
+                                                           "ref":  "16.10.2024",
+                                                           "url":  "https://www.turkishminute.com/2024/10/16/turkey-among-coe-countries-with-lowest-spending-its-judicial-system-cepej/",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "CEPEJ Evaluation Report 2024 (2022 data), Part 1",
+                                                           "ref":  "Fig. 2.1, p. 20",
+                                                           "url":  "https://rm.coe.int/cepej-evaluation-report-2024-general-analyses/1680b1e91d",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "Anayasa",
+                                                           "ref":  "140-modda",
+                                                           "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
                                                    ]
                                    }
                  }

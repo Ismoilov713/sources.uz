@@ -40,10 +40,21 @@
                                                    ]
                                    },
                      "constitutional_review":  {
-                                                   "summary":  "Manba kutilmoqda.",
-                                                   "status":  "tekshirilmagan",
+                                                   "summary":  "Konstitutsiyada sudlarga qonunni bekor qilish vakolati ochiq yozilmagan: III modda sud hokimiyatini Konstitutsiya, federal qonunlar va shartnomalar asosida kelib chiqadigan barcha ishlarga yoyadi (Art. III §2). Sud nazorati (judicial review) Marbury v. Madison (1803) qarori bilan o\u0027rnatilgan: \u0027sud hokimiyatining burchi qonun nima ekanini aytishdir; agar qonun Konstitutsiyaga zid bo\u0027lsa, sud Konstitutsiyaga amal qiladi\u0027. Konstitutsiyaviy masalani alohida konstitutsiyaviy sud emas, odatdagi sudlar (shu jumladan AQSh Oliy sudi) konkret ishni hal qilish doirasida ko\u0027radi.",
+                                                   "status":  "tasdiqlangan",
                                                    "sources":  [
-
+                                                                   {
+                                                                       "title":  "AQSh Konstitutsiyasi, III modda",
+                                                                       "ref":  "§2",
+                                                                       "url":  "https://www.law.cornell.edu/constitution/articleiii",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   },
+                                                                   {
+                                                                       "title":  "Marbury v. Madison, 5 U.S. 137 (1803)",
+                                                                       "ref":  "",
+                                                                       "url":  "https://www.law.cornell.edu/supremecourt/text/5/137",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   }
                                                                ]
                                                },
                      "judge_appointment":  {
@@ -113,10 +124,21 @@
                                                                ]
                                                },
                      "judicial_council":  {
-                                              "summary":  "Manba kutilmoqda.",
-                                              "status":  "tekshirilmagan",
+                                              "summary":  "Federal sudyalar o\u0027zini o\u0027zi boshqarish organlari: AQSh Bosh sudyasi raisligida Federal sudlar Konferensiyasi (Judicial Conference of the United States): u har bir circuitning bosh sudyasi, Xalqaro savdo sudi bosh sudyasi va har circuitdan okrug sudyasidan iborat; okrug sudyasini circuitning sudyalari 3–5 yilga saylaydi (28 U.S.C. §331). Har bir circuitda sudya kengashi (judicial council) sud ishlarini samarali boshqarish uchun buyruqlar chiqaradi (28 U.S.C. §332). Bu organlar sudyalarni tayinlamaydi (tayinlashni Prezident va Senat qiladi), sud ma\u0027muriyatini boshqarishga tegishli.",
+                                              "status":  "tasdiqlangan",
                                               "sources":  [
-
+                                                              {
+                                                                  "title":  "28 U.S.C. §331",
+                                                                  "ref":  "",
+                                                                  "url":  "https://www.law.cornell.edu/uscode/text/28/331",
+                                                                  "retrieved":  "2026-10-01"
+                                                              },
+                                                              {
+                                                                  "title":  "28 U.S.C. §332",
+                                                                  "ref":  "",
+                                                                  "url":  "https://www.law.cornell.edu/uscode/text/28/332",
+                                                                  "retrieved":  "2026-10-01"
+                                                              }
                                                           ]
                                           },
                      "public_participation":  {
@@ -138,22 +160,45 @@
                                                               ]
                                               },
                      "openness_language":  {
-                                               "summary":  "6-tuzatish ayblanuvchiga \u0027tezkor va ochiq sud\u0027 huquqini beradi. Sud ishi tili bo\u0027yicha manba kutilmoqda.",
-                                               "status":  "tekshirilmagan",
+                                               "summary":  "Ayblanuvchi \u0027tezkor va ochiq sud\u0027 huquqiga ega (6-tuzatish). Federal jinoyat sudlarida sud majlisi zalida fotosuratga olish va majlisni efirga uzatish, qonun yoki qoida boshqacha belgilamasa, taqiqlanadi (FRCrP Rule 53). Ingliz tilini bilmaydigan yoki eshitish nuqsoni bor shaxslarga sertifikatlangan tarjimon xizmati AQSh sudlarining ma\u0027muriy idorasi dasturi orqali ta\u0027minlanadi (28 U.S.C. §1827).",
+                                               "status":  "tasdiqlangan",
                                                "sources":  [
                                                                {
                                                                    "title":  "AQSh Konstitutsiyasi, 6-tuzatish",
                                                                    "ref":  "",
                                                                    "url":  "https://www.law.cornell.edu/constitution/sixth_amendment",
                                                                    "retrieved":  "2026-10-01"
+                                                               },
+                                                               {
+                                                                   "title":  "FRCrP",
+                                                                   "ref":  "Rule 53",
+                                                                   "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_53",
+                                                                   "retrieved":  "2026-10-01"
+                                                               },
+                                                               {
+                                                                   "title":  "28 U.S.C. §1827",
+                                                                   "ref":  "(a)-(b)",
+                                                                   "url":  "https://www.law.cornell.edu/uscode/text/28/1827",
+                                                                   "retrieved":  "2026-10-01"
                                                                }
                                                            ]
                                            },
                      "financing":  {
-                                       "summary":  "Manba kutilmoqda.",
-                                       "status":  "tekshirilmagan",
+                                       "summary":  "Federal sudlarning yillik xarajat va ajratmalar smetasini AQSh sudlarining ma\u0027muriy idorasi direktori Federal sudlar Konferensiyasi nazorati ostida tayyorlab, Boshqaruv va byudjet idorasiga (OMB) topshiradi; smeta taqdim etilishidan oldin Konferensiya tomonidan tasdiqlanadi (28 U.S.C. §605). Federal sudyalarning maoshi lavozimda turgan davrda kamaytirilmaydi (Konstitutsiya, Art. III §1).",
+                                       "status":  "tasdiqlangan",
                                        "sources":  [
-
+                                                       {
+                                                           "title":  "28 U.S.C. §605",
+                                                           "ref":  "",
+                                                           "url":  "https://www.law.cornell.edu/uscode/text/28/605",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "AQSh Konstitutsiyasi, III modda",
+                                                           "ref":  "§1",
+                                                           "url":  "https://www.law.cornell.edu/constitution/articleiii",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
                                                    ]
                                    }
                  }

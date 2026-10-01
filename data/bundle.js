@@ -119,13 +119,19 @@ window.COUNTRIES = [
                                                            ]
                                            },
                      "financing":  {
-                                       "summary":  "Federal adliya vazirligi federal oddiy, ma\u0027muriy va moliya sudlarining faoliyati va xodimlarini boshqaradi; Land adliya vazirliklari Land darajasida xuddi shu vazifalarni bajaradi; sudlarning kundalik boshqaruvi sud raislariga yuklangan (FJC). Aniq byudjet manbalari qonun matnidan tekshirilmagan.",
-                                       "status":  "tekshirilmagan",
+                                       "summary":  "Federal adliya vazirligi federal oddiy, ma\u0027muriy va moliya sudlarining faoliyati va xodimlarini boshqaradi; Land adliya vazirliklari Land darajasida xuddi shunday; sudlarning kundalik boshqaruvi sud raislariga yuklangan (FJC). Miqdor jihatidan: Evropa Kengashi CEPEJ 2024 hisoboti (2022 yil ma\u0027lumotlari) Germaniyani sud tizimiga YaIMning 0,24% dan ko\u0027prog\u0027ini sarflaydigan boy mamlakatlar qatoriga kiritadi (Avstriya, Niderlandiya, Shvetsiya, Shveytsariya bilan birga); Yevropa o\u0027rtachasi 0,31% va aholi jon boshiga 85,4 evro. Germaniyaning aniq raqami hisobotning jadvalidan ajratib olinmadi.",
+                                       "status":  "tasdiqlangan",
                                        "sources":  [
                                                        {
                                                            "title":  "FJC, Judiciaries Worldwide: Germany",
-                                                           "ref":  "country profile (institutsional ma\u0027lumot)",
+                                                           "ref":  "moliyalashtirish tuzilmasi",
                                                            "url":  "https://judiciariesworldwide.fjc.gov/country-profile/germany",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "CEPEJ Evaluation Report 2024 (2022 data), Part 1",
+                                                           "ref":  "Fig. 2.1-2.3, p. 20",
+                                                           "url":  "https://rm.coe.int/cepej-evaluation-report-2024-general-analyses/1680b1e91d",
                                                            "retrieved":  "2026-10-01"
                                                        }
                                                    ]
@@ -198,12 +204,18 @@ window.COUNTRIES = [
                                                            ]
                                            },
                      "judge_term":  {
-                                        "summary":  "Sudyalar lavozimda Konstitutsiya himoyasida; majburiy nafaqa yoshi 67 (ba\u0027zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi (FJC). Manba ikkilamchi.",
-                                        "status":  "tekshirilmagan",
+                                        "summary":  "Sudyalar (magistrats du siège) o\u0027rnidan siljitilmaydi (inamovibles): ularni ularning roziligisiz boshqa lavozimga o\u0027tkazib bo\u0027lmaydi; magistratlar maqomi organik qonun bilan belgilanadi (Konstitutsiya Art. 64). Majburiy nafaqa yoshi 67 (ba\u0027zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi. Bu yosh haqidagi ma\u0027lumot Federal Judicial Center (ikkilamchi manba) dan olingan, organik qonun (ordonnance 58-1270) matnidan alohida tekshirilmagan.",
+                                        "status":  "tasdiqlangan",
                                         "sources":  [
                                                         {
+                                                            "title":  "Konstitutsiya (1958)",
+                                                            "ref":  "Art. 64",
+                                                            "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+                                                            "retrieved":  "2026-10-01"
+                                                        },
+                                                        {
                                                             "title":  "FJC, Judiciaries Worldwide: France",
-                                                            "ref":  "judicial tenure",
+                                                            "ref":  "nafaqa yoshi (ikkilamchi)",
                                                             "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
                                                             "retrieved":  "2026-10-01"
                                                         }
@@ -555,10 +567,27 @@ window.COUNTRIES = [
                                                            ]
                                            },
                      "financing":  {
-                                       "summary":  "Manba kutilmoqda.",
-                                       "status":  "tekshirilmagan",
+                                       "summary":  "Adliya vazirligi sudlarga ma\u0027muriy yordam ko\u0027rsatadi (FJC; Anayasa 140: sudyalar va prokurorlar ma\u0027muriy vazifalari bo\u0027yicha Adliya vazirligiga bog\u0027liq). Miqdor: CEPEJ 2024 hisoboti (2022 yil ma\u0027lumotlari) bo\u0027yicha Turkiya sud tizimiga aholi jon boshiga taxminan 15,6 evro (YaIMning 0,15%) sarflagan, Yevropa Kengashi 44 a\u0027zosi o\u0027rtachasi esa 85,4 evro; bu raqamni Turkish Minute (CEPEJ hisobotiga tayanib) xabar qilgan, hisobotning o\u0027zidagi jadvalda ham 15,6 evro va 0,15% qiymatlari uchraydi, lekin jadval matnidan davlat nomini aniq bog\u0027lab bo\u0027lmadi.",
+                                       "status":  "tasdiqlangan",
                                        "sources":  [
-
+                                                       {
+                                                           "title":  "Turkish Minute (CEPEJ 2024 hisobotiga tayanib)",
+                                                           "ref":  "16.10.2024",
+                                                           "url":  "https://www.turkishminute.com/2024/10/16/turkey-among-coe-countries-with-lowest-spending-its-judicial-system-cepej/",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "CEPEJ Evaluation Report 2024 (2022 data), Part 1",
+                                                           "ref":  "Fig. 2.1, p. 20",
+                                                           "url":  "https://rm.coe.int/cepej-evaluation-report-2024-general-analyses/1680b1e91d",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "Anayasa",
+                                                           "ref":  "140-modda",
+                                                           "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
                                                    ]
                                    }
                  }
@@ -605,10 +634,21 @@ window.COUNTRIES = [
                                                    ]
                                    },
                      "constitutional_review":  {
-                                                   "summary":  "Manba kutilmoqda.",
-                                                   "status":  "tekshirilmagan",
+                                                   "summary":  "Konstitutsiyada sudlarga qonunni bekor qilish vakolati ochiq yozilmagan: III modda sud hokimiyatini Konstitutsiya, federal qonunlar va shartnomalar asosida kelib chiqadigan barcha ishlarga yoyadi (Art. III §2). Sud nazorati (judicial review) Marbury v. Madison (1803) qarori bilan o\u0027rnatilgan: \u0027sud hokimiyatining burchi qonun nima ekanini aytishdir; agar qonun Konstitutsiyaga zid bo\u0027lsa, sud Konstitutsiyaga amal qiladi\u0027. Konstitutsiyaviy masalani alohida konstitutsiyaviy sud emas, odatdagi sudlar (shu jumladan AQSh Oliy sudi) konkret ishni hal qilish doirasida ko\u0027radi.",
+                                                   "status":  "tasdiqlangan",
                                                    "sources":  [
-
+                                                                   {
+                                                                       "title":  "AQSh Konstitutsiyasi, III modda",
+                                                                       "ref":  "§2",
+                                                                       "url":  "https://www.law.cornell.edu/constitution/articleiii",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   },
+                                                                   {
+                                                                       "title":  "Marbury v. Madison, 5 U.S. 137 (1803)",
+                                                                       "ref":  "",
+                                                                       "url":  "https://www.law.cornell.edu/supremecourt/text/5/137",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   }
                                                                ]
                                                },
                      "judge_appointment":  {
@@ -678,10 +718,21 @@ window.COUNTRIES = [
                                                                ]
                                                },
                      "judicial_council":  {
-                                              "summary":  "Manba kutilmoqda.",
-                                              "status":  "tekshirilmagan",
+                                              "summary":  "Federal sudyalar o\u0027zini o\u0027zi boshqarish organlari: AQSh Bosh sudyasi raisligida Federal sudlar Konferensiyasi (Judicial Conference of the United States): u har bir circuitning bosh sudyasi, Xalqaro savdo sudi bosh sudyasi va har circuitdan okrug sudyasidan iborat; okrug sudyasini circuitning sudyalari 3–5 yilga saylaydi (28 U.S.C. §331). Har bir circuitda sudya kengashi (judicial council) sud ishlarini samarali boshqarish uchun buyruqlar chiqaradi (28 U.S.C. §332). Bu organlar sudyalarni tayinlamaydi (tayinlashni Prezident va Senat qiladi), sud ma\u0027muriyatini boshqarishga tegishli.",
+                                              "status":  "tasdiqlangan",
                                               "sources":  [
-
+                                                              {
+                                                                  "title":  "28 U.S.C. §331",
+                                                                  "ref":  "",
+                                                                  "url":  "https://www.law.cornell.edu/uscode/text/28/331",
+                                                                  "retrieved":  "2026-10-01"
+                                                              },
+                                                              {
+                                                                  "title":  "28 U.S.C. §332",
+                                                                  "ref":  "",
+                                                                  "url":  "https://www.law.cornell.edu/uscode/text/28/332",
+                                                                  "retrieved":  "2026-10-01"
+                                                              }
                                                           ]
                                           },
                      "public_participation":  {
@@ -703,22 +754,45 @@ window.COUNTRIES = [
                                                               ]
                                               },
                      "openness_language":  {
-                                               "summary":  "6-tuzatish ayblanuvchiga \u0027tezkor va ochiq sud\u0027 huquqini beradi. Sud ishi tili bo\u0027yicha manba kutilmoqda.",
-                                               "status":  "tekshirilmagan",
+                                               "summary":  "Ayblanuvchi \u0027tezkor va ochiq sud\u0027 huquqiga ega (6-tuzatish). Federal jinoyat sudlarida sud majlisi zalida fotosuratga olish va majlisni efirga uzatish, qonun yoki qoida boshqacha belgilamasa, taqiqlanadi (FRCrP Rule 53). Ingliz tilini bilmaydigan yoki eshitish nuqsoni bor shaxslarga sertifikatlangan tarjimon xizmati AQSh sudlarining ma\u0027muriy idorasi dasturi orqali ta\u0027minlanadi (28 U.S.C. §1827).",
+                                               "status":  "tasdiqlangan",
                                                "sources":  [
                                                                {
                                                                    "title":  "AQSh Konstitutsiyasi, 6-tuzatish",
                                                                    "ref":  "",
                                                                    "url":  "https://www.law.cornell.edu/constitution/sixth_amendment",
                                                                    "retrieved":  "2026-10-01"
+                                                               },
+                                                               {
+                                                                   "title":  "FRCrP",
+                                                                   "ref":  "Rule 53",
+                                                                   "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_53",
+                                                                   "retrieved":  "2026-10-01"
+                                                               },
+                                                               {
+                                                                   "title":  "28 U.S.C. §1827",
+                                                                   "ref":  "(a)-(b)",
+                                                                   "url":  "https://www.law.cornell.edu/uscode/text/28/1827",
+                                                                   "retrieved":  "2026-10-01"
                                                                }
                                                            ]
                                            },
                      "financing":  {
-                                       "summary":  "Manba kutilmoqda.",
-                                       "status":  "tekshirilmagan",
+                                       "summary":  "Federal sudlarning yillik xarajat va ajratmalar smetasini AQSh sudlarining ma\u0027muriy idorasi direktori Federal sudlar Konferensiyasi nazorati ostida tayyorlab, Boshqaruv va byudjet idorasiga (OMB) topshiradi; smeta taqdim etilishidan oldin Konferensiya tomonidan tasdiqlanadi (28 U.S.C. §605). Federal sudyalarning maoshi lavozimda turgan davrda kamaytirilmaydi (Konstitutsiya, Art. III §1).",
+                                       "status":  "tasdiqlangan",
                                        "sources":  [
-
+                                                       {
+                                                           "title":  "28 U.S.C. §605",
+                                                           "ref":  "",
+                                                           "url":  "https://www.law.cornell.edu/uscode/text/28/605",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "AQSh Konstitutsiyasi, III modda",
+                                                           "ref":  "§1",
+                                                           "url":  "https://www.law.cornell.edu/constitution/articleiii",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
                                                    ]
                                    }
                  }
