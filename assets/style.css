@@ -143,3 +143,7 @@ h1,h2,h3,h4{line-height:1.25;margin:0}
   .cols{grid-template-columns:1fr}
 }
 @media print{.side,.warn{display:none}.shell{display:block}.cell{break-inside:avoid}}
+.arts{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:10px 0 2px;font-size:.78rem}
+.arts>span{color:var(--mut);font-weight:600;margin-right:2px}
+.art{display:inline-block;padding:3px 9px;border-radius:99px;background:color-mix(in srgb,var(--c) 14%,transparent);color:var(--fg);border:1px solid color-mix(in srgb,var(--c) 45%,transparent);text-decoration:none;font-weight:600;white-space:nowrap}
+.art:hover{background:var(--c);color:#fff;border-color:var(--c)}

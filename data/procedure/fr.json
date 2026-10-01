@@ -6,62 +6,380 @@
     "trial_prep": {
       "summary": "Prokuror (procureur de la République) shikoyat va xabarlarni qabul qiladi va ularga qanday yo'nalish berishni baholaydi (40). Jinoyat tergovi talab qilinsa, tergov sudyasi (juge d'instruction) prokuror talabnomasi asosidagina tergov olib boradi (80) va haqiqatni aniqlash uchun zarur hamma harakatlarni 'ayblov va oqlov tomonidan' (à charge et à décharge) o'tkazadi (81). Tergov tugaganda sudya ishni prokurorga topshiradi va taraflarni xabardor qiladi; prokuror asoslangan talabnomani ushlab turilgan shaxs bo'lsa 1 oy, boshqa hollarda 3 oy ichida beradi (175). Sudya ayblov belgilari bor-yo'qligini va ularning huquqiy tavsifini aniqlaydi (176), so'ng ish qanday sudga yuborilishini hal qiladi: qilmish contravention (eng yengil huquqbuzarlik) bo'lsa tribunal de police ga (178), délit (o'rta og'irlikdagi jinoyat) bo'lsa tribunal correctionnel ga (179), crime (og'ir jinoyat) bo'lsa cour d'assises ga (181 — 'mise en accusation'). Tribunal correctionnel ish unga citation, convocation, comparution immédiate yoki tergov sudining yuborishi orqali ham kelib tushishi mumkin (388).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "40, 80, 81, 175, 176, 178, 179, 181, 388-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "original": "Le juge d'instruction procède, conformément à la loi, à tous les actes d'information qu'il juge utiles à la manifestation de la vérité. Il instruit à charge et à décharge. (art. 81)" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "40, 80, 81, 175, 176, 178, 179, 181, 388-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "Le juge d'instruction procède, conformément à la loi, à tous les actes d'information qu'il juge utiles à la manifestation de la vérité. Il instruit à charge et à décharge. (art. 81)",
+          "links": [
+            {
+              "label": "art. 40",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933"
+            },
+            {
+              "label": "art. 80",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568319"
+            },
+            {
+              "label": "art. 81",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038369344"
+            },
+            {
+              "label": "art. 175",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442090"
+            },
+            {
+              "label": "art. 176",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575395"
+            },
+            {
+              "label": "art. 178",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050665628"
+            },
+            {
+              "label": "art. 179",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051751965"
+            },
+            {
+              "label": "art. 181",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050665631"
+            },
+            {
+              "label": "art. 388",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576400"
+            }
+          ]
+        }
+      ]
     },
     "court_composition": {
       "summary": "Fransiyada jinoyat ishlari og'irligiga qarab uch xil sudda ko'riladi. Tribunal correctionnel (délit): rais va ikki sudya; uzoq ishlarda qo'shimcha sudyalar jalb etilishi mumkin; ro'yxatdagi ba'zi délit (5 yildan oshmagan jazo) yakka sudya tomonidan ko'riladi (398, 398-1). Cour d'assises (crime): hakamlar hay'ati (jury) bilan; birinchi instansiyada 6, apellyatsiyada 9 hakam; qo'shimcha hakamlar ham tanlanadi (296), ular kasbiy sudyalar bilan birga hukm chiqaradi. Cour criminelle départementale: 15 yoki 20 yil réclusion criminelle bilan jazolanadigan jinoyatlar bo'yicha voyaga yetgan ayblanuvchilar birinchi instansiyada shu sudda hakamlarsiz ko'riladi; tarkib — rais va to'rt assessor (kasbiy sudyalar) (380-16, 380-17). Eslatma: Federal Judicial Center sahifasi hakamlar sonini to'qqiz deb ko'rsatadi, bu eskirgan; qonun matni (CPP 296) birinchi instansiyada 6 hakamni belgilaydi.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "296, 380-16, 380-17, 398, 398-1", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "original": "Le jury de jugement est composé de six jurés lorsque la cour statue en premier ressort et de neuf jurés lorsqu'elle statue en appel. (art. 296)" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "296, 380-16, 380-17, 398, 398-1",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "Le jury de jugement est composé de six jurés lorsque la cour statue en premier ressort et de neuf jurés lorsqu'elle statue en appel. (art. 296)",
+          "links": [
+            {
+              "label": "art. 296",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569124"
+            },
+            {
+              "label": "art. 380-16",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054478003"
+            },
+            {
+              "label": "art. 380-17",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054478006"
+            },
+            {
+              "label": "art. 398",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279428"
+            },
+            {
+              "label": "art. 398-1",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054724190"
+            }
+          ]
+        }
+      ]
     },
     "defendant_presence": {
       "summary": "Tribunal correctionnel: shaxsan chaqirilgan prevenu (sudlanuvchi) uzrli sababsiz kelmasligi mumkin emas (410). Kelmasa va uzrsiz bo'lsa, hukm 'contradictoire à signifier' (unga e'lon qilinadigan) tarzida chiqariladi; agar advokat uni himoya qilish uchun kelsa, advokat tinglanishi shart (410, 412). Sog'lig'i tufayli kela olmaydigan va ishni kechiktirib bo'lmaydigan sudlanuvchi uyida yoki qamoqxonada sudya tomonidan eshitiladi (416). Cour d'assises'da ishtirok qilish tartibi bu tahlilda alohida o'qilmadi.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "410, 412, 416-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "410, 412, 416-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 410",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576508"
+            },
+            {
+              "label": "art. 412",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576515"
+            },
+            {
+              "label": "art. 416",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576521"
+            }
+          ]
+        }
+      ]
     },
     "opening": {
       "summary": "Cour d'assises: rais sudlanuvchining shaxsini aniqlaydi (294); hakamlar tik turib va boshlari ochiq holda qasamyod qiladi: ayblovni ehtiyotkorlik bilan tekshirish, ayblanuvchining ham jamiyatning ham jabrlanuvchining ham manfaatlariga xiyonat qilmaslik, ayblanuvchi aybsiz hisoblanishi va shubha uning foydasiga talqin qilinishini yodda tutish, o'z vijdoni va 'intime conviction' (ichki ishonch) bo'yicha qaror qilish (304). Majlis ochiq, ammo jamoat tartibi yoki axloqqa xavf bo'lsa yopiq qilinadi; zo'rlash va boshqa ayrim jinoyatlarda jabrlanuvchi talabiga ko'ra yopiq majlis qonun bo'yicha shart (306). Tribunal correctionnel: guvohlar zaldan chiqariladi va faqat ko'rsatma berish uchun chaqiriladi (436).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "294, 304, 306, 436-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "original": "...de vous décider d'après les charges et les moyens de défense, suivant votre conscience et votre intime conviction... (art. 304)" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "294, 304, 306, 436-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "...de vous décider d'après les charges et les moyens de défense, suivant votre conscience et votre intime conviction... (art. 304)",
+          "links": [
+            {
+              "label": "art. 294",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569113"
+            },
+            {
+              "label": "art. 304",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569072"
+            },
+            {
+              "label": "art. 306",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569024"
+            },
+            {
+              "label": "art. 436",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576573"
+            }
+          ]
+        }
+      ]
     },
     "charge_and_plea": {
       "summary": "Cour d'assises: rais ayblanuvchiga ishni tushuntiradi: tergov natijalariga ko'ra, 'mise en accusation' qarorida ko'rsatilgan qilmishlarni qisqa bayon qiladi va ayblov hamda oqlov dalillarini keltiradi (327). Rais ayblanuvchiga majlisda bayonot berish, savollarga javob berish yoki jim turish huquqini tushuntirgach, uni so'roq qiladi va uning aybdorligi haqida o'z fikrini bildirmaslik majburiyatiga ega (328). Tribunal correctionnel: guvohlarni eshitishdan oldin rais sudlanuvchini so'roq qiladi va uning bayonotlarini qabul qiladi (442). Fransiyada alohida 'aybini tan olish / olmaslik' (plea) rasmiy bosqichi yo'q; tan olish haqidagi kelishuv alohida tartibda (CRPC, 495-7 va keyingi moddalar).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "327, 328, 442-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "original": "...le président interroge l'accusé et reçoit ses déclarations. Il a le devoir de ne pas manifester son opinion sur la culpabilité. (art. 328)" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "327, 328, 442-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "...le président interroge l'accusé et reçoit ses déclarations. Il a le devoir de ne pas manifester son opinion sur la culpabilité. (art. 328)",
+          "links": [
+            {
+              "label": "art. 327",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442101"
+            },
+            {
+              "label": "art. 328",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568700"
+            },
+            {
+              "label": "art. 442",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576592"
+            }
+          ]
+        }
+      ]
     },
     "scope_change_charge": {
       "summary": "Cour d'assises faqat tergov sudyasining 'mise en accusation' qarori bilan o'ziga yuborilgan shaxslarni va ayblovni ko'radi, boshqa ayblovlarni ko'ra olmaydi (231). Hukm chiqarish savollarida mise en accusation qarorida ko'rsatilgan har bir faktga alohida savol ('Ayblanuvchi falon qilmishni sodir etishda aybdormi?'), har bir og'irlashtiruvchi holatga alohida savol qo'yiladi (349). Munozara natijasida qilmish ayblov qarorida ko'rsatilganidan boshqa huquqiy tavsifga ega bo'lsa, rais qo'shimcha savollar (questions subsidiaires) qo'yadi (351). Tribunal correctionnel o'ziga qaysi yo'llar bilan kelib tushgan jinoyatlarni ko'rishi 388-moddada sanalgan.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "231, 349, 351, 388-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "231, 349, 351, 388-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 231",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044839626"
+            },
+            {
+              "label": "art. 349",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568936"
+            },
+            {
+              "label": "art. 351",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568954"
+            },
+            {
+              "label": "art. 388",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576400"
+            }
+          ]
+        }
+      ]
     },
     "evidence": {
       "summary": "Fransiyada jinoyatlar, qonun boshqacha belgilamagan hollarda, har qanday dalil vositasi bilan isbotlanishi mumkin va sudya 'intime conviction' (ichki ishonch) bo'yicha qaror qiladi; u qarorini faqat majlisda keltirilgan va taraflar qarama-qarshi bahslashgan dalillarga asoslashi mumkin (427). Cour d'assises raisi 'pouvoir discrétionnaire' (taqdiriy vakolat)ga ega: haqiqatni aniqlash uchun zarur deb hisoblagan har qanday choralarni ko'rishi, yangi guvohlarni chaqirishi va yangi hujjatlar talab qilishi mumkin (310; bunday guvohlar qasamyod qilmaydi, ko'rsatuvlari 'axborot' sifatida hisoblanadi). Guvohlar alohida-alohida, rais belgilagan tartibda, 'nafratsiz va qo'rquvsiz haqiqatni aytish' qasamyodi bilan so'z so'zlaydi (331, 446). Tribunal correctionnel'da ayblov tomonidan keltirilgan guvohlar birinchi eshitiladi, lekin tartibni rais mustaqil belgilaydi (444).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "310, 331, 427, 444, 446-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "original": "...les infractions peuvent être établies par tout mode de preuve et le juge décide d'après son intime conviction. (art. 427)" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "310, 331, 427, 444, 446-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "...les infractions peuvent être établies par tout mode de preuve et le juge décide d'après son intime conviction. (art. 427)",
+          "links": [
+            {
+              "label": "art. 310",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569003"
+            },
+            {
+              "label": "art. 331",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568842"
+            },
+            {
+              "label": "art. 427",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037108959"
+            },
+            {
+              "label": "art. 444",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576600"
+            },
+            {
+              "label": "art. 446",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576606"
+            }
+          ]
+        }
+      ]
     },
     "negotiated": {
       "summary": "(1) Comparution sur reconnaissance préalable de culpabilité (CRPC, 'aybni oldindan tan olish bilan kelish'): ro'yxatdagi istisnolardan boshqa barcha délit bo'yicha prokuror shaxsga jazo taklif qiladi; taklif etilgan ozodlikdan mahrum etish 3 yildan oshmasligi va qonunda nazarda tutilgan jazoning yarmidan oshmasligi kerak; shaxs advokat huquqida taklifni qabul qilsa, sud raisi yoki uning vakolatli sudyasi uni tinglaydi, faktlar va ularning tavsifini tekshiradi va jazoni tasdiqlashi (homologation) mumkin (495-7, 495-8, 495-9). (2) Composition pénale: prokuror, ish ochilmasidan oldin, aybini tan olgan shaxsga ≤5 yil jazo nazarda tutilgan délit bo'yicha jarima va boshqa choralarni taklif qiladi (41-2). (3) Ordonnance pénale: oddiy va isbotlangan yengil délit bo'yicha soddalashtirilgan tartib (495).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "41-2, 495, 495-7, 495-8, 495-9-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "41-2, 495, 495-7, 495-8, 495-9-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 41-2",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442054"
+            },
+            {
+              "label": "art. 495",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312540"
+            },
+            {
+              "label": "art. 495-7",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049294171"
+            },
+            {
+              "label": "art. 495-8",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041796620"
+            },
+            {
+              "label": "art. 495-9",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279420"
+            }
+          ]
+        }
+      ]
     },
     "closing": {
       "summary": "Cour d'assises: majlis tugagach avval jabrlanuvchi (partie civile) yoki uning advokati eshitiladi; prokuror talablarini (réquisitions) beradi; ayblanuvchi va uning advokati himoya nutqini so'zlaydi; jabrlanuvchi va prokuror javob berishi mumkin, 'ammo ayblanuvchi yoki uning advokati doim oxirgi so'zni oladi' (346). Rais debatlarni tugagan deb e'lon qiladi va ayblov va himoya dalillarini umumlashtira olmaydi (347). Tribunal correctionnel'da ham xuddi shu tartib: jabrlanuvchi, prokuror talabnomasi, sudlanuvchi himoyasi, javoblar; sudlanuvchi yoki advokati oxirgi so'zni oladi (460).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "346, 347, 460-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "original": "...l'accusé ou son avocat auront toujours la parole les derniers. (art. 346)" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "346, 347, 460-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "...l'accusé ou son avocat auront toujours la parole les derniers. (art. 346)",
+          "links": [
+            {
+              "label": "art. 346",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568706"
+            },
+            {
+              "label": "art. 347",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568906"
+            },
+            {
+              "label": "art. 460",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576644"
+            }
+          ]
+        }
+      ]
     },
     "verdict": {
       "summary": "Cour d'assises: sud chiqishdan oldin rais 'intime conviction' haqidagi ko'rsatmani o'qiydi (353); sudyalar va hakamlar birgalikda maslahatxonaga chiqadi (355). Savollar bo'yicha yashirin ovoz beriladi; bo'sh yoki ko'pchilik tomonidan yaroqsiz deb topilgan byulletenlar ayblanuvchi foydasiga hisoblanadi (358). Ayblanuvchi uchun noqulay har qanday qaror birinchi instansiyada kamida 7 ovoz, apellyatsiyada kamida 8 ovoz bilan qabul qilinadi (359). Aybdorlik tasdiqlangach, jazo alohida ovoz berish orqali, ovoz beruvchilarning mutlaq ko'pchiligi bilan belgilanadi (362). Hukmning asoslarini rais yoki uning tayinlagan assessori yozadi; mahkum etilgan bo'lsa, asosiy ayblov dalillari va jazo tanlash sabablari ko'rsatiladi (365-1). Tribunal correctionnel: hukm shu majlisning o'zida yoki keyingi sanada e'lon qilinadi (462).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "353, 355, 358, 359, 362, 365-1, 462-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "353, 355, 358, 359, 362, 365-1, 462-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 353",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568903"
+            },
+            {
+              "label": "art. 355",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568616"
+            },
+            {
+              "label": "art. 358",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568591"
+            },
+            {
+              "label": "art. 359",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568264"
+            },
+            {
+              "label": "art. 362",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568254"
+            },
+            {
+              "label": "art. 365-1",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049778760"
+            },
+            {
+              "label": "art. 462",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024497140"
+            }
+          ]
+        }
+      ]
     },
     "appeal": {
       "summary": "Délit bo'yicha hukmlarga qarshi apellyatsiya cour d'appel'ga beriladi (496), muddat — qarama-qarshi muhokama bilan chiqarilgan hukm e'lon qilingandan 10 kun (498). Cour d'assises birinchi instansiyada chiqargan hukmlarga qarshi apellyatsiya boshqa cour d'assises'ga yoki shu sudning boshqa tarkibiga beriladi va ish qaytadan ko'riladi (380-1); apellyatsiya huquqi ayblanuvchi, prokuror, fuqaroviy javobgar va jabrlanuvchi (o'z fuqarolik manfaatlari bo'yicha)da bor, bosh prokuror (procureur général) oqlov hukmlariga qarshi ham apellyatsiya bera oladi (380-2).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "380-1, 380-2, 496, 498-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "380-1, 380-2, 496, 498-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 380-1",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054477985"
+            },
+            {
+              "label": "art. 380-2",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568416"
+            },
+            {
+              "label": "art. 496",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576752"
+            },
+            {
+              "label": "art. 498",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021331547"
+            }
+          ]
+        }
+      ]
     },
     "cassation": {
       "summary": "Oxirgi instansiyada chiqarilgan jinoyat, délit va contravention hukmlari qonun buzilgani uchun prokuror yoki zarar ko'rgan tomon cassation shikoyati (pourvoi en cassation) bilan Cour de cassation'ning jinoyat palatasi (chambre criminelle)ga murojaat qilishi mumkin (567). Shikoyat qaror e'lon qilingandan keyin 10 to'liq kun ichida beriladi; muayyan hollarda muddat qarorning tebliğ (signification) qilinishidan hisoblanadi (568).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "Code de procédure pénale", "ref": "567, 568-moddalar", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/" }]
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "567, 568-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 567",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576969"
+            },
+            {
+              "label": "art. 568",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442131"
+            }
+          ]
+        }
+      ]
     }
   }
 }

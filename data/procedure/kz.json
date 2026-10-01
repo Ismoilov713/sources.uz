@@ -6,62 +6,312 @@
     "trial_prep": {
       "summary": "Dastlabki tergov tugagach ish tergov tugagani haqidagi hisobot bilan prokurorga yuboriladi (300); prokuror ishni o'rganib, ayblov dalolatnomasi (обвинительный акт) bilan ishni sudga yuboradi (301–305-moddalar sarlavhalari). Sudga ish kelib tushganda sudya ish tushganidan keyin 5 sutkadan kechiktirmay ikki qarordan birini chiqaradi: asosiy sud muhokamasini umumiy yoki qisqartirilgan tartibda tayinlash, yoki dastlabki eshituv (предварительное слушание) o'tkazish (319). Dastlabki eshituv o'ta og'ir jinoyatlar bo'yicha majburiy; boshqa ishlarda esa ish ixtisosligi bo'yicha o'tkazish, prokurorga qaytarish, tugatish, to'xtatish, ishlarni birlashtirish yoki iltimoslarni ko'rish zarur bo'lganda o'tkaziladi; eshituvni sudya yakka o'zi, qaror chiqarilgandan 10 sutka ichida o'tkazadi (321). Asosiy muhokamani tayinlash qarorida sudlanuvchi, jinoyat qonuni moddasi, ehtiyot chorasi, iltimoslar bo'yicha qarorlar ko'rsatiladi (322).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "319, 321, 322-moddalar; 41-bob", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "original": "Проведение предварительного слушания по делам об особо тяжких преступлениях обязательно. (ст. 321, ч. 1)" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "319, 321, 322-moddalar; 41-bob",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Проведение предварительного слушания по делам об особо тяжких преступлениях обязательно. (ст. 321, ч. 1)",
+          "links": [
+            {
+              "label": "319-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2547"
+            },
+            {
+              "label": "321-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2566"
+            },
+            {
+              "label": "322-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2573"
+            }
+          ]
+        }
+      ]
     },
     "court_composition": {
       "summary": "Birinchi instansiya sudlarida ishlar odatda yakka sudya tomonidan ko'riladi. O'ta og'ir jinoyatlar bo'yicha ayblanuvchining iltimosiga ko'ra ish hakamlar hay'ati (присяжные заседатели) ishtirokidagi sudda ko'riladi: bir sudya va o'n hakam (52, 632). Bundan istisnolar bor: favqulodda holat va ommaviy tartibsizlik paytidagi qotilliklar, tinchlik va insoniyat xavfsizligiga qarshi jinoyatlar, konstitutsiyaviy tuzum va davlat xavfsizligiga qarshi jinoyatlar, terrorizm va ekstremizm, harbiy vaqtdagi harbiy jinoyatlar, jinoiy guruh tarkibida sodir etilgan jinoyatlar, voyaga yetmaganlarning jinsiy daxlsizligiga qarshi o'ta og'ir jinoyatlar (52(1), 631). Ish bir sudya tomonidan ko'rilishi kerak; sudya davom eta olmasa almashtiriladi va muhokama qaytadan boshlanadi, zaxira sudya hollari bundan mustasno (332, 333).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "52, 332, 333, 631, 632-moddalar", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "original": "...судом с участием присяжных заседателей в составе одного судьи и десяти присяжных заседателей (ст. 52, ч. 1)" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "52, 332, 333, 631, 632-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "...судом с участием присяжных заседателей в составе одного судьи и десяти присяжных заседателей (ст. 52, ч. 1)",
+          "links": [
+            {
+              "label": "52-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z362"
+            },
+            {
+              "label": "332-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2608"
+            },
+            {
+              "label": "333-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2611"
+            },
+            {
+              "label": "631-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z4382"
+            },
+            {
+              "label": "632-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z4386"
+            }
+          ]
+        }
+      ]
     },
     "defendant_presence": {
       "summary": "Asosiy sud muhokamasi sudlanuvchining majburiy ishtirokida o'tadi; kelmasa ish qoldiriladi, sud uni majburiy keltirishga yoki ehtiyot chorasini qo'llashga/o'zgartirishga haqli. Ishtirokisiz ko'rish faqat: (1) jinoiy xatti-harakat (уголовный проступок) yoki yengil va o'rta og'irlikdagi jinoyat bo'yicha sudlanuvchining o'zi iltimos qilganda; (2) sudlanuvchi Qozog'iston hududidan tashqarida bo'lib sudga kelishdan bo'yin tovlaganda; (3) qamoqda saqlanayotgan sudlanuvchi sudga kelishdan bosh tortganda mumkin (335).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "335-modda", "url": "https://adilet.zan.kz/rus/docs/K1400000231" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "335-modda",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "335-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2617"
+            }
+          ]
+        }
+      ]
     },
     "opening": {
       "summary": "Tayyorlov qismi (43-bob, 350–363-moddalar): muhokamani ochish; kelganlarni tekshirish; tarjimonga huquqlarini tushuntirish; guvohlarni zaldan chiqarish; sudlanuvchining shaxsini va ayblov dalolatnomasi nusxasi o'z vaqtida topshirilganligini aniqlash; sud tarkibi va ishtirokchilarni e'lon qilish; rad etish masalalarini hal qilish; sudlanuvchiga, jabrlanuvchiga va boshqalarga huquqlarini tushuntirish; iltimoslarni ko'rish; ishtirokchi kelmasa ishni ko'rish mumkinligini hal qilish.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "43-bob: 350–363-moddalar (sarlavhalar)", "url": "https://adilet.zan.kz/rus/docs/K1400000231" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "43-bob: 350–363-moddalar (sarlavhalar)",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "350–363-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2702"
+            }
+          ]
+        }
+      ]
     },
     "charge_and_plea": {
       "summary": "Sud tergovi davlat ayblovchisining sudlanuvchiga qo'yilgan ayblov mohiyatini bayon qilishidan boshlanadi (364(1)). Keyin raislik qiluvchi sudlanuvchidan ayblov tushunarlimi-yo'qmi so'raydi, mohiyatini tushuntiradi va uning ayblovga munosabatini bildirishni xohlash-xohlamasligini, prokuror bilan protsessual kelishuv yoki jabrlanuvchi bilan mediatsiya orqali yarashuv kelishuvi tuzishni xohlash-xohlamasligini aniqlaydi (365(1)). Sudlanuvchiga: u tergov paytidagi iqror yoki inkor bilan bog'liq emasligi, aybdorligini tan olish-olmaslik haqidagi savolga javob berishga majbur emasligi va javob berishdan bosh tortish unga zarar yetkazish uchun talqin qilinmasligi tushuntiriladi; shuningdek, aybni tan olish va chin dildan pushaymonlik javobgarlik va jazoni yengillashtiruvchi holat ekanligi aytiladi (365(2)).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "364, 365-moddalar", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "original": "Подсудимому должно быть разъяснено, что он не связан признанием или отрицанием вины, сделанным в ходе досудебного производства, не обязан отвечать на вопрос о том, признает он свою виновность или нет... (ст. 365, ч. 2)" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "364, 365-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Подсудимому должно быть разъяснено, что он не связан признанием или отрицанием вины, сделанным в ходе досудебного производства, не обязан отвечать на вопрос о том, признает он свою виновность или нет... (ст. 365, ч. 2)",
+          "links": [
+            {
+              "label": "364-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2726"
+            },
+            {
+              "label": "365-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2729"
+            }
+          ]
+        }
+      ]
     },
     "scope_change_charge": {
       "summary": "Muhokama faqat sudlanuvchiga nisbatan va u sudga berilgan ayblov doirasida o'tadi; ayblovni o'zgartirish, agar bu sudlanuvchining himoya huquqini buzmasa, mumkin (340(1), (2)). Boshqa ish bilan birlashtirish yoki boshqa shaxslarni javobgarlikka tortish zarur bo'lsa, sud ayblov tomoni iltimosiga ko'ra ishni to'xtatib, 321-modda tartibida dastlabki eshituv o'tkazadi (340(3)). Ayblov yengilroqqa o'zgarsa yoki bir qismidan voz kechilsa, ayblovchi yangi asoslangan formulirovkani yozma ravishda sudga taqdim etishi shart (364(2)). Ishni tugatish asoslari 343 va 327-moddalarda.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "340, 343, 364(2), 327-moddalar", "url": "https://adilet.zan.kz/rus/docs/K1400000231" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "340, 343, 364(2), 327-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "340-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2648"
+            },
+            {
+              "label": "343-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2666"
+            },
+            {
+              "label": "364-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2726"
+            },
+            {
+              "label": "327-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2597"
+            }
+          ]
+        }
+      ]
     },
     "evidence": {
       "summary": "Sud tergovida ayblov va himoya tomonlari taqdim etgan dalillar tekshiriladi; dalillarni birinchi bo'lib ayblov tomoni taqdim etadi; tekshirish tartibini sud taraflar bilan kelishib belgilaydi (366(1)–(2)). Sudlanuvchi raislik qiluvchining ruxsati bilan sud tergovining istalgan paytida ko'rsatuv bera oladi (366(3)). Bevosita va og'zaki tamoyil: barcha dalillar sudda bevosita tekshiriladi, kodeksda ko'rsatilgan istisnolar bundan mustasno (331(1)). Ayrim ko'rsatuvlar tergov sudyasi tomonidan oldindan depozit qilingan bo'lsa (217-modda), guvoh va jabrlanuvchi sudga chaqirilmasligi mumkin (366(4)). Sud tergovi tartibi: sudlanuvchini so'roq qilish (367), jabrlanuvchi va guvohlarni so'roq qilish (369, 370), ekspertiza va ekspertni so'roq qilish (373, 374), buyumlarni ko'zdan kechirish (375), bayonnomalar va hujjatlarni o'qish (376, 377), joyni ko'zdan kechirish (378), sud tergovining tugashi (381).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "44-bob: 364–381-moddalar; 331-modda", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "original": "Первой представляет доказательства сторона обвинения. (ст. 366, ч. 2)" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "44-bob: 364–381-moddalar; 331-modda",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Первой представляет доказательства сторона обвинения. (ст. 366, ч. 2)",
+          "links": [
+            {
+              "label": "364–381-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2726"
+            },
+            {
+              "label": "331-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2604"
+            }
+          ]
+        }
+      ]
     },
     "negotiated": {
       "summary": "Protsessual kelishuv (процессуальное соглашение) turlari: ayblovni tan olish bitimi (сделка о признании вины), ayblovni tan olish va noqonuniy olingan aktivlarni qaytarish bitimi, hamkorlik kelishuvi (63-bob). Ayblovni tan olish bitimi shartlari: gumon qilinuvchi yoki ayblanuvchining ixtiyoriy xohishi; gumon, ayblov, dalillar va zarar xarakteri hamda miqdorini inkor etmaslik; jabrlanuvchi ishtirok etsa uning roziligi. Bir nechta jinoyat bo'yicha ishlarda, agar ulardan birortasi shartlarga mos kelmasa, yoki hech bo'lmaganda bir jabrlanuvchi rozi bo'lmasa, tuzib bo'lmaydi (613). Kelishuv natijasida muhokama qisqartirilgan tartibda o'tadi; sud tergovi faqat sudlanuvchi va jabrlanuvchini so'roq qilish, zarar to'lash muddati va tartibi, protsessual xarajatlar masalalarini ko'radi, 10 sutkada (aniq holatlarda 20 sutkagacha) tugaydi (382(2)). Sudlanuvchi sud maslahatxonaga chiqquncha kelishuvdan voz kechishi mumkin (614(2)). Kelishuv bilan ishlarda taraflar muzokarasi o'tkazilmaydi va sudlanuvchi oxirgi so'z aytmaydi (383(3), 384(2)). Alohida: buyruq tartibidagi ish yuritish (приказное производство, 629-1…629-8).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "63-bob: 612–629-moddalar; 382, 383(3), 384(2)", "url": "https://adilet.zan.kz/rus/docs/K1400000231" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "63-bob: 612–629-moddalar; 382, 383(3), 384(2)",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "612–629-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z4257"
+            },
+            {
+              "label": "382-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2812"
+            },
+            {
+              "label": "383-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2822"
+            },
+            {
+              "label": "384-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2830"
+            }
+          ]
+        }
+      ]
     },
     "closing": {
       "summary": "Sud muhokamasi (судебные прения): ayblovchi, jabrlanuvchi yoki vakili, fuqaroviy da'vogar va javobgar yoki vakillari, sudlanuvchi va himoyachi nutq so'zlaydi; ketma-ketlikni sud taraflar takliflariga ko'ra belgilaydi, lekin har doim birinchi bo'lib ayblovchi so'zlaydi (383(3)). Taraflar sudda ko'rilmagan materiallarga murojaat qila olmaydi; yangi dalil kerak bo'lsa, sud tergovini qayta boshlashni so'rashi mumkin (383(1)). Muhokamadan keyin sudlanuvchi oxirgi so'zga ega: bu uning huquqi, savol berilmaydi, sud davomiyligini cheklay olmaydi (384(1)). Keyin sud hukm chiqarish uchun maslahatxonaga chiqadi (386).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "45-bob: 383, 384, 385, 386-moddalar", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "original": "Последовательность выступлений участников процесса устанавливается судом по их предложениям, но во всех случаях первым выступает обвинитель. (ст. 383, ч. 3)" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "45-bob: 383, 384, 385, 386-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Последовательность выступлений участников процесса устанавливается судом по их предложениям, но во всех случаях первым выступает обвинитель. (ст. 383, ч. 3)",
+          "links": [
+            {
+              "label": "383-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2822"
+            },
+            {
+              "label": "384-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2830"
+            },
+            {
+              "label": "385-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2833"
+            },
+            {
+              "label": "386-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2834"
+            }
+          ]
+        }
+      ]
     },
     "verdict": {
       "summary": "Hukm Qozog'iston Respublikasi nomidan chiqariladi (387). Hukm ayblov yoki oqlov hukmi bo'ladi (392). Ayblov hukmi taxminga asoslanmaydi (393(3)); u jazo tayinlash, javobgarlikdan yoki jazodan ozod qilish, jazo tayinlamaslik yoki jazoni kechiktirish bilan chiqishi mumkin (393(2)). Oqlov hukmi asoslari: jinoiy hodisa yo'qligi, qilmishda jinoyat tarkibi yo'qligi, sudlanuvchining ishtiroki isbotlanmaganligi; bu to'liq reabilitatsiyani anglatadi (394). Hakamlar hay'ati sudida hukm hay'at verdikti asosida chiqariladi: uchta asosiy savoldan hech bo'lmaganda biriga salbiy javob berilsa, oqlov hukmi chiqariladi (657, 654(1)).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "46-bob: 387–394-moddalar; 654, 657-moddalar", "url": "https://adilet.zan.kz/rus/docs/K1400000231" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "46-bob: 387–394-moddalar; 654, 657-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "387–394-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2838"
+            },
+            {
+              "label": "654-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z4527"
+            },
+            {
+              "label": "657-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z4552"
+            }
+          ]
+        }
+      ]
     },
     "appeal": {
       "summary": "Apellyatsiya shikoyati yoki prokuror iltimosnomasi hukm e'lon qilingan kundan 15 sutka ichida beriladi (qamoqda saqlanayotgan mahkum uchun hukm nusxasi topshirilgan kundan) (418(1)). Tuman va unga tenglashtirilgan sudlar, ixtisoslashgan tumanlararo sudlar hukmlari ustidan apellyatsiyani tegishli viloyat va unga tenglashtirilgan sud ko'radi; harbiy sudlar hukmlari ustidan Harbiy sud (416). Ish apellyatsiya instansiyasida kelib tushgandan 1 oy ichida ko'riladi; yangi dalillarni tekshirish va yangi hukm chiqarish zarur bo'lsa 2 oy ichida (425). Apellyatsiya hukmning qonuniyligi, asosliligi va adolatliligini to'liq hajmda tekshiradi va mahkumning ahvolini yomonlashtirmasa, shikoyatda ko'rsatilmagan asoslar bo'yicha ham o'zgartirishi mumkin (426). Apellyatsiya sudi taraflar iltimosiga ko'ra yangi hujjatlarni tekshirishi, ekspertiza tayinlashi, qo'shimcha guvohlarni so'roq qilishi mumkin (430).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "48–49-boblar: 416, 418, 425, 426, 430-moddalar", "url": "https://adilet.zan.kz/rus/docs/K1400000231" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "48–49-boblar: 416, 418, 425, 426, 430-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "416-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3029"
+            },
+            {
+              "label": "418-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3037"
+            },
+            {
+              "label": "425-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3074"
+            },
+            {
+              "label": "426-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3075"
+            },
+            {
+              "label": "430-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3100"
+            }
+          ]
+        }
+      ]
     },
     "cassation": {
       "summary": "Kassatsiya sudi qonuniy kuchga kirgan hukmlar va qarorlarni ko'radi: birinchi instansiya hukmlari apellyatsiya instansiyasida ko'rilgandan keyin, shuningdek apellyatsiya instansiyasi hukmlari ustidan (484(1)). Yengil jinoyatlar va jinoiy xatti-harakatlar (проступки) bo'yicha ishlar kassatsiyada qayta ko'rilmaydi (484(2)(1)). Asos: jinoyat va jinoyat-protsessual qonunining noto'g'ri qo'llanilishi natijasida begunohning mahkum etilishi, asossiz oqlov, noto'g'ri tavsiflash, jabrlanuvchining sud himoyasidan mahrum etilishi, noto'g'ri jazo tayinlash va boshqalar (485(1)). Muddat: mahkumning ahvolini yaxshilovchi asoslar (begunohlik, yengilroq qonun, jazoning qattiqligi va h.k.) bo'yicha shikoyat muddat bilan cheklanmaydi; oqlov hukmi yoki ahvolni yomonlashtiruvchi asoslar bo'yicha qonuniy kuchga kirgandan bir yil ichida (487). Qo'shimcha: yangi ochilgan holatlar bo'yicha ish yuritishni qayta boshlash (53-bob, 499–508-moddalar).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "UPK RK", "ref": "52-bob: 484, 485, 487-moddalar; 53-bob", "url": "https://adilet.zan.kz/rus/docs/K1400000231", "original": "...по иным основаниям, влекущим улучшение положения осужденного, сроками не ограничена. (ст. 487, ч. 1)" }]
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "52-bob: 484, 485, 487-moddalar; 53-bob",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "...по иным основаниям, влекущим улучшение положения осужденного, сроками не ограничена. (ст. 487, ч. 1)",
+          "links": [
+            {
+              "label": "484-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3440"
+            },
+            {
+              "label": "485-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3444"
+            },
+            {
+              "label": "487-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3463"
+            }
+          ]
+        }
+      ]
     }
   }
 }

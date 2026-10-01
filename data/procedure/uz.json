@@ -6,62 +6,290 @@
     "trial_prep": {
       "summary": "Ish sudga ayblov dalolatnomasi yoki ayblov xulosasi bilan kelib tushgach, sudya uchta ajrimdan birini chiqaradi: ishni sudlovga tegishliligi bo'yicha o'tkazish, sudda ko'rish uchun tayinlash yoki dastlabki eshituv o'tkazish. Ajrim ish tushgan paytdan 7 sutkadan kechiktirmay qabul qilinadi (sud raisi bu muddatni ko'pi bilan 3 sutkaga uzaytirishi mumkin). Keyingi qadamlar: protsess ishtirokchilarini ish materiallari bilan tanishtirish va sud majlisiga chaqirish (49-bob).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "395-modda; 49-bob (395–405-moddalar sarlavhalari)", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "395-modda; 49-bob (395–405-moddalar sarlavhalari)",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "395-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-5305445"
+            }
+          ]
+        }
+      ]
     },
     "court_composition": {
       "summary": "Jinoyat ishlari hay'atda ko'riladi; Jinoyat kodeksi 15-moddasining 2–4-qismlarida nazarda tutilgan jinoyatlar haqidagi ishlar sudya tomonidan yakka tartibda ko'riladi. Birinchi instansiya sudi hay'atda ko'rganda tarkib: sudya va ikki nafar xalq maslahatchisi; Oliy sud uch nafar sudyadan iborat tarkibda. Xalq maslahatchilari odil sudlovda sudyaning barcha huquqlaridan foydalanadi. Har bir ish bir tarkibdagi sud yoki bir sudya tomonidan ko'rilishi lozim; uzoq davom etadigan ishda zaxiradagi xalq maslahatchisi qatnashishi mumkin.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "13-modda; 406, 407-moddalar", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "13-modda; 406, 407-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "13-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-252833"
+            },
+            {
+              "label": "406-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256257"
+            },
+            {
+              "label": "407-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256259"
+            }
+          ]
+        }
+      ]
     },
     "defendant_presence": {
       "summary": "Ish sudlanuvchining ishtirokida ko'riladi, sudga kelishi shart. Kelmasa muhokama keyinga qoldiriladi; sud uni majburiy keltirishga yoki ehtiyot chorasini qo'llashga/o'zgartirishga haqli. Sudlanuvchi ishtirokisiz ko'rish faqat u O'zbekiston hududidan tashqarida bo'lib sudga kelishdan bo'yin tovlagan va yo'qligi haqiqatni aniqlashga monelik qilmasa yoki u 272-moddaga ko'ra zaldan chiqarib yuborilgan bo'lsa mumkin.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "410-modda", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "410-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "410-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256279"
+            }
+          ]
+        }
+      ]
     },
     "opening": {
       "summary": "Sud majlisining tayyorlov qismi (51-bob): majlisni ochish; ishtirokchilarning kelganini tekshirish; tarjimonga huquqlarini tushuntirish; sud tarkibini va taraflarni e'lon qilish hamda rad qilish huquqini tushuntirish; guvohlarni zaldan chiqarish; ishtirokchi kelmaganda ishni ko'rish mumkinligini hal qilish; sudlanuvchining shaxsini aniqlash va unga huquqlarini tushuntirish; iltimoslarni hal etish.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "51-bob (428–438-moddalar sarlavhalari)", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "51-bob (428–438-moddalar sarlavhalari)",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "428–438-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256390"
+            }
+          ]
+        }
+      ]
     },
     "charge_and_plea": {
       "summary": "Sud tergovi raislik qiluvchining e'loni bilan boshlanadi. Davlat ayblovchisi ayblov xulosasining xulosa qismidagi (yoki ayblov dalolatnomasidagi) ayblovni o'qib eshittiradi. Raislik qiluvchi sudlanuvchidan ayblov mohiyati tushunarli yoki tushunarsizligini va aybiga iqror yoki iqror emasligini so'raydi.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "439-modda", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "439-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "439-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256424"
+            }
+          ]
+        }
+      ]
     },
     "scope_change_charge": {
       "summary": "Muhokama faqat ayblanuvchilarga nisbatan va e'lon qilingan ayblov bo'yicha olib boriladi (414). Sud ayblovni o'zgartirishga haqli: ayblovning bir qismi yoki jinoyatning tavsifiy alomatlarini chiqarib tashlaydi (415). Sud tergovida sudlanuvchi ilgari ayblanmagan jinoyat sodir etganligi aniqlansa, sud ish qo'zg'atish masalasini hal qilish uchun prokurorga xabar qiladi; yangi ayblov dastlabki ayblov bilan uzviy bog'liq bo'lib, alohida ko'rib bo'lmasa, taraflar iltimosnomasi bo'yicha sud ajrim chiqarib, qo'shimcha protsessual harakatlarni ayblov xulosasini tasdiqlagan prokurorga bir oygacha muddatda topshiradi (416). Xuddi shu tartib javobgarlikka tortilmagan boshqa shaxs jinoyat sodir etganini ko'rsatuvchi holatlar aniqlanganda qo'llanadi (417). Prokuror sud muhokamasida sudlanuvchining aybsizligiga ishonch hosil qilsa ayblovdan voz kechishi shart; bu sudning ishni reabilitatsiya asoslari bo'yicha tugatishiga sabab bo'ladi (409). Sud majlisida 83-moddada yoki 84-modda 1-qismining 1, 2, 3 va 8-bandlarida nazarda tutilgan ishni tugatish asoslari aniqlansa, sud ishni ko'rishni davom ettiradi: 83-modda asoslarida oqlov hukmi, 84-modda asoslarida esa jazo tayinlamay ayblov hukmi chiqaradi (421).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "409, 414, 415, 416, 417, 421-moddalar", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "409, 414, 415, 416, 417, 421-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "409-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256270"
+            },
+            {
+              "label": "414-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-5232088"
+            },
+            {
+              "label": "415-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256313"
+            },
+            {
+              "label": "416-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-2057292"
+            },
+            {
+              "label": "417-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-2057309"
+            },
+            {
+              "label": "421-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256351"
+            }
+          ]
+        }
+      ]
     },
     "evidence": {
       "summary": "Dalillarni tekshirish navbatini sud taraflarning takliflarini eshitib belgilaydi va ajrimda aks ettiradi (440). Sudda so'roq umumiy qoidalarga (96–108-moddalar) amal qiladi; har bir guvoh hali so'roq qilinmagan guvohlar yo'qligida so'roq qilinadi (442). Kodeks sudda quyidagi harakatlarni alohida moddalarda tartibga soladi: yozma dalillar, ekspert xulosalari va tergov harakatlari bayonnomalarini tekshirish (443), ko'zdan kechirish (444), guvohlantirish (445), ekspertiza (446), tanib olish uchun ko'rsatish, eksperiment va namunalar olish (447); sud tergovining tamomlanishi 448-moddada.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "52-bob: 439–448-moddalar", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "52-bob: 439–448-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "439–448-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256424"
+            }
+          ]
+        }
+      ]
     },
     "negotiated": {
       "summary": "Aybga iqrorlik to'g'risidagi kelishuv: gumon qilinuvchi yoki ayblanuvchining iltimosnomasiga asosan nazorat qiluvchi prokuror bilan tuziladi (ijtimoiy xavfi katta bo'lmagan, uncha og'ir bo'lmagan va og'ir jinoyatlar bo'yicha). Shartlar: harakat va iltimosnoma oqibatini anglash; iltimosnoma ixtiyoriy va himoyachi bilan maslahatdan keyin berilgan bo'lishi; ayblov va dalillarni inkor etmaslik va zararni bartaraf etish. Sud kelishuvli ishni umumiy tartibda, kelib tushgandan bir oydan kechiktirmay ko'radi; majlisda prokuror kelishuv mazmunini o'qib eshittiradi. Sud kelishuvni tasdiqlaydi (ayblov hukmi chiqariladi) yoki tasdiqlashni rad etib, ishni prokurorga yuboradi (586¹–586¹⁰).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "586¹, 586⁷, 586⁸, 586⁹-moddalar", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "586¹, 586⁷, 586⁸, 586⁹-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "586¹-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-5305968"
+            },
+            {
+              "label": "586⁷-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-5306017"
+            },
+            {
+              "label": "586⁸-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-5306030"
+            },
+            {
+              "label": "586⁹-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-5306035"
+            }
+          ]
+        }
+      ]
     },
     "closing": {
       "summary": "Sud tergovidan so'ng taraflar muzokarasi: davlat ayblovchisi (va jamoat ayblovchisi) nutqidan boshlanadi, so'ngra jabrlanuvchi, fuqaroviy da'vogar yoki vakillari, himoyachi, sudlanuvchi, fuqaroviy javobgar so'zga chiqadi. Taraflar sud tergovida ko'rilmagan dalillarni keltira olmaydi; kerak bo'lsa sud tergovini yangidan boshlash haqida iltimos qiladi (449, 452). Muzokaradan keyin sudlanuvchiga oxirgi so'z beriladi; unga savol berilmaydi va oxirgi so'z muddat bilan cheklanmaydi (451). So'ng sud hukm chiqarish uchun maslahatxonaga kiradi (453).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "53-bob: 449, 451, 452, 453-moddalar", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "53-bob: 449, 451, 452, 453-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "449-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256480"
+            },
+            {
+              "label": "451-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256494"
+            },
+            {
+              "label": "452-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256497"
+            },
+            {
+              "label": "453-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256499"
+            }
+          ]
+        }
+      ]
     },
     "verdict": {
       "summary": "Hukm ayblov yoki oqlov hukmi bo'lishi mumkin; hukm turini hal qilishda aybsizlik prezumpsiyasiga amal qilinadi (462; 23-modda). Ayblov hukmi taxminga asoslanmaydi, faqat aybdorlik sud muhokamasida isbotlanganda chiqariladi (463). Oqlov hukmi asoslari: jinoiy hodisa yuz bermagan, qilmishda jinoyat tarkibi yo'q, sudlanuvchi jinoyatga daxldor emas; ayblov ishonarli tasdiqlanmasa ham oqlanadi (464). Hukm tuzilishi 465–472-moddalarda, e'lon qilinishi 473-moddada.",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "54-bob: 462, 463, 464-moddalar; 23-modda", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "54-bob: 462, 463, 464-moddalar; 23-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "462-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256549"
+            },
+            {
+              "label": "463-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256551"
+            },
+            {
+              "label": "464-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256562"
+            },
+            {
+              "label": "23-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-252892"
+            }
+          ]
+        }
+      ]
     },
     "appeal": {
       "summary": "Hukm, ajrimlarning qonuniyligi, asosliligi va adolatliligi apellyatsiya, kassatsiya va taftish tartibida tekshirilishi mumkin (478). Yuqori sud ishni shikoyat yoki protest kelib tushgandan 15 sutkadan kechiktirmay ko'rishga kirishadi; murakkab ishda sud raisi muddatni ko'pi bilan bir oyga uzaytirishi mumkin (484). Hukmni bekor qilish yoki o'zgartirish asoslari: sud tergovining to'liq emasligi yoki bir yoqlamaligi, xulosalarning haqiqiy holatlarga mos emasligi, JPK normalarining jiddiy buzilishi, JK normalarining noto'g'ri qo'llanilishi, jazoning adolatsizligi va boshqalar (485).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "55-bob: 478, 484, 485-moddalar", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "55-bob: 478, 484, 485-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "478-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-6626168"
+            },
+            {
+              "label": "484-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-6626369"
+            },
+            {
+              "label": "485-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-6626378"
+            }
+          ]
+        }
+      ]
     },
     "cassation": {
       "summary": "Kassatsiya shikoyatini mahkum, himoyachisi, qonuniy vakili, jabrlanuvchi va uning vakili beradi; prokurorlar protest bildiradi (499). Taftish: Oliy sudning Jinoyat ishlari bo'yicha sudlov hay'ati va viloyat darajasidagi sudlar tomonidan qonuniy kuchga kirgan hukmlarni qayta ko'rish (478, 510–521). Jazoni kuchaytirish yoki mahkumning ahvolini yomonlashtirish haqidagi masala qo'yilgan bo'lsa, shuningdek oqlov hukmi yoki ishni tugatish ajrimini qayta ko'rish hukm qonuniy kuchga kirgandan keyin faqat bir yil ichida mumkin (501, 514).",
       "status": "tasdiqlangan",
-      "sources": [{ "title": "JPK", "ref": "56-bob: 499, 501, 514-moddalar; 478-modda", "url": "https://lex.uz/uz/docs/-111460" }]
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "56-bob: 499, 501, 514-moddalar; 478-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "499-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-6627270"
+            },
+            {
+              "label": "501-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-6627298"
+            },
+            {
+              "label": "514-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-6627495"
+            },
+            {
+              "label": "478-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-6626168"
+            }
+          ]
+        }
+      ]
     }
   }
 }

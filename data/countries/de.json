@@ -1,139 +1,263 @@
 {
-    "code":  "de",
-    "name":  "Germaniya",
-    "updated":  "2026-10-01",
-    "criteria":  {
-                     "legal_family":  {
-                                          "summary":  "Germaniya fuqarolik huquqi (civil law) tizimiga kiradi, federal parlament tuzilmasiga ega (16 Land); sudyalar karyera sudyalari modeli bo\u0027yicha ishlaydi. Sinov muddati (3 yil)dan so\u0027ng sudyalar umrbod ishga qabul qilinadi (Federal Judicial Center ma\u0027lumoti; DRiG §10 bilan mos).",
-                                          "status":  "tasdiqlangan",
-                                          "sources":  [
-                                                          {
-                                                              "title":  "FJC, Judiciaries Worldwide: Germany",
-                                                              "ref":  "country profile (institutsional ma\u0027lumot)",
-                                                              "url":  "https://judiciariesworldwide.fjc.gov/country-profile/germany",
-                                                              "retrieved":  "2026-10-01"
-                                                          },
-                                                          {
-                                                              "title":  "Deutsches Richtergesetz",
-                                                              "ref":  "§ 10",
-                                                              "url":  "https://www.gesetze-im-internet.de/drig/__10.html",
-                                                              "retrieved":  "2026-10-01"
-                                                          }
-                                                      ]
-                                      },
-                     "structure":  {
-                                       "summary":  "Oddiy sud tizimi (ordentliche Gerichtsbarkeit) to\u0027rt pog\u0027onali: Amtsgericht, Landgericht, Oberlandesgericht va Bundesgerichtshof (oliy sud). Jinoyat ishlarida birinchi instansiya og\u0027irlikka qarab Amtsgericht (yakka sudya yoki Schöffengericht) yoki Landgericht Strafkammer\u0027i bo\u0027ladi; ba\u0027zi ishlar bo\u0027yicha Oberlandesgericht.",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "GVG (nemis asl)",
-                                                           "ref":  "§ 12 (oddiy sudlar), §§ 24, 25, 28, 29, 74, 120, 135",
-                                                           "url":  "https://www.gesetze-im-internet.de/gvg/",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   },
-                     "constitutional_review":  {
-                                                   "summary":  "Bundesverfassungsgericht (Federal konstitutsiyaviy sud) boshqa barcha konstitutsiyaviy organlardan mustaqil federal sud (GG Art. 93(1)); ikki Senatdan iborat, har bir Senatga 8 sudya saylanadi, ularning yarmini Bundestag, yarmini Bundesrat saylaydi (Art. 93(2); BVerfGG §2). Sud biror qonunni ish uchun muhim va Konstitutsiyaga zid deb topsa, jarayonni to\u0027xtatib, Federal konstitutsiyaviy sud qarorini so\u0027rashi shart (Art. 100(1)) — bu O\u0027zbekistondagi sud tashabbusi bilan murojaatga o\u0027xshaydi. Federal konstitutsiyaviy sud vakolatlari ro\u0027yxati BVerfGG §13 da (partiyalar, Prezident ayblovi, organlar o\u0027rtasidagi nizolar va h.k.).",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "Grundgesetz va BVerfGG (nemis asl)",
-                                                                       "ref":  "GG Art. 93, 100(1); BVerfGG §§ 2, 13",
-                                                                       "url":  "https://www.gesetze-im-internet.de/gg/",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judge_appointment":  {
-                                               "summary":  "Federal oliy sudlar (jumladan, Bundesgerichtshof) sudyalarini tayinlash haqida tegishli federal vazir Richterwahlausschuss (sudyalarni saylash qo\u0027mitasi) bilan birga qaror qiladi; qo\u0027mita tegishli Land vazirlari va Bundestag saylagan teng sondagi a\u0027zolardan iborat (Grundgesetz Art. 95(2)). Land sudyalarining huquqiy maqomi Land qonunlari bilan belgilanadi, Landlar shtat sudyalarini tayinlashda Land adliya vaziri va sudyalarni saylash qo\u0027mitasi qarorini ham belgilashi mumkin (Art. 98(3), (4)).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "Grundgesetz (nemis asl)",
-                                                                   "ref":  "Art. 95(2), 98(3)-(4)",
-                                                                   "url":  "https://www.gesetze-im-internet.de/gg/",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "judge_term":  {
-                                        "summary":  "Federal konstitutsiyaviy sud sudyalarining vakolat muddati 12 yil, ko\u0027pi bilan 68 yoshgacha; qayta saylanish mumkin emas (GG Art. 93(3); BVerfGG §4). Oddiy sudya umrbod sudya (Richter auf Lebenszeit) etib tayinlanishi mumkin, bunga sudyalik malakasi olingandan keyin kamida uch yil sudyalik xizmatida bo\u0027lish kerak (DRiG §10); muddatli sudya (Richter auf Zeit) tayinlash faqat federal qonun belgilagan hollarda va vazifalar uchun mumkin (DRiG §11). Doimiy lavozimdagi sudyalarni muddatidan oldin ishdan bo\u0027shatish faqat sud qarori bilan mumkin (GG Art. 97(2)).",
-                                        "status":  "tasdiqlangan",
-                                        "sources":  [
-                                                        {
-                                                            "title":  "Grundgesetz, BVerfGG va Deutsches Richtergesetz (nemis asl)",
-                                                            "ref":  "GG Art. 93(3), 97(2); BVerfGG §4; DRiG §§ 10, 11",
-                                                            "url":  "https://www.gesetze-im-internet.de/gg/",
-                                                            "retrieved":  "2026-10-01"
-                                                        }
-                                                    ]
-                                    },
-                     "judicial_independence":  {
-                                                   "summary":  "Sudyalar mustaqil va faqat qonunga bo\u0027ysunadi (Art. 97(1)). Doimiy lavozimdagi sudyalar o\u0027z xohishiga qarshi muddatidan oldin faqat sud qarori bilan, qonunda belgilangan asoslar va shaklda ishdan bo\u0027shatilishi, lavozimdan chetlatilishi yoki ko\u0027chirilishi mumkin (Art. 97(2)). Favqulodda sudlar taqiqlanadi va hech kim o\u0027zining qonuniy sudyasidan mahrum etilishi mumkin emas (Art. 101(1)).",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "Grundgesetz (nemis asl)",
-                                                                       "ref":  "Art. 97, 101(1)",
-                                                                       "url":  "https://www.gesetze-im-internet.de/gg/",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judicial_council":  {
-                                              "summary":  "Germaniyada yagona milliy \u0027sudyalar kengashi\u0027 bu tahlilda konstitutsiya matnidan topilmadi. Federal oliy sudlar (jumladan, Bundesgerichtshof) sudyalarini tayinlashda tegishli federal vazir Richterwahlausschuss (sudyalarni saylash qo\u0027mitasi) bilan birga qaror qiladi: qo\u0027mita tegishli Land vazirlari va Bundestag saylagan teng sondagi a\u0027zolardan iborat (GG Art. 95(2)). Landlar o\u0027z sudyalari uchun shunday qo\u0027mita belgilashi mumkin (Art. 98(4)).",
-                                              "status":  "tasdiqlangan",
-                                              "sources":  [
-                                                              {
-                                                                  "title":  "Grundgesetz (nemis asl)",
-                                                                  "ref":  "Art. 95(2), 98(4)",
-                                                                  "url":  "https://www.gesetze-im-internet.de/gg/",
-                                                                  "retrieved":  "2026-10-01"
-                                                              }
-                                                          ]
-                                          },
-                     "public_participation":  {
-                                                  "summary":  "Hakamlar hay\u0027ati (jury) yo\u0027q; Schöffengericht\u0027da kasbiy sudya bilan birga ikki Schöffe (xalq a\u0027zolari), Landgericht Strafkammer\u0027da 2 yoki 3 kasbiy sudya va 2 Schöffe qatnashadi.",
-                                                  "status":  "tasdiqlangan",
-                                                  "sources":  [
-                                                                  {
-                                                                      "title":  "GVG",
-                                                                      "ref":  "§§ 29, 76",
-                                                                      "url":  "https://www.gesetze-im-internet.de/gvg/",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  }
-                                                              ]
-                                              },
-                     "openness_language":  {
-                                               "summary":  "Hukm e\u0027lon qilishni ham o\u0027z ichiga olgan majlis ochiq; ovoz va televideniye yozuvlari, shuningdek ommaviy namoyish uchun ovoz va kino yozuvlari taqiqlanadi, ammo matbuot uchun ovozni alohida xonaga uzatishga sud ruxsat berishi mumkin (GVG §169(1)). Sud tili — nemis tili; sorb xalqining o\u0027z hududida sorb tilida gapirish huquqi kafolatlanadi (GVG §184).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "GVG (nemis asl)",
-                                                                   "ref":  "§§ 169, 184",
-                                                                   "url":  "https://www.gesetze-im-internet.de/gvg/",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "financing":  {
-                                       "summary":  "Federal adliya vazirligi federal oddiy, ma\u0027muriy va moliya sudlarining faoliyati va xodimlarini boshqaradi; Land adliya vazirliklari Land darajasida xuddi shunday; sudlarning kundalik boshqaruvi sud raislariga yuklangan (FJC). Miqdor jihatidan: Evropa Kengashi CEPEJ 2024 hisoboti (2022 yil ma\u0027lumotlari) Germaniyani sud tizimiga YaIMning 0,24% dan ko\u0027prog\u0027ini sarflaydigan boy mamlakatlar qatoriga kiritadi (Avstriya, Niderlandiya, Shvetsiya, Shveytsariya bilan birga); Yevropa o\u0027rtachasi 0,31% va aholi jon boshiga 85,4 evro. Germaniyaning aniq raqami hisobotning jadvalidan ajratib olinmadi.",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "FJC, Judiciaries Worldwide: Germany",
-                                                           "ref":  "moliyalashtirish tuzilmasi",
-                                                           "url":  "https://judiciariesworldwide.fjc.gov/country-profile/germany",
-                                                           "retrieved":  "2026-10-01"
-                                                       },
-                                                       {
-                                                           "title":  "CEPEJ Evaluation Report 2024 (2022 data), Part 1",
-                                                           "ref":  "Fig. 2.1-2.3, p. 20",
-                                                           "url":  "https://rm.coe.int/cepej-evaluation-report-2024-general-analyses/1680b1e91d",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   }
-                 }
+  "code": "de",
+  "name": "Germaniya",
+  "updated": "2026-10-01",
+  "criteria": {
+    "legal_family": {
+      "summary": "Germaniya fuqarolik huquqi (civil law) tizimiga kiradi, federal parlament tuzilmasiga ega (16 Land); sudyalar karyera sudyalari modeli bo'yicha ishlaydi. Sinov muddati (3 yil)dan so'ng sudyalar umrbod ishga qabul qilinadi (Federal Judicial Center ma'lumoti; DRiG §10 bilan mos).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FJC, Judiciaries Worldwide: Germany",
+          "ref": "country profile (institutsional ma'lumot)",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/germany",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "Deutsches Richtergesetz",
+          "ref": "§ 10",
+          "url": "https://www.gesetze-im-internet.de/drig/__10.html",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Oddiy sud tizimi (ordentliche Gerichtsbarkeit) to'rt pog'onali: Amtsgericht, Landgericht, Oberlandesgericht va Bundesgerichtshof (oliy sud). Jinoyat ishlarida birinchi instansiya og'irlikka qarab Amtsgericht (yakka sudya yoki Schöffengericht) yoki Landgericht Strafkammer'i bo'ladi; ba'zi ishlar bo'yicha Oberlandesgericht.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl)",
+          "ref": "§ 12 (oddiy sudlar), §§ 24, 25, 28, 29, 74, 120, 135",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "§ 12",
+              "url": "https://www.gesetze-im-internet.de/gvg/__12.html"
+            },
+            {
+              "label": "§ 24",
+              "url": "https://www.gesetze-im-internet.de/gvg/__24.html"
+            },
+            {
+              "label": "§ 25",
+              "url": "https://www.gesetze-im-internet.de/gvg/__25.html"
+            },
+            {
+              "label": "§ 28",
+              "url": "https://www.gesetze-im-internet.de/gvg/__28.html"
+            },
+            {
+              "label": "§ 29",
+              "url": "https://www.gesetze-im-internet.de/gvg/__29.html"
+            },
+            {
+              "label": "§ 74",
+              "url": "https://www.gesetze-im-internet.de/gvg/__74.html"
+            },
+            {
+              "label": "§ 120",
+              "url": "https://www.gesetze-im-internet.de/gvg/__120.html"
+            },
+            {
+              "label": "§ 135",
+              "url": "https://www.gesetze-im-internet.de/gvg/__135.html"
+            }
+          ]
+        }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Bundesverfassungsgericht (Federal konstitutsiyaviy sud) boshqa barcha konstitutsiyaviy organlardan mustaqil federal sud (GG Art. 93(1)); ikki Senatdan iborat, har bir Senatga 8 sudya saylanadi, ularning yarmini Bundestag, yarmini Bundesrat saylaydi (Art. 93(2); BVerfGG §2). Sud biror qonunni ish uchun muhim va Konstitutsiyaga zid deb topsa, jarayonni to'xtatib, Federal konstitutsiyaviy sud qarorini so'rashi shart (Art. 100(1)) — bu O'zbekistondagi sud tashabbusi bilan murojaatga o'xshaydi. Federal konstitutsiyaviy sud vakolatlari ro'yxati BVerfGG §13 da (partiyalar, Prezident ayblovi, organlar o'rtasidagi nizolar va h.k.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Grundgesetz va BVerfGG (nemis asl)",
+          "ref": "GG Art. 93, 100(1); BVerfGG §§ 2, 13",
+          "url": "https://www.gesetze-im-internet.de/gg/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 93",
+              "url": "https://www.gesetze-im-internet.de/gg/art_93.html"
+            },
+            {
+              "label": "Art. 100",
+              "url": "https://www.gesetze-im-internet.de/gg/art_100.html"
+            },
+            {
+              "label": "BVerfGG § 2",
+              "url": "https://www.gesetze-im-internet.de/bverfgg/__2.html"
+            },
+            {
+              "label": "BVerfGG § 13",
+              "url": "https://www.gesetze-im-internet.de/bverfgg/__13.html"
+            }
+          ]
+        }
+      ]
+    },
+    "judge_appointment": {
+      "summary": "Federal oliy sudlar (jumladan, Bundesgerichtshof) sudyalarini tayinlash haqida tegishli federal vazir Richterwahlausschuss (sudyalarni saylash qo'mitasi) bilan birga qaror qiladi; qo'mita tegishli Land vazirlari va Bundestag saylagan teng sondagi a'zolardan iborat (Grundgesetz Art. 95(2)). Land sudyalarining huquqiy maqomi Land qonunlari bilan belgilanadi, Landlar shtat sudyalarini tayinlashda Land adliya vaziri va sudyalarni saylash qo'mitasi qarorini ham belgilashi mumkin (Art. 98(3), (4)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Grundgesetz (nemis asl)",
+          "ref": "Art. 95(2), 98(3)-(4)",
+          "url": "https://www.gesetze-im-internet.de/gg/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 95",
+              "url": "https://www.gesetze-im-internet.de/gg/art_95.html"
+            },
+            {
+              "label": "Art. 98",
+              "url": "https://www.gesetze-im-internet.de/gg/art_98.html"
+            }
+          ]
+        }
+      ]
+    },
+    "judge_term": {
+      "summary": "Federal konstitutsiyaviy sud sudyalarining vakolat muddati 12 yil, ko'pi bilan 68 yoshgacha; qayta saylanish mumkin emas (GG Art. 93(3); BVerfGG §4). Oddiy sudya umrbod sudya (Richter auf Lebenszeit) etib tayinlanishi mumkin, bunga sudyalik malakasi olingandan keyin kamida uch yil sudyalik xizmatida bo'lish kerak (DRiG §10); muddatli sudya (Richter auf Zeit) tayinlash faqat federal qonun belgilagan hollarda va vazifalar uchun mumkin (DRiG §11). Doimiy lavozimdagi sudyalarni muddatidan oldin ishdan bo'shatish faqat sud qarori bilan mumkin (GG Art. 97(2)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Grundgesetz, BVerfGG va Deutsches Richtergesetz (nemis asl)",
+          "ref": "GG Art. 93(3), 97(2); BVerfGG §4; DRiG §§ 10, 11",
+          "url": "https://www.gesetze-im-internet.de/gg/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 93",
+              "url": "https://www.gesetze-im-internet.de/gg/art_93.html"
+            },
+            {
+              "label": "Art. 97",
+              "url": "https://www.gesetze-im-internet.de/gg/art_97.html"
+            },
+            {
+              "label": "BVerfGG § 4",
+              "url": "https://www.gesetze-im-internet.de/bverfgg/__4.html"
+            },
+            {
+              "label": "DRiG § 10",
+              "url": "https://www.gesetze-im-internet.de/drig/__10.html"
+            },
+            {
+              "label": "DRiG § 11",
+              "url": "https://www.gesetze-im-internet.de/drig/__11.html"
+            }
+          ]
+        }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Sudyalar mustaqil va faqat qonunga bo'ysunadi (Art. 97(1)). Doimiy lavozimdagi sudyalar o'z xohishiga qarshi muddatidan oldin faqat sud qarori bilan, qonunda belgilangan asoslar va shaklda ishdan bo'shatilishi, lavozimdan chetlatilishi yoki ko'chirilishi mumkin (Art. 97(2)). Favqulodda sudlar taqiqlanadi va hech kim o'zining qonuniy sudyasidan mahrum etilishi mumkin emas (Art. 101(1)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Grundgesetz (nemis asl)",
+          "ref": "Art. 97, 101(1)",
+          "url": "https://www.gesetze-im-internet.de/gg/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 97",
+              "url": "https://www.gesetze-im-internet.de/gg/art_97.html"
+            },
+            {
+              "label": "Art. 101",
+              "url": "https://www.gesetze-im-internet.de/gg/art_101.html"
+            }
+          ]
+        }
+      ]
+    },
+    "judicial_council": {
+      "summary": "Germaniyada yagona milliy 'sudyalar kengashi' bu tahlilda konstitutsiya matnidan topilmadi. Federal oliy sudlar (jumladan, Bundesgerichtshof) sudyalarini tayinlashda tegishli federal vazir Richterwahlausschuss (sudyalarni saylash qo'mitasi) bilan birga qaror qiladi: qo'mita tegishli Land vazirlari va Bundestag saylagan teng sondagi a'zolardan iborat (GG Art. 95(2)). Landlar o'z sudyalari uchun shunday qo'mita belgilashi mumkin (Art. 98(4)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Grundgesetz (nemis asl)",
+          "ref": "Art. 95(2), 98(4)",
+          "url": "https://www.gesetze-im-internet.de/gg/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 95",
+              "url": "https://www.gesetze-im-internet.de/gg/art_95.html"
+            },
+            {
+              "label": "Art. 98",
+              "url": "https://www.gesetze-im-internet.de/gg/art_98.html"
+            }
+          ]
+        }
+      ]
+    },
+    "public_participation": {
+      "summary": "Hakamlar hay'ati (jury) yo'q; Schöffengericht'da kasbiy sudya bilan birga ikki Schöffe (xalq a'zolari), Landgericht Strafkammer'da 2 yoki 3 kasbiy sudya va 2 Schöffe qatnashadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG",
+          "ref": "§§ 29, 76",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "§ 29",
+              "url": "https://www.gesetze-im-internet.de/gvg/__29.html"
+            },
+            {
+              "label": "§ 76",
+              "url": "https://www.gesetze-im-internet.de/gvg/__76.html"
+            }
+          ]
+        }
+      ]
+    },
+    "openness_language": {
+      "summary": "Hukm e'lon qilishni ham o'z ichiga olgan majlis ochiq; ovoz va televideniye yozuvlari, shuningdek ommaviy namoyish uchun ovoz va kino yozuvlari taqiqlanadi, ammo matbuot uchun ovozni alohida xonaga uzatishga sud ruxsat berishi mumkin (GVG §169(1)). Sud tili — nemis tili; sorb xalqining o'z hududida sorb tilida gapirish huquqi kafolatlanadi (GVG §184).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl)",
+          "ref": "§§ 169, 184",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "§ 169",
+              "url": "https://www.gesetze-im-internet.de/gvg/__169.html"
+            },
+            {
+              "label": "§ 184",
+              "url": "https://www.gesetze-im-internet.de/gvg/__184.html"
+            }
+          ]
+        }
+      ]
+    },
+    "financing": {
+      "summary": "Federal adliya vazirligi federal oddiy, ma'muriy va moliya sudlarining faoliyati va xodimlarini boshqaradi; Land adliya vazirliklari Land darajasida xuddi shunday; sudlarning kundalik boshqaruvi sud raislariga yuklangan (FJC). Miqdor jihatidan: Evropa Kengashi CEPEJ 2024 hisoboti (2022 yil ma'lumotlari) Germaniyani sud tizimiga YaIMning 0,24% dan ko'prog'ini sarflaydigan boy mamlakatlar qatoriga kiritadi (Avstriya, Niderlandiya, Shvetsiya, Shveytsariya bilan birga); Yevropa o'rtachasi 0,31% va aholi jon boshiga 85,4 evro. Germaniyaning aniq raqami hisobotning jadvalidan ajratib olinmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FJC, Judiciaries Worldwide: Germany",
+          "ref": "moliyalashtirish tuzilmasi",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/germany",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "CEPEJ Evaluation Report 2024 (2022 data), Part 1",
+          "ref": "Fig. 2.1-2.3, p. 20",
+          "url": "https://rm.coe.int/cepej-evaluation-report-2024-general-analyses/1680b1e91d",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  }
 }

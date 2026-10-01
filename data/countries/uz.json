@@ -1,157 +1,269 @@
 {
-    "code":  "uz",
-    "name":  "O\u0027zbekiston",
-    "updated":  "2026-10-01",
-    "criteria":  {
-                     "legal_family":  {
-                                          "summary":  "O\u0027zbekiston huquq tizimi fuqarolik huquqi an\u0027analarini Sovet sotsialistik huquqi ta\u0027siri va an\u0027anaviy huquq elementlari bilan birlashtiradi; kelib chiqishi Rossiya imperiyasi huquqiy tuzilmalariga borib taqaladi (Federal Judicial Center ma\u0027lumoti).",
-                                          "status":  "tasdiqlangan",
-                                          "sources":  [
-                                                          {
-                                                              "title":  "FJC, Judiciaries Worldwide: Uzbekistan",
-                                                              "ref":  "country profile (institutsional ma\u0027lumot)",
-                                                              "url":  "https://judiciariesworldwide.fjc.gov/country-profile/uzbekistan",
-                                                              "retrieved":  "2026-10-01"
-                                                          }
-                                                      ]
-                                      },
-                     "structure":  {
-                                       "summary":  "\"Sudlar to\u0027g\u0027risida\"gi Qonunning joriy tahriri (so\u0027nggi o\u0027zgartirish 14.08.2026) bo\u0027yicha sud tizimi: Konstitutsiyaviy sud; Oliy sud; harbiy sudlar; Qoraqalpog\u0027iston Respublikasi sudi, viloyat va Toshkent shahar sudlari; Qoraqalpog\u0027iston, viloyat va Toshkent shahar ma\u0027muriy sudlari; fuqarolik ishlari bo\u0027yicha tumanlararo, tuman, shahar sudlari; jinoyat ishlari bo\u0027yicha tuman, shahar sudlari; tumanlararo iqtisodiy sudlar; tumanlararo ma\u0027muriy sudlar (2-modda). Konstitutsiya bo\u0027yicha Oliy sud fuqarolik, jinoiy, iqtisodiy va ma\u0027muriy ishlar sohasida sud hokimiyatining oliy organi (134-modda). Maxsus huquqiy rejim o\u0027rnatilgan hududda Konstitutsiyaviy qonun bilan ixtisoslashgan sud tuzilishi mumkin; u Qonunda belgilangan sud tizimiga kirmaydi (Qonun 2-modda 3-qism; Konstitutsiya 131-modda 2-qism).",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "\"Sudlar to\u0027g\u0027risida\"gi Qonun (O\u0027RQ-703, joriy tahrir)",
-                                                           "ref":  "2-modda",
-                                                           "url":  "https://lex.uz/uz/docs/-5534923",
-                                                           "retrieved":  "2026-10-01"
-                                                       },
-                                                       {
-                                                           "title":  "O\u0027zbekiston Respublikasi Konstitutsiyasi (25.07.2026 tahriri)",
-                                                           "ref":  "131, 134-moddalar",
-                                                           "url":  "https://lex.uz/uz/docs/-6445145",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   },
-                     "constitutional_review":  {
-                                                   "summary":  "Konstitutsiyaviy sud qonun chiqaruvchi va ijro etuvchi hokimiyat hujjatlarining Konstitutsiyaga muvofiqligi to\u0027g\u0027risidagi ishlarni ko\u0027radi. Fuqarolar va yuridik shaxslar, sud orqali himoyaning boshqa barcha vositalari tugagach, o\u0027ziga nisbatan qo\u0027llangan qonunning Konstitutsiyaga muvofiqligi bo\u0027yicha shikoyat bilan murojaat qilishga haqli. Qarori qat\u0027iy, ustidan shikoyat qilinmaydi.",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "O\u0027zbekiston Respublikasi Konstitutsiyasi",
-                                                                       "ref":  "132, 133-moddalar",
-                                                                       "url":  "https://lex.uz/uz/docs/-6445145",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judge_appointment":  {
-                                               "summary":  "Oliy sud sudyasi Sudyalar oliy kengashi tavsiyasi asosida Prezident taqdimnomasiga binoan Senat tomonidan saylanadi. Viloyat, Toshkent shahar sudi, Harbiy sud, ma\u0027muriy sudlar, tumanlararo, tuman, shahar sudi va hududiy harbiy sud sudyalarini Sudyalar oliy kengashi lavozimga tayinlaydi. Qoraqalpog\u0027iston sudlari sudyalarini Sudyalar oliy kengashi taqdimnomasiga binoan Qoraqalpog\u0027iston Jo\u0027qorg\u0027i Kengesi tayinlaydi. Tayinlash tegishli sudyalar malaka hay\u0027atining xulosasini inobatga olgan holda amalga oshiriladi (69-modda). Konstitutsiyaviy sud sudyalari Prezident taqdimiga binoan Senat tomonidan Sudyalar oliy kengashi tavsiya etgan mutaxassislar orasidan saylanadi (Konstitutsiya 132-modda).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "\"Sudlar to\u0027g\u0027risida\"gi Qonun",
-                                                                   "ref":  "69-modda",
-                                                                   "url":  "https://lex.uz/uz/docs/-5534923",
-                                                                   "retrieved":  "2026-10-01"
-                                                               },
-                                                               {
-                                                                   "title":  "O\u0027zbekiston Respublikasi Konstitutsiyasi",
-                                                                   "ref":  "132-modda",
-                                                                   "url":  "https://lex.uz/uz/docs/-6445145",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "judge_term":  {
-                                        "summary":  "Sudya birinchi marta 5 yillik muddatga, navbatdagi 10 yillik muddatga va muddatsiz lavozimda bo\u0027lish davriga saylanadi yoki tayinlanadi (71-modda). Eng yuqori yosh: Oliy sud sudyasi uchun 70, boshqa sudlar sudyalari uchun 65; Prezident (Oliy sud sudyasi uchun, uning roziligi bilan) yoki Sudyalar oliy kengashi (boshqa sudlar) buni 5 yilgacha uzaytirishi mumkin. Sud raisi va rais o\u0027rinbosarining vakolat muddati 5 yil, ayni sudda ketma-ket ikki muddatdan ortiq emas (72-modda). Konstitutsiyaviy sud sudyalari qayta saylanish huquqisiz 10 yillik muddatga, Oliy sud raisi 5 yilga saylanadi (Konstitutsiya 132, 134-moddalar). Eslatma: avvalgi \u0027ziddiyatli\u0027 belgi bartaraf etildi, chunki 2021 yilgi manba va joriy qonun matni mos keladi.",
-                                        "status":  "tasdiqlangan",
-                                        "sources":  [
-                                                        {
-                                                            "title":  "\"Sudlar to\u0027g\u0027risida\"gi Qonun",
-                                                            "ref":  "71, 72-moddalar",
-                                                            "url":  "https://lex.uz/uz/docs/-5534923",
-                                                            "retrieved":  "2026-10-01"
-                                                        },
-                                                        {
-                                                            "title":  "O\u0027zbekiston Respublikasi Konstitutsiyasi",
-                                                            "ref":  "132, 134-moddalar",
-                                                            "url":  "https://lex.uz/uz/docs/-6445145",
-                                                            "retrieved":  "2026-10-01"
-                                                        }
-                                                    ]
-                                    },
-                     "judicial_independence":  {
-                                                   "summary":  "Sud hokimiyati qonun chiqaruvchi va ijro etuvchi hokimiyatdan, siyosiy partiyalardan va fuqarolik jamiyatining boshqa institutlaridan mustaqil (130-modda). Sudyalar mustaqil, faqat Konstitutsiya va qonunga bo\u0027ysunadi, daxlsiz; aralashish javobgarlikka sabab bo\u0027ladi; sudning qayta tashkil etilishi sudyani ozod qilish uchun asos bo\u0027lmaydi; sudyalar partiya a\u0027zosi bo\u0027la olmaydi va ilmiy, ijodiy, pedagogik faoliyatdan tashqari haq to\u0027lanadigan ish bilan shug\u0027ullanmaydi (136-modda).",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "O\u0027zbekiston Respublikasi Konstitutsiyasi",
-                                                                       "ref":  "130, 136-moddalar",
-                                                                       "url":  "https://lex.uz/uz/docs/-6445145",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judicial_council":  {
-                                              "summary":  "Sudyalar oliy kengashi sudyalar hamjamiyatining mustaqil organi bo\u0027lib, sudyalar korpusining shakllantirilishini va sud hokimiyati mustaqilligiga rioya etilishini ta\u0027minlaydi. Raisi va o\u0027rinbosari Prezident taqdimiga binoan Senat tomonidan 5 yilga saylanadi, ketma-ket ikki muddatdan ortiq emas.",
-                                              "status":  "tasdiqlangan",
-                                              "sources":  [
-                                                              {
-                                                                  "title":  "O\u0027zbekiston Respublikasi Konstitutsiyasi",
-                                                                  "ref":  "135-modda",
-                                                                  "url":  "https://lex.uz/uz/docs/-6445145",
-                                                                  "retrieved":  "2026-10-01"
-                                                              }
-                                                          ]
-                                          },
-                     "public_participation":  {
-                                                  "summary":  "Hakamlar hay\u0027ati (jury) yo\u0027q. Jinoyat ishlari hay\u0027atda ko\u0027rilganda sud tarkibiga sudya va ikki nafar xalq maslahatchisi kiradi (JPK 13-modda). Xalq maslahatchisi — kamida 35 yoshdagi fuqaro, yashash yoki ish joyidagi yig\u0027ilishda ochiq ovoz berish bilan 2,5 yilga saylanadi; odil sudlovda sudyaning huquqlaridan foydalanadi; bir yilda ko\u0027pi bilan ikki haftaga chaqiriladi (59-modda).",
-                                                  "status":  "tasdiqlangan",
-                                                  "sources":  [
-                                                                  {
-                                                                      "title":  "\"Sudlar to\u0027g\u0027risida\"gi Qonun",
-                                                                      "ref":  "59-modda",
-                                                                      "url":  "https://lex.uz/uz/docs/-5534923",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  },
-                                                                  {
-                                                                      "title":  "JPK",
-                                                                      "ref":  "13-modda",
-                                                                      "url":  "https://lex.uz/uz/docs/-111460",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  }
-                                                              ]
-                                              },
-                     "openness_language":  {
-                                               "summary":  "Barcha sudlarda ishlar ochiq ko\u0027riladi; yopiq majlis faqat qonunda belgilangan hollarda (Konstitutsiya 137-modda; Qonun 12-modda). Zalda hozir bo\u0027lganlar va ommaviy axborot vositalari vakillari qonunda belgilangan tartibda fotosuratga olishi, video va audio yozuv qilishi mumkin (Qonun 12-modda). Sud ishi o\u0027zbek, qoraqalpoq tilida yoki ko\u0027pchilik aholi tilida, yoxud qonunga muvofiq boshqa tilda yuritiladi; tilni bilmaganlarga tarjimon va ona tilida so\u0027zlash huquqi ta\u0027minlanadi (Qonun 13-modda; Konstitutsiya 139-modda).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "\"Sudlar to\u0027g\u0027risida\"gi Qonun",
-                                                                   "ref":  "12, 13-moddalar",
-                                                                   "url":  "https://lex.uz/uz/docs/-5534923",
-                                                                   "retrieved":  "2026-10-01"
-                                                               },
-                                                               {
-                                                                   "title":  "O\u0027zbekiston Respublikasi Konstitutsiyasi",
-                                                                   "ref":  "137, 139-moddalar",
-                                                                   "url":  "https://lex.uz/uz/docs/-6445145",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "financing":  {
-                                       "summary":  "Sudlar faoliyatini moliyalashtirish faqat Davlat budjetidan amalga oshiriladi va odil sudlovni to\u0027liq va mustaqil amalga oshirish imkoniyatini ta\u0027minlashi kerak.",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "O\u0027zbekiston Respublikasi Konstitutsiyasi",
-                                                           "ref":  "140-modda",
-                                                           "url":  "https://lex.uz/uz/docs/-6445145",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   }
-                 }
+  "code": "uz",
+  "name": "O'zbekiston",
+  "updated": "2026-10-01",
+  "criteria": {
+    "legal_family": {
+      "summary": "O'zbekiston huquq tizimi fuqarolik huquqi an'analarini Sovet sotsialistik huquqi ta'siri va an'anaviy huquq elementlari bilan birlashtiradi; kelib chiqishi Rossiya imperiyasi huquqiy tuzilmalariga borib taqaladi (Federal Judicial Center ma'lumoti).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FJC, Judiciaries Worldwide: Uzbekistan",
+          "ref": "country profile (institutsional ma'lumot)",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/uzbekistan",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "\"Sudlar to'g'risida\"gi Qonunning joriy tahriri (so'nggi o'zgartirish 14.08.2026) bo'yicha sud tizimi: Konstitutsiyaviy sud; Oliy sud; harbiy sudlar; Qoraqalpog'iston Respublikasi sudi, viloyat va Toshkent shahar sudlari; Qoraqalpog'iston, viloyat va Toshkent shahar ma'muriy sudlari; fuqarolik ishlari bo'yicha tumanlararo, tuman, shahar sudlari; jinoyat ishlari bo'yicha tuman, shahar sudlari; tumanlararo iqtisodiy sudlar; tumanlararo ma'muriy sudlar (2-modda). Konstitutsiya bo'yicha Oliy sud fuqarolik, jinoiy, iqtisodiy va ma'muriy ishlar sohasida sud hokimiyatining oliy organi (134-modda). Maxsus huquqiy rejim o'rnatilgan hududda Konstitutsiyaviy qonun bilan ixtisoslashgan sud tuzilishi mumkin; u Qonunda belgilangan sud tizimiga kirmaydi (Qonun 2-modda 3-qism; Konstitutsiya 131-modda 2-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "\"Sudlar to'g'risida\"gi Qonun (O'RQ-703, joriy tahrir)",
+          "ref": "2-modda",
+          "url": "https://lex.uz/uz/docs/-5534923",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "2-modda",
+              "url": "https://lex.uz/uz/docs/-5534923#-5536744"
+            }
+          ]
+        },
+        {
+          "title": "O'zbekiston Respublikasi Konstitutsiyasi (25.07.2026 tahriri)",
+          "ref": "131, 134-moddalar",
+          "url": "https://lex.uz/uz/docs/-6445145",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "131-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446099"
+            },
+            {
+              "label": "134-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446121"
+            }
+          ]
+        }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Konstitutsiyaviy sud qonun chiqaruvchi va ijro etuvchi hokimiyat hujjatlarining Konstitutsiyaga muvofiqligi to'g'risidagi ishlarni ko'radi. Fuqarolar va yuridik shaxslar, sud orqali himoyaning boshqa barcha vositalari tugagach, o'ziga nisbatan qo'llangan qonunning Konstitutsiyaga muvofiqligi bo'yicha shikoyat bilan murojaat qilishga haqli. Qarori qat'iy, ustidan shikoyat qilinmaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+          "ref": "132, 133-moddalar",
+          "url": "https://lex.uz/uz/docs/-6445145",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "132-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446102"
+            },
+            {
+              "label": "133-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446107"
+            }
+          ]
+        }
+      ]
+    },
+    "judge_appointment": {
+      "summary": "Oliy sud sudyasi Sudyalar oliy kengashi tavsiyasi asosida Prezident taqdimnomasiga binoan Senat tomonidan saylanadi. Viloyat, Toshkent shahar sudi, Harbiy sud, ma'muriy sudlar, tumanlararo, tuman, shahar sudi va hududiy harbiy sud sudyalarini Sudyalar oliy kengashi lavozimga tayinlaydi. Qoraqalpog'iston sudlari sudyalarini Sudyalar oliy kengashi taqdimnomasiga binoan Qoraqalpog'iston Jo'qorg'i Kengesi tayinlaydi. Tayinlash tegishli sudyalar malaka hay'atining xulosasini inobatga olgan holda amalga oshiriladi (69-modda). Konstitutsiyaviy sud sudyalari Prezident taqdimiga binoan Senat tomonidan Sudyalar oliy kengashi tavsiya etgan mutaxassislar orasidan saylanadi (Konstitutsiya 132-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "\"Sudlar to'g'risida\"gi Qonun",
+          "ref": "69-modda",
+          "url": "https://lex.uz/uz/docs/-5534923",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "69-modda",
+              "url": "https://lex.uz/uz/docs/-5534923#-5538519"
+            }
+          ]
+        },
+        {
+          "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+          "ref": "132-modda",
+          "url": "https://lex.uz/uz/docs/-6445145",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "132-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446102"
+            }
+          ]
+        }
+      ]
+    },
+    "judge_term": {
+      "summary": "Sudya birinchi marta 5 yillik muddatga, navbatdagi 10 yillik muddatga va muddatsiz lavozimda bo'lish davriga saylanadi yoki tayinlanadi (71-modda). Eng yuqori yosh: Oliy sud sudyasi uchun 70, boshqa sudlar sudyalari uchun 65; Prezident (Oliy sud sudyasi uchun, uning roziligi bilan) yoki Sudyalar oliy kengashi (boshqa sudlar) buni 5 yilgacha uzaytirishi mumkin. Sud raisi va rais o'rinbosarining vakolat muddati 5 yil, ayni sudda ketma-ket ikki muddatdan ortiq emas (72-modda). Konstitutsiyaviy sud sudyalari qayta saylanish huquqisiz 10 yillik muddatga, Oliy sud raisi 5 yilga saylanadi (Konstitutsiya 132, 134-moddalar). Eslatma: avvalgi 'ziddiyatli' belgi bartaraf etildi, chunki 2021 yilgi manba va joriy qonun matni mos keladi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "\"Sudlar to'g'risida\"gi Qonun",
+          "ref": "71, 72-moddalar",
+          "url": "https://lex.uz/uz/docs/-5534923",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "71-modda",
+              "url": "https://lex.uz/uz/docs/-5534923#-5538543"
+            },
+            {
+              "label": "72-modda",
+              "url": "https://lex.uz/uz/docs/-5534923#-5538549"
+            }
+          ]
+        },
+        {
+          "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+          "ref": "132, 134-moddalar",
+          "url": "https://lex.uz/uz/docs/-6445145",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "132-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446102"
+            },
+            {
+              "label": "134-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446121"
+            }
+          ]
+        }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Sud hokimiyati qonun chiqaruvchi va ijro etuvchi hokimiyatdan, siyosiy partiyalardan va fuqarolik jamiyatining boshqa institutlaridan mustaqil (130-modda). Sudyalar mustaqil, faqat Konstitutsiya va qonunga bo'ysunadi, daxlsiz; aralashish javobgarlikka sabab bo'ladi; sudning qayta tashkil etilishi sudyani ozod qilish uchun asos bo'lmaydi; sudyalar partiya a'zosi bo'la olmaydi va ilmiy, ijodiy, pedagogik faoliyatdan tashqari haq to'lanadigan ish bilan shug'ullanmaydi (136-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+          "ref": "130, 136-moddalar",
+          "url": "https://lex.uz/uz/docs/-6445145",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "130-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446096"
+            },
+            {
+              "label": "136-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446133"
+            }
+          ]
+        }
+      ]
+    },
+    "judicial_council": {
+      "summary": "Sudyalar oliy kengashi sudyalar hamjamiyatining mustaqil organi bo'lib, sudyalar korpusining shakllantirilishini va sud hokimiyati mustaqilligiga rioya etilishini ta'minlaydi. Raisi va o'rinbosari Prezident taqdimiga binoan Senat tomonidan 5 yilga saylanadi, ketma-ket ikki muddatdan ortiq emas.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+          "ref": "135-modda",
+          "url": "https://lex.uz/uz/docs/-6445145",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "135-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446127"
+            }
+          ]
+        }
+      ]
+    },
+    "public_participation": {
+      "summary": "Hakamlar hay'ati (jury) yo'q. Jinoyat ishlari hay'atda ko'rilganda sud tarkibiga sudya va ikki nafar xalq maslahatchisi kiradi (JPK 13-modda). Xalq maslahatchisi — kamida 35 yoshdagi fuqaro, yashash yoki ish joyidagi yig'ilishda ochiq ovoz berish bilan 2,5 yilga saylanadi; odil sudlovda sudyaning huquqlaridan foydalanadi; bir yilda ko'pi bilan ikki haftaga chaqiriladi (59-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "\"Sudlar to'g'risida\"gi Qonun",
+          "ref": "59-modda",
+          "url": "https://lex.uz/uz/docs/-5534923",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "59-modda",
+              "url": "https://lex.uz/uz/docs/-5534923#-5538074"
+            }
+          ]
+        },
+        {
+          "title": "JPK",
+          "ref": "13-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "13-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-252833"
+            }
+          ]
+        }
+      ]
+    },
+    "openness_language": {
+      "summary": "Barcha sudlarda ishlar ochiq ko'riladi; yopiq majlis faqat qonunda belgilangan hollarda (Konstitutsiya 137-modda; Qonun 12-modda). Zalda hozir bo'lganlar va ommaviy axborot vositalari vakillari qonunda belgilangan tartibda fotosuratga olishi, video va audio yozuv qilishi mumkin (Qonun 12-modda). Sud ishi o'zbek, qoraqalpoq tilida yoki ko'pchilik aholi tilida, yoxud qonunga muvofiq boshqa tilda yuritiladi; tilni bilmaganlarga tarjimon va ona tilida so'zlash huquqi ta'minlanadi (Qonun 13-modda; Konstitutsiya 139-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "\"Sudlar to'g'risida\"gi Qonun",
+          "ref": "12, 13-moddalar",
+          "url": "https://lex.uz/uz/docs/-5534923",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "12-modda",
+              "url": "https://lex.uz/uz/docs/-5534923#-5536827"
+            },
+            {
+              "label": "13-modda",
+              "url": "https://lex.uz/uz/docs/-5534923#-5536835"
+            }
+          ]
+        },
+        {
+          "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+          "ref": "137, 139-moddalar",
+          "url": "https://lex.uz/uz/docs/-6445145",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "137-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446143"
+            },
+            {
+              "label": "139-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446150"
+            }
+          ]
+        }
+      ]
+    },
+    "financing": {
+      "summary": "Sudlar faoliyatini moliyalashtirish faqat Davlat budjetidan amalga oshiriladi va odil sudlovni to'liq va mustaqil amalga oshirish imkoniyatini ta'minlashi kerak.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "O'zbekiston Respublikasi Konstitutsiyasi",
+          "ref": "140-modda",
+          "url": "https://lex.uz/uz/docs/-6445145",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "140-modda",
+              "url": "https://lex.uz/uz/docs/-6445145#-6446153"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

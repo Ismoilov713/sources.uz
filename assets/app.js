@@ -83,14 +83,21 @@ function renderSide() {
 /* ---------- umumiy bloklar ---------- */
 function sourcesHtml(v) {
   const items = (v.sources || []).map(s =>
-    `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}${s.ref ? ", " + esc(s.ref) : ""}</a>${s.retrieved ? " <span>(" + esc(s.retrieved) + ")</span>" : ""}${s.original ? `<q>${esc(s.original)}</q>` : ""}</li>`).join("");
+    `<li><a href="${esc(s.url)}" target="_blank" rel="noopener" title="Hujjatning bosh sahifasi">${esc(s.title)}${s.ref ? ", " + esc(s.ref) : ""}</a>${s.retrieved ? " <span>(" + esc(s.retrieved) + ")</span>" : ""}${s.original ? `<q>${esc(s.original)}</q>` : ""}</li>`).join("");
   return items ? `<details class="srcs"><summary>Manbalar (${v.sources.length}) va asl matn</summary><ul>${items}</ul></details>` : `<div class="srcs empty">Manba hali qo'shilmagan</div>`;
+}
+// Moddaning o'ziga olib boruvchi havolalar (bir bosishda shu moddaga o'tadi)
+function artLinks(v) {
+  const chips = [];
+  (v.sources || []).forEach(s => (s.links || []).forEach(l =>
+    chips.push(`<a class="art" href="${esc(l.url)}" target="_blank" rel="noopener" title="${esc(s.title)}: ${esc(l.label)} moddasiga o'tish">${esc(l.label)}</a>`)));
+  return chips.length ? `<div class="arts"><span>Moddaga o'tish:</span>${chips.join("")}</div>` : "";
 }
 function cellHtml(c, v) {
   if (!v) return `<div class="cell" style="--c:${colorOf(c.code)}"><h4><span class="dot"></span>${esc(c.name)}</h4><p class="empty">Ma'lumot hali qo'shilmagan</p></div>`;
   return `<div class="cell" style="--c:${colorOf(c.code)}">
     <h4><span class="dot"></span>${esc(c.name)} <span class="status ${esc(v.status)}">${esc(STATUS_LABEL[v.status] || v.status)}</span></h4>
-    <p class="sum">${esc(v.summary)}</p>${sourcesHtml(v)}</div>`;
+    <p class="sum">${esc(v.summary)}</p>${artLinks(v)}${sourcesHtml(v)}</div>`;
 }
 
 /* ---------- bosh sahifa ---------- */

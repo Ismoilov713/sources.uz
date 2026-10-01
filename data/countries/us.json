@@ -1,205 +1,225 @@
 {
-    "code":  "us",
-    "name":  "AQSh (federal)",
-    "updated":  "2026-10-01",
-    "criteria":  {
-                     "legal_family":  {
-                                          "summary":  "AQSh umumiy huquq (common law) an\u0027anasiga mansub (Angliyadan meros); Luiziana fuqarolik huquqi elementlari bilan aralash tizimga ega (Federal Judicial Center ma\u0027lumoti). Jinoyat protsessi raqobatli (adversarial) model: tomonlar o\u0027rtasidagi bahs, hakamlar hay\u0027ati.",
-                                          "status":  "tasdiqlangan",
-                                          "sources":  [
-                                                          {
-                                                              "title":  "FJC, Judiciaries Worldwide: United States",
-                                                              "ref":  "country profile (institutsional ma\u0027lumot)",
-                                                              "url":  "https://judiciariesworldwide.fjc.gov/country-profile/united-states",
-                                                              "retrieved":  "2026-10-01"
-                                                          },
-                                                          {
-                                                              "title":  "FJC: Comparative Criminal Procedure",
-                                                              "ref":  "adversarial vs inquisitorial",
-                                                              "url":  "https://judiciariesworldwide.fjc.gov/comparative-criminal-procedure",
-                                                              "retrieved":  "2026-10-01"
-                                                          }
-                                                      ]
-                                      },
-                     "structure":  {
-                                       "summary":  "Federal jinoyatlar bo\u0027yicha birinchi instansiya — federal okrug sudlari (district courts): ular federal qonunlar bo\u0027yicha barcha jinoyatlar bo\u0027yicha boshlang\u0027ich yurisdiksiyaga ega, shtat sudlarining yurisdiksiyasi saqlanadi (18 U.S.C. §3231). Okrug sudlarining yakuniy qarorlari ustidan shikoyatlarni federal apellyatsiya sudlari ko\u0027radi (28 U.S.C. §1291). Shtatlarning o\u0027z sud tizimlari bor va bu sayt hozircha faqat federal darajani qamrab oladi.",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "18 U.S.C. §3231",
-                                                           "ref":  "",
-                                                           "url":  "https://www.law.cornell.edu/uscode/text/18/3231",
-                                                           "retrieved":  "2026-10-01"
-                                                       },
-                                                       {
-                                                           "title":  "28 U.S.C. §1291",
-                                                           "ref":  "",
-                                                           "url":  "https://www.law.cornell.edu/uscode/text/28/1291",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   },
-                     "constitutional_review":  {
-                                                   "summary":  "Konstitutsiyada sudlarga qonunni bekor qilish vakolati ochiq yozilmagan: III modda sud hokimiyatini Konstitutsiya, federal qonunlar va shartnomalar asosida kelib chiqadigan barcha ishlarga yoyadi (Art. III §2). Sud nazorati (judicial review) Marbury v. Madison (1803) qarori bilan o\u0027rnatilgan: \u0027sud hokimiyatining burchi qonun nima ekanini aytishdir; agar qonun Konstitutsiyaga zid bo\u0027lsa, sud Konstitutsiyaga amal qiladi\u0027. Konstitutsiyaviy masalani alohida konstitutsiyaviy sud emas, odatdagi sudlar (shu jumladan AQSh Oliy sudi) konkret ishni hal qilish doirasida ko\u0027radi.",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "AQSh Konstitutsiyasi, III modda",
-                                                                       "ref":  "§2",
-                                                                       "url":  "https://www.law.cornell.edu/constitution/articleiii",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   },
-                                                                   {
-                                                                       "title":  "Marbury v. Madison, 5 U.S. 137 (1803)",
-                                                                       "ref":  "",
-                                                                       "url":  "https://www.law.cornell.edu/supremecourt/text/5/137",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judge_appointment":  {
-                                               "summary":  "Prezident Senat maslahati va roziligi bilan Oliy sud sudyalarini (Art. II §2), okrug sudlarining sudyalarini (28 U.S.C. §133) va apellyatsiya (circuit) sudlarining sudyalarini (28 U.S.C. §44) tayinlaydi. Amalda nomzodlar FBI tekshiruvidan o\u0027tadi va Senat adliya komissiyasida ommaviy eshituvlarda savollarga javob beradi (FJC).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "AQSh Konstitutsiyasi, II modda",
-                                                                   "ref":  "§2",
-                                                                   "url":  "https://www.law.cornell.edu/constitution/articleii",
-                                                                   "retrieved":  "2026-10-01"
-                                                               },
-                                                               {
-                                                                   "title":  "28 U.S.C. §133",
-                                                                   "ref":  "",
-                                                                   "url":  "https://www.law.cornell.edu/uscode/text/28/133",
-                                                                   "retrieved":  "2026-10-01"
-                                                               },
-                                                               {
-                                                                   "title":  "28 U.S.C. §44",
-                                                                   "ref":  "",
-                                                                   "url":  "https://www.law.cornell.edu/uscode/text/28/44",
-                                                                   "retrieved":  "2026-10-01"
-                                                               },
-                                                               {
-                                                                   "title":  "FJC, Judiciaries Worldwide: United States",
-                                                                   "ref":  "country profile (institutsional ma\u0027lumot)",
-                                                                   "url":  "https://judiciariesworldwide.fjc.gov/country-profile/united-states",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "judge_term":  {
-                                        "summary":  "Konstitutsiyaviy III modda bo\u0027yicha federal sudyalar \u0027yaxshi xulq-atvor\u0027 davomida lavozimda qoladi (Art. III §1; apellyatsiya sudyalari uchun 28 U.S.C. §44(b)). Amalda umrbod tayinlanadi, majburiy nafaqa yoshi yo\u0027q (FJC).",
-                                        "status":  "tasdiqlangan",
-                                        "sources":  [
-                                                        {
-                                                            "title":  "AQSh Konstitutsiyasi, III modda",
-                                                            "ref":  "§1",
-                                                            "url":  "https://www.law.cornell.edu/constitution/articleiii",
-                                                            "retrieved":  "2026-10-01"
-                                                        },
-                                                        {
-                                                            "title":  "28 U.S.C. §44",
-                                                            "ref":  "(b)",
-                                                            "url":  "https://www.law.cornell.edu/uscode/text/28/44",
-                                                            "retrieved":  "2026-10-01"
-                                                        },
-                                                        {
-                                                            "title":  "FJC, Judiciaries Worldwide: United States",
-                                                            "ref":  "country profile (institutsional ma\u0027lumot)",
-                                                            "url":  "https://judiciariesworldwide.fjc.gov/country-profile/united-states",
-                                                            "retrieved":  "2026-10-01"
-                                                        }
-                                                    ]
-                                    },
-                     "judicial_independence":  {
-                                                   "summary":  "Federal sudyalarning maoshi ular lavozimda turgan davrda kamaytirilmaydi (Art. III §1); lavozimda yaxshi xulq-atvor davomida qoladi. Boshqa kafolatlar (masalan, impichment tartibi) bu tahlilda o\u0027qilmadi.",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "AQSh Konstitutsiyasi, III modda",
-                                                                       "ref":  "§1",
-                                                                       "url":  "https://www.law.cornell.edu/constitution/articleiii",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judicial_council":  {
-                                              "summary":  "Federal sudyalar o\u0027zini o\u0027zi boshqarish organlari: AQSh Bosh sudyasi raisligida Federal sudlar Konferensiyasi (Judicial Conference of the United States): u har bir circuitning bosh sudyasi, Xalqaro savdo sudi bosh sudyasi va har circuitdan okrug sudyasidan iborat; okrug sudyasini circuitning sudyalari 3–5 yilga saylaydi (28 U.S.C. §331). Har bir circuitda sudya kengashi (judicial council) sud ishlarini samarali boshqarish uchun buyruqlar chiqaradi (28 U.S.C. §332). Bu organlar sudyalarni tayinlamaydi (tayinlashni Prezident va Senat qiladi), sud ma\u0027muriyatini boshqarishga tegishli.",
-                                              "status":  "tasdiqlangan",
-                                              "sources":  [
-                                                              {
-                                                                  "title":  "28 U.S.C. §331",
-                                                                  "ref":  "",
-                                                                  "url":  "https://www.law.cornell.edu/uscode/text/28/331",
-                                                                  "retrieved":  "2026-10-01"
-                                                              },
-                                                              {
-                                                                  "title":  "28 U.S.C. §332",
-                                                                  "ref":  "",
-                                                                  "url":  "https://www.law.cornell.edu/uscode/text/28/332",
-                                                                  "retrieved":  "2026-10-01"
-                                                              }
-                                                          ]
-                                          },
-                     "public_participation":  {
-                                                  "summary":  "Ikki xil hakamlar hay\u0027ati: katta hay\u0027at (grand jury, 16–23 a\u0027zo, indictment uchun kamida 12 ovoz) ayblovni qo\u0027yish bosqichida (FRCrP 6(a)(1), 6(f)), va sud muhokamasi hakamlar hay\u0027ati (petit jury, odatda 12 kishi, bir ovozdan hukm) (FRCrP 23(b), 31(a)). Konstitutsiya 5- va 6-tuzatishlar bilan bu huquqlarni kafolatlaydi.",
-                                                  "status":  "tasdiqlangan",
-                                                  "sources":  [
-                                                                  {
-                                                                      "title":  "FRCrP",
-                                                                      "ref":  "Rules 6, 23, 31",
-                                                                      "url":  "https://www.law.cornell.edu/rules/frcrmp",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  },
-                                                                  {
-                                                                      "title":  "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
-                                                                      "ref":  "",
-                                                                      "url":  "https://www.law.cornell.edu/constitution/sixth_amendment",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  }
-                                                              ]
-                                              },
-                     "openness_language":  {
-                                               "summary":  "Ayblanuvchi \u0027tezkor va ochiq sud\u0027 huquqiga ega (6-tuzatish). Federal jinoyat sudlarida sud majlisi zalida fotosuratga olish va majlisni efirga uzatish, qonun yoki qoida boshqacha belgilamasa, taqiqlanadi (FRCrP Rule 53). Ingliz tilini bilmaydigan yoki eshitish nuqsoni bor shaxslarga sertifikatlangan tarjimon xizmati AQSh sudlarining ma\u0027muriy idorasi dasturi orqali ta\u0027minlanadi (28 U.S.C. §1827).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "AQSh Konstitutsiyasi, 6-tuzatish",
-                                                                   "ref":  "",
-                                                                   "url":  "https://www.law.cornell.edu/constitution/sixth_amendment",
-                                                                   "retrieved":  "2026-10-01"
-                                                               },
-                                                               {
-                                                                   "title":  "FRCrP",
-                                                                   "ref":  "Rule 53",
-                                                                   "url":  "https://www.law.cornell.edu/rules/frcrmp/rule_53",
-                                                                   "retrieved":  "2026-10-01"
-                                                               },
-                                                               {
-                                                                   "title":  "28 U.S.C. §1827",
-                                                                   "ref":  "(a)-(b)",
-                                                                   "url":  "https://www.law.cornell.edu/uscode/text/28/1827",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "financing":  {
-                                       "summary":  "Federal sudlarning yillik xarajat va ajratmalar smetasini AQSh sudlarining ma\u0027muriy idorasi direktori Federal sudlar Konferensiyasi nazorati ostida tayyorlab, Boshqaruv va byudjet idorasiga (OMB) topshiradi; smeta taqdim etilishidan oldin Konferensiya tomonidan tasdiqlanadi (28 U.S.C. §605). Federal sudyalarning maoshi lavozimda turgan davrda kamaytirilmaydi (Konstitutsiya, Art. III §1).",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "28 U.S.C. §605",
-                                                           "ref":  "",
-                                                           "url":  "https://www.law.cornell.edu/uscode/text/28/605",
-                                                           "retrieved":  "2026-10-01"
-                                                       },
-                                                       {
-                                                           "title":  "AQSh Konstitutsiyasi, III modda",
-                                                           "ref":  "§1",
-                                                           "url":  "https://www.law.cornell.edu/constitution/articleiii",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   }
-                 }
+  "code": "us",
+  "name": "AQSh (federal)",
+  "updated": "2026-10-01",
+  "criteria": {
+    "legal_family": {
+      "summary": "AQSh umumiy huquq (common law) an'anasiga mansub (Angliyadan meros); Luiziana fuqarolik huquqi elementlari bilan aralash tizimga ega (Federal Judicial Center ma'lumoti). Jinoyat protsessi raqobatli (adversarial) model: tomonlar o'rtasidagi bahs, hakamlar hay'ati.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FJC, Judiciaries Worldwide: United States",
+          "ref": "country profile (institutsional ma'lumot)",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-states",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "FJC: Comparative Criminal Procedure",
+          "ref": "adversarial vs inquisitorial",
+          "url": "https://judiciariesworldwide.fjc.gov/comparative-criminal-procedure",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Federal jinoyatlar bo'yicha birinchi instansiya — federal okrug sudlari (district courts): ular federal qonunlar bo'yicha barcha jinoyatlar bo'yicha boshlang'ich yurisdiksiyaga ega, shtat sudlarining yurisdiksiyasi saqlanadi (18 U.S.C. §3231). Okrug sudlarining yakuniy qarorlari ustidan shikoyatlarni federal apellyatsiya sudlari ko'radi (28 U.S.C. §1291). Shtatlarning o'z sud tizimlari bor va bu sayt hozircha faqat federal darajani qamrab oladi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "18 U.S.C. §3231",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/18/3231",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "28 U.S.C. §1291",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/28/1291",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Konstitutsiyada sudlarga qonunni bekor qilish vakolati ochiq yozilmagan: III modda sud hokimiyatini Konstitutsiya, federal qonunlar va shartnomalar asosida kelib chiqadigan barcha ishlarga yoyadi (Art. III §2). Sud nazorati (judicial review) Marbury v. Madison (1803) qarori bilan o'rnatilgan: 'sud hokimiyatining burchi qonun nima ekanini aytishdir; agar qonun Konstitutsiyaga zid bo'lsa, sud Konstitutsiyaga amal qiladi'. Konstitutsiyaviy masalani alohida konstitutsiyaviy sud emas, odatdagi sudlar (shu jumladan AQSh Oliy sudi) konkret ishni hal qilish doirasida ko'radi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "AQSh Konstitutsiyasi, III modda",
+          "ref": "§2",
+          "url": "https://www.law.cornell.edu/constitution/articleiii",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "Marbury v. Madison, 5 U.S. 137 (1803)",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/supremecourt/text/5/137",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "judge_appointment": {
+      "summary": "Prezident Senat maslahati va roziligi bilan Oliy sud sudyalarini (Art. II §2), okrug sudlarining sudyalarini (28 U.S.C. §133) va apellyatsiya (circuit) sudlarining sudyalarini (28 U.S.C. §44) tayinlaydi. Amalda nomzodlar FBI tekshiruvidan o'tadi va Senat adliya komissiyasida ommaviy eshituvlarda savollarga javob beradi (FJC).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "AQSh Konstitutsiyasi, II modda",
+          "ref": "§2",
+          "url": "https://www.law.cornell.edu/constitution/articleii",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "28 U.S.C. §133",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/28/133",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "28 U.S.C. §44",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/28/44",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "FJC, Judiciaries Worldwide: United States",
+          "ref": "country profile (institutsional ma'lumot)",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-states",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "judge_term": {
+      "summary": "Konstitutsiyaviy III modda bo'yicha federal sudyalar 'yaxshi xulq-atvor' davomida lavozimda qoladi (Art. III §1; apellyatsiya sudyalari uchun 28 U.S.C. §44(b)). Amalda umrbod tayinlanadi, majburiy nafaqa yoshi yo'q (FJC).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "AQSh Konstitutsiyasi, III modda",
+          "ref": "§1",
+          "url": "https://www.law.cornell.edu/constitution/articleiii",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "28 U.S.C. §44",
+          "ref": "(b)",
+          "url": "https://www.law.cornell.edu/uscode/text/28/44",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "FJC, Judiciaries Worldwide: United States",
+          "ref": "country profile (institutsional ma'lumot)",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-states",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Federal sudyalarning maoshi ular lavozimda turgan davrda kamaytirilmaydi (Art. III §1); lavozimda yaxshi xulq-atvor davomida qoladi. Boshqa kafolatlar (masalan, impichment tartibi) bu tahlilda o'qilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "AQSh Konstitutsiyasi, III modda",
+          "ref": "§1",
+          "url": "https://www.law.cornell.edu/constitution/articleiii",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "judicial_council": {
+      "summary": "Federal sudyalar o'zini o'zi boshqarish organlari: AQSh Bosh sudyasi raisligida Federal sudlar Konferensiyasi (Judicial Conference of the United States): u har bir circuitning bosh sudyasi, Xalqaro savdo sudi bosh sudyasi va har circuitdan okrug sudyasidan iborat; okrug sudyasini circuitning sudyalari 3–5 yilga saylaydi (28 U.S.C. §331). Har bir circuitda sudya kengashi (judicial council) sud ishlarini samarali boshqarish uchun buyruqlar chiqaradi (28 U.S.C. §332). Bu organlar sudyalarni tayinlamaydi (tayinlashni Prezident va Senat qiladi), sud ma'muriyatini boshqarishga tegishli.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "28 U.S.C. §331",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/28/331",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "28 U.S.C. §332",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/28/332",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "public_participation": {
+      "summary": "Ikki xil hakamlar hay'ati: katta hay'at (grand jury, 16–23 a'zo, indictment uchun kamida 12 ovoz) ayblovni qo'yish bosqichida (FRCrP 6(a)(1), 6(f)), va sud muhokamasi hakamlar hay'ati (petit jury, odatda 12 kishi, bir ovozdan hukm) (FRCrP 23(b), 31(a)). Konstitutsiya 5- va 6-tuzatishlar bilan bu huquqlarni kafolatlaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rules 6, 23, 31",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Rule 6",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_6"
+            },
+            {
+              "label": "Rule 23",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_23"
+            },
+            {
+              "label": "Rule 31",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_31"
+            }
+          ]
+        },
+        {
+          "title": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "openness_language": {
+      "summary": "Ayblanuvchi 'tezkor va ochiq sud' huquqiga ega (6-tuzatish). Federal jinoyat sudlarida sud majlisi zalida fotosuratga olish va majlisni efirga uzatish, qonun yoki qoida boshqacha belgilamasa, taqiqlanadi (FRCrP Rule 53). Ingliz tilini bilmaydigan yoki eshitish nuqsoni bor shaxslarga sertifikatlangan tarjimon xizmati AQSh sudlarining ma'muriy idorasi dasturi orqali ta'minlanadi (28 U.S.C. §1827).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "AQSh Konstitutsiyasi, 6-tuzatish",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 53",
+          "url": "https://www.law.cornell.edu/rules/frcrmp/rule_53",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Rule 53",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_53"
+            }
+          ]
+        },
+        {
+          "title": "28 U.S.C. §1827",
+          "ref": "(a)-(b)",
+          "url": "https://www.law.cornell.edu/uscode/text/28/1827",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "financing": {
+      "summary": "Federal sudlarning yillik xarajat va ajratmalar smetasini AQSh sudlarining ma'muriy idorasi direktori Federal sudlar Konferensiyasi nazorati ostida tayyorlab, Boshqaruv va byudjet idorasiga (OMB) topshiradi; smeta taqdim etilishidan oldin Konferensiya tomonidan tasdiqlanadi (28 U.S.C. §605). Federal sudyalarning maoshi lavozimda turgan davrda kamaytirilmaydi (Konstitutsiya, Art. III §1).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "28 U.S.C. §605",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/28/605",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "AQSh Konstitutsiyasi, III modda",
+          "ref": "§1",
+          "url": "https://www.law.cornell.edu/constitution/articleiii",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  }
 }

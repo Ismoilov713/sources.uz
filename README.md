@@ -33,3 +33,9 @@ powershell -ExecutionPolicy Bypass -File build.ps1
 Muallif: **Sud tizimlari solishtiruvi loyihasi** (sources.uz).
 Litsenziya: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)](LICENSE). Foydalanganda muallifni ko'rsating va havola bering, tijoriy maqsadda ishlatmang, o'zgartirilgan ishni xuddi shu litsenziya bilan tarqating.
 Asl qonun matnlari bu litsenziyaga kirmaydi, ular o'z manbalarining shartlariga bo'ysunadi.
+
+## Moddaga to'g'ridan-to'g'ri havolalar
+Har bir kartadagi "Moddaga o'tish" tugmalari (masalan, `406-modda`) aynan shu moddaga olib boradi: lex.uz, gesetze-im-internet.de, Cornell LII, legislation.gov.uk, Légifrance va old.adilet.zan.kz da modda manziliga, Turkiyada mevzuat.gov.tr PDF faylining kerakli sahifasiga.
+- `tools/build_anchors.js`: hujjat HTML/PDF fayllaridan modda -> manzil jadvalini (`data/anchors.json`) yig'adi (sources/ papkasi yoki internet, pdftotext kerak).
+- `tools/links.js`: har bir manbaning `ref` maydonidan havolalarni yasab `links` ga yozadi. `build.ps1` uni avtomatik ishga tushiradi (node kerak).
+- Ba'zi saytlar (masalan, Légifrance) avtomatik tekshiruvni bloklaydi, ularning havolalari qo'lda brauzerda tekshirilishi kerak.

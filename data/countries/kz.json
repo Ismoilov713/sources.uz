@@ -1,140 +1,262 @@
 {
-    "code":  "kz",
-    "name":  "Qozog\u0027iston",
-    "updated":  "2026-10-01",
-    "criteria":  {
-                     "legal_family":  {
-                                          "summary":  "Qozog\u0027iston huquq tizimi kontinental (Rim-german) huquq oilasi an\u0027analariga mansub; unga Rossiya va Sovet huquq nazariyasi va amaliyoti sezilarli ta\u0027sir ko\u0027rsatgan (Globalex qo\u0027llanmasi, 2006; tuzilma qismi eskirgan, tasnif uchun ishlatildi).",
-                                          "status":  "tasdiqlangan",
-                                          "sources":  [
-                                                          {
-                                                              "title":  "Globalex (NYU), Laws of the Republic of Kazakhstan: A Guide to Web Based Resources",
-                                                              "ref":  "O. Stalbovsky, M. Stalbovskaya, 2006",
-                                                              "url":  "https://www.nyulawglobal.org/globalex/kazakhstan.html",
-                                                              "retrieved":  "2026-10-01"
-                                                          }
-                                                      ]
-                                      },
-                     "structure":  {
-                                       "summary":  "Konstitutsiya bo\u0027yicha Qozog\u0027iston sudlari: Oliy sud, mahalliy va qonun bilan tuziladigan boshqa sudlar; maxsus va favqulodda sudlar tuzish mumkin emas (76-modda). Sud tizimi Konstitutsiya va konstitutsiyaviy qonun bilan belgilanadi. Sud hokimiyati fuqarolik, ma\u0027muriy, jinoyat va boshqa sud ishlari shakllari orqali amalga oshiriladi; qonunda ko\u0027rsatilgan hollarda jinoyat ishlari hakamlar hay\u0027ati ishtirokida ko\u0027riladi (76(2)). Oliy sud fuqarolik, ma\u0027muriy, jinoyat va boshqa ishlar bo\u0027yicha oliy sud organi (82-modda). Jinoyat protsessida birinchi instansiya sifatida tuman va unga tenglashtirilgan sudlar, ixtisoslashgan tumanlararo sudlar (jinoyat ishlari bo\u0027yicha va voyaga yetmaganlar), harbiy sudlar, viloyat va unga tenglashtirilgan sudlar, Harbiy sud, Oliy sud ko\u0027rsatilgan (UPK 306–313-moddalar sarlavhalari); apellyatsiyani viloyat va unga tenglashtirilgan sudlar (harbiy ishlarda Harbiy sud) ko\u0027radi (UPK 416), kassatsiyani Kassatsiya sudi (UPK 484). Konstitutsiyaviy sud alohida organ (72-modda).",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "QR Konstitutsiyasi (2026, 01.07.2026 dan kuchda)",
-                                                           "ref":  "72, 76, 82-moddalar",
-                                                           "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
-                                                           "retrieved":  "2026-10-01"
-                                                       },
-                                                       {
-                                                           "title":  "UPK RK",
-                                                           "ref":  "306–313, 416, 484-moddalar",
-                                                           "url":  "https://adilet.zan.kz/rus/docs/K1400000231",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   },
-                     "constitutional_review":  {
-                                                   "summary":  "Konstitutsiyaviy sud mustaqil davlat organi bo\u0027lib, konstitutsiyaviy nazoratni amalga oshiradi va Konstitutsiya ustunligini ta\u0027minlaydi (72(1)). U Prezident, Kurultay raisi, deputatlarning kamida beshdan bir qismi yoki Bosh vazir murojaati bilan, Prezident imzolagunga qadar Kurultay qabul qilgan qonunlarning, Kurultay qarorlarining va ratifikatsiyadan oldin xalqaro shartnomalarning Konstitutsiyaga muvofiqligini ko\u0027radi, Konstitutsiyaga rasmiy sharh beradi (73(1)). Sudlar murojaatlarini ham ko\u0027radi: sud qo\u0027llanilishi kerak bo\u0027lgan qonun Konstitutsiyada mustahkamlangan huquq va erkinliklarni cheklaydi deb topsa, ishni to\u0027xtatib Konstitutsiyaviy sudga murojaat qilishi shart (79). Fuqarolar ham o\u0027z huquqlariga bevosita daxldor normativ-huquqiy hujjatlar bo\u0027yicha murojaat qila oladi (73(3)). Konstitutsiyaviy sud qarorlari qabul qilingan kundan kuchga kiradi, butun respublikada umumiy majburiy, qat\u0027iy va ustidan shikoyat qilinmaydi (75-modda, 4-qism).",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "QR Konstitutsiyasi (2026)",
-                                                                       "ref":  "72, 73, 75(4), 79-moddalar",
-                                                                       "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judge_appointment":  {
-                                               "summary":  "Oliy sud raisini Prezident Oliy sud kengashi (Высший Судебный Совет) tavsiyasi bilan tayinlaydi; Oliy sud sudyalarini Kurultay Prezident taqdimiga binoan saylaydi (taqdim Oliy sud kengashi tavsiyasiga asoslanadi); mahalliy va boshqa sudlar sudyalarini Prezident Oliy sud kengashi tavsiyasi bilan tayinlaydi (83-modda). Konstitutsiyaviy sud raisini Prezident, sudyalarini Prezident Kurultay deputatlarining umumiy sonining ko\u0027pchilik roziligi bilan tayinlaydi (72).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "QR Konstitutsiyasi (2026)",
-                                                                   "ref":  "72(3)–(4), 83-moddalar",
-                                                                   "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
-                                                                   "retrieved":  "2026-10-01",
-                                                                   "original":  "Судьи местных и других судов назначаются на должности Президентом Республики Казахстан по рекомендации Высшего Судебного Совета. (ст. 83, ч. 2)"
-                                                               }
-                                                           ]
-                                           },
-                     "judge_term":  {
-                                        "summary":  "Oliy sud raisi 6 yilga tayinlanadi va Konstitutsiyaga ko\u0027ra bu lavozimga bir kishi bir martadan ortiq tayinlanmaydi (83(1)). Konstitutsiyaviy sud raisi va sudyalarining vakolat muddati 8 yil, shu lavozimga bir kishi bir martadan ortiq tayinlanmaydi (72(2)–(3)). Sudlar \u0027doimiy sudyalar\u0027dan tashkil topadi; sudya vakolati faqat qonunda belgilangan asoslarda to\u0027xtatilishi yoki tugatilishi mumkin (80(1)). Oddiy sudyalar uchun muayyan muddat Konstitutsiyada ko\u0027rsatilmagan.",
-                                        "status":  "tasdiqlangan",
-                                        "sources":  [
-                                                        {
-                                                            "title":  "QR Konstitutsiyasi (2026)",
-                                                            "ref":  "72(2), 80(1), 83(1)",
-                                                            "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
-                                                            "retrieved":  "2026-10-01"
-                                                        }
-                                                    ]
-                                    },
-                     "judicial_independence":  {
-                                                   "summary":  "Sudya odil sudlovni amalga oshirishda mustaqil va faqat Konstitutsiya va qonunga bo\u0027ysunadi; sud ishiga aralashish mumkin emas va javobgarlikka olib keladi; sudyalar muayyan ishlar bo\u0027yicha hisob bermaydi (78(1)–(2)). Sudya ushlab turilishi, qamoqqa olinishi, jinoiy javobgarlikka tortilishi va hokazo faqat Prezident roziligi bilan (Oliy sud kengashi xulosasiga asoslanib) yoki Kurultay roziligi bilan mumkin; jinoyat ustida ushlash va og\u0027ir yoki o\u0027ta og\u0027ir jinoyatlar bundan mustasno (80(2)). Sudya lavozimi deputatlik, boshqa haq to\u0027lanadigan lavozim (o\u0027qituvchilik, ilmiy, ijodiy bundan mustasno) va tadbirkorlik bilan mos kelmaydi (80(4)). Qonunga xilof dalil yuridik kuchga ega emas, hech kim faqat o\u0027z iqrori asosida mahkum etilmaydi, shubhalar ayblanuvchi foydasiga talqin qilinadi (78(3)).",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "QR Konstitutsiyasi (2026)",
-                                                                       "ref":  "78, 80-moddalar",
-                                                                       "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judicial_council":  {
-                                              "summary":  "Oliy sud kengashi (Высший Судебный Совет) sudyalarni tayinlash tavsiyalarini beradi (83); uning raisini Prezident tayinlaydi, maqomi, tarkibi va ishi qonun bilan belgilanadi (83(4)–(5)).",
-                                              "status":  "tasdiqlangan",
-                                              "sources":  [
-                                                              {
-                                                                  "title":  "QR Konstitutsiyasi (2026)",
-                                                                  "ref":  "83-modda",
-                                                                  "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
-                                                                  "retrieved":  "2026-10-01"
-                                                              }
-                                                          ]
-                                          },
-                     "public_participation":  {
-                                                  "summary":  "Qonunda ko\u0027rsatilgan hollarda jinoyat ishlari hakamlar hay\u0027ati ishtirokida ko\u0027riladi (Konstitutsiya 76(2)). UPK bo\u0027yicha: bir sudya va o\u0027n hakam; ayblanuvchi iltimosiga ko\u0027ra, o\u0027ta og\u0027ir jinoyatlar bo\u0027yicha (terrorizm, davlat xavfsizligi, jinoiy guruh va boshqa istisnolar bundan mustasno) (UPK 52, 631, 632).",
-                                                  "status":  "tasdiqlangan",
-                                                  "sources":  [
-                                                                  {
-                                                                      "title":  "QR Konstitutsiyasi (2026)",
-                                                                      "ref":  "76(2)",
-                                                                      "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  },
-                                                                  {
-                                                                      "title":  "UPK RK",
-                                                                      "ref":  "52, 631, 632",
-                                                                      "url":  "https://adilet.zan.kz/rus/docs/K1400000231",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  }
-                                                              ]
-                                              },
-                     "openness_language":  {
-                                               "summary":  "Jinoyat ishlarini ko\u0027rish barcha sudlarda ochiq o\u0027tadi; ochiqlikni cheklash davlat siri va qonun qo\u0027riqlaydigan boshqa sir manfaatlariga zid bo\u0027lganda mumkin; yopiq majlis sudning asoslangan qarori bilan voyaga yetmaganlar jinoyatlari, jinsiy jinoyatlar va boshqa ishlarda hamda ishtirokchilar xavfsizligi talab qilganda o\u0027tkaziladi (UPK 29). Jinoyat protsessi qozoq tilida yuritiladi, qozoq tili bilan bir qatorda rus tili va zarur bo\u0027lsa boshqa tillar ishlatiladi; tilni bilmaydiganlarga o\u0027z ona tilida so\u0027zlash, bepul tarjimon va zarur materiallarning bepul tarjimasi kafolatlanadi (UPK 30).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "UPK RK",
-                                                                   "ref":  "29, 30-moddalar",
-                                                                   "url":  "https://adilet.zan.kz/rus/docs/K1400000231",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "financing":  {
-                                       "summary":  "Sudlarni moliyalashtirish va sudyalarni uy-joy bilan ta\u0027minlash respublika byudjeti hisobidan amalga oshiriladi va odil sudlovni to\u0027liq va mustaqil amalga oshirish imkonini ta\u0027minlashi kerak (81-modda).",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "QR Konstitutsiyasi (2026)",
-                                                           "ref":  "81-modda",
-                                                           "url":  "https://adilet.zan.kz/rus/docs/K2600000000",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   }
-                 }
+  "code": "kz",
+  "name": "Qozog'iston",
+  "updated": "2026-10-01",
+  "criteria": {
+    "legal_family": {
+      "summary": "Qozog'iston huquq tizimi kontinental (Rim-german) huquq oilasi an'analariga mansub; unga Rossiya va Sovet huquq nazariyasi va amaliyoti sezilarli ta'sir ko'rsatgan (Globalex qo'llanmasi, 2006; tuzilma qismi eskirgan, tasnif uchun ishlatildi).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Globalex (NYU), Laws of the Republic of Kazakhstan: A Guide to Web Based Resources",
+          "ref": "O. Stalbovsky, M. Stalbovskaya, 2006",
+          "url": "https://www.nyulawglobal.org/globalex/kazakhstan.html",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Konstitutsiya bo'yicha Qozog'iston sudlari: Oliy sud, mahalliy va qonun bilan tuziladigan boshqa sudlar; maxsus va favqulodda sudlar tuzish mumkin emas (76-modda). Sud tizimi Konstitutsiya va konstitutsiyaviy qonun bilan belgilanadi. Sud hokimiyati fuqarolik, ma'muriy, jinoyat va boshqa sud ishlari shakllari orqali amalga oshiriladi; qonunda ko'rsatilgan hollarda jinoyat ishlari hakamlar hay'ati ishtirokida ko'riladi (76(2)). Oliy sud fuqarolik, ma'muriy, jinoyat va boshqa ishlar bo'yicha oliy sud organi (82-modda). Jinoyat protsessida birinchi instansiya sifatida tuman va unga tenglashtirilgan sudlar, ixtisoslashgan tumanlararo sudlar (jinoyat ishlari bo'yicha va voyaga yetmaganlar), harbiy sudlar, viloyat va unga tenglashtirilgan sudlar, Harbiy sud, Oliy sud ko'rsatilgan (UPK 306–313-moddalar sarlavhalari); apellyatsiyani viloyat va unga tenglashtirilgan sudlar (harbiy ishlarda Harbiy sud) ko'radi (UPK 416), kassatsiyani Kassatsiya sudi (UPK 484). Konstitutsiyaviy sud alohida organ (72-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "QR Konstitutsiyasi (2026, 01.07.2026 dan kuchda)",
+          "ref": "72, 76, 82-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K2600000000",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "72-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z433"
+            },
+            {
+              "label": "76-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z471"
+            },
+            {
+              "label": "82-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z501"
+            }
+          ]
+        },
+        {
+          "title": "UPK RK",
+          "ref": "306–313, 416, 484-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "306–313-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2484"
+            },
+            {
+              "label": "416-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3029"
+            },
+            {
+              "label": "484-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3440"
+            }
+          ]
+        }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Konstitutsiyaviy sud mustaqil davlat organi bo'lib, konstitutsiyaviy nazoratni amalga oshiradi va Konstitutsiya ustunligini ta'minlaydi (72(1)). U Prezident, Kurultay raisi, deputatlarning kamida beshdan bir qismi yoki Bosh vazir murojaati bilan, Prezident imzolagunga qadar Kurultay qabul qilgan qonunlarning, Kurultay qarorlarining va ratifikatsiyadan oldin xalqaro shartnomalarning Konstitutsiyaga muvofiqligini ko'radi, Konstitutsiyaga rasmiy sharh beradi (73(1)). Sudlar murojaatlarini ham ko'radi: sud qo'llanilishi kerak bo'lgan qonun Konstitutsiyada mustahkamlangan huquq va erkinliklarni cheklaydi deb topsa, ishni to'xtatib Konstitutsiyaviy sudga murojaat qilishi shart (79). Fuqarolar ham o'z huquqlariga bevosita daxldor normativ-huquqiy hujjatlar bo'yicha murojaat qila oladi (73(3)). Konstitutsiyaviy sud qarorlari qabul qilingan kundan kuchga kiradi, butun respublikada umumiy majburiy, qat'iy va ustidan shikoyat qilinmaydi (75-modda, 4-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "QR Konstitutsiyasi (2026)",
+          "ref": "72, 73, 75(4), 79-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K2600000000",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "72-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z433"
+            },
+            {
+              "label": "73-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z444"
+            },
+            {
+              "label": "75-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z463"
+            },
+            {
+              "label": "79-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z491"
+            }
+          ]
+        }
+      ]
+    },
+    "judge_appointment": {
+      "summary": "Oliy sud raisini Prezident Oliy sud kengashi (Высший Судебный Совет) tavsiyasi bilan tayinlaydi; Oliy sud sudyalarini Kurultay Prezident taqdimiga binoan saylaydi (taqdim Oliy sud kengashi tavsiyasiga asoslanadi); mahalliy va boshqa sudlar sudyalarini Prezident Oliy sud kengashi tavsiyasi bilan tayinlaydi (83-modda). Konstitutsiyaviy sud raisini Prezident, sudyalarini Prezident Kurultay deputatlarining umumiy sonining ko'pchilik roziligi bilan tayinlaydi (72).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "QR Konstitutsiyasi (2026)",
+          "ref": "72(3)–(4), 83-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K2600000000",
+          "retrieved": "2026-10-01",
+          "original": "Судьи местных и других судов назначаются на должности Президентом Республики Казахстан по рекомендации Высшего Судебного Совета. (ст. 83, ч. 2)",
+          "links": [
+            {
+              "label": "72-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z433"
+            },
+            {
+              "label": "83-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z503"
+            }
+          ]
+        }
+      ]
+    },
+    "judge_term": {
+      "summary": "Oliy sud raisi 6 yilga tayinlanadi va Konstitutsiyaga ko'ra bu lavozimga bir kishi bir martadan ortiq tayinlanmaydi (83(1)). Konstitutsiyaviy sud raisi va sudyalarining vakolat muddati 8 yil, shu lavozimga bir kishi bir martadan ortiq tayinlanmaydi (72(2)–(3)). Sudlar 'doimiy sudyalar'dan tashkil topadi; sudya vakolati faqat qonunda belgilangan asoslarda to'xtatilishi yoki tugatilishi mumkin (80(1)). Oddiy sudyalar uchun muayyan muddat Konstitutsiyada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "QR Konstitutsiyasi (2026)",
+          "ref": "72(2), 80(1), 83(1)",
+          "url": "https://adilet.zan.kz/rus/docs/K2600000000",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "72-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z433"
+            },
+            {
+              "label": "80-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z494"
+            },
+            {
+              "label": "83-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z503"
+            }
+          ]
+        }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Sudya odil sudlovni amalga oshirishda mustaqil va faqat Konstitutsiya va qonunga bo'ysunadi; sud ishiga aralashish mumkin emas va javobgarlikka olib keladi; sudyalar muayyan ishlar bo'yicha hisob bermaydi (78(1)–(2)). Sudya ushlab turilishi, qamoqqa olinishi, jinoiy javobgarlikka tortilishi va hokazo faqat Prezident roziligi bilan (Oliy sud kengashi xulosasiga asoslanib) yoki Kurultay roziligi bilan mumkin; jinoyat ustida ushlash va og'ir yoki o'ta og'ir jinoyatlar bundan mustasno (80(2)). Sudya lavozimi deputatlik, boshqa haq to'lanadigan lavozim (o'qituvchilik, ilmiy, ijodiy bundan mustasno) va tadbirkorlik bilan mos kelmaydi (80(4)). Qonunga xilof dalil yuridik kuchga ega emas, hech kim faqat o'z iqrori asosida mahkum etilmaydi, shubhalar ayblanuvchi foydasiga talqin qilinadi (78(3)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "QR Konstitutsiyasi (2026)",
+          "ref": "78, 80-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K2600000000",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "78-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z480"
+            },
+            {
+              "label": "80-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z494"
+            }
+          ]
+        }
+      ]
+    },
+    "judicial_council": {
+      "summary": "Oliy sud kengashi (Высший Судебный Совет) sudyalarni tayinlash tavsiyalarini beradi (83); uning raisini Prezident tayinlaydi, maqomi, tarkibi va ishi qonun bilan belgilanadi (83(4)–(5)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "QR Konstitutsiyasi (2026)",
+          "ref": "83-modda",
+          "url": "https://adilet.zan.kz/rus/docs/K2600000000",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "83-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z503"
+            }
+          ]
+        }
+      ]
+    },
+    "public_participation": {
+      "summary": "Qonunda ko'rsatilgan hollarda jinoyat ishlari hakamlar hay'ati ishtirokida ko'riladi (Konstitutsiya 76(2)). UPK bo'yicha: bir sudya va o'n hakam; ayblanuvchi iltimosiga ko'ra, o'ta og'ir jinoyatlar bo'yicha (terrorizm, davlat xavfsizligi, jinoiy guruh va boshqa istisnolar bundan mustasno) (UPK 52, 631, 632).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "QR Konstitutsiyasi (2026)",
+          "ref": "76(2)",
+          "url": "https://adilet.zan.kz/rus/docs/K2600000000",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "76-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z471"
+            }
+          ]
+        },
+        {
+          "title": "UPK RK",
+          "ref": "52, 631, 632",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "52-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z362"
+            },
+            {
+              "label": "631-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z4382"
+            },
+            {
+              "label": "632-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z4386"
+            }
+          ]
+        }
+      ]
+    },
+    "openness_language": {
+      "summary": "Jinoyat ishlarini ko'rish barcha sudlarda ochiq o'tadi; ochiqlikni cheklash davlat siri va qonun qo'riqlaydigan boshqa sir manfaatlariga zid bo'lganda mumkin; yopiq majlis sudning asoslangan qarori bilan voyaga yetmaganlar jinoyatlari, jinsiy jinoyatlar va boshqa ishlarda hamda ishtirokchilar xavfsizligi talab qilganda o'tkaziladi (UPK 29). Jinoyat protsessi qozoq tilida yuritiladi, qozoq tili bilan bir qatorda rus tili va zarur bo'lsa boshqa tillar ishlatiladi; tilni bilmaydiganlarga o'z ona tilida so'zlash, bepul tarjimon va zarur materiallarning bepul tarjimasi kafolatlanadi (UPK 30).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "29, 30-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "29-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z177"
+            },
+            {
+              "label": "30-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z181"
+            }
+          ]
+        }
+      ]
+    },
+    "financing": {
+      "summary": "Sudlarni moliyalashtirish va sudyalarni uy-joy bilan ta'minlash respublika byudjeti hisobidan amalga oshiriladi va odil sudlovni to'liq va mustaqil amalga oshirish imkonini ta'minlashi kerak (81-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "QR Konstitutsiyasi (2026)",
+          "ref": "81-modda",
+          "url": "https://adilet.zan.kz/rus/docs/K2600000000",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "81-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K2600000000#z499"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

@@ -1,157 +1,249 @@
 {
-    "code":  "fr",
-    "name":  "Fransiya",
-    "updated":  "2026-10-01",
-    "criteria":  {
-                     "legal_family":  {
-                                          "summary":  "Fransiya fuqarolik huquqi (civil law) an\u0027anasiga mansub; tizim tarixan 1804 yilgi Napoleon kodeksi bilan shakllangan (Federal Judicial Center ma\u0027lumoti).",
-                                          "status":  "tasdiqlangan",
-                                          "sources":  [
-                                                          {
-                                                              "title":  "Federal Judicial Center, Judiciaries Worldwide: France",
-                                                              "ref":  "country profile (institutsional/ilmiy-ma\u0027lumot manbai)",
-                                                              "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
-                                                              "retrieved":  "2026-10-01"
-                                                          }
-                                                      ]
-                                      },
-                     "structure":  {
-                                       "summary":  "Jinoyat ishlarida tribunal de police (contravention), tribunal correctionnel (délit) va cour d\u0027assises (crime) birinchi instansiya; délit bo\u0027yicha apellyatsiyani cour d\u0027appel ko\u0027radi (CPP 496); oxirgi instansiya — Cour de cassation (jinoyat palatasi, CPP 567). Sudlar tizimi odatiy sudlar va ma\u0027muriy sudlarga bo\u0027linadi; Konstitutsiyaviy kengash qonunlarni konstitutsiyaga muvofiqligini tekshiradi (FJC).",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "Code de procédure pénale",
-                                                           "ref":  "178, 179, 181, 496, 567",
-                                                           "url":  "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
-                                                           "retrieved":  "2026-10-01"
-                                                       },
-                                                       {
-                                                           "title":  "FJC, Judiciaries Worldwide: France",
-                                                           "ref":  "court structure",
-                                                           "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   },
-                     "constitutional_review":  {
-                                                   "summary":  "Conseil constitutionnel (Konstitutsiyaviy kengash) to\u0027qqiz a\u0027zodan iborat; vakolat muddati 9 yil, qayta tayinlanmaydi; uch a\u0027zoni Prezident, uch a\u0027zoni Milliy assambleya raisi, uch a\u0027zoni Senat raisi tayinlaydi; sobiq prezidentlar umrbod huquqiy a\u0027zo (Art. 56). Sudda ko\u0027rilayotgan ishda qonun Konstitutsiya kafolatlagan huquqlarni buzadi deb ta\u0027kidlansa, Davlat kengashi yoki Cassation sudi orqali masala Konstitutsiyaviy kengashga yuboriladi (Art. 61-1); noqonuniy deb topilgan norma bekor qilinadi, qarorlarga shikoyat qilinmaydi (Art. 62).",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "Konstitutsiya (1958, amaldagi tahrir)",
-                                                                       "ref":  "Art. 56, 61-1, 62",
-                                                                       "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judge_appointment":  {
-                                               "summary":  "Sudya (siège) magistratlarni tayinlashni Sudyalar oliy kengashi (CSM) ishtirokida amalga oshirishadi: Cassation sudi sudyalari, apellyatsiya sudi birinchi raisi va ayrim tribunal raislari tayinlanishi uchun CSM ning sudyalar bo\u0027yicha tarkibi taklif beradi; boshqa sudyalar uning \u0027majburiy fikri\u0027 (avis conforme) bilan tayinlanadi (Art. 65). Prokuror (parquet) tayinlashlarida CSM faqat fikr beradi. Sudyalarni tanlash tartibi (tanlov imtihoni, ENM) FJC ma\u0027lumotiga ko\u0027ra: milliy imtihon va 2,5 yillik tayyorlov.",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "Konstitutsiya (1958)",
-                                                                   "ref":  "Art. 65",
-                                                                   "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
-                                                                   "retrieved":  "2026-10-01"
-                                                               },
-                                                               {
-                                                                   "title":  "FJC, Judiciaries Worldwide: France",
-                                                                   "ref":  "tayyorlov",
-                                                                   "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "judge_term":  {
-                                        "summary":  "Sudyalar (magistrats du siège) o\u0027rnidan siljitilmaydi (inamovibles): ularni ularning roziligisiz boshqa lavozimga o\u0027tkazib bo\u0027lmaydi; magistratlar maqomi organik qonun bilan belgilanadi (Konstitutsiya Art. 64). Majburiy nafaqa yoshi 67 (ba\u0027zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi. Bu yosh haqidagi ma\u0027lumot Federal Judicial Center (ikkilamchi manba) dan olingan, organik qonun (ordonnance 58-1270) matnidan alohida tekshirilmagan.",
-                                        "status":  "tasdiqlangan",
-                                        "sources":  [
-                                                        {
-                                                            "title":  "Konstitutsiya (1958)",
-                                                            "ref":  "Art. 64",
-                                                            "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
-                                                            "retrieved":  "2026-10-01"
-                                                        },
-                                                        {
-                                                            "title":  "FJC, Judiciaries Worldwide: France",
-                                                            "ref":  "nafaqa yoshi (ikkilamchi)",
-                                                            "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
-                                                            "retrieved":  "2026-10-01"
-                                                        }
-                                                    ]
-                                    },
-                     "judicial_independence":  {
-                                                   "summary":  "Respublika Prezidenti sud hokimiyati mustaqilligining kafili; unga Sudyalar oliy kengashi yordam beradi; sudyalar (siège) o\u0027rnidan siljitilmaydi (inamovibles); magistratlar maqomi organik qonun bilan belgilanadi (Art. 64). Hech kim o\u0027zboshimchalik bilan ushlab turilmaydi; sud hokimiyati shaxs erkinligining qo\u0027riqchisi (Art. 66).",
-                                                   "status":  "tasdiqlangan",
-                                                   "sources":  [
-                                                                   {
-                                                                       "title":  "Konstitutsiya (1958)",
-                                                                       "ref":  "Art. 64, 66",
-                                                                       "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
-                                                                       "retrieved":  "2026-10-01"
-                                                                   }
-                                                               ]
-                                               },
-                     "judicial_council":  {
-                                              "summary":  "Sudyalar oliy kengashi (Conseil supérieur de la magistrature, CSM) ikki tarkibga ega: sudyalar (siège) va prokurorlar (parquet) bo\u0027yicha. Sudyalar tarkibiga Cassation sudi birinchi raisi rais, 5 sudya, 1 prokuror, 1 Davlat kengashi a\u0027zosi, 1 advokat va parlament, sud va ma\u0027muriy tizimga mansub bo\u0027lmagan 6 malakali shaxs kiradi (Prezident, Milliy assambleya va Senat raislari ikkitadan tayinlaydi). Prokuror tarkibi Cassation sudi prokurori raisligida. CSM tayinlashlar bo\u0027yicha taklif/fikr beradi va sudyalar uchun intizomiy kengash vazifasini bajaradi; fuqaro ham organik qonun doirasida murojaat qilishi mumkin (Art. 65).",
-                                              "status":  "tasdiqlangan",
-                                              "sources":  [
-                                                              {
-                                                                  "title":  "Konstitutsiya (1958)",
-                                                                  "ref":  "Art. 65",
-                                                                  "url":  "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
-                                                                  "retrieved":  "2026-10-01"
-                                                              }
-                                                          ]
-                                          },
-                     "public_participation":  {
-                                                  "summary":  "Og\u0027ir jinoyatlar (crime) bo\u0027yicha cour d\u0027assises hakamlar (jurés) bilan ishlaydi: birinchi instansiyada 6, apellyatsiyada 9 hakam, ular kasbiy sudyalar bilan birga qaror chiqaradi (CPP 296, 359). 15 yoki 20 yil jazo bilan jazolanadigan jinoyatlar bo\u0027yicha voyaga yetgan ayblanuvchilar uchun hakamlarsiz cour criminelle départementale ham mavjud (CPP 380-16, 380-17). Federal Judicial Center sahifasidagi \u00273 sudya va 9 fuqaro\u0027 modeli eskirgan; qonun matni (CPP) ustun deb olindi.",
-                                                  "status":  "tasdiqlangan",
-                                                  "sources":  [
-                                                                  {
-                                                                      "title":  "Code de procédure pénale",
-                                                                      "ref":  "296, 359, 380-16, 380-17",
-                                                                      "url":  "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  },
-                                                                  {
-                                                                      "title":  "FJC, Judiciaries Worldwide: France",
-                                                                      "ref":  "lay participation (eskirgan ma\u0027lumot bilan farqi izohlangan)",
-                                                                      "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
-                                                                      "retrieved":  "2026-10-01"
-                                                                  }
-                                                              ]
-                                              },
-                     "openness_language":  {
-                                               "summary":  "Cour d\u0027assises majlislari ochiq, ammo jamoat tartibi yoki axloqqa xavf bo\u0027lsa yopiq o\u0027tkaziladi; zo\u0027rlash va ayrim og\u0027ir jinoyatlarda jabrlanuvchi talabiga ko\u0027ra yopiq majlis qonun bo\u0027yicha shart (CPP 306). Ayblanuvchi frantsuz tilini bilmasa, tarjimon jalb etiladi (CPP 272).",
-                                               "status":  "tasdiqlangan",
-                                               "sources":  [
-                                                               {
-                                                                   "title":  "Code de procédure pénale",
-                                                                   "ref":  "272, 306",
-                                                                   "url":  "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
-                                                                   "retrieved":  "2026-10-01"
-                                                               }
-                                                           ]
-                                           },
-                     "financing":  {
-                                       "summary":  "Sudlarni moliyalashtirish davlat byudjetidan, har yili moliya qonuni (loi de finances) bilan, \"Adliya\" (Justice) missiyasi doirasida amalga oshiriladi; Adliya vazirligi sudlar xodimlari, binolari va resurslarini boshqaradi (FJC). Sud tizimi uchun asosiy dastur — 166-dastur \"Sud adliyasi\" (Justice judiciaire). Senat moliya komissiyasi hisobotiga ko\u0027ra, 2026 yil moliya qonuni loyihasida (PLF 2026) \"Adliya\" missiyasi 12,7 mlrd evro majburiyat ruxsatnomalari va 13,1 mlrd evro to\u0027lov kreditlarini tashkil etadi; shundan 166-dastur taxminan 4 764 mln evro to\u0027lov krediti (2025 yilga nisbatan +2,6%), 166-dastur va 107-dastur (penitensiar boshqaruv) birga missiya kreditlarining 79,0% ini egallaydi. Sudyalar oliy kengashi (CSM) ham shu missiya doirasida alohida dastur sifatida moliyalashtiriladi (taxminan 6,5 mln evro). Byudjet 2023–2027 yillarga mo\u0027ljallangan Adliya vazirligining yo\u0027nalish va dasturlash qonuni (2023 yil 20 noyabrdagi 2023-1059-son qonun) bilan belgilangan traektoriyaga yaqin; 2023–2027 yillarda 1 500 qo\u0027shimcha sudya (magistrat) va 1 800 kotib ko\u0027zda tutilgan. Diqqat: raqamlar yakuniy qabul qilingan qonun emas, 2026 yil loyihasi (PLF) bo\u0027yicha Senat hisobotidan olingan.",
-                                       "status":  "tasdiqlangan",
-                                       "sources":  [
-                                                       {
-                                                           "title":  "Senat: \u0027L\u0027essentiel sur le PLF 2026, mission Justice\u0027 (rapporteur spécial A. Lefèvre)",
-                                                           "ref":  "mission Justice jadvali, 166-dastur, loi 2023-1059",
-                                                           "url":  "https://www.senat.fr/rap/l25-139-317/l25-139-317-syn.pdf",
-                                                           "retrieved":  "2026-10-01"
-                                                       },
-                                                       {
-                                                           "title":  "FJC, Judiciaries Worldwide: France",
-                                                           "ref":  "Adliya vazirligining ma\u0027muriy roli",
-                                                           "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
-                                                           "retrieved":  "2026-10-01"
-                                                       }
-                                                   ]
-                                   }
-                 }
+  "code": "fr",
+  "name": "Fransiya",
+  "updated": "2026-10-01",
+  "criteria": {
+    "legal_family": {
+      "summary": "Fransiya fuqarolik huquqi (civil law) an'anasiga mansub; tizim tarixan 1804 yilgi Napoleon kodeksi bilan shakllangan (Federal Judicial Center ma'lumoti).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Federal Judicial Center, Judiciaries Worldwide: France",
+          "ref": "country profile (institutsional/ilmiy-ma'lumot manbai)",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/france",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Jinoyat ishlarida tribunal de police (contravention), tribunal correctionnel (délit) va cour d'assises (crime) birinchi instansiya; délit bo'yicha apellyatsiyani cour d'appel ko'radi (CPP 496); oxirgi instansiya — Cour de cassation (jinoyat palatasi, CPP 567). Sudlar tizimi odatiy sudlar va ma'muriy sudlarga bo'linadi; Konstitutsiyaviy kengash qonunlarni konstitutsiyaga muvofiqligini tekshiradi (FJC).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "178, 179, 181, 496, 567",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "art. 178",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050665628"
+            },
+            {
+              "label": "art. 179",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051751965"
+            },
+            {
+              "label": "art. 181",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050665631"
+            },
+            {
+              "label": "art. 496",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576752"
+            },
+            {
+              "label": "art. 567",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576969"
+            }
+          ]
+        },
+        {
+          "title": "FJC, Judiciaries Worldwide: France",
+          "ref": "court structure",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/france",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Conseil constitutionnel (Konstitutsiyaviy kengash) to'qqiz a'zodan iborat; vakolat muddati 9 yil, qayta tayinlanmaydi; uch a'zoni Prezident, uch a'zoni Milliy assambleya raisi, uch a'zoni Senat raisi tayinlaydi; sobiq prezidentlar umrbod huquqiy a'zo (Art. 56). Sudda ko'rilayotgan ishda qonun Konstitutsiya kafolatlagan huquqlarni buzadi deb ta'kidlansa, Davlat kengashi yoki Cassation sudi orqali masala Konstitutsiyaviy kengashga yuboriladi (Art. 61-1); noqonuniy deb topilgan norma bekor qilinadi, qarorlarga shikoyat qilinmaydi (Art. 62).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Konstitutsiya (1958, amaldagi tahrir)",
+          "ref": "Art. 56, 61-1, 62",
+          "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 56",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_56"
+            },
+            {
+              "label": "Art. 61-1",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_61-1"
+            },
+            {
+              "label": "Art. 62",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_62"
+            }
+          ]
+        }
+      ]
+    },
+    "judge_appointment": {
+      "summary": "Sudya (siège) magistratlarni tayinlashni Sudyalar oliy kengashi (CSM) ishtirokida amalga oshirishadi: Cassation sudi sudyalari, apellyatsiya sudi birinchi raisi va ayrim tribunal raislari tayinlanishi uchun CSM ning sudyalar bo'yicha tarkibi taklif beradi; boshqa sudyalar uning 'majburiy fikri' (avis conforme) bilan tayinlanadi (Art. 65). Prokuror (parquet) tayinlashlarida CSM faqat fikr beradi. Sudyalarni tanlash tartibi (tanlov imtihoni, ENM) FJC ma'lumotiga ko'ra: milliy imtihon va 2,5 yillik tayyorlov.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Konstitutsiya (1958)",
+          "ref": "Art. 65",
+          "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 65",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_65"
+            }
+          ]
+        },
+        {
+          "title": "FJC, Judiciaries Worldwide: France",
+          "ref": "tayyorlov",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/france",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "judge_term": {
+      "summary": "Sudyalar (magistrats du siège) o'rnidan siljitilmaydi (inamovibles): ularni ularning roziligisiz boshqa lavozimga o'tkazib bo'lmaydi; magistratlar maqomi organik qonun bilan belgilanadi (Konstitutsiya Art. 64). Majburiy nafaqa yoshi 67 (ba'zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi. Bu yosh haqidagi ma'lumot Federal Judicial Center (ikkilamchi manba) dan olingan, organik qonun (ordonnance 58-1270) matnidan alohida tekshirilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Konstitutsiya (1958)",
+          "ref": "Art. 64",
+          "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 64",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_64"
+            }
+          ]
+        },
+        {
+          "title": "FJC, Judiciaries Worldwide: France",
+          "ref": "nafaqa yoshi (ikkilamchi)",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/france",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Respublika Prezidenti sud hokimiyati mustaqilligining kafili; unga Sudyalar oliy kengashi yordam beradi; sudyalar (siège) o'rnidan siljitilmaydi (inamovibles); magistratlar maqomi organik qonun bilan belgilanadi (Art. 64). Hech kim o'zboshimchalik bilan ushlab turilmaydi; sud hokimiyati shaxs erkinligining qo'riqchisi (Art. 66).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Konstitutsiya (1958)",
+          "ref": "Art. 64, 66",
+          "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 64",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_64"
+            },
+            {
+              "label": "Art. 66",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_66"
+            }
+          ]
+        }
+      ]
+    },
+    "judicial_council": {
+      "summary": "Sudyalar oliy kengashi (Conseil supérieur de la magistrature, CSM) ikki tarkibga ega: sudyalar (siège) va prokurorlar (parquet) bo'yicha. Sudyalar tarkibiga Cassation sudi birinchi raisi rais, 5 sudya, 1 prokuror, 1 Davlat kengashi a'zosi, 1 advokat va parlament, sud va ma'muriy tizimga mansub bo'lmagan 6 malakali shaxs kiradi (Prezident, Milliy assambleya va Senat raislari ikkitadan tayinlaydi). Prokuror tarkibi Cassation sudi prokurori raisligida. CSM tayinlashlar bo'yicha taklif/fikr beradi va sudyalar uchun intizomiy kengash vazifasini bajaradi; fuqaro ham organik qonun doirasida murojaat qilishi mumkin (Art. 65).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Konstitutsiya (1958)",
+          "ref": "Art. 65",
+          "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Art. 65",
+              "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_65"
+            }
+          ]
+        }
+      ]
+    },
+    "public_participation": {
+      "summary": "Og'ir jinoyatlar (crime) bo'yicha cour d'assises hakamlar (jurés) bilan ishlaydi: birinchi instansiyada 6, apellyatsiyada 9 hakam, ular kasbiy sudyalar bilan birga qaror chiqaradi (CPP 296, 359). 15 yoki 20 yil jazo bilan jazolanadigan jinoyatlar bo'yicha voyaga yetgan ayblanuvchilar uchun hakamlarsiz cour criminelle départementale ham mavjud (CPP 380-16, 380-17). Federal Judicial Center sahifasidagi '3 sudya va 9 fuqaro' modeli eskirgan; qonun matni (CPP) ustun deb olindi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "296, 359, 380-16, 380-17",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "art. 296",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569124"
+            },
+            {
+              "label": "art. 359",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568264"
+            },
+            {
+              "label": "art. 380-16",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054478003"
+            },
+            {
+              "label": "art. 380-17",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054478006"
+            }
+          ]
+        },
+        {
+          "title": "FJC, Judiciaries Worldwide: France",
+          "ref": "lay participation (eskirgan ma'lumot bilan farqi izohlangan)",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/france",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    },
+    "openness_language": {
+      "summary": "Cour d'assises majlislari ochiq, ammo jamoat tartibi yoki axloqqa xavf bo'lsa yopiq o'tkaziladi; zo'rlash va ayrim og'ir jinoyatlarda jabrlanuvchi talabiga ko'ra yopiq majlis qonun bo'yicha shart (CPP 306). Ayblanuvchi frantsuz tilini bilmasa, tarjimon jalb etiladi (CPP 272).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "272, 306",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "art. 272",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569256"
+            },
+            {
+              "label": "art. 306",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569024"
+            }
+          ]
+        }
+      ]
+    },
+    "financing": {
+      "summary": "Sudlarni moliyalashtirish davlat byudjetidan, har yili moliya qonuni (loi de finances) bilan, \"Adliya\" (Justice) missiyasi doirasida amalga oshiriladi; Adliya vazirligi sudlar xodimlari, binolari va resurslarini boshqaradi (FJC). Sud tizimi uchun asosiy dastur — 166-dastur \"Sud adliyasi\" (Justice judiciaire). Senat moliya komissiyasi hisobotiga ko'ra, 2026 yil moliya qonuni loyihasida (PLF 2026) \"Adliya\" missiyasi 12,7 mlrd evro majburiyat ruxsatnomalari va 13,1 mlrd evro to'lov kreditlarini tashkil etadi; shundan 166-dastur taxminan 4 764 mln evro to'lov krediti (2025 yilga nisbatan +2,6%), 166-dastur va 107-dastur (penitensiar boshqaruv) birga missiya kreditlarining 79,0% ini egallaydi. Sudyalar oliy kengashi (CSM) ham shu missiya doirasida alohida dastur sifatida moliyalashtiriladi (taxminan 6,5 mln evro). Byudjet 2023–2027 yillarga mo'ljallangan Adliya vazirligining yo'nalish va dasturlash qonuni (2023 yil 20 noyabrdagi 2023-1059-son qonun) bilan belgilangan traektoriyaga yaqin; 2023–2027 yillarda 1 500 qo'shimcha sudya (magistrat) va 1 800 kotib ko'zda tutilgan. Diqqat: raqamlar yakuniy qabul qilingan qonun emas, 2026 yil loyihasi (PLF) bo'yicha Senat hisobotidan olingan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Senat: 'L'essentiel sur le PLF 2026, mission Justice' (rapporteur spécial A. Lefèvre)",
+          "ref": "mission Justice jadvali, 166-dastur, loi 2023-1059",
+          "url": "https://www.senat.fr/rap/l25-139-317/l25-139-317-syn.pdf",
+          "retrieved": "2026-10-01"
+        },
+        {
+          "title": "FJC, Judiciaries Worldwide: France",
+          "ref": "Adliya vazirligining ma'muriy roli",
+          "url": "https://judiciariesworldwide.fjc.gov/country-profile/france",
+          "retrieved": "2026-10-01"
+        }
+      ]
+    }
+  }
 }
