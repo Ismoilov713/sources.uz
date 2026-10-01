@@ -1,0 +1,146 @@
+{
+    "code":  "tr",
+    "name":  "Turkiya",
+    "updated":  "2026-10-01",
+    "criteria":  {
+                     "legal_family":  {
+                                          "summary":  "Turkiya fuqarolik huquqi modeliga amal qiladi (Federal Judicial Center). Sudyalar markazlashgan imtihon va Turkiya Adliya akademiyasidagi ikki yillik tayyorlovdan keyin tayinlanadi; quyi sudlar sudyalarini tayinlash va lavozimini oshirishni Sudyalar va prokurorlar oliy kengashi (HSK) hal qiladi (FJC; Anayasa 159 bilan mos).",
+                                          "status":  "tasdiqlangan",
+                                          "sources":  [
+                                                          {
+                                                              "title":  "FJC, Judiciaries Worldwide: Turkey",
+                                                              "ref":  "country profile (institutsional ma\u0027lumot)",
+                                                              "url":  "https://judiciariesworldwide.fjc.gov/country-profile/turkey",
+                                                              "retrieved":  "2026-10-01"
+                                                          },
+                                                          {
+                                                              "title":  "Anayasa",
+                                                              "ref":  "159-modda",
+                                                              "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                              "retrieved":  "2026-10-01"
+                                                          }
+                                                      ]
+                                      },
+                     "structure":  {
+                                       "summary":  "Konstitutsiya: sudlarning tuzilishi, vakolati, ishlashi va sud ishi yuritish tartibi qonun bilan belgilanadi; harbiy sudlar faqat intizomiy sudlar va urush holatida harbiylarning xizmat bilan bog\u0027liq jinoyatlari uchun mumkin (142-modda). Adliya sudlari bo\u0027yicha tegishli qarorlarning oxirgi tekshiruv organi — Yargıtay (154-modda). Jinoyat ishlarida birinchi instansiya: sulh ceza hakimligi (tergov bosqichidagi sudya qarorlari), asliye ceza sudi (yakka sudya) va ağır ceza sudi (rais va ikki a\u0027zo) (5235 sonli Qonun 9–12-moddalar); keyin bölge adliye mahkemesi (viloyat apellyatsiya sudi, istinaf) va Yargıtay (temyiz).",
+                                       "status":  "tasdiqlangan",
+                                       "sources":  [
+                                                       {
+                                                           "title":  "Anayasa",
+                                                           "ref":  "142, 154-moddalar",
+                                                           "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
+                                                           "title":  "5235 sayılı Kanun",
+                                                           "ref":  "9–12-moddalar",
+                                                           "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5235\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                           "retrieved":  "2026-10-01"
+                                                       }
+                                                   ]
+                                   },
+                     "constitutional_review":  {
+                                                   "summary":  "Konstitutsiyaviy sud (Anayasa Mahkemesi) 15 a\u0027zodan iborat (146-modda). U qonunlar, Prezident farmonlari (Cumhurbaşkanlığı kararnamesi) va Parlament ichki nizomining Konstitutsiyaga muvofiqligini tekshiradi va individual murojaatlarni hal qiladi; Konstitutsiyaga kiritilgan o\u0027zgartirishlarni faqat shakl jihatidan tekshiradi (148-modda). Har kim, Konstitutsiya bilan kafolatlangan va Yevropa inson huquqlari konventsiyasi qamrovidagi huquqlari davlat hokimiyati tomonidan buzilganini ta\u0027kidlab, oddiy huquqiy vositalar tugagach murojaat qila oladi; individual murojaatda oddiy kanun yo\u0027lida ko\u0027rilishi lozim masalalar tekshirilmaydi (148-modda).",
+                                                   "status":  "tasdiqlangan",
+                                                   "sources":  [
+                                                                   {
+                                                                       "title":  "Anayasa",
+                                                                       "ref":  "146, 148-moddalar",
+                                                                       "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   }
+                                                               ]
+                                               },
+                     "judge_appointment":  {
+                                               "summary":  "Sudyalar va prokurorlar kasbiy sudya va prokurorlar bo\u0027ladi (140-modda); ularni tayinlash, ko\u0027chirish, intizomiy javobgarlik masalalarini Sudyalar va prokurorlar kengashi (HSK) hal qiladi (159-modda). Yargıtay a\u0027zolarini birinchi darajali sudya va prokurorlar orasidan HSK a\u0027zolarning mutlaq ko\u0027pchilik ovozi bilan yashirin ovozda saylaydi (154-modda).",
+                                               "status":  "tasdiqlangan",
+                                               "sources":  [
+                                                               {
+                                                                   "title":  "Anayasa",
+                                                                   "ref":  "140, 154, 159-moddalar",
+                                                                   "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                                   "retrieved":  "2026-10-01"
+                                                               }
+                                                           ]
+                                           },
+                     "judge_term":  {
+                                        "summary":  "Sudyalar va prokurorlar 65 yoshgacha xizmat qiladi (140-modda); ularni ishdan bo\u0027shatib bo\u0027lmaydi va o\u0027z xohishisiz Konstitutsiyada ko\u0027rsatilgan yoshgacha nafaqaga chiqarib bo\u0027lmaydi (139-modda). Yargıtay birinchi raisi, birinchi raisning o\u0027rinbosarlari va palata raislari 4 yilga saylanadi, qayta saylanishi mumkin (154-modda). HSK a\u0027zolari 4 yilga saylanadi, bir marta qayta saylanishi mumkin (159-modda).",
+                                        "status":  "tasdiqlangan",
+                                        "sources":  [
+                                                        {
+                                                            "title":  "Anayasa",
+                                                            "ref":  "139, 140, 154, 159-moddalar",
+                                                            "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                            "retrieved":  "2026-10-01"
+                                                        }
+                                                    ]
+                                    },
+                     "judicial_independence":  {
+                                                   "summary":  "Sudyalar o\u0027z vazifalarida mustaqil, Konstitutsiya, qonun va huquqqa muvofiq vijdoniy ishonchi bilan hukm chiqaradi; hech bir organ, mansabdor yoki shaxs sudlarga buyruq yoki ko\u0027rsatma bera olmaydi, tavsiya va talqin qila olmaydi (138-modda). Sudyalar ishdan bo\u0027shatilmaydi; sud yoki shtat bekor qilinishi ham maosh va boshqa huquqlardan mahrum etishga asos emas (139-modda). Hech kim qonunda belgilangan sudidan boshqa organ oldiga chiqarilmaydi va favqulodda organlar tuzib bo\u0027lmaydi (37-modda). Shu bilan birga sudyalar va prokurorlar ma\u0027muriy vazifalari bo\u0027yicha Adliya vazirligiga bo\u0027ysunadi (140-modda).",
+                                                   "status":  "tasdiqlangan",
+                                                   "sources":  [
+                                                                   {
+                                                                       "title":  "Anayasa",
+                                                                       "ref":  "37, 138, 139, 140-moddalar",
+                                                                       "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                                       "retrieved":  "2026-10-01"
+                                                                   }
+                                                               ]
+                                               },
+                     "judicial_council":  {
+                                              "summary":  "Sudyalar va prokurorlar kengashi (HSK) 13 a\u0027zodan iborat bo\u0027lib, ikki palatada ishlaydi; raisi — Adliya vaziri, Adliya vazirligi Müsteşar\u0027i tabiiy a\u0027zo. 4 a\u0027zoni Prezident (adliya va ma\u0027muriy sud sudyalari/prokurorlari orasidan), 3 a\u0027zoni Yargıtay a\u0027zolari, 1 a\u0027zoni Danıştay a\u0027zolari orasidan, 3 a\u0027zoni (huquq o\u0027qituvchilari va advokatlar orasidan) Parlament saylaydi (159-modda). A\u0027zolar 4 yilga saylanadi.",
+                                              "status":  "tasdiqlangan",
+                                              "sources":  [
+                                                              {
+                                                                  "title":  "Anayasa",
+                                                                  "ref":  "159-modda",
+                                                                  "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                                  "retrieved":  "2026-10-01"
+                                                              }
+                                                          ]
+                                          },
+                     "public_participation":  {
+                                                  "summary":  "Hakamlar hay\u0027ati (jury) yo\u0027q. Sudyalik vazifalari kasbiy sudyalar tomonidan bajariladi (Anayasa 140); ağır ceza sudi uch kasbiy sudyadan iborat (5235 sonli Qonun 9-modda).",
+                                                  "status":  "tasdiqlangan",
+                                                  "sources":  [
+                                                                  {
+                                                                      "title":  "Anayasa",
+                                                                      "ref":  "140-modda",
+                                                                      "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                                      "retrieved":  "2026-10-01"
+                                                                  },
+                                                                  {
+                                                                      "title":  "5235 sayılı Kanun",
+                                                                      "ref":  "9-modda",
+                                                                      "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5235\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                                      "retrieved":  "2026-10-01"
+                                                                  }
+                                                              ]
+                                              },
+                     "openness_language":  {
+                                               "summary":  "Sud majlislari hamma uchun ochiq; umumiy axloq yoki jamoat xavfsizligi qat\u0027iy talab qilgan hollarda to\u0027liq yoki qisman yopiq bo\u0027lishi mumkin; bolalarni sud qilish bo\u0027yicha maxsus qoidalar qonun bilan belgilanadi; barcha sudlarning har qanday qarori asoslangan yoziladi (Anayasa 141). CMK 183 ovoz va tasvir yozuvchi qurilmalarni ishlatishni taqiqlaydi. Turk tilini yetarli bilmaydigan sudlanuvchi yoki jabrlanuvchiga tarjimon beriladi (CMK 202).",
+                                               "status":  "tasdiqlangan",
+                                               "sources":  [
+                                                               {
+                                                                   "title":  "Anayasa",
+                                                                   "ref":  "141-modda",
+                                                                   "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                                   "retrieved":  "2026-10-01"
+                                                               },
+                                                               {
+                                                                   "title":  "CMK",
+                                                                   "ref":  "182, 183, 202-moddalar",
+                                                                   "url":  "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271\u0026MevzuatTur=1\u0026MevzuatTertip=5",
+                                                                   "retrieved":  "2026-10-01"
+                                                               }
+                                                           ]
+                                           },
+                     "financing":  {
+                                       "summary":  "Manba kutilmoqda.",
+                                       "status":  "tekshirilmagan",
+                                       "sources":  [
+
+                                                   ]
+                                   }
+                 }
+}

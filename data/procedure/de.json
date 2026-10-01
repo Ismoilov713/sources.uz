@@ -1,0 +1,73 @@
+{
+  "code": "de",
+  "updated": "2026-10-01",
+  "basis": "Strafprozeßordnung (StPO) va Gerichtsverfassungsgesetz (GVG), federal rasmiy sayt gesetze-im-internet.de nemis asl matni; qo'shimcha o'qish uchun Adliya vazirligining rasmiy inglizcha tarjimasi (huquqiy kuchga ega emas, 17.07.2025 o'zgartirishlarigacha). O'zbekcha bayon bizning tarjimamiz.",
+  "stages": {
+    "trial_prep": {
+      "summary": "Prokuratura tergov yetarli asos bersa, sudga ayblov xulosasi (Anklageschrift) kiritadi, aks holda ishni tugatadi (§170). Hauptverhandlung (asosiy sud majlisi) uchun vakolatli sud avval Zwischenverfahren (oraliq bosqich) doirasida bosh sud muhokamasi ochilishi yoki ochilmasligini hal qiladi (§199); ayblov xulosasi bosh muhokamani ochish haqidagi iltimosni o'z ichiga oladi. Agar tergov natijalariga ko'ra ayblanuvchi jinoyat sodir etganligiga yetarli gumon bo'lsa, sud muhokamani ochish haqida qaror qiladi (§203). Ochish qarorida sud ayblovni asosiy muhokama uchun qabul qiladi va sudni belgilaydi; jinoyatga boshqacha huquqiy baho berilsa, buni qarorda ko'rsatadi (§207).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO (nemis asl)", "ref": "§§ 170, 199, 203, 207", "url": "https://www.gesetze-im-internet.de/stpo/", "original": "§ 203: Das Gericht beschließt die Eröffnung des Hauptverfahrens, wenn nach den Ergebnissen des vorbereitenden Verfahrens der Angeschuldigte einer Straftat hinreichend verdächtig erscheint." }]
+    },
+    "court_composition": {
+      "summary": "Birinchi instansiyada jinoyat ishlarini ko'ruvchi sud turlari og'irlikka qarab belgilanadi. Amtsgericht (tuman sudi) umuman 4 yildan ortiq ozodlikdan mahrum etish yoki psixiatriya muassasasiga/saqlash qamog'iga joylashtirishni qo'llay olmaydi (GVG §24). Yengil jinoyatlar (Vergehen) bo'yicha ikki yildan ortiq jazo kutilmasa yoki xususiy ayblov bo'lsa, yakka sudya (Strafrichter) hal qiladi (§25). Qolgan Amtsgericht ishlarini Schöffengericht ko'radi: bir kasbiy sudya (raislik qiluvchi) va ikki Schöffe (saylangan xalq a'zolari); ish hajmi katta bo'lsa ikkinchi sudya jalb etilishi mumkin (§§28, 29). Landgericht (viloyat sudi) Strafkammer'i: 2 yoki 3 kasbiy sudya va 2 Schöffe (§76); og'ir ishlarda (masalan, o'lim bilan bog'liq jinoyatlar) Strafkammer Schwurgericht sifatida (§74). Ayrim alohida toifadagi ishlarni Oberlandesgericht birinchi instansiyada ko'radi (§120; shuningdek §135(1)). Hakamlar hay'ati (jury) yo'q: Schöffe kasbiy sudyalar bilan birga qaror qabul qiladi.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "GVG (nemis asl)", "ref": "§§ 24, 25, 28, 29, 74, 76, 120", "url": "https://www.gesetze-im-internet.de/gvg/" }]
+    },
+    "defendant_presence": {
+      "summary": "Kelmagan ayblanuvchiga qarshi asosiy sud majlisi o'tkazilmaydi. Kelmaslik uzrsiz bo'lsa, majlisni o'tkazish uchun zarur bo'lgan darajada majburiy keltirish yoki hibsga olish buyrug'i chiqariladi (§230).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO", "ref": "§ 230", "url": "https://www.gesetze-im-internet.de/stpo/" }]
+    },
+    "opening": {
+      "summary": "Majlis ishning e'lon qilinishi bilan boshlanadi. Raislik qiluvchi ayblanuvchi va himoyachining kelganini, dalillar keltirilganini, ayniqsa chaqirilgan guvoh va ekspertlar kelganini tekshiradi. Guvohlar zaldan chiqadi; raislik qiluvchi ayblanuvchining shaxsiy ahvoli haqida so'raydi (§243(1), (2)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO", "ref": "§ 243(1)–(2)", "url": "https://www.gesetze-im-internet.de/stpo/" }]
+    },
+    "charge_and_plea": {
+      "summary": "Prokuror ayblovni o'qib eshittiradi (§243(3)). Raislik qiluvchi kelishuv (Verständigung) bo'yicha muhokamalar bo'lgan-bo'lmaganini va ularning mohiyatini e'lon qiladi (§243(4)). Ayblanuvchiga ayblovga javob berish yoki ayblov bo'yicha hech narsa demaslik huquqi tushuntiriladi; javob bermoqchi bo'lsa so'roq qilinadi (§243(5)). Taqqoslash uchun: O'zbekiston JPK 439-moddasida raislik qiluvchi ayblanuvchidan aybiga iqror yoki iqror emasligini so'raydi; §243(5) matnida esa ayblanuvchiga javob berish yoki bermaslik tanlovi tushuntiriladi.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO", "ref": "§ 243(3)–(5)", "url": "https://www.gesetze-im-internet.de/stpo/", "original": "§ 243(5): Der Angeklagte wird darauf hingewiesen, dass es ihm freisteht, sich zu der Anklage zu äußern oder nicht zur Sache auszusagen." }]
+    },
+    "scope_change_charge": {
+      "summary": "Hukm predmeti — ayblov xulosasida ko'rsatilgan va majlis natijasida namoyon bo'lgan qilmish (§264(1)). Sud ochish qarorida berilgan huquqiy bahoga bog'liq emas (§264(2)). Shuning uchun sud huquqiy baholashni o'zgartira oladi, qilmishning tavsifi esa ayblov doirasida qoladi.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO", "ref": "§ 264", "url": "https://www.gesetze-im-internet.de/stpo/" }]
+    },
+    "evidence": {
+      "summary": "Ayblanuvchini so'roq qilgandan keyin dalillarni tekshirish (Beweisaufnahme) boshlanadi (§244(1)). Haqiqatni aniqlash uchun sud o'z tashabbusi bilan (von Amts wegen) dalillarni qaror uchun ahamiyatli barcha faktlarga va dalil vositalariga qadar kengaytiradi (§244(2)) — bu 'inkvizitsion' tamoyil. Taraflarning dalil iltimosi faqat qonunda sanalgan asoslarda rad etilishi mumkin (§244(3)). Bevosita (og'zaki) tekshirish tamoyili: kuzatuvga asoslangan faktni shu kuzatuvchi sudda so'roq qilinadi, oldingi so'roq bayonnomasini o'qib berish bilan almashtirib bo'lmaydi (§250). Ayblanuvchini qiynoq, aldov, giyohvand moddalar va hokazo bilan iroda erkinligidan mahrum qilish taqiqlanadi (§136a). Sud dalillarning natijasini butun majlis mazmuni asosida o'z ishonchi bilan baholaydi (§261).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO", "ref": "§§ 244, 250, 136a, 261", "url": "https://www.gesetze-im-internet.de/stpo/" }]
+    },
+    "negotiated": {
+      "summary": "Mos holatlarda sud taraflar bilan jarayonning keyingi borishi va natijasi haqida kelishuvga erishishi mumkin (§257c(1)). Kelishuv predmeti hukmning mazmunini tashkil etishi mumkin bo'lgan huquqiy oqibatlar, jarayon bilan bog'liq choralar va taraflarning xatti-harakati bo'lishi mumkin; iqrorlik odatda kelishuvning tarkibiy qismi; aybdorlik hukmi va ayrim tuzatuvchi choralar kelishuv predmeti bo'la olmaydi (§257c(2)). Sud kelishuv mazmunini e'lon qiladi, jazoning yuqori va quyi chegarasini ko'rsatishi mumkin; ayblanuvchi va prokuratura rozi bo'lsa kelishuv tuziladi (§257c(3)). Sud, e'tibordan chetda qolgan holatlar sababli, kelishuvdan chekinishi mumkin; bunda iqrorlik dalil sifatida ishlatilmaydi (§257c(4)). Sud baribir §244(2) bo'yicha haqiqatni aniqlash majburiyatidan ozod emas (§257c(1)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO", "ref": "§ 257c", "url": "https://www.gesetze-im-internet.de/stpo/" }]
+    },
+    "closing": {
+      "summary": "Dalillarni tekshirish tugagach, avval prokuror, keyin ayblanuvchi o'z fikrini bayon qiladi va iltimos kiritadi (Schlussvorträge). Prokurorga javob berish huquqi beriladi; ayblanuvchi so'nggi so'zga ega bo'ladi (§258(1)–(2)). Himoyachi gapirgan bo'lsa ham, ayblanuvchidan himoyasiga qo'shimcha demoqchimi, deb so'raladi (§258(3)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO", "ref": "§ 258", "url": "https://www.gesetze-im-internet.de/stpo/" }]
+    },
+    "verdict": {
+      "summary": "Asosiy sud majlisi maslahatlashuvdan so'ng hukmning e'lon qilinishi bilan tugaydi (§260(1)). Jarayonga to'siq bo'lsa, hukmda ishni tugatish e'lon qilinadi (§260(3)). Hukm 'xalq nomidan' chiqariladi va rezolyutiv qismni hamda asoslarni o'qib yoki mazmunini og'zaki bayon qilish orqali e'lon qilinadi (§268(1)–(2)). Dalillarni baholash tamoyili: sud natijani butun majlis mazmuni asosida o'z erkin ishonchi bilan hal qiladi (§261).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "StPO", "ref": "§§ 260, 261, 268", "url": "https://www.gesetze-im-internet.de/stpo/", "original": "§ 268(1): Das Urteil ergeht im Namen des Volkes." }]
+    },
+    "appeal": {
+      "summary": "Berufung (fakt va huquq bo'yicha apellyatsiya) yakka sudya va Schöffengericht hukmlariga qarshi mumkin (§312); hukm e'lon qilinganidan keyin bir hafta ichida birinchi instansiya sudiga beriladi (§314(1)). Muddatida berilsa, hukm shikoyat qilingan qismida qonuniy kuchga kirmaydi (§316(1)). Hukm faqat shikoyat qilingan qismida tekshiriladi (§327). Faqat ayblanuvchi (yoki uning foydasiga prokuratura) shikoyat qilsa, jazo turi va darajasi bo'yicha hukm uning zarariga o'zgartirilmaydi (reformatio in peius taqiqi, §331(1)). Berufung'ni Strafkammer ko'radi (GVG §74(3)). Ba'zi yengil jazolar bo'yicha shikoyat qabul qilinishi sud tomonidan qo'shimcha tekshiriladi (§313).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "StPO", "ref": "§§ 312, 313, 314, 316, 327, 331", "url": "https://www.gesetze-im-internet.de/stpo/" },
+        { "title": "GVG", "ref": "§ 74(3)", "url": "https://www.gesetze-im-internet.de/gvg/" }
+      ]
+    },
+    "cassation": {
+      "summary": "Revision (faqat huquq masalalari bo'yicha) Strafkammer va Oberlandesgericht hukmlariga qarshi mumkin (§333); Bundesgerichtshof birinchi instansiyadagi Landgericht va Oberlandesgericht hukmlari ustidan revizionni ko'radi (GVG §135(1)). Revision faqat hukm qonun buzilishiga asoslanganida beriladi; normani qo'llamaslik yoki noto'g'ri qo'llash qonun buzilishi hisoblanadi (§337). Revision hukm e'lon qilinganidan keyin bir hafta ichida beriladi (§341(1)); asoslantirish muddati — bir oy (ba'zi hollarda uzaytiriladi) (§345(1)). Berufung o'rniga to'g'ridan-to'g'ri Revision (Sprungrevision) ham mumkin (§335). Revision sudi qonun buzilishi aniq bo'lsa, ishni o'zi hal qilishi yoki quyi sudga qaytarishi mumkin (§354).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "StPO", "ref": "§§ 333, 335, 337, 341, 345, 354", "url": "https://www.gesetze-im-internet.de/stpo/" },
+        { "title": "GVG", "ref": "§ 135(1)", "url": "https://www.gesetze-im-internet.de/gvg/" }
+      ]
+    }
+  }
+}

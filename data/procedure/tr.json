@@ -1,0 +1,74 @@
+{
+  "code": "tr",
+  "updated": "2026-10-01",
+  "basis": "Turkiya Ceza Muhakemesi Kanunu (CMK, 5271 sonli, 2004; 2026-yil o'zgartirishlarigacha) va 5235 sonli Adli Yargı İlk Derece Mahkemeleri ve Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun, rasmiy mevzuat.gov.tr PDF matni (turk tilidagi asl). Modda raqamlari shu matndan. O'zbekcha bayon bizning turk tilidan tarjimamiz; asl iboralar 'Asl matn' bo'limida.",
+  "stages": {
+    "trial_prep": {
+      "summary": "Tergov oxirida to'plangan dalillar jinoyat sodir etilganligiga yetarli shubha hosil qilsa, Cumhuriyet savcısı (prokuror) ayblov xulosasi (iddianame) tuzadi va u vakolatli sudga qaratiladi (170). Prokuror ayblov qo'yishda fursat/ixtiyoriy huquqqa ega (171-modda sarlavhasi) va ayblov qo'ymaslik (kovuşturmaya yer olmadığı) haqida qaror qabul qila oladi (172); bunga jabrlanuvchi e'tiroz bildirishi mumkin (173). Sud ayblov xulosasi va tergov materiallari kelib tushgandan 15 kun ichida ularni tekshirib, 174-moddada sanalgan kamchiliklar bo'lsa (masalan, 170-moddaga zid tuzilgan, jinoyat isbotiga bevosita ta'sir qiladigan mavjud dalil to'planmagan) xulosani prokuraturaga qaytaradi; jinoyatning huquqiy tavsifi sababli qaytarib bo'lmaydi; muddatda qaytarilmasa, xulosa qabul qilingan hisoblanadi (174). Xulosa qabul qilinishi bilan jinoiy ish ochilgan hisoblanadi va ish yuritish (kovuşturma) bosqichi boshlanadi; sud majlis kunini belgilaydi (175). Xulosa chaqiruv qog'ozi bilan sudlanuvchiga topshiriladi (176); sudlanuvchi himoya dalillarini to'plashni so'rashi mumkin (177–179).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "170–179-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5", "original": "İddianamenin kabulüyle, kamu davası açılmış olur ve kovuşturma evresi başlar. (m. 175/1)" }]
+    },
+    "court_composition": {
+      "summary": "Jinoyat sudlari: sulh ceza hakimligi (tergov bosqichida sudya qarorlarini beradi, 10-modda), asliye ceza sudi (yakka sudyali, 9-modda) va ağır ceza sudi (rais va ikki a'zo, ya'ni uch sudya, 9-modda). Ağır ceza sudi, jumladan, talonchilik (yağma), irtikâp, rasmiy hujjatda soxtalik, hiylali bankrotlik, terrorga qarshi kurash qonuni doirasidagi jinoyatlar hamda og'irlashtirilgan umrbod, umrbod va o'n yildan ortiq ozodlikdan mahrum etishni talab qiladigan jinoyatlar bo'yicha ishlarni ko'radi (12-modda); qolgan ishlarni asliye ceza sudi ko'radi (11-modda). Hakamlar hay'ati yo'q: Konstitutsiyaga ko'ra sudyalik va prokurorlik vazifalarini kasbiy sudya va prokurorlar bajaradi (Anayasa 140). Uzoq davom etadigan ishda a'zo o'rniga yedek a'zo bo'lishi mumkin (CMK 188(3)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "5235 sayılı Kanun", "ref": "9, 10, 11, 12-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5235&MevzuatTur=1&MevzuatTertip=5" },
+        { "title": "CMK", "ref": "188(3)", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5" },
+        { "title": "Anayasa", "ref": "140-modda", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709&MevzuatTur=1&MevzuatTertip=5" }
+      ]
+    },
+    "defendant_presence": {
+      "summary": "Qonun istisno qilgan hollar bundan mustasno, kelmagan sudlanuvchiga qarshi muhokama o'tkazilmaydi; uzrsiz kelmagan sudlanuvchi majburan keltiriladi (193(1)). Yig'ilgan dalillarga ko'ra mahkum qilish va jazo tayinlash kutilmasa (oqlov va hokazo), so'roq qilinmagan bo'lsa ham ish uning yo'qligida tugatilishi mumkin (193(2)). Jinoyat faqat jarima yoki musodara bilan jazolansa, sudlanuvchi kelmasa ham majlis o'tkazilishi mumkin (195). So'roq qilingan sudlanuvchini sud ishtirokdan ozod qilishi mumkin (196). Hukmga qatnashadigan sudyalar, prokuror va kotib, shuningdek majburiy himoya hollarida himoyachi majlisda bo'lishi shart; himoyachi uzrsiz kelmasa yoki majlisni tark etsa, majlis davom ettiriladi (188).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "188, 193, 195, 196-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5" }]
+    },
+    "opening": {
+      "summary": "Majlis sudlanuvchi va himoyachining kelganligi, chaqirilgan guvoh va ekspertlarning kelganligi aniqlanib boshlanadi; sudlanuvchi bog'lamasdan (kishansiz) olib kiriladi; rais yoki sudya majlis boshlanganini ayblov xulosasini qabul qilish haqidagi qarorni o'qib e'lon qiladi (191(1)). Guvohlar zaldan chiqariladi (191(2)). Keyin: sudlanuvchining shaxsi aniqlanadi, shaxsiy va iqtisodiy ahvoli so'raladi (191(3)(a)). Majlis hamma uchun ochiq; umumiy axloq yoki jamoat xavfsizligi qat'iy talab qilgan hollarda to'liq yoki qisman yopiq o'tkazilishi mumkin (182); ovoz va tasvir yozuvchi qurilmalarni ishlatish taqiqlangan (183); sudlanuvchi 18 yoshga to'lmagan bo'lsa, majlis yopiq o'tadi (185). Sudlanuvchi yoki jabrlanuvchi turk tilini yetarli bilmasa, tarjimon jalb etiladi (202).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "182, 183, 185, 191(1)–(3)(a), 202-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5" }]
+    },
+    "charge_and_plea": {
+      "summary": "Keyingi qadamda ayblov xulosasida yoki uning o'rnini bosuvchi hujjatda ko'rsatilgan ayblov asoslangan harakatlar va dalillar hamda ayblovning huquqiy tavsifi bayon qilinadi (191(3)(b)). Sudlanuvchiga ayblangan jinoyat bo'yicha izoh bermaslik qonuniy huquqi va 147-moddada ko'rsatilgan boshqa huquqlari e'lon qilinadi (191(3)(c)). Sudlanuvchi izoh berishga tayyorligini bildirsa, qonun tartibida so'roq qilinadi (191(3)(d)). Ya'ni 'aybiga iqrorman/emasman' degan alohida rasmiy javob bosqichi qonunda ko'rsatilmagan; sudlanuvchi izoh beradi yoki bermaydi.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "191(3)(b)–(d)", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5", "original": "Sanığa, yüklenen suç hakkında açıklamada bulunmamasının kanunî hakkı olduğu ve 147 nci maddede belirtilen diğer hakları bildirilir. (m. 191/3-c)" }]
+    },
+    "scope_change_charge": {
+      "summary": "Hukm faqat ayblov xulosasida unsurlari ko'rsatilgan jinoyatga oid harakat va uni sodir etgan shaxs haqida chiqariladi (225(1)); sud harakatni huquqiy baholashda ayblov va himoya fikriga bog'liq emas (225(2)). Biroq sudlanuvchi jinoyatning huquqiy tavsifi o'zgarishidan oldin xabardor qilinib, himoyalana olish holatida bo'lmasa, ayblov xulosasidagi qonun normasidan boshqasi bo'yicha mahkum etilmaydi (226(1)); jazoni oshirishni yoki qo'shimcha xavfsizlik chorasini talab qiladigan holatlar birinchi marta muhokama paytida paydo bo'lsa ham xuddi shu qoida qo'llanadi (226(2)); iltimos bo'yicha qo'shimcha himoyaga tayyorlanish muddati beriladi (226(3)). Xabarnoma sudlanuvchiga va himoyachiga yuboriladi (226(4)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "225, 226-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5" }]
+    },
+    "evidence": {
+      "summary": "Sudlanuvchi so'roq qilingandan keyin dalillarni taqdim etishga o'tiladi (206(1)). Rais yoki sudya muhokamani boshqaradi, sudlanuvchini so'roq qiladi va dalillar taqdim etilishini ta'minlaydi (192(1)). Prokuror, himoyachi yoki vakil sifatida qatnashayotgan advokat sudlanuvchiga, ishtirokchiga, guvohlarga va ekspertlarga bevosita savol bera oladi; sudlanuvchi va ishtirokchi esa rais yoki sudya orqali (201(1)); hay'at tarkibidagi sudyalar ham savol bera oladi (201(2)). Qonunga xilof olingan dalil rad etiladi (206(2)(a)); Konstitutsiyaga ko'ra qonunga xilof topilgan dalillar dalil sifatida qabul qilinmaydi (Anayasa 38). Sudya qarorini faqat muhokamaga keltirilgan va uning huzurida muhokama qilingan dalillarga asoslaydi; bu dalillarni u o'zining vijdoniy ishonchi bilan erkin baholaydi (217(1)); jinoyat qonuniy yo'l bilan olingan har qanday dalil bilan isbotlanishi mumkin (217(2)). Guvohning ko'rsatuvi dalil bo'lsa, uni o'sha guvohning o'zi eshitilmasdan bayonnomani o'qish bilan almashtirib bo'lmaydi (210-modda sarlavhasi).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "192, 201, 206, 210, 217-moddalar; Anayasa 38", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5", "original": "Hâkim, kararını ancak duruşmaya getirilmiş ve huzurunda tartışılmış delillere dayandırabilir. Bu deliller hâkimin vicdanî kanaatiyle serbestçe takdir edilir. (m. 217/1)" }]
+    },
+    "negotiated": {
+      "summary": "Turkiyada AQShdagidek keng plea bargaining yo'q; uchta yo'l bor. (1) Seri muhakeme usuli (250): ro'yxatdagi yengil jinoyatlar bo'yicha prokuror shubhalanuvchiga bu tartibni taklif qiladi; shubhalanuvchi himoyachi huzurida rozi bo'lsa qo'llanadi; prokuror jazoning asosiy miqdorining yarmicha kamaytirilgan jazoni belgilaydi; so'ng sudga yozma ravishda so'raladi (250(3), (4), (8)). (2) Uzlaşma (kelishuv/yarashuv, 253): shikoyatga bog'liq jinoyatlar va ro'yxatdagi jinoyatlarda (masalan, qasddan jarohat yetkazish, tahdid, o'g'rilik, firibgarlik) shubhalanuvchi bilan jabrlanuvchi o'rtasida yarashishga urinish. (3) Hukmning e'lon qilinishini ortga qoldirish (HAGB, 231(5)): ikki yil yoki undan kam muddatli ozodlikdan mahrum etish yoki jarima bo'yicha, shartlar bajarilsa; hukm sudlanuvchi uchun huquqiy oqibat tug'dirmaydi (231(5)–(6)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "231(5)–(6), 250, 253-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5" }]
+    },
+    "closing": {
+      "summary": "Taqdim etilgan dalillar bo'yicha muhokamada so'z tartib bilan avval qatnashuvchi (jabrlanuvchi) yoki uning vakiliga, so'ng prokurorga, keyin sudlanuvchi va himoyachiga yoki qonuniy vakiliga beriladi (216(1)). Taraflar bir-birining fikriga javob bera oladi (216(2)). Hukmdan oldingi so'nggi so'z hozir bo'lgan sudlanuvchiga beriladi; majburiy himoyachi kelmagani hukm e'lon qilinishiga to'siq emas (216(3)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "216-modda", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5", "original": "Hükümden önce son söz, hazır bulunan sanığa verilir. (m. 216/3)" }]
+    },
+    "verdict": {
+      "summary": "Muhokama tugagani e'lon qilingandan keyin hukm chiqariladi; oqlov, jazo tayinlamaslik, mahkum qilish, xavfsizlik chorasi, ishni rad etish va tugatish qarorlari hukm hisoblanadi (223(1)). Oqlov asoslari: qilmish qonunda jinoyat deb belgilanmagan; jinoyatni sudlanuvchi sodir etmagani aniq; qasd yoki ehtiyotsizlik yo'q; huquqiylik sababi bor; jinoyatni sudlanuvchi sodir etgani isbotlanmagan (223(2)). Qarorlar bir ovozdan yoki ko'pchilik ovoz bilan chiqariladi (224); muzokarada rais ovozlarni eng kichik darajali (kıdemsiz) a'zodan boshlab alohida-alohida yig'adi (229). Hukm 'Turk millati nomidan' chiqariladi (232(1)). Hukm qismi o'qiladi va asoslari asosiy chiziqlarda tushuntiriladi, hozir bo'lgan sudlanuvchiga murojaat yo'llari, organi va muddati e'lon qilinadi (231(1)–(2)); gerekçali hukm 15 kun ichida dalolatnomaga qo'shiladi (232(3)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "223, 224, 229, 231(1)–(2), 232-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5", "original": "Hükmün başına, \"Türk Milleti adına\" verildiği yazılır. (m. 232/1)" }]
+    },
+    "appeal": {
+      "summary": "Birinchi instansiya sudlari hukmlariga qarshi istinaf (apellyatsiya) shikoyati beriladi; 15 yil va undan ortiq ozodlikdan mahrum etish hukmlarini bölge adliye mahkemesi (viloyat apellyatsiya sudi) o'zi tekshiradi (272(1)). Ba'zi hukmlarga (masalan, belgilangan miqdordagi jarimalar, qonunda qat'iy deb ko'rsatilganlar) istinaf berib bo'lmaydi (272(3)). Muddat: gerekçali hukm tebliğ qilingan kundan 2 hafta (273(1)); muddatida berilgan shikoyat hukmning qonuniy kuchga kirishiga to'sqinlik qiladi (275). Bölge adliye mahkemesi ish va dalillarni ko'rib chiqib, shikoyatni mohiyatan rad etishi, qonunbuzarlikni tuzatib rad etishi va boshqa qarorlar chiqarishi mumkin (280).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "CMK", "ref": "272, 273, 275, 280, 281-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5" }]
+    },
+    "cassation": {
+      "summary": "Temyiz (kassatsiya) bölge adliye mahkemesi ceza dairelari hukmlariga qarshi beriladi, ammo ayrim hollar (masalan, 5 yil yoki undan kam hapis jazolari bo'yicha istinafni mohiyatan rad etuvchi qarorlar) temyiz qilinmaydi (286(2)). Temyiz faqat hukm qonunga zid bo'lishiga asoslanadi; huquq normasini qo'llamaslik yoki noto'g'ri qo'llash qonunbuzarlik (288). Shikoyatda ko'rsatilmagan bo'lsa ham 'qat'iy qonunbuzarlik' deb hisoblanadigan holatlar ro'yxati bor: sudning qonunga muvofiq tuzilmagani, taqiqlangan sudya ishtiroki, prokurorsiz majlis o'tkazilgani, hukmning asoslarsizligi va boshqalar (289). Muddat: 2 hafta (291). Yargıtay adliya sudlari qarorlari uchun oxirgi tekshiruv organi (Anayasa 154). Bundan tashqari, oddiy huquqiy vositalar tugagach, Konstitutsiyada kafolatlangan va Yevropa Inson huquqlari konventsiyasi qamrovidagi huquqlar buzilganini ta'kidlab Konstitutsiyaviy sudga individual murojaat qilish mumkin (Anayasa 148).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "CMK", "ref": "286, 288, 289, 291-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5" },
+        { "title": "Anayasa", "ref": "148, 154-moddalar", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2709&MevzuatTur=1&MevzuatTertip=5" }
+      ]
+    }
+  }
+}

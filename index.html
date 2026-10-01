@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sud tizimlari solishtiruvi</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header>
+  <h1>Sud tizimlari solishtiruvi</h1>
+  <p>O'zbekiston va xorijiy davlatlar sud tizimlarini manbalar asosida solishtiring.</p>
+</header>
+<main>
+  <nav class="tabs">
+    <button class="tab active" data-tab="procedure">Jinoyat ishi bo'yicha sud jarayoni</button>
+    <button class="tab" data-tab="system">Sud tizimi (umumiy)</button>
+    <button class="tab" data-tab="scholarship">Ilmiy manbalar</button>
+    <button class="tab" data-tab="glossary">Atamalar lug'ati</button>
+  </nav>
+  <p id="intro" class="intro"></p>
+  <section class="controls" id="controls">
+    <label>Davlatlar:
+      <span id="picker"></span>
+    </label>
+    <label class="check"><input type="checkbox" id="onlyDiff"> Faqat farqlarni ko'rsat</label>
+    <label class="check"><input type="checkbox" id="onlyVerified"> Faqat tasdiqlangan ma'lumot</label>
+  </section>
+  <section id="legend" class="legend">
+    <span class="badge tasdiqlangan">tasdiqlangan</span> asosiy manba moddasi bilan
+    <span class="badge tekshirilmagan">tekshirilmagan</span> manba kutilmoqda
+    <span class="badge ziddiyatli">ziddiyatli</span> manbalar mos kelmaydi
+  </section>
+  <div id="table"></div>
+</main>
+<footer>
+  <p>Ma'lumot xarakteridagi material, huquqiy maslahat emas. Qonunlar o'zgaradi, har bir qatorda manba va olingan sana ko'rsatilgan.</p>
+</footer>
+<script src="data/bundle.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

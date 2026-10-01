@@ -1,0 +1,51 @@
+{
+  "code": "fr",
+  "name": "Fransiya",
+  "updated": "2026-10-01",
+  "criteria": {
+    "legal_family": {
+      "summary": "Fransiya fuqarolik huquqi (civil law) an'anasiga mansub; tizim tarixan 1804 yilgi Napoleon kodeksi bilan shakllangan (Federal Judicial Center ma'lumoti).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Federal Judicial Center, Judiciaries Worldwide: France", "ref": "country profile (institutsional/ilmiy-ma'lumot manbai)", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }]
+    },
+    "structure": {
+      "summary": "Jinoyat ishlarida tribunal de police (contravention), tribunal correctionnel (délit) va cour d'assises (crime) birinchi instansiya; délit bo'yicha apellyatsiyani cour d'appel ko'radi (CPP 496); oxirgi instansiya — Cour de cassation (jinoyat palatasi, CPP 567). Sudlar tizimi odatiy sudlar va ma'muriy sudlarga bo'linadi; Konstitutsiyaviy kengash qonunlarni konstitutsiyaga muvofiqligini tekshiradi (FJC).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Code de procédure pénale", "ref": "178, 179, 181, 496, 567", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "retrieved": "2026-10-01" },
+        { "title": "FJC, Judiciaries Worldwide: France", "ref": "court structure", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }
+      ]
+    },
+    "constitutional_review": { "summary": "Konstitutsiyaviy kengash (Conseil constitutionnel) qonunlarning konstitutsiyaga muvofiqligini mustaqil tekshiradi (FJC). Konstitutsiya matni bu tahlilda alohida o'qilmadi.", "status": "tekshirilmagan", "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }] },
+    "judge_appointment": {
+      "summary": "Sudyalar milliy tanlov imtihonidan o'tib, Milliy sudyalik maktabida (ENM) 2,5 yil o'qiydi; muvaffaqiyatli nomzodlarni rasman Prezident tayinlaydi. Yuqori lavozimlar uchun Sudyalar oliy kengashi (Conseil supérieur de la magistrature) nomzod taklif qilishi mumkin (FJC). Manba ikkilamchi (institutsional sahifa); Konstitutsiya va organik qonunlardan tekshirish kerak.",
+      "status": "tekshirilmagan",
+      "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "judicial appointments", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }]
+    },
+    "judge_term": {
+      "summary": "Sudyalar lavozimda Konstitutsiya himoyasida; majburiy nafaqa yoshi 67 (ba'zi rahbar lavozimlarda 68); prokurorlar ham 67 yoshda nafaqaga chiqadi (FJC). Manba ikkilamchi.",
+      "status": "tekshirilmagan",
+      "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "judicial tenure", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }]
+    },
+    "judicial_independence": { "summary": "Manba kutilmoqda (Konstitutsiya Art. 64, organik qonun).", "status": "tekshirilmagan", "sources": [] },
+    "judicial_council": { "summary": "Sudyalar oliy kengashi (Conseil supérieur de la magistrature) nomzodlar taklif qilishi mumkinligi FJC sahifasida eslatilgan; tarkibi va vakolati o'qilmadi.", "status": "tekshirilmagan", "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }] },
+    "public_participation": {
+      "summary": "Og'ir jinoyatlar (crime) bo'yicha cour d'assises hakamlar (jurés) bilan ishlaydi: birinchi instansiyada 6, apellyatsiyada 9 hakam, ular kasbiy sudyalar bilan birga qaror chiqaradi (CPP 296, 359). 15 yoki 20 yil jazo bilan jazolanadigan jinoyatlar bo'yicha voyaga yetgan ayblanuvchilar uchun hakamlarsiz cour criminelle départementale ham mavjud (CPP 380-16, 380-17). Federal Judicial Center sahifasidagi '3 sudya va 9 fuqaro' modeli eskirgan; qonun matni (CPP) ustun deb olindi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Code de procédure pénale", "ref": "296, 359, 380-16, 380-17", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "retrieved": "2026-10-01" },
+        { "title": "FJC, Judiciaries Worldwide: France", "ref": "lay participation (eskirgan ma'lumot bilan farqi izohlangan)", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }
+      ]
+    },
+    "openness_language": {
+      "summary": "Cour d'assises majlislari ochiq, ammo jamoat tartibi yoki axloqqa xavf bo'lsa yopiq o'tkaziladi; zo'rlash va ayrim og'ir jinoyatlarda jabrlanuvchi talabiga ko'ra yopiq majlis qonun bo'yicha shart (CPP 306). Ayblanuvchi frantsuz tilini bilmasa, tarjimon jalb etiladi (CPP 272).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Code de procédure pénale", "ref": "272, 306", "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/", "retrieved": "2026-10-01" }]
+    },
+    "financing": {
+      "summary": "Adliya vazirligi sudlarning ma'muriy boshqaruvini, xodimlari, binolari va resurslarini boshqaradi (FJC). Byudjet manbalari haqida aniq manba kutilmoqda.",
+      "status": "tekshirilmagan",
+      "sources": [{ "title": "FJC, Judiciaries Worldwide: France", "ref": "", "url": "https://judiciariesworldwide.fjc.gov/country-profile/france", "retrieved": "2026-10-01" }]
+    }
+  }
+}
