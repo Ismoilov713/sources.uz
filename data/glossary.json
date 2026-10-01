@@ -1,25 +1,222 @@
 {
-  "note": "Atamalar loyiha ichida ishlatilgan tarjimalarga mos keladi. Rasmiy o'zbekcha muqobili bo'lmagan atamalarda asl atama saqlangan. Huquqshunos tomonidan tasdiqlanishi kerak.",
-  "terms": [
-    { "uz": "Ayblov xulosasi / ayblov dalolatnomasi", "orig": { "uz": "ayblov xulosasi", "kz": "обвинительный акт", "tr": "iddianame", "de": "Anklageschrift", "fr": "ordonnance de renvoi / de mise en accusation", "us": "indictment / information" }, "note": "Ishni sudga yuboruvchi rasmiy ayblov hujjati. AQShda katta hay'at indictment, prokuror information beradi; Fransiyada tergov sudyasi qaror chiqaradi." },
-    { "uz": "Hakamlar hay'ati", "orig": { "kz": "присяжные заседатели", "fr": "jurés", "us": "jury" }, "note": "Fuqarolardan tuzilib, kasbiy sudyalardan alohida yoki ular bilan birga qaror chiqaradi. Qozog'istonda 1 sudya + 10 hakam birga qaror qiladi; AQShda jury aybdorlikni hal qiladi, jazoni sudya tayinlaydi." },
-    { "uz": "Xalq maslahatchisi / Schöffe", "orig": { "uz": "xalq maslahatchisi", "de": "Schöffe" }, "note": "Kasbiy sudya bilan teng huquqli ishtirok etuvchi saylangan fuqaro. Turkiyada bunday institut yo'q." },
-    { "uz": "Katta hay'at", "orig": { "us": "grand jury" }, "note": "AQShda 16–23 fuqarodan iborat, jinoyat ayblovi (indictment) uchun 12 ovoz kerak (FRCrP 6)." },
-    { "uz": "Dastlabki eshituv", "orig": { "uz": "dastlabki eshituv", "kz": "предварительное слушание", "de": "Zwischenverfahren", "us": "preliminary hearing" }, "note": "Turli tizimlarda turli vazifa bajaradi: O'zbekiston/Qozog'istonda ish sudga kelgach sudya o'tkazadigan tayyorgarlik, Germaniyada ayblov asosli yoki yo'qligini hal qiluvchi oraliq bosqich, AQShda magistrat sudya o'tkazadigan asos eshituvi." },
-    { "uz": "Sud tergovi", "orig": { "kz": "судебное следствие", "uz": "sud tergovi", "de": "Beweisaufnahme", "fr": "instruction à l'audience", "tr": "delillerin ortaya konulması" }, "note": "Majlisda dalillarni tekshirish bosqichi." },
-    { "uz": "Taraflar muzokarasi", "orig": { "uz": "taraflar muzokarasi", "kz": "судебные прения", "de": "Schlussvorträge", "tr": "delillerin tartışılması", "fr": "réquisitions / plaidoiries", "us": "closing arguments" }, "note": "Dalillar tekshirilgandan keyingi yakuniy nutqlar." },
-    { "uz": "Oxirgi so'z", "orig": { "uz": "oxirgi so'z", "kz": "последнее слово", "de": "das letzte Wort", "tr": "son söz", "fr": "la parole les derniers", "us": "allocution (jazo oldidan)" }, "note": "Sudlanuvchining hukm oldidan so'zi. AQShda aybdorlik hal bo'lgach, jazo tayinlashdan oldin beriladi." },
-    { "uz": "Hukm", "orig": { "uz": "hukm", "kz": "приговор", "de": "Urteil", "tr": "hüküm", "fr": "jugement / arrêt", "us": "verdict (jury) / judgment" }, "note": "AQShda 'verdict' hay'at xulosasi, 'judgment' sud hujjati; Fransiyada cour d'assises hukmi 'arrêt' deyiladi." },
-    { "uz": "Oqlov hukmi", "orig": { "uz": "oqlov hukmi", "kz": "оправдательный приговор", "de": "Freispruch", "tr": "beraat", "fr": "acquittement", "us": "acquittal" }, "note": "" },
-    { "uz": "Ayblov hukmi", "orig": { "uz": "ayblov hukmi", "kz": "обвинительный приговор", "de": "Verurteilung", "tr": "mahkûmiyet", "fr": "condamnation", "us": "conviction" }, "note": "" },
-    { "uz": "Apellyatsiya", "orig": { "uz": "apellyatsiya", "kz": "апелляция", "de": "Berufung", "tr": "istinaf", "fr": "appel", "us": "appeal" }, "note": "Fakt va huquq bo'yicha qayta ko'rish." },
-    { "uz": "Kassatsiya", "orig": { "uz": "kassatsiya", "kz": "кассация", "de": "Revision", "tr": "temyiz", "fr": "pourvoi en cassation" }, "note": "Asosan huquq masalalari bo'yicha tekshiruv. Turkiyada temyiz, Germaniyada Revision." },
-    { "uz": "Taftish", "orig": { "uz": "taftish" }, "note": "O'zbekiston JPK'da qonuniy kuchga kirgan hukmlarni qayta ko'rish shakli." },
-    { "uz": "Aybga iqrorlik kelishuvi", "orig": { "uz": "aybga iqrorlik to'g'risidagi kelishuv", "kz": "процессуальное соглашение (сделка о признании вины)", "de": "Verständigung", "tr": "seri muhakeme / uzlaşma", "fr": "CRPC", "us": "plea agreement" }, "note": "Har bir tizimda mazmuni va chegaralari farq qiladi; solishtirishda asosiy farq — kim tuzadi va sud roli." },
-    { "uz": "Ichki ishonch", "orig": { "fr": "intime conviction", "tr": "vicdanî kanaat", "de": "freie Beweiswürdigung" }, "note": "Dalillarni baholash tamoyili: qat'iy qoidalar o'rniga sudya yoki hakamning o'z ishonchi." },
-    { "uz": "Tergov sudyasi", "orig": { "fr": "juge d'instruction", "tr": "sulh ceza hâkimi", "kz": "следственный судья", "de": "Ermittlungsrichter" }, "note": "Tergov bosqichida protsessual majburlov choralarini nazorat qiluvchi sudya. Fransiyada tergovni ham o'zi olib boradi." },
-    { "uz": "Prokuror", "orig": { "tr": "Cumhuriyet savcısı", "de": "Staatsanwalt", "fr": "procureur de la République", "us": "prosecutor / attorney for the government" }, "note": "" },
-    { "uz": "Sud majlisi / asosiy sud muhokamasi", "orig": { "kz": "главное судебное разбирательство", "de": "Hauptverhandlung", "tr": "duruşma", "fr": "audience" }, "note": "" },
-    { "uz": "Nolo contendere", "orig": { "us": "nolo contendere" }, "note": "Aybni tan olmay, ayblovga e'tiroz bildirmaslik; sud roziligi bilan (FRCrP 11(a))." }
-  ]
+    "note":  "Atamalar loyiha ichida ishlatilgan tarjimalarga mos keladi. Rasmiy o\u0027zbekcha muqobili bo\u0027lmagan atamalarda asl atama saqlangan. Huquqshunos tomonidan tasdiqlanishi kerak.",
+    "terms":  [
+                  {
+                      "uz":  "Ayblov xulosasi / ayblov dalolatnomasi",
+                      "orig":  {
+                                   "uz":  "ayblov xulosasi",
+                                   "kz":  "обвинительный акт",
+                                   "tr":  "iddianame",
+                                   "de":  "Anklageschrift",
+                                   "fr":  "ordonnance de renvoi / de mise en accusation",
+                                   "us":  "indictment / information",
+                                   "uk":  "indictment"
+                               },
+                      "note":  "Ishni sudga yuboruvchi rasmiy ayblov hujjati. AQShda katta hay\u0027at indictment, prokuror information beradi; Fransiyada tergov sudyasi qaror chiqaradi."
+                  },
+                  {
+                      "uz":  "Hakamlar hay\u0027ati",
+                      "orig":  {
+                                   "kz":  "присяжные заседатели",
+                                   "fr":  "jurés",
+                                   "us":  "jury",
+                                   "uk":  "jury"
+                               },
+                      "note":  "Fuqarolardan tuzilib, kasbiy sudyalardan alohida yoki ular bilan birga qaror chiqaradi. Qozog\u0027istonda 1 sudya + 10 hakam birga qaror qiladi; AQShda jury aybdorlikni hal qiladi, jazoni sudya tayinlaydi."
+                  },
+                  {
+                      "uz":  "Xalq maslahatchisi / Schöffe",
+                      "orig":  {
+                                   "uz":  "xalq maslahatchisi",
+                                   "de":  "Schöffe",
+                                   "uk":  "lay justice (magistrates\u0027 court)"
+                               },
+                      "note":  "Kasbiy sudya bilan teng huquqli ishtirok etuvchi saylangan fuqaro. Turkiyada bunday institut yo\u0027q."
+                  },
+                  {
+                      "uz":  "Katta hay\u0027at",
+                      "orig":  {
+                                   "us":  "grand jury"
+                               },
+                      "note":  "AQShda 16–23 fuqarodan iborat, jinoyat ayblovi (indictment) uchun 12 ovoz kerak (FRCrP 6)."
+                  },
+                  {
+                      "uz":  "Dastlabki eshituv",
+                      "orig":  {
+                                   "uz":  "dastlabki eshituv",
+                                   "kz":  "предварительное слушание",
+                                   "de":  "Zwischenverfahren",
+                                   "us":  "preliminary hearing"
+                               },
+                      "note":  "Turli tizimlarda turli vazifa bajaradi: O\u0027zbekiston/Qozog\u0027istonda ish sudga kelgach sudya o\u0027tkazadigan tayyorgarlik, Germaniyada ayblov asosli yoki yo\u0027qligini hal qiluvchi oraliq bosqich, AQShda magistrat sudya o\u0027tkazadigan asos eshituvi."
+                  },
+                  {
+                      "uz":  "Sud tergovi",
+                      "orig":  {
+                                   "kz":  "судебное следствие",
+                                   "uz":  "sud tergovi",
+                                   "de":  "Beweisaufnahme",
+                                   "fr":  "instruction à l\u0027audience",
+                                   "tr":  "delillerin ortaya konulması"
+                               },
+                      "note":  "Majlisda dalillarni tekshirish bosqichi."
+                  },
+                  {
+                      "uz":  "Taraflar muzokarasi",
+                      "orig":  {
+                                   "uz":  "taraflar muzokarasi",
+                                   "kz":  "судебные прения",
+                                   "de":  "Schlussvorträge",
+                                   "tr":  "delillerin tartışılması",
+                                   "fr":  "réquisitions / plaidoiries",
+                                   "us":  "closing arguments",
+                                   "uk":  "final representations / closing speeches"
+                               },
+                      "note":  "Dalillar tekshirilgandan keyingi yakuniy nutqlar."
+                  },
+                  {
+                      "uz":  "Oxirgi so\u0027z",
+                      "orig":  {
+                                   "uz":  "oxirgi so\u0027z",
+                                   "kz":  "последнее слово",
+                                   "de":  "das letzte Wort",
+                                   "tr":  "son söz",
+                                   "fr":  "la parole les derniers",
+                                   "us":  "allocution (jazo oldidan)",
+                                   "uk":  "(yakuniy nutqni himoya oxirida so\u0027zlaydi, CrimPR 25.9)"
+                               },
+                      "note":  "Sudlanuvchining hukm oldidan so\u0027zi. AQShda aybdorlik hal bo\u0027lgach, jazo tayinlashdan oldin beriladi."
+                  },
+                  {
+                      "uz":  "Hukm",
+                      "orig":  {
+                                   "uz":  "hukm",
+                                   "kz":  "приговор",
+                                   "de":  "Urteil",
+                                   "tr":  "hüküm",
+                                   "fr":  "jugement / arrêt",
+                                   "us":  "verdict (jury) / judgment",
+                                   "uk":  "verdict (jury) / sentence"
+                               },
+                      "note":  "AQShda \u0027verdict\u0027 hay\u0027at xulosasi, \u0027judgment\u0027 sud hujjati; Fransiyada cour d\u0027assises hukmi \u0027arrêt\u0027 deyiladi."
+                  },
+                  {
+                      "uz":  "Oqlov hukmi",
+                      "orig":  {
+                                   "uz":  "oqlov hukmi",
+                                   "kz":  "оправдательный приговор",
+                                   "de":  "Freispruch",
+                                   "tr":  "beraat",
+                                   "fr":  "acquittement",
+                                   "us":  "acquittal",
+                                   "uk":  "acquittal"
+                               },
+                      "note":  ""
+                  },
+                  {
+                      "uz":  "Ayblov hukmi",
+                      "orig":  {
+                                   "uz":  "ayblov hukmi",
+                                   "kz":  "обвинительный приговор",
+                                   "de":  "Verurteilung",
+                                   "tr":  "mahkûmiyet",
+                                   "fr":  "condamnation",
+                                   "us":  "conviction",
+                                   "uk":  "conviction"
+                               },
+                      "note":  ""
+                  },
+                  {
+                      "uz":  "Apellyatsiya",
+                      "orig":  {
+                                   "uz":  "apellyatsiya",
+                                   "kz":  "апелляция",
+                                   "de":  "Berufung",
+                                   "tr":  "istinaf",
+                                   "fr":  "appel",
+                                   "us":  "appeal",
+                                   "uk":  "appeal (Crown Court / Court of Appeal)"
+                               },
+                      "note":  "Fakt va huquq bo\u0027yicha qayta ko\u0027rish."
+                  },
+                  {
+                      "uz":  "Kassatsiya",
+                      "orig":  {
+                                   "uz":  "kassatsiya",
+                                   "kz":  "кассация",
+                                   "de":  "Revision",
+                                   "tr":  "temyiz",
+                                   "fr":  "pourvoi en cassation"
+                               },
+                      "note":  "Asosan huquq masalalari bo\u0027yicha tekshiruv. Turkiyada temyiz, Germaniyada Revision."
+                  },
+                  {
+                      "uz":  "Taftish",
+                      "orig":  {
+                                   "uz":  "taftish"
+                               },
+                      "note":  "O\u0027zbekiston JPK\u0027da qonuniy kuchga kirgan hukmlarni qayta ko\u0027rish shakli."
+                  },
+                  {
+                      "uz":  "Aybga iqrorlik kelishuvi",
+                      "orig":  {
+                                   "uz":  "aybga iqrorlik to\u0027g\u0027risidagi kelishuv",
+                                   "kz":  "процессуальное соглашение (сделка о признании вины)",
+                                   "de":  "Verständigung",
+                                   "tr":  "seri muhakeme / uzlaşma",
+                                   "fr":  "CRPC",
+                                   "us":  "plea agreement",
+                                   "uk":  "guilty plea with credit (qonunda plea bargaining ko\u0027rilmagan)"
+                               },
+                      "note":  "Har bir tizimda mazmuni va chegaralari farq qiladi; solishtirishda asosiy farq — kim tuzadi va sud roli."
+                  },
+                  {
+                      "uz":  "Ichki ishonch",
+                      "orig":  {
+                                   "fr":  "intime conviction",
+                                   "tr":  "vicdanî kanaat",
+                                   "de":  "freie Beweiswürdigung"
+                               },
+                      "note":  "Dalillarni baholash tamoyili: qat\u0027iy qoidalar o\u0027rniga sudya yoki hakamning o\u0027z ishonchi."
+                  },
+                  {
+                      "uz":  "Tergov sudyasi",
+                      "orig":  {
+                                   "fr":  "juge d\u0027instruction",
+                                   "tr":  "sulh ceza hâkimi",
+                                   "kz":  "следственный судья",
+                                   "de":  "Ermittlungsrichter"
+                               },
+                      "note":  "Tergov bosqichida protsessual majburlov choralarini nazorat qiluvchi sudya. Fransiyada tergovni ham o\u0027zi olib boradi."
+                  },
+                  {
+                      "uz":  "Prokuror",
+                      "orig":  {
+                                   "tr":  "Cumhuriyet savcısı",
+                                   "de":  "Staatsanwalt",
+                                   "fr":  "procureur de la République",
+                                   "us":  "prosecutor / attorney for the government",
+                                   "uk":  "prosecutor"
+                               },
+                      "note":  ""
+                  },
+                  {
+                      "uz":  "Sud majlisi / asosiy sud muhokamasi",
+                      "orig":  {
+                                   "kz":  "главное судебное разбирательство",
+                                   "de":  "Hauptverhandlung",
+                                   "tr":  "duruşma",
+                                   "fr":  "audience",
+                                   "uk":  "trial"
+                               },
+                      "note":  ""
+                  },
+                  {
+                      "uz":  "Nolo contendere",
+                      "orig":  {
+                                   "us":  "nolo contendere"
+                               },
+                      "note":  "Aybni tan olmay, ayblovga e\u0027tiroz bildirmaslik; sud roziligi bilan (FRCrP 11(a))."
+                  }
+              ]
 }

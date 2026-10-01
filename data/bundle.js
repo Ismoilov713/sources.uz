@@ -593,6 +593,84 @@ window.COUNTRIES = [
                  }
 },
 {
+  "code": "uk",
+  "name": "Buyuk Britaniya (Angliya va Uels)",
+  "updated": "2026-10-01",
+  "criteria": {
+    "legal_family": {
+      "summary": "Umumiy huquq (common law) tizimi: sud pretsedentlariga rioya qilish uning belgilovchi xususiyati, Angliya sudlari amaliyotidan kelib chiqqan. Shotlandiyada aralash (fuqarolik va umumiy huquq), Shimoliy Irlandiya tuzilishi Angliya va Uelsga yaqin (FJC). Bu sahifa faqat Angliya va Uels uchun.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "FJC, Judiciaries Worldwide: United Kingdom", "ref": "country profile (institutsional ma'lumot)", "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-kingdom", "retrieved": "2026-10-01" }]
+    },
+    "structure": {
+      "summary": "Jinoyat ishlarida birinchi instansiya — magistrates' court (yengil va o'rta og'irlikdagi ishlar) va Crown Court (og'ir ishlar, hakamlar hay'ati bilan); apellyatsiya Crown Court (magistrates' court hukmlaridan) va Court of Appeal (Crown Court hukmlaridan); eng yuqori instansiya — Buyuk Britaniya Oliy sudi (CrimPR 34, 39, 43-qismlar; Criminal Appeal Act 1968 s.33). Boshqa darajalar: High Court, county court, tribunallar (FJC). Magistrates' courts jinoyat ishlarining taxminan 95% ini dastlab ko'radi (FJC).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "25.1 izoh, 34, 39, 43-qismlar", "url": "https://www.legislation.gov.uk/uksi/2025/909/contents", "retrieved": "2026-10-01" },
+        { "title": "FJC, Judiciaries Worldwide: United Kingdom", "ref": "court structure", "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-kingdom", "retrieved": "2026-10-01" }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Buyuk Britaniyada Parlament qonunini konstitutsiyaga zid deb bekor qiladigan sud yo'q. Human Rights Act 1998 s.4 bo'yicha Oliy sud, High Court yoki Court of Appeal (Angliya va Uelsda) qonun Yevropa inson huquqlari konventsiyasidagi huquqqa mos kelmasligi haqida 'nomuvofiqlik deklaratsiyasi' (declaration of incompatibility) chiqara oladi, lekin u qonunning kuchiga, amal qilishiga ta'sir qilmaydi va tomonlar uchun majburiy emas (s.4(2), (5), (6)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Human Rights Act 1998", "ref": "s.4", "url": "https://www.legislation.gov.uk/ukpga/1998/42/section/4", "retrieved": "2026-10-01" }]
+    },
+    "judge_appointment": {
+      "summary": "Angliya va Uels sudyalarini Sudyalar tayinlash komissiyasi (Judicial Appointments Commission, JAC) ochiq tanlov orqali tanlaydi: tanlov faqat qobiliyat (merit) bo'yicha va yaxshi xarakter sharti bilan; teng qobiliyatli nomzodlar orasida xilma-xillikni oshirish uchun biriga ustunlik berilishi mumkin (Constitutional Reform Act 2005 ss.61, 63). Komissiya raisi sudya bo'lmagan shaxs bo'ladi va sudyalar uning a'zolari ko'pchiligini tashkil etmaydi (FJC). Oliy sud uchun alohida tanlov komissiyasi Adliya vaziri (Lord Chancellor) tomonidan chaqiriladi (FJC).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Constitutional Reform Act 2005", "ref": "ss.61, 63", "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/63", "retrieved": "2026-10-01" },
+        { "title": "FJC, Judiciaries Worldwide: United Kingdom", "ref": "appointments", "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-kingdom", "retrieved": "2026-10-01" }
+      ]
+    },
+    "judge_term": {
+      "summary": "Ro'yxatdagi sudya lavozimlari egalari 75 yoshga to'lgan kuni (yoki lavozim bo'yicha belgilangan quyi yoshda) lavozimni bo'shatadi (Judicial Pensions and Retirement Act 1993 s.26(1)). FJC bo'yicha bu yosh 2021 yilda 70 dan 75 gacha oshirilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Judicial Pensions and Retirement Act 1993", "ref": "s.26(1)", "url": "https://www.legislation.gov.uk/ukpga/1993/8/section/26", "retrieved": "2026-10-01" },
+        { "title": "FJC, Judiciaries Worldwide: United Kingdom", "ref": "retirement age", "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-kingdom", "retrieved": "2026-10-01" }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Adliya vaziri (Lord Chancellor), boshqa vazirlar va adliya ma'muriyatiga javobgar barcha shaxslar sudyalarning mustaqilligini ta'minlashi shart; vazirlar sudyalarga maxsus kirish orqali muayyan sud qarorlariga ta'sir o'tkazishga urinmasligi kerak; adliya vaziri mustaqillikni himoya qilish va sudyalar o'z vazifalarini bajarishi uchun zarur yordam ko'rsatilishiga e'tibor berishi lozim (Constitutional Reform Act 2005 s.3).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Constitutional Reform Act 2005", "ref": "s.3", "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3", "retrieved": "2026-10-01" }]
+    },
+    "judicial_council": {
+      "summary": "Sudyalarni tanlovchi organ — Judicial Appointments Commission (alohida yuridik shaxs, Constitutional Reform Act 2005 s.61, Schedule 12). Sudyalarning o'zini o'zi boshqarish organlari (masalan, Judicial Executive Board) bu tahlilda manbadan o'qilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Constitutional Reform Act 2005", "ref": "s.61", "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/61", "retrieved": "2026-10-01" }]
+    },
+    "public_participation": {
+      "summary": "Ikki yo'l: (1) Crown Court'da og'ir ishlar bo'yicha hakamlar hay'ati (jury): kamida 12 hakam, tasodifiy tanlanadi; ko'pchilik ovoz bilan hukm mumkin (10 ga 2 yoki 9 ga 1) (CrimPR 25.6; Juries Act 1974 ss.1, 17). (2) Magistrates' court'da ko'pchilik ishlarni kamida ikki mirovoy sudya (lay justices) ko'radi (Magistrates' Courts Act 1980 s.121(1); FJC: jinoyat ishlarining taxminan 95% ini dastlab magistrates' courts ko'radi).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "25.6", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25", "retrieved": "2026-10-01" },
+        { "title": "Juries Act 1974", "ref": "ss.1, 17", "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17", "retrieved": "2026-10-01" },
+        { "title": "Magistrates' Courts Act 1980", "ref": "s.121", "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121", "retrieved": "2026-10-01" }
+      ]
+    },
+    "openness_language": {
+      "summary": "Jinoyat sud majlisi, qoida bo'yicha, ochiq o'tadi; sud hisobot berish va kirishni cheklashi yoki yopiq majlis o'tkazishi mumkin (CrimPR 25.2(1)(a), 24.2(1)). Magistrates' court ayrim ishlarni ochiq sudda ko'rishi shart (Magistrates' Courts Act 1980 s.121(4)). Sudda sudya, hakam, guvoh yoki ishda ishtirok etuvchi tomonning fotosurati yoki portretini olish va nashr etish taqiqlanadi (Criminal Justice Act 1925 s.41). Uelsdagi sud jarayonlarida har bir tomon, guvoh yoki boshqa shaxs uels tilida so'zlash huquqiga ega, zarur bo'lsa tarjima ta'minlanadi (Welsh Language Act 1993 s.22).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "24.2, 25.2", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25", "retrieved": "2026-10-01" },
+        { "title": "Criminal Justice Act 1925", "ref": "s.41", "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41", "retrieved": "2026-10-01" },
+        { "title": "Welsh Language Act 1993", "ref": "s.22", "url": "https://www.legislation.gov.uk/ukpga/1993/38/section/22", "retrieved": "2026-10-01" }
+      ]
+    },
+    "financing": {
+      "summary": "Adliya vaziri (Lord Chancellor) Oliy sud (Senior Courts), county court, oila sudi va magistrates' courts faoliyatini qo'llab-quvvatlaydigan samarali tizim va xizmatlarni ta'minlashga majbur (Courts Act 2003 s.1(1)). Adliya vaziri sudyalar o'z vazifalarini bajarishi uchun zarur qo'llab-quvvatlashni hisobga olishi shart (Constitutional Reform Act 2005 s.3(6)(b)). Byudjet miqdori bu tahlilda manbadan o'qilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Courts Act 2003", "ref": "s.1", "url": "https://www.legislation.gov.uk/ukpga/2003/39/section/1", "retrieved": "2026-10-01" },
+        { "title": "Constitutional Reform Act 2005", "ref": "s.3(6)", "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3", "retrieved": "2026-10-01" }
+      ]
+    }
+  }
+}
+,
+{
     "code":  "us",
     "name":  "AQSh (federal)",
     "updated":  "2026-10-01",
@@ -1242,6 +1320,88 @@ window.PROCEDURE = [
 }
 ,
 {
+  "code": "uk",
+  "updated": "2026-10-01",
+  "basis": "Angliya va Uels jinoyat protsessi: Criminal Procedure Rules 2025 (S.I. 2025/909, 06.10.2025 dan kuchda, 2020 yilgi qoidalarni bekor qilgan), Juries Act 1974, Criminal Appeal Act 1968, Criminal Justice Act 2003, Magistrates' Courts Act 1980 va boshqa qonunlar, legislation.gov.uk rasmiy matni (ingliz tilida). Diqqat: Shotlandiya va Shimoliy Irlandiyaning jinoyat protsessi alohida va boshqacha; bu sahifa faqat Angliya va Uels uchun. O'zbekcha bayon bizning tarjimamiz.",
+  "stages": {
+    "trial_prep": {
+      "summary": "Jinoyat toifasiga qarab ish qaysi sudda ko'rilishi aniqlanadi: faqat magistrates' court (mirovoy sud) ko'radigan, faqat Crown Court (hakamlar hay'ati sudi) ko'radigan (indictable-only) va ikkala sudda ko'rilishi mumkin bo'lgan (triable either way) jinoyatlar; 18 yoshgacha bo'lganlar odatda youth court'da (25.1-qoida izohi). Magistrates' court birinchi eshituvda ishni o'zida ko'rishga yoki Crown Court'ga yuborishga qaror qiladi (CrimPR 9-qism; Magistrates' Courts Act 1980 ss.17A–26; Crime and Disorder Act 1998 ss.50A–52). Crown Court'da 'Plea and trial preparation hearing' (PTPH, aybga munosabat va sudga tayyorgarlik eshituvi) majburiy: sud ayblanuvchiga aybni tan olish uchun jazo yengillashuvi (credit) berilishini tushuntiradi, aybga munosabatni qabul qiladi va aybsiz deb javob bergan taqdirda sud majlisidagi huquqlarini tushuntiradi (3.21(1)–(2)). Qo'shimcha tayyorgarlik eshituvlari faqat zarur bo'lganda o'tkaziladi (3.21(1)(c)). Ayblov hujjati (indictment) shakli va topshirilishi CrimPR 10-qismida tartibga solingan.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Criminal Procedure Rules 2025", "ref": "3.21, 9.1, 10-qism, 25.1 (izoh)", "url": "https://www.legislation.gov.uk/uksi/2025/909/contents" }]
+    },
+    "court_composition": {
+      "summary": "Crown Court'da og'ir ishlarni sudya va hakamlar hay'ati (jury) ko'radi. Hakamlar ro'yxatdan tasodifiy tanlanadi; hay'at kamida 12 kishidan iborat, sud 4 haftadan uzoq davom etadigan ishda 14 kishigacha tanlashi mumkin (25.6(4), (6)). Hakam bo'lish uchun saylovchi sifatida ro'yxatda bo'lish, 18 yoshdan katta va 76 yoshdan kichik bo'lish, 13 yoshdan keyin kamida 5 yil Buyuk Britaniya, Kanal orollari yoki Men oroli hududida yashagan bo'lish kerak (Juries Act 1974 s.1). Hakamlarsiz sud (judge-alone) hay'atga ta'sir ko'rsatish xavfi bo'lganda yoki bunday ta'sir ko'rsatilgandek ko'ringanda mumkin (Criminal Justice Act 2003 ss.44, 46); shuningdek ayrim ishlarda namunaviy moddalar hay'at bilan, qolganlari hakamlarsiz ko'riladi (25.15 izohi). Magistrates' court'da ish kamida ikki mirovoy sudya (lay justice) tomonidan ko'riladi; bitta sudya ko'radigan hollar qonunda alohida ko'rsatilgan (Magistrates' Courts Act 1980 s.121(1)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "25.6, 25.15 (izoh)", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25" },
+        { "title": "Juries Act 1974", "ref": "s.1", "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/1" },
+        { "title": "Magistrates' Courts Act 1980", "ref": "s.121(1)", "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121" },
+        { "title": "Criminal Justice Act 2003", "ref": "ss.44, 46", "url": "https://www.legislation.gov.uk/ukpga/2003/44/section/44" }
+      ]
+    },
+    "defendant_presence": {
+      "summary": "Crown Court ayblanuvchi yo'q bo'lsa ishni ko'rishni boshlamaydi, faqat ayblanuvchi ishtirok etish huquqidan voz kechgan va sud adolatli bo'lishiga ishonch hosil qilgan taqdirda davom etadi (25.2(1)(b)). Ayblanuvchida yuridik vakil bo'lmasa (yoki oldin ozodlikdan mahrum etilmagan bo'lsa yoki yuridik yordamga haqli bo'lib, undan foydalanmagan bo'lsa), sud uni ozodlikdan mahrum etishni tayinlay olmaydi (25.2(1)(c)). Magistrates' court'da faqat shu sudda ko'riladigan, ro'yxatdagi istisnolardan tashqari jinoyatlar bo'yicha, 16 yoshdan katta ayblanuvchi sudga kelmasdan yozma ravishda aybini tan olishi mumkin (24.8).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Criminal Procedure Rules 2025", "ref": "24.8, 25.2(1)", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25" }]
+    },
+    "opening": {
+      "summary": "Sud majlisi, qoida bo'yicha, ochiq o'tadi; sud hisobot berishni cheklash, ma'lumotni yashirish yoki yopiq majlis o'tkazish vakolatiga ega (25.2(1)(a)). Majlis boshlanishidan oldin sud: bir nechta ayblov hujjati bo'lsa, prokuror qaysi biri bo'yicha davom etishini aniqlaydi; prokuror har bir ayblov hujjatida jinoyat bayoni va aniq harakatlar ko'rsatilganini tasdiqlaydi; ayblanuvchini to'g'ri identifikatsiya qiladi; har bir ayblov unga tushunarli tilda tushuntirilganiga ishonch hosil qiladi; ayblov hujjatiga e'tirozlarni so'raydi (25.2(2)). Keyin hakamlar tasodifiy tanlanadi (25.6). Hakamlarga ayblangan jinoyatlar va ularning vazifasi tushuntiriladi (25.9(2)(a)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Criminal Procedure Rules 2025", "ref": "25.2, 25.6, 25.9(2)(a)", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25" }]
+    },
+    "charge_and_plea": {
+      "summary": "Arraignment (ayblovni e'lon qilish va aybga munosabatni so'rash): sud ayblov hujjati (indictment) ayblanuvchiga o'qilishini yoki unga tushuntirilishini ta'minlaydi, har bir ayblovni tushunarli tilda tushuntiradi va aybga munosabatni oladi (3.32). Ayblanuvchi aybini tan olsa va sud bu 'aybni aniq tan olish' ekanligiga ishonch hosil qilsa, sud dalillarni eshitmaydi (jazo uchun faktlarni aniqlash zarur bo'lgan hollar bundan mustasno) (25.4). Aybni tan olishni qaytarib olish uchun yozma ariza va uning nima uchun adolatsiz ekanligi asoslanadi, ish yakuniy hal bo'lguncha berilishi kerak (25.5). Ayblanuvchi aybga munosabat bildirishdan bosh tortsa, sud buni 'aybsiz' deb hisoblaydi (25.9(1)(b)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Criminal Procedure Rules 2025", "ref": "3.32, 25.4, 25.5, 25.9(1)", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25" }]
+    },
+    "scope_change_charge": {
+      "summary": "Prokuror sudga qaysi ayblov hujjati va qaysi moddalar bo'yicha davom etishini bildiradi; u davom ettirmaslikni tanlagan modda bo'yicha, sud boshqacha ko'rsatma bermasa, keyingi harakatlar qilinmaydi (25.2(2), (4)). Sud majlisi boshlangandan keyin ayblov hujjatining shakliga e'tiroz bildirib bo'lmaydi (Administration of Justice (Miscellaneous Provisions) Act 1933 s.2(6ZA), 25.2 izohida eslatilgan). Prokuratura dalillari tugagach, sud ayblanuvchi iltimosiga ko'ra yoki o'z tashabbusi bilan, prokuror fikrini tinglagach, 'dalillar etarli emas, hech bir oqilona sud hukm chiqara olmaydi' deb hay'atga oqlashni buyurishi mumkin (25.9(2)(e)); qasddan odam o'ldirish va ayrim boshqa jinoyatlarda bu faqat barcha dalillar eshitilgandan keyin (25.9(3)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Criminal Procedure Rules 2025", "ref": "25.2(2),(4), 25.9(2)(e), (3)", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25" }]
+    },
+    "evidence": {
+      "summary": "Ayblanuvchi aybsiz deb javob berganda tartib (25.9(2)): (a) sud hakamlarga ayblovni va ularning vazifasini tushuntiradi; (b) prokuror ayblov faktlarini va bahsli masalalarni qisqa bayon qilishi mumkin; (c) sud hay'atga yordam berish uchun ayblanuvchidan nimalar bahsli ekanini aytishni so'rashi yoki himoya bayonotini hay'atga berishi mumkin; (d) prokuror ayblov dalillarini taqdim etadi; (f) ayblov dalillari tugagach, sud ayblanuvchidan o'zi ko'rsatuv berish-bermasligini so'raydi va unga ko'rsatuv berish huquqini hamda ko'rsatuv bermasa, sud tegishli xulosalar chiqarishi mumkinligini tushuntiradi; (g) himoya o'z ishini qisqa bayon qilishi mumkin; (h) ayblanuvchi ko'rsatuv berishi, boshqa guvohlarni va boshqa dalillarni keltirishi mumkin; (i) taraflar rad etuvchi dalillarni keltirishi mumkin. Guvoh ko'rsatuvlari, ekspertiza, hearsay va yomon xarakter dalillari, zaif guvohlarga yordam choralari alohida qismlarda tartibga solinadi (15–23-qismlar sarlavhalari).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Criminal Procedure Rules 2025", "ref": "25.9(2); 18–23-qismlar", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25" }]
+    },
+    "negotiated": {
+      "summary": "Angliya va Uelsda AQShdagi kabi qonun bilan tartibga solingan alohida plea bargaining protsedurasi bu tahlilda ko'rilgan qoidalarda topilmadi. Aybni tan olishga rag'bat: sud ayblanuvchiga aybni tan olgani uchun jazo yengillashuvi (credit) berilishini tushuntirishi shart (3.21(2)(a)). Magistrates' court'da yozma tan olish mumkin (24.8). Kompaniyalar uchun alohida Deferred Prosecution Agreements (kechiktirilgan ayblov kelishuvlari) mavjud (CrimPR 11-qism sarlavhasi).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Criminal Procedure Rules 2025", "ref": "3.21(2)(a), 11-qism, 24.8", "url": "https://www.legislation.gov.uk/uksi/2025/909/contents" }]
+    },
+    "closing": {
+      "summary": "Dalillar tugagach prokuror yakuniy nutq (final representations) so'zlashi mumkin, agar ayblanuvchida yuridik vakil bo'lsa, yoki ayblanuvchi o'zidan boshqa kamida bitta guvoh keltirgan bo'lsa, yoki sud ruxsat bersa; keyin ayblanuvchi (himoya) yakuniy nutq so'zlaydi (25.9(2)(j)–(k)). Shunday qilib, himoya oxirgi so'z beriladigan tomon bo'ladi. Hay'atga sudya qonun bo'yicha ko'rsatma beradi va zarur darajada dalillarni xulosalab beradi; ko'rsatmalar og'zaki va odatda yozma ham beriladi (25.14(3)(a)–(b)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Criminal Procedure Rules 2025", "ref": "25.9(2)(j)-(k), 25.14(3)", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25" }]
+    },
+    "verdict": {
+      "summary": "Hay'at maslahatga chiqadi (25.14(3)(c)). Hay'at hukmni ochiq sudda e'lon qiladi; sud har bir modda bo'yicha hay'atning barcha a'zolari kelishganmi-yo'qmi (aybdor yoki aybsiz) so'raydi (25.14(6)). Hukm bir ovozdan bo'lishi shart emas: hay'atda 11 va undan ko'p hakam qolgan bo'lsa 10 tasi, 10 hakam qolgan bo'lsa 9 tasi rozi bo'lsa yetarli; ayblov hukmini ko'pchilik ovoz bilan qabul qilish uchun hay'atning raisi kelishgan va qarshi bo'lgan hakamlar sonini ochiq sudda aytishi va hakamlar kamida ikki soat maslahatlashgan bo'lishi kerak (Juries Act 1974 s.17). Hakamlarsiz sudda sud har bir modda bo'yicha hukm (oqlash yoki ayblash) sabablarini bayon qilishi shart (25.15(2)). Ayblov hukmidan keyin sud sudgacha ma'ruza (pre-sentence report), tibbiy xulosa kabilarni talab qilishi mumkin (25.16(2)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "25.14, 25.15, 25.16", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25" },
+        { "title": "Juries Act 1974", "ref": "s.17", "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17" }
+      ]
+    },
+    "appeal": {
+      "summary": "Magistrates' court hukmidan Crown Court'ga apellyatsiya beriladi (34-qism); bildirishnoma hukm yoki jazodan keyin 15 ish kuni ichida topshiriladi (34.2(2)). Huquqiy masala bo'yicha High Court'ga 'case stated' tartibida murojaat ham mumkin (35-qism sarlavhasi). Crown Court'da ayblov bo'yicha hukm qilingan shaxs Court of Appeal'ga hukmga shikoyat qilishi mumkin: faqat Court of Appeal ruxsati bilan yoki sud majlisi sudyasi hukmdan keyin 28 kun ichida 'ish apellyatsiya uchun yaroqli' degan sertifikat bersa (Criminal Appeal Act 1968 s.1(1)–(2)). Apellyatsiya bildirishnomasi hukm, jazo yoki qarordan keyin 28 kundan kechiktirmay Registrar'ga topshiriladi (39.2(1)(a)). Criminal Cases Review Commission ishni Court of Appeal'ga yuborishi mumkin (39.1(1)(b)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "34.2, 35-qism, 39.1, 39.2", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/39" },
+        { "title": "Criminal Appeal Act 1968", "ref": "s.1", "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/1" }
+      ]
+    },
+    "cassation": {
+      "summary": "Angliyada alohida kassatsiya yo'q; keyingi bosqich — Buyuk Britaniya Oliy sudi (UK Supreme Court). Court of Appeal qarori ustidan ayblanuvchi yoki prokuror Oliy sudga shikoyat qilishi mumkin, lekin faqat Court of Appeal yoki Oliy sud ruxsati bilan va faqat Court of Appeal 'umumiy jamoat ahamiyatiga ega huquq masalasi' bor deb tasdiqlaganda (Criminal Appeal Act 1968 s.33(1)–(2)). Tartib CrimPR 43-qismida (43.1).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Appeal Act 1968", "ref": "s.33", "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/33" },
+        { "title": "Criminal Procedure Rules 2025", "ref": "43.1", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/43" }
+      ]
+    }
+  }
+}
+,
+{
     "code":  "us",
     "updated":  "2026-10-01",
     "basis":  "AQSh federal jinoyat protsessi: Federal Rules of Criminal Procedure (FRCrP), Federal Rules of Appellate Procedure (FRAP), Federal Rules of Evidence (FRE), AQSh Konstitutsiyasining 5- va 6-tuzatishlari, 18 U.S.C. §3231, 28 U.S.C. §1291. Matnlar Cornell LII sahifalaridan (rasmiy matn nusxasi) olingan. Diqqat: bu faqat federal tizim, har bir shtatning o\u0027z jinoyat-protsessual qoidalari bor va ular farq qilishi mumkin. O\u0027zbekcha bayon bizning tarjimamiz.",
@@ -1518,7 +1678,7 @@ window.SCHOLARSHIP = {
                      {
                          "id":  "fjc-profiles",
                          "type":  "institutsional ma\u0027lumot (AQSh Federal Judicial Center)",
-                         "citation":  "Federal Judicial Center, Judiciaries Worldwide, davlat profillari: Germany, France, Turkey, Uzbekistan, United States.",
+                         "citation":  "Federal Judicial Center, Judiciaries Worldwide, davlat profillari: Germany, France, Turkey, Uzbekistan, United States, United Kingdom.",
                          "url":  "https://judiciariesworldwide.fjc.gov/",
                          "supports":  "Huquq tizimi turi, sudyalarni tayinlash va muddat, xalq ishtiroki. Ogohlantirish: Fransiya profili 9 hakam deydi, hozirgi CPP 296 birinchi instansiyada 6 hakamni belgilaydi (qonun ustun); Qozog\u0027iston profili mavjud emas.",
                          "countries":  [
@@ -1526,7 +1686,8 @@ window.SCHOLARSHIP = {
                                            "fr",
                                            "tr",
                                            "uz",
-                                           "us"
+                                           "us",
+                                           "uk"
                                        ]
                      },
                      {
@@ -1644,28 +1805,224 @@ window.SCHOLARSHIP = {
                       ]
 };
 window.GLOSSARY = {
-  "note": "Atamalar loyiha ichida ishlatilgan tarjimalarga mos keladi. Rasmiy o'zbekcha muqobili bo'lmagan atamalarda asl atama saqlangan. Huquqshunos tomonidan tasdiqlanishi kerak.",
-  "terms": [
-    { "uz": "Ayblov xulosasi / ayblov dalolatnomasi", "orig": { "uz": "ayblov xulosasi", "kz": "обвинительный акт", "tr": "iddianame", "de": "Anklageschrift", "fr": "ordonnance de renvoi / de mise en accusation", "us": "indictment / information" }, "note": "Ishni sudga yuboruvchi rasmiy ayblov hujjati. AQShda katta hay'at indictment, prokuror information beradi; Fransiyada tergov sudyasi qaror chiqaradi." },
-    { "uz": "Hakamlar hay'ati", "orig": { "kz": "присяжные заседатели", "fr": "jurés", "us": "jury" }, "note": "Fuqarolardan tuzilib, kasbiy sudyalardan alohida yoki ular bilan birga qaror chiqaradi. Qozog'istonda 1 sudya + 10 hakam birga qaror qiladi; AQShda jury aybdorlikni hal qiladi, jazoni sudya tayinlaydi." },
-    { "uz": "Xalq maslahatchisi / Schöffe", "orig": { "uz": "xalq maslahatchisi", "de": "Schöffe" }, "note": "Kasbiy sudya bilan teng huquqli ishtirok etuvchi saylangan fuqaro. Turkiyada bunday institut yo'q." },
-    { "uz": "Katta hay'at", "orig": { "us": "grand jury" }, "note": "AQShda 16–23 fuqarodan iborat, jinoyat ayblovi (indictment) uchun 12 ovoz kerak (FRCrP 6)." },
-    { "uz": "Dastlabki eshituv", "orig": { "uz": "dastlabki eshituv", "kz": "предварительное слушание", "de": "Zwischenverfahren", "us": "preliminary hearing" }, "note": "Turli tizimlarda turli vazifa bajaradi: O'zbekiston/Qozog'istonda ish sudga kelgach sudya o'tkazadigan tayyorgarlik, Germaniyada ayblov asosli yoki yo'qligini hal qiluvchi oraliq bosqich, AQShda magistrat sudya o'tkazadigan asos eshituvi." },
-    { "uz": "Sud tergovi", "orig": { "kz": "судебное следствие", "uz": "sud tergovi", "de": "Beweisaufnahme", "fr": "instruction à l'audience", "tr": "delillerin ortaya konulması" }, "note": "Majlisda dalillarni tekshirish bosqichi." },
-    { "uz": "Taraflar muzokarasi", "orig": { "uz": "taraflar muzokarasi", "kz": "судебные прения", "de": "Schlussvorträge", "tr": "delillerin tartışılması", "fr": "réquisitions / plaidoiries", "us": "closing arguments" }, "note": "Dalillar tekshirilgandan keyingi yakuniy nutqlar." },
-    { "uz": "Oxirgi so'z", "orig": { "uz": "oxirgi so'z", "kz": "последнее слово", "de": "das letzte Wort", "tr": "son söz", "fr": "la parole les derniers", "us": "allocution (jazo oldidan)" }, "note": "Sudlanuvchining hukm oldidan so'zi. AQShda aybdorlik hal bo'lgach, jazo tayinlashdan oldin beriladi." },
-    { "uz": "Hukm", "orig": { "uz": "hukm", "kz": "приговор", "de": "Urteil", "tr": "hüküm", "fr": "jugement / arrêt", "us": "verdict (jury) / judgment" }, "note": "AQShda 'verdict' hay'at xulosasi, 'judgment' sud hujjati; Fransiyada cour d'assises hukmi 'arrêt' deyiladi." },
-    { "uz": "Oqlov hukmi", "orig": { "uz": "oqlov hukmi", "kz": "оправдательный приговор", "de": "Freispruch", "tr": "beraat", "fr": "acquittement", "us": "acquittal" }, "note": "" },
-    { "uz": "Ayblov hukmi", "orig": { "uz": "ayblov hukmi", "kz": "обвинительный приговор", "de": "Verurteilung", "tr": "mahkûmiyet", "fr": "condamnation", "us": "conviction" }, "note": "" },
-    { "uz": "Apellyatsiya", "orig": { "uz": "apellyatsiya", "kz": "апелляция", "de": "Berufung", "tr": "istinaf", "fr": "appel", "us": "appeal" }, "note": "Fakt va huquq bo'yicha qayta ko'rish." },
-    { "uz": "Kassatsiya", "orig": { "uz": "kassatsiya", "kz": "кассация", "de": "Revision", "tr": "temyiz", "fr": "pourvoi en cassation" }, "note": "Asosan huquq masalalari bo'yicha tekshiruv. Turkiyada temyiz, Germaniyada Revision." },
-    { "uz": "Taftish", "orig": { "uz": "taftish" }, "note": "O'zbekiston JPK'da qonuniy kuchga kirgan hukmlarni qayta ko'rish shakli." },
-    { "uz": "Aybga iqrorlik kelishuvi", "orig": { "uz": "aybga iqrorlik to'g'risidagi kelishuv", "kz": "процессуальное соглашение (сделка о признании вины)", "de": "Verständigung", "tr": "seri muhakeme / uzlaşma", "fr": "CRPC", "us": "plea agreement" }, "note": "Har bir tizimda mazmuni va chegaralari farq qiladi; solishtirishda asosiy farq — kim tuzadi va sud roli." },
-    { "uz": "Ichki ishonch", "orig": { "fr": "intime conviction", "tr": "vicdanî kanaat", "de": "freie Beweiswürdigung" }, "note": "Dalillarni baholash tamoyili: qat'iy qoidalar o'rniga sudya yoki hakamning o'z ishonchi." },
-    { "uz": "Tergov sudyasi", "orig": { "fr": "juge d'instruction", "tr": "sulh ceza hâkimi", "kz": "следственный судья", "de": "Ermittlungsrichter" }, "note": "Tergov bosqichida protsessual majburlov choralarini nazorat qiluvchi sudya. Fransiyada tergovni ham o'zi olib boradi." },
-    { "uz": "Prokuror", "orig": { "tr": "Cumhuriyet savcısı", "de": "Staatsanwalt", "fr": "procureur de la République", "us": "prosecutor / attorney for the government" }, "note": "" },
-    { "uz": "Sud majlisi / asosiy sud muhokamasi", "orig": { "kz": "главное судебное разбирательство", "de": "Hauptverhandlung", "tr": "duruşma", "fr": "audience" }, "note": "" },
-    { "uz": "Nolo contendere", "orig": { "us": "nolo contendere" }, "note": "Aybni tan olmay, ayblovga e'tiroz bildirmaslik; sud roziligi bilan (FRCrP 11(a))." }
-  ]
-}
-;
+    "note":  "Atamalar loyiha ichida ishlatilgan tarjimalarga mos keladi. Rasmiy o\u0027zbekcha muqobili bo\u0027lmagan atamalarda asl atama saqlangan. Huquqshunos tomonidan tasdiqlanishi kerak.",
+    "terms":  [
+                  {
+                      "uz":  "Ayblov xulosasi / ayblov dalolatnomasi",
+                      "orig":  {
+                                   "uz":  "ayblov xulosasi",
+                                   "kz":  "обвинительный акт",
+                                   "tr":  "iddianame",
+                                   "de":  "Anklageschrift",
+                                   "fr":  "ordonnance de renvoi / de mise en accusation",
+                                   "us":  "indictment / information",
+                                   "uk":  "indictment"
+                               },
+                      "note":  "Ishni sudga yuboruvchi rasmiy ayblov hujjati. AQShda katta hay\u0027at indictment, prokuror information beradi; Fransiyada tergov sudyasi qaror chiqaradi."
+                  },
+                  {
+                      "uz":  "Hakamlar hay\u0027ati",
+                      "orig":  {
+                                   "kz":  "присяжные заседатели",
+                                   "fr":  "jurés",
+                                   "us":  "jury",
+                                   "uk":  "jury"
+                               },
+                      "note":  "Fuqarolardan tuzilib, kasbiy sudyalardan alohida yoki ular bilan birga qaror chiqaradi. Qozog\u0027istonda 1 sudya + 10 hakam birga qaror qiladi; AQShda jury aybdorlikni hal qiladi, jazoni sudya tayinlaydi."
+                  },
+                  {
+                      "uz":  "Xalq maslahatchisi / Schöffe",
+                      "orig":  {
+                                   "uz":  "xalq maslahatchisi",
+                                   "de":  "Schöffe",
+                                   "uk":  "lay justice (magistrates\u0027 court)"
+                               },
+                      "note":  "Kasbiy sudya bilan teng huquqli ishtirok etuvchi saylangan fuqaro. Turkiyada bunday institut yo\u0027q."
+                  },
+                  {
+                      "uz":  "Katta hay\u0027at",
+                      "orig":  {
+                                   "us":  "grand jury"
+                               },
+                      "note":  "AQShda 16–23 fuqarodan iborat, jinoyat ayblovi (indictment) uchun 12 ovoz kerak (FRCrP 6)."
+                  },
+                  {
+                      "uz":  "Dastlabki eshituv",
+                      "orig":  {
+                                   "uz":  "dastlabki eshituv",
+                                   "kz":  "предварительное слушание",
+                                   "de":  "Zwischenverfahren",
+                                   "us":  "preliminary hearing"
+                               },
+                      "note":  "Turli tizimlarda turli vazifa bajaradi: O\u0027zbekiston/Qozog\u0027istonda ish sudga kelgach sudya o\u0027tkazadigan tayyorgarlik, Germaniyada ayblov asosli yoki yo\u0027qligini hal qiluvchi oraliq bosqich, AQShda magistrat sudya o\u0027tkazadigan asos eshituvi."
+                  },
+                  {
+                      "uz":  "Sud tergovi",
+                      "orig":  {
+                                   "kz":  "судебное следствие",
+                                   "uz":  "sud tergovi",
+                                   "de":  "Beweisaufnahme",
+                                   "fr":  "instruction à l\u0027audience",
+                                   "tr":  "delillerin ortaya konulması"
+                               },
+                      "note":  "Majlisda dalillarni tekshirish bosqichi."
+                  },
+                  {
+                      "uz":  "Taraflar muzokarasi",
+                      "orig":  {
+                                   "uz":  "taraflar muzokarasi",
+                                   "kz":  "судебные прения",
+                                   "de":  "Schlussvorträge",
+                                   "tr":  "delillerin tartışılması",
+                                   "fr":  "réquisitions / plaidoiries",
+                                   "us":  "closing arguments",
+                                   "uk":  "final representations / closing speeches"
+                               },
+                      "note":  "Dalillar tekshirilgandan keyingi yakuniy nutqlar."
+                  },
+                  {
+                      "uz":  "Oxirgi so\u0027z",
+                      "orig":  {
+                                   "uz":  "oxirgi so\u0027z",
+                                   "kz":  "последнее слово",
+                                   "de":  "das letzte Wort",
+                                   "tr":  "son söz",
+                                   "fr":  "la parole les derniers",
+                                   "us":  "allocution (jazo oldidan)",
+                                   "uk":  "(yakuniy nutqni himoya oxirida so\u0027zlaydi, CrimPR 25.9)"
+                               },
+                      "note":  "Sudlanuvchining hukm oldidan so\u0027zi. AQShda aybdorlik hal bo\u0027lgach, jazo tayinlashdan oldin beriladi."
+                  },
+                  {
+                      "uz":  "Hukm",
+                      "orig":  {
+                                   "uz":  "hukm",
+                                   "kz":  "приговор",
+                                   "de":  "Urteil",
+                                   "tr":  "hüküm",
+                                   "fr":  "jugement / arrêt",
+                                   "us":  "verdict (jury) / judgment",
+                                   "uk":  "verdict (jury) / sentence"
+                               },
+                      "note":  "AQShda \u0027verdict\u0027 hay\u0027at xulosasi, \u0027judgment\u0027 sud hujjati; Fransiyada cour d\u0027assises hukmi \u0027arrêt\u0027 deyiladi."
+                  },
+                  {
+                      "uz":  "Oqlov hukmi",
+                      "orig":  {
+                                   "uz":  "oqlov hukmi",
+                                   "kz":  "оправдательный приговор",
+                                   "de":  "Freispruch",
+                                   "tr":  "beraat",
+                                   "fr":  "acquittement",
+                                   "us":  "acquittal",
+                                   "uk":  "acquittal"
+                               },
+                      "note":  ""
+                  },
+                  {
+                      "uz":  "Ayblov hukmi",
+                      "orig":  {
+                                   "uz":  "ayblov hukmi",
+                                   "kz":  "обвинительный приговор",
+                                   "de":  "Verurteilung",
+                                   "tr":  "mahkûmiyet",
+                                   "fr":  "condamnation",
+                                   "us":  "conviction",
+                                   "uk":  "conviction"
+                               },
+                      "note":  ""
+                  },
+                  {
+                      "uz":  "Apellyatsiya",
+                      "orig":  {
+                                   "uz":  "apellyatsiya",
+                                   "kz":  "апелляция",
+                                   "de":  "Berufung",
+                                   "tr":  "istinaf",
+                                   "fr":  "appel",
+                                   "us":  "appeal",
+                                   "uk":  "appeal (Crown Court / Court of Appeal)"
+                               },
+                      "note":  "Fakt va huquq bo\u0027yicha qayta ko\u0027rish."
+                  },
+                  {
+                      "uz":  "Kassatsiya",
+                      "orig":  {
+                                   "uz":  "kassatsiya",
+                                   "kz":  "кассация",
+                                   "de":  "Revision",
+                                   "tr":  "temyiz",
+                                   "fr":  "pourvoi en cassation"
+                               },
+                      "note":  "Asosan huquq masalalari bo\u0027yicha tekshiruv. Turkiyada temyiz, Germaniyada Revision."
+                  },
+                  {
+                      "uz":  "Taftish",
+                      "orig":  {
+                                   "uz":  "taftish"
+                               },
+                      "note":  "O\u0027zbekiston JPK\u0027da qonuniy kuchga kirgan hukmlarni qayta ko\u0027rish shakli."
+                  },
+                  {
+                      "uz":  "Aybga iqrorlik kelishuvi",
+                      "orig":  {
+                                   "uz":  "aybga iqrorlik to\u0027g\u0027risidagi kelishuv",
+                                   "kz":  "процессуальное соглашение (сделка о признании вины)",
+                                   "de":  "Verständigung",
+                                   "tr":  "seri muhakeme / uzlaşma",
+                                   "fr":  "CRPC",
+                                   "us":  "plea agreement",
+                                   "uk":  "guilty plea with credit (qonunda plea bargaining ko\u0027rilmagan)"
+                               },
+                      "note":  "Har bir tizimda mazmuni va chegaralari farq qiladi; solishtirishda asosiy farq — kim tuzadi va sud roli."
+                  },
+                  {
+                      "uz":  "Ichki ishonch",
+                      "orig":  {
+                                   "fr":  "intime conviction",
+                                   "tr":  "vicdanî kanaat",
+                                   "de":  "freie Beweiswürdigung"
+                               },
+                      "note":  "Dalillarni baholash tamoyili: qat\u0027iy qoidalar o\u0027rniga sudya yoki hakamning o\u0027z ishonchi."
+                  },
+                  {
+                      "uz":  "Tergov sudyasi",
+                      "orig":  {
+                                   "fr":  "juge d\u0027instruction",
+                                   "tr":  "sulh ceza hâkimi",
+                                   "kz":  "следственный судья",
+                                   "de":  "Ermittlungsrichter"
+                               },
+                      "note":  "Tergov bosqichida protsessual majburlov choralarini nazorat qiluvchi sudya. Fransiyada tergovni ham o\u0027zi olib boradi."
+                  },
+                  {
+                      "uz":  "Prokuror",
+                      "orig":  {
+                                   "tr":  "Cumhuriyet savcısı",
+                                   "de":  "Staatsanwalt",
+                                   "fr":  "procureur de la République",
+                                   "us":  "prosecutor / attorney for the government",
+                                   "uk":  "prosecutor"
+                               },
+                      "note":  ""
+                  },
+                  {
+                      "uz":  "Sud majlisi / asosiy sud muhokamasi",
+                      "orig":  {
+                                   "kz":  "главное судебное разбирательство",
+                                   "de":  "Hauptverhandlung",
+                                   "tr":  "duruşma",
+                                   "fr":  "audience",
+                                   "uk":  "trial"
+                               },
+                      "note":  ""
+                  },
+                  {
+                      "uz":  "Nolo contendere",
+                      "orig":  {
+                                   "us":  "nolo contendere"
+                               },
+                      "note":  "Aybni tan olmay, ayblovga e\u0027tiroz bildirmaslik; sud roziligi bilan (FRCrP 11(a))."
+                  }
+              ]
+};

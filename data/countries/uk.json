@@ -1,0 +1,77 @@
+{
+  "code": "uk",
+  "name": "Buyuk Britaniya (Angliya va Uels)",
+  "updated": "2026-10-01",
+  "criteria": {
+    "legal_family": {
+      "summary": "Umumiy huquq (common law) tizimi: sud pretsedentlariga rioya qilish uning belgilovchi xususiyati, Angliya sudlari amaliyotidan kelib chiqqan. Shotlandiyada aralash (fuqarolik va umumiy huquq), Shimoliy Irlandiya tuzilishi Angliya va Uelsga yaqin (FJC). Bu sahifa faqat Angliya va Uels uchun.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "FJC, Judiciaries Worldwide: United Kingdom", "ref": "country profile (institutsional ma'lumot)", "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-kingdom", "retrieved": "2026-10-01" }]
+    },
+    "structure": {
+      "summary": "Jinoyat ishlarida birinchi instansiya — magistrates' court (yengil va o'rta og'irlikdagi ishlar) va Crown Court (og'ir ishlar, hakamlar hay'ati bilan); apellyatsiya Crown Court (magistrates' court hukmlaridan) va Court of Appeal (Crown Court hukmlaridan); eng yuqori instansiya — Buyuk Britaniya Oliy sudi (CrimPR 34, 39, 43-qismlar; Criminal Appeal Act 1968 s.33). Boshqa darajalar: High Court, county court, tribunallar (FJC). Magistrates' courts jinoyat ishlarining taxminan 95% ini dastlab ko'radi (FJC).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "25.1 izoh, 34, 39, 43-qismlar", "url": "https://www.legislation.gov.uk/uksi/2025/909/contents", "retrieved": "2026-10-01" },
+        { "title": "FJC, Judiciaries Worldwide: United Kingdom", "ref": "court structure", "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-kingdom", "retrieved": "2026-10-01" }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Buyuk Britaniyada Parlament qonunini konstitutsiyaga zid deb bekor qiladigan sud yo'q. Human Rights Act 1998 s.4 bo'yicha Oliy sud, High Court yoki Court of Appeal (Angliya va Uelsda) qonun Yevropa inson huquqlari konventsiyasidagi huquqqa mos kelmasligi haqida 'nomuvofiqlik deklaratsiyasi' (declaration of incompatibility) chiqara oladi, lekin u qonunning kuchiga, amal qilishiga ta'sir qilmaydi va tomonlar uchun majburiy emas (s.4(2), (5), (6)).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Human Rights Act 1998", "ref": "s.4", "url": "https://www.legislation.gov.uk/ukpga/1998/42/section/4", "retrieved": "2026-10-01" }]
+    },
+    "judge_appointment": {
+      "summary": "Angliya va Uels sudyalarini Sudyalar tayinlash komissiyasi (Judicial Appointments Commission, JAC) ochiq tanlov orqali tanlaydi: tanlov faqat qobiliyat (merit) bo'yicha va yaxshi xarakter sharti bilan; teng qobiliyatli nomzodlar orasida xilma-xillikni oshirish uchun biriga ustunlik berilishi mumkin (Constitutional Reform Act 2005 ss.61, 63). Komissiya raisi sudya bo'lmagan shaxs bo'ladi va sudyalar uning a'zolari ko'pchiligini tashkil etmaydi (FJC). Oliy sud uchun alohida tanlov komissiyasi Adliya vaziri (Lord Chancellor) tomonidan chaqiriladi (FJC).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Constitutional Reform Act 2005", "ref": "ss.61, 63", "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/63", "retrieved": "2026-10-01" },
+        { "title": "FJC, Judiciaries Worldwide: United Kingdom", "ref": "appointments", "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-kingdom", "retrieved": "2026-10-01" }
+      ]
+    },
+    "judge_term": {
+      "summary": "Ro'yxatdagi sudya lavozimlari egalari 75 yoshga to'lgan kuni (yoki lavozim bo'yicha belgilangan quyi yoshda) lavozimni bo'shatadi (Judicial Pensions and Retirement Act 1993 s.26(1)). FJC bo'yicha bu yosh 2021 yilda 70 dan 75 gacha oshirilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Judicial Pensions and Retirement Act 1993", "ref": "s.26(1)", "url": "https://www.legislation.gov.uk/ukpga/1993/8/section/26", "retrieved": "2026-10-01" },
+        { "title": "FJC, Judiciaries Worldwide: United Kingdom", "ref": "retirement age", "url": "https://judiciariesworldwide.fjc.gov/country-profile/united-kingdom", "retrieved": "2026-10-01" }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Adliya vaziri (Lord Chancellor), boshqa vazirlar va adliya ma'muriyatiga javobgar barcha shaxslar sudyalarning mustaqilligini ta'minlashi shart; vazirlar sudyalarga maxsus kirish orqali muayyan sud qarorlariga ta'sir o'tkazishga urinmasligi kerak; adliya vaziri mustaqillikni himoya qilish va sudyalar o'z vazifalarini bajarishi uchun zarur yordam ko'rsatilishiga e'tibor berishi lozim (Constitutional Reform Act 2005 s.3).",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Constitutional Reform Act 2005", "ref": "s.3", "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3", "retrieved": "2026-10-01" }]
+    },
+    "judicial_council": {
+      "summary": "Sudyalarni tanlovchi organ — Judicial Appointments Commission (alohida yuridik shaxs, Constitutional Reform Act 2005 s.61, Schedule 12). Sudyalarning o'zini o'zi boshqarish organlari (masalan, Judicial Executive Board) bu tahlilda manbadan o'qilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [{ "title": "Constitutional Reform Act 2005", "ref": "s.61", "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/61", "retrieved": "2026-10-01" }]
+    },
+    "public_participation": {
+      "summary": "Ikki yo'l: (1) Crown Court'da og'ir ishlar bo'yicha hakamlar hay'ati (jury): kamida 12 hakam, tasodifiy tanlanadi; ko'pchilik ovoz bilan hukm mumkin (10 ga 2 yoki 9 ga 1) (CrimPR 25.6; Juries Act 1974 ss.1, 17). (2) Magistrates' court'da ko'pchilik ishlarni kamida ikki mirovoy sudya (lay justices) ko'radi (Magistrates' Courts Act 1980 s.121(1); FJC: jinoyat ishlarining taxminan 95% ini dastlab magistrates' courts ko'radi).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "25.6", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25", "retrieved": "2026-10-01" },
+        { "title": "Juries Act 1974", "ref": "ss.1, 17", "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17", "retrieved": "2026-10-01" },
+        { "title": "Magistrates' Courts Act 1980", "ref": "s.121", "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121", "retrieved": "2026-10-01" }
+      ]
+    },
+    "openness_language": {
+      "summary": "Jinoyat sud majlisi, qoida bo'yicha, ochiq o'tadi; sud hisobot berish va kirishni cheklashi yoki yopiq majlis o'tkazishi mumkin (CrimPR 25.2(1)(a), 24.2(1)). Magistrates' court ayrim ishlarni ochiq sudda ko'rishi shart (Magistrates' Courts Act 1980 s.121(4)). Sudda sudya, hakam, guvoh yoki ishda ishtirok etuvchi tomonning fotosurati yoki portretini olish va nashr etish taqiqlanadi (Criminal Justice Act 1925 s.41). Uelsdagi sud jarayonlarida har bir tomon, guvoh yoki boshqa shaxs uels tilida so'zlash huquqiga ega, zarur bo'lsa tarjima ta'minlanadi (Welsh Language Act 1993 s.22).",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Criminal Procedure Rules 2025", "ref": "24.2, 25.2", "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25", "retrieved": "2026-10-01" },
+        { "title": "Criminal Justice Act 1925", "ref": "s.41", "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41", "retrieved": "2026-10-01" },
+        { "title": "Welsh Language Act 1993", "ref": "s.22", "url": "https://www.legislation.gov.uk/ukpga/1993/38/section/22", "retrieved": "2026-10-01" }
+      ]
+    },
+    "financing": {
+      "summary": "Adliya vaziri (Lord Chancellor) Oliy sud (Senior Courts), county court, oila sudi va magistrates' courts faoliyatini qo'llab-quvvatlaydigan samarali tizim va xizmatlarni ta'minlashga majbur (Courts Act 2003 s.1(1)). Adliya vaziri sudyalar o'z vazifalarini bajarishi uchun zarur qo'llab-quvvatlashni hisobga olishi shart (Constitutional Reform Act 2005 s.3(6)(b)). Byudjet miqdori bu tahlilda manbadan o'qilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        { "title": "Courts Act 2003", "ref": "s.1", "url": "https://www.legislation.gov.uk/ukpga/2003/39/section/1", "retrieved": "2026-10-01" },
+        { "title": "Constitutional Reform Act 2005", "ref": "s.3(6)", "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3", "retrieved": "2026-10-01" }
+      ]
+    }
+  }
+}

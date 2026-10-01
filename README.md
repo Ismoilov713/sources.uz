@@ -1,6 +1,6 @@
-﻿# Sud tizimlari va jinoyat protsessi solishtiruvi
+# Sud tizimlari va jinoyat protsessi solishtiruvi
 
-O'zbekiston va xorijiy davlatlar (Qozog'iston, Turkiya, Germaniya, Fransiya, AQSh) jinoyat ishlari bo'yicha sud jarayonini bosqichma-bosqich solishtiruvchi statik veb-sayt. Talabalar va huquqshunoslar uchun.
+O'zbekiston va xorijiy davlatlar (Qozog'iston, Turkiya, Germaniya, Fransiya, AQSh, Buyuk Britaniya: Angliya va Uels) jinoyat ishlari bo'yicha sud jarayonini bosqichma-bosqich solishtiruvchi statik veb-sayt. Talabalar va huquqshunoslar uchun.
 
 ## Nima bor
 - **Jinoyat ishi bo'yicha sud jarayoni:** 12 bosqich (sudga tayyorlash, sud tarkibi, ishtirok, majlis, ayblov va aybga munosabat, ayblovni o'zgartirish, sud tergovi, kelishuv, muzokara va oxirgi so'z, hukm, apellyatsiya, kassatsiya).
@@ -20,7 +20,7 @@ powershell -ExecutionPolicy Bypass -File build.ps1
 ```
 
 ## Manbalar va sifat
-- Jarayon bayonlari asosiy qonun matnlaridan olingan: O'zbekiston (lex.uz), Qozog'iston (adilet.zan.kz), Turkiya (mevzuat.gov.tr), Germaniya (gesetze-im-internet.de), Fransiya (Légifrance ochiq ma'lumotlari), AQSh (Cornell LII nusxalari).
+- Jarayon bayonlari asosiy qonun matnlaridan olingan: O'zbekiston (lex.uz), Qozog'iston (adilet.zan.kz), Turkiya (mevzuat.gov.tr), Germaniya (gesetze-im-internet.de), Fransiya (Légifrance ochiq ma'lumotlari), AQSh (Cornell LII nusxalari), Buyuk Britaniya (legislation.gov.uk).
 - Qonun matnlarining yuklangan nusxalari katta hajmli va uchinchi tomon saytlaridan olingani uchun repoga kiritilmagan (`sources/` papkasi `.gitignore` da). Har bir qatorda asosiy manba havolasi bor.
 - O'zbekcha bayon bu loyiha doirasidagi tarjima. Rasmiy tarjima emas, huquqiy maslahat emas. Tekshiruv tartibi: `TARJIMA_TEKSHIRUV.md`.
 - Ilmiy manbalar: `data/scholarship.json` (faqat mazmuni tekshirilganlari asosiy ro'yxatda).

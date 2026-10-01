@@ -118,6 +118,25 @@ Fayl: data/procedure/us.json. Asosiy manba: https://www.law.cornell.edu/rules/fr
 | Apellyatsiya | Rule 4(b)(1) | tasdiqlangan | [ ] |
 | Kassatsiya / taftish | §2 | tasdiqlangan | [ ] |
 
+## Buyuk Britaniya, Angliya va Uels (ingliz -> o'zbek)
+
+Fayl: data/procedure/uk.json. Asosiy manba: https://www.legislation.gov.uk/uksi/2025/909/contents
+
+| Bosqich | Moddalar | Holat | Tekshirildi |
+|---|---|---|---|
+| Ishni sudga tayyorlash | 3.21, 9.1, 10-qism, 25.1 (izoh) | tasdiqlangan | [ ] |
+| Sud tarkibi | 25.6, 25.15 (izoh); s.1; s.121(1); ss.44, 46 | tasdiqlangan | [ ] |
+| Sudlanuvchining ishtiroki | 24.8, 25.2(1) | tasdiqlangan | [ ] |
+| Majlisni ochish | 25.2, 25.6, 25.9(2)(a) | tasdiqlangan | [ ] |
+| Ayblovni e'lon qilish va aybga munosabat | 3.32, 25.4, 25.5, 25.9(1) | tasdiqlangan | [ ] |
+| Muhokama doirasi, ayblovni o'zgartirish | 25.2(2),(4), 25.9(2)(e), (3) | tasdiqlangan | [ ] |
+| Sud tergovi | 25.9(2); 18–23-qismlar | tasdiqlangan | [ ] |
+| Kelishuv tartibi | 3.21(2)(a), 11-qism, 24.8 | tasdiqlangan | [ ] |
+| Muzokara va oxirgi so'z | 25.9(2)(j)-(k), 25.14(3) | tasdiqlangan | [ ] |
+| Hukm | 25.14, 25.15, 25.16; s.17 | tasdiqlangan | [ ] |
+| Apellyatsiya | 34.2, 35-qism, 39.1, 39.2; s.1 | tasdiqlangan | [ ] |
+| Kassatsiya / taftish | s.33; 43.1 | tasdiqlangan | [ ] |
+
 ## Umumiy mezonlar
 
 data/countries/*.json fayllaridagi 'criteria' qismi ham xuddi shu tartibda tekshiriladi. 'tekshirilmagan' holatidagi qatorlar kutilayotgan manba haqida ochiq yozilgan, ularni tekshirish shart emas, to'ldirilgach tekshiriladi.

@@ -20,7 +20,7 @@
                      {
                          "id":  "fjc-profiles",
                          "type":  "institutsional ma\u0027lumot (AQSh Federal Judicial Center)",
-                         "citation":  "Federal Judicial Center, Judiciaries Worldwide, davlat profillari: Germany, France, Turkey, Uzbekistan, United States.",
+                         "citation":  "Federal Judicial Center, Judiciaries Worldwide, davlat profillari: Germany, France, Turkey, Uzbekistan, United States, United Kingdom.",
                          "url":  "https://judiciariesworldwide.fjc.gov/",
                          "supports":  "Huquq tizimi turi, sudyalarni tayinlash va muddat, xalq ishtiroki. Ogohlantirish: Fransiya profili 9 hakam deydi, hozirgi CPP 296 birinchi instansiyada 6 hakamni belgilaydi (qonun ustun); Qozog\u0027iston profili mavjud emas.",
                          "countries":  [
@@ -28,7 +28,8 @@
                                            "fr",
                                            "tr",
                                            "uz",
-                                           "us"
+                                           "us",
+                                           "uk"
                                        ]
                      },
                      {

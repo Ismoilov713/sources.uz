@@ -85,7 +85,7 @@ function renderScholarship() {
 
 function renderGlossary() {
   const g = window.GLOSSARY || { terms: [] };
-  const names = { uz: "O'zbekiston", kz: "Qozog'iston", tr: "Turkiya", de: "Germaniya", fr: "Fransiya", us: "AQSh" };
+  const names = { uz: "O'zbekiston", kz: "Qozog'iston", tr: "Turkiya", de: "Germaniya", fr: "Fransiya", us: "AQSh", uk: "Buyuk Britaniya" };
   return `<p class="note">${esc(g.note)}</p>` + g.terms.map(t => `<div class="row"><h3>${esc(t.uz)}</h3><div class="cell">` +
     `<p>${Object.entries(t.orig).map(([k, v]) => `<b>${esc(names[k] || k)}:</b> ${esc(v)}`).join("<br>")}</p>` +
     (t.note ? `<p class="src">${esc(t.note)}</p>` : "") + `</div></div>`).join("");
