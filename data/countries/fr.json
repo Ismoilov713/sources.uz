@@ -136,12 +136,18 @@
                                                            ]
                                            },
                      "financing":  {
-                                       "summary":  "Adliya vazirligi sudlarning ma\u0027muriy boshqaruvini, xodimlari, binolari va resurslarini boshqaradi (FJC). Byudjet manbalari haqida aniq manba kutilmoqda.",
-                                       "status":  "tekshirilmagan",
+                                       "summary":  "Sudlarni moliyalashtirish davlat byudjetidan, har yili moliya qonuni (loi de finances) bilan, \"Adliya\" (Justice) missiyasi doirasida amalga oshiriladi; Adliya vazirligi sudlar xodimlari, binolari va resurslarini boshqaradi (FJC). Sud tizimi uchun asosiy dastur — 166-dastur \"Sud adliyasi\" (Justice judiciaire). Senat moliya komissiyasi hisobotiga ko\u0027ra, 2026 yil moliya qonuni loyihasida (PLF 2026) \"Adliya\" missiyasi 12,7 mlrd evro majburiyat ruxsatnomalari va 13,1 mlrd evro to\u0027lov kreditlarini tashkil etadi; shundan 166-dastur taxminan 4 764 mln evro to\u0027lov krediti (2025 yilga nisbatan +2,6%), 166-dastur va 107-dastur (penitensiar boshqaruv) birga missiya kreditlarining 79,0% ini egallaydi. Sudyalar oliy kengashi (CSM) ham shu missiya doirasida alohida dastur sifatida moliyalashtiriladi (taxminan 6,5 mln evro). Byudjet 2023–2027 yillarga mo\u0027ljallangan Adliya vazirligining yo\u0027nalish va dasturlash qonuni (2023 yil 20 noyabrdagi 2023-1059-son qonun) bilan belgilangan traektoriyaga yaqin; 2023–2027 yillarda 1 500 qo\u0027shimcha sudya (magistrat) va 1 800 kotib ko\u0027zda tutilgan. Diqqat: raqamlar yakuniy qabul qilingan qonun emas, 2026 yil loyihasi (PLF) bo\u0027yicha Senat hisobotidan olingan.",
+                                       "status":  "tasdiqlangan",
                                        "sources":  [
                                                        {
+                                                           "title":  "Senat: \u0027L\u0027essentiel sur le PLF 2026, mission Justice\u0027 (rapporteur spécial A. Lefèvre)",
+                                                           "ref":  "mission Justice jadvali, 166-dastur, loi 2023-1059",
+                                                           "url":  "https://www.senat.fr/rap/l25-139-317/l25-139-317-syn.pdf",
+                                                           "retrieved":  "2026-10-01"
+                                                       },
+                                                       {
                                                            "title":  "FJC, Judiciaries Worldwide: France",
-                                                           "ref":  "",
+                                                           "ref":  "Adliya vazirligining ma\u0027muriy roli",
                                                            "url":  "https://judiciariesworldwide.fjc.gov/country-profile/france",
                                                            "retrieved":  "2026-10-01"
                                                        }
