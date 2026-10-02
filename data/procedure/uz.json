@@ -290,6 +290,183 @@
           ]
         }
       ]
+    },
+    "composition_stability": {
+      "summary": "Har bir jinoyat ishi bir tarkibdagi sud yoki bir sudya tomonidan ko'rib chiqilishi lozim (406-modda). Muhokama uzoq vaqt talab qilsa, ishda zaxiradagi xalq maslahatchisi qatnashishi mumkin: u muhokama boshlanganidan majlis zalida hozir bo'ladi va sudyaning huquqlaridan foydalanadi, lekin sud maslahatlashuvlarida va ish bo'yicha qaror chiqarishda qatnashish huquqi bundan mustasno. Xalq maslahatchisi sud tarkibidan chiqib ketsa, zaxiradagi maslahatchi uning o'rnini egallaydi va muhokama davom etadi (407-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "406, 407-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "original": "Har bir jinoyat ishi bir tarkibdagi sud yoki bir sudya tomonidan koʻrib chiqilishi lozim. (406-modda)",
+          "links": [
+            {
+              "label": "406-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256257"
+            },
+            {
+              "label": "407-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256259"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Sud majlisida shu sudning raisi, uning o'rinbosari yoki sudya raislik qiladi. Raislik qiluvchi majlisga rahbarlik qiladi, ishning barcha holatlarini sinchkovlik bilan, har tomonlama, to'la va xolisona tekshirish hamda haqiqatni aniqlash uchun Kodeksda nazarda tutilgan hamma choralarni ko'radi, ishga aloqasi bo'lmagan holatlarni muhokamaga kiritmaydi. U zalda tartibga rioya qilinishini ta'minlaydi, uning farmoyishlari taraflar va barcha hozir bo'lganlar uchun majburiy. Raislik qiluvchining harakatlariga e'tiroz bildirilsa, e'tirozlar majlis bayonnomasiga yozib qo'yiladi (408-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "408-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "408-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256262"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuror birinchi instansiya sudlarida davlat ayblovini quvvatlaydi: dalillarni tekshirishda ishtirok etadi, sudlanuvchi, jabrlanuvchi, guvoh va ekspertlarga savol beradi, Jinoyat kodeksi normalarini qo'llash, harakatlarni tavsiflash va jazo turi hamda me'yori haqida o'z fikrini bildiradi; jinoyat sabablari va uni bartaraf etish choralari xususida ham fikr bildiradi. U Kodeks talablari va ishning barcha holatlarini ko'rib chiqishga asoslangan o'z ishonchiga amal qiladi. Sud tergovi ma'lumotlari asosida ayblovni o'zgartirish zarur bo'lsa, asoslantirilgan bayonot berishi shart. Muhokama natijasida sudlanuvchining aybsizligiga ishonch hosil qilsa, ayblovdan voz kechishi va sabablarini sudga bayon qilishi shart; bu sudning ishni reabilitatsiya asoslari bo'yicha tugatishiga sabab bo'ladi. Fikrini sudga yozma ravishda taqdim etishi shart. Zarur bo'lsa, fuqaroviy da'vo qo'zg'atadi yoki jabrlanuvchi da'vosini quvvatlaydi. Prokuror apellyatsiya, kassatsiya va taftish instansiyalarida ham ishtirok etadi (409-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "409-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "409-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256270"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Jabrlanuvchi kelmasa, sud uning ishtirokisiz barcha holatlarni to'la aniqlash va huquqlarini himoya qilish mumkinligiga qarab muhokamani davom ettirish yoki keyinga qoldirishni hal qiladi; uzrsiz kelmasa majburiy keltirish haqida ajrim chiqaradi (411-modda). Prokuror kelmasa, muhokama keyinga qoldiriladi; himoyachi kelmasa, uni boshqasi bilan almashtirish faqat sudlanuvchi roziligi bilan mumkin, imkon bo'lmasa muhokama qoldiriladi; jamoat ayblovchisi yoki jamoat himoyachisi kelmasa, sud ularsiz ko'rish yoki qoldirishni hal etadi; ishga yangi kirgan prokuror yoki himoyachiga tayyorgarlik uchun vaqt beriladi; uzrsiz kelmaslik haqida yuqori prokurorga yoki Advokatlar palatasi huzuridagi malaka komissiyasiga xabar qilinadi (412-modda). Fuqaroviy da'vogar kelmasa, sud da'voni ko'rmaydi (u fuqarolik tartibida da'vo qilish huquqini saqlaydi), faqat da'vogar iltimosi bilan ishtirokisiz ko'rish yoki prokuror da'voni quvvatlasa yoki sud zarur topsa ko'rish mumkin; fuqaroviy javobgarning kelmasligi da'voni ko'rishni to'xtatmaydi (413-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "411, 412, 413-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "411-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256285"
+            },
+            {
+              "label": "412-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256289"
+            },
+            {
+              "label": "413-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256298"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Sud majlisiga chaqirilganlardan biri kelmagani, yangi dalillar talab qilish zarurligi yoki majlis texnik vositalari (jumladan videokonferensaloqa) nosozligi sababli muhokama mumkin bo'lmasa, sud uni keyinga qoldiradi va kelmagan shaxslarni chaqirish, yangi dalillarni talab qilish yoki nosozlikni bartaraf etish choralarini ko'radi (418-modda). Sudlanuvchi yashiringan, ruhiy holati buzilgan yoki og'ir kasallikka chalingan bo'lsa, sud shu sudlanuvchiga nisbatan ishni to'xtatib, boshqalarga nisbatan muhokamani davom ettiradi; 416 va 417-moddalar bo'yicha prokurorga qo'shimcha harakatlar topshirilsa yoki alohida ko'rish haqiqatni aniqlashni qiyinlashtirsa, ish yuritish butunlay to'xtatiladi; yashiringan sudlanuvchini qidirish sud ajrimi bilan e'lon qilinadi (420-modda). To'xtatish asoslari bartaraf etilgach, ish qaytadan boshlanadi va muhokama muddati ham qaytadan hisoblanadi (420¹-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "418, 420, 420¹-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "418-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256335"
+            },
+            {
+              "label": "420-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256347"
+            },
+            {
+              "label": "420¹-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-260434"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Muhokama vaqtida sud sudlanuvchiga nisbatan ehtiyot chorasini qo'llashga, o'zgartirishga yoki bekor qilishga haqli (422-modda). Muhokamada hal qilinadigan barcha masalalar bo'yicha sud ajrim chiqaradi. Ehtiyot choralari, lavozimdan chetlatish, tibbiy muassasaga joylashtirish, eksgumatsiya, xatlash, tintuv, suhbatlarni eshitib turish, mol-mulkni xatlash, rad qilish va xususiy ajrimlar alohida xonada (maslahatxonada) alohida hujjat tarzida chiqarilib, sud tomonidan imzolanadi; yopiq majlis o'tkazish haqidagi ajrim ham chiqariladi; boshqa ajrimlar sudning xohishiga ko'ra yo shu tartibda yoki o'z joyida chiqarilib, bayonnomaga yoziladi. Har bir ajrim darhol e'lon qilinadi (423-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "422, 423-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "422-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256353"
+            },
+            {
+              "label": "423-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256356"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Sudyalar kirib kelganda zaldagilarning hammasi o'rnidan turadi; protsess ishtirokchilari sudga tik turgan holda murojaat qiladi, ko'rsatuv beradi, bayonot qiladi (faqat raislik qiluvchi ruxsati bilan istisno); hamma raislik qiluvchining farmoyishlariga so'zsiz bo'ysunishi lozim; sudlanuvchi, jabrlanuvchi, guvoh bo'lmagan 16 yoshga to'lmaganlar zalga kiritilmaydi (424-modda). Tartibni buzgan, farmoyishga bo'ysunmagan yoki sudni behurmat qilgan shaxs avval takrorlansa zaldan chiqarilishi haqida ogohlantiriladi; ta'sir qilmasa, ishtirokchi sud ajrimiga, boshqalar raislik qiluvchi farmoyishiga ko'ra zaldan chiqariladi; ish chiqarib yuborilganlarsiz davom etadi; ayblovchi yoki himoyachiga taalluqli ajrim bo'lsa, ish qoldiriladi (bir shaxsni bir necha ayblovchi/himoyachi bo'lgan hollar bundan mustasno), sud xususiy ajrim chiqaradi. Sudlanuvchi chiqarilgan bo'lsa, hukm uning ishtirokida yoki darhol tilxat bilan e'lon qilinadi; ayrim shaxslar ma'muriy javobgarlikka tortilishi mumkin (425, 272-moddalar). Odil sudlovga qarshi jinoyat belgilari bo'lsa, 273-modda tartibi qo'llanadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "272, 273, 424, 425-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "272-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-254974"
+            },
+            {
+              "label": "273-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-2057129"
+            },
+            {
+              "label": "424-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256361"
+            },
+            {
+              "label": "425-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256368"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Sud majlisining kotibi bayonnoma yuritadi (90–92-moddalar qoidalari bo'yicha); u qo'lda yoki kompyuterda yoziladi, to'liqligi uchun audioyozuv va stenogrammadan foydalanish mumkin. Bayonnomada: ish raqami, joy va sana, majlis boshlangan va tugagan vaqt, sud tarkibi, ishtirokchilar, sudlanuvchi shaxsiga doir ma'lumotlar, raislik qiluvchining farmoyishlari, sud harakatlari tartibi, arizalar va iltimosnomalar, ko'rsatuvlarning batafsil mazmuni, ekspert javoblari, muzokaralar ketma-ketligi va sudlanuvchi oxirgi so'zining mazmuni ko'rsatiladi; videokonferensaloqa va audio-/videoyozuvdan foydalanish haqida belgi qo'yiladi. Bayonnomani raislik qiluvchi va kotib imzolaydi: hukm chiqarilgan kunning ertasidan, murakkab ishlarda uch sutkadan kechiktirmay. Taraflar nusxa olishga haqli (426-modda). Bayonnoma imzolangach besh sutka ichida taraflar mulohaza berishi mumkin; raislik qiluvchi qo'shilsa tasdiqlab bayonnomaga qo'shadi, qo'shilmasa sud tarkibi hal etadi; yakka sudya ko'rgan ishda raislik qiluvchining qarori uzil-kesil, lekin unga shikoyat yoki protest mumkin (427-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "426, 427-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "426-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-3696578"
+            },
+            {
+              "label": "427-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256386"
+            }
+          ]
+        }
+      ]
     }
   }
 }

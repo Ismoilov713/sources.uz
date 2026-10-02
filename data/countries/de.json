@@ -17,7 +17,13 @@
           "title": "Deutsches Richtergesetz",
           "ref": "§ 10",
           "url": "https://www.gesetze-im-internet.de/drig/__10.html",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Deutsches Richtergesetz",
+              "url": "https://www.gesetze-im-internet.de/drig/__10.html"
+            }
+          ]
         }
       ]
     },

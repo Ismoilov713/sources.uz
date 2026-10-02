@@ -312,6 +312,181 @@
           ]
         }
       ]
+    },
+    "composition_stability": {
+      "summary": "Ish bir va shu sudya tomonidan ko'rilishi kerak; sudya muhokamani davom ettira olmasa, boshqa sudya bilan almashtiriladi va muhokama qaytadan boshlanadi, zaxira sudya hollari bundan mustasno (332-modda). Uzoq davom etadigan ishda zaxira sudya (запасной судья) tayinlanishi mumkin: u majlis boshidan yoki sud qaror qilgan paytdan hozir bo'ladi va sudya chiqib ketsa uning o'rniga o'tadi, muhokama davom etadi; kirgan zaxira sudya har qanday sud harakatlarini qayta boshlashni talab qila oladi (333-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "332, 333-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Дело должно быть рассмотрено одним и тем же судьей. (ст. 332, ч. 1)",
+          "links": [
+            {
+              "label": "332-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2608"
+            },
+            {
+              "label": "333-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2611"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Muhokamada ish topshirilgan sudya raislik qiladi. U majlisga rahbarlik qiladi, adolat manfaatida taraflar huquqlari tengligini ta'minlash uchun Kodeksdagi barcha choralarni xolislik va betaraflikni saqlab ko'radi, ish holatlarini xolis va to'la tekshirish uchun zarur sharoit yaratadi, majlis tartibiga rioya qilinishini ta'minlaydi, barcha ishtirokchilarga huquq va majburiyatlarini hamda ularni amalga oshirish tartibini tushuntiradi. Raislik qiluvchining harakatlariga e'tiroz bildirilsa, e'tirozlar majlis bayonnomasiga kiritiladi (334-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "334-modda",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "334-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2614"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokurorning davlat ayblovchisi sifatida ishtiroki majburiy (xususiy ayblov ishlari bundan mustasno); murakkab va ko'p epizodli ishlarda bir necha prokuror ayblovni quvvatlashi mumkin; prokuror ishtirok eta olmasa almashtiriladi va yangi prokuror kelishi bilan avvalgi harakatlar takrorlanmaydi (337(1)–(3)). U dalillarni taqdim etadi va tekshirishda ishtirok etadi, ayblov mohiyati va boshqa masalalar bo'yicha fikr bildiradi, qonunni qo'llash va jazo haqida taklif beradi; zarur bo'lsa fuqaroviy da'vo qo'yadi yoki quvvatlaydi; qonun talablari va barcha holatlarni ko'rib chiqishga asoslangan ichki ishonchiga amal qiladi; ayblovni o'zgartirishi mumkin va ayblov sud muhokamasida tasdiqlanmasa, to'liq yoki qisman voz kechishi shart (337(4)–(6)). Ayblovdan voz kechilsa, ish asosiy muhokamada tugatiladi (343-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "337, 343-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Прокурор обязан отказаться от обвинения (полностью или частично), если придет к выводу, что оно не нашло подтверждения в судебном разбирательстве. (ст. 337, ч. 6)",
+          "links": [
+            {
+              "label": "337-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2628"
+            },
+            {
+              "label": "343-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2666"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Himoyachi 67-modda hollarida yoki sudlanuvchi taklifi bilan ishtirok etadi; kelmasa va uni shu majlisda almashtirish imkoni bo'lmasa muhokama qoldiriladi; kelmagan himoyachini almashtirish faqat sudlanuvchi roziligi bilan mumkin; taklif etilgan himoyachi besh sutka ichida ishtirok eta olmasa, sud boshqasini tanlashni taklif qiladi yoki yangisini tayinlaydi (336-modda). Jabrlanuvchi yoki uning vakili ishtirok etadi; jabrlanuvchi kelmasa, sud uning ishtirokisiz to'la aniqlash va huquqlarini himoya qilish mumkinligiga qarab muhokamani davom ettiradi yoki qoldiradi; jabrlanuvchi iltimosi bilan ishtirokdan ozod qilinib, ko'rsatuv uchun belgilangan vaqtda chaqirilishi mumkin; xususiy ayblov ishlarida jabrlanuvchining uzrsiz kelmasligi ishni tugatishga olib keladi, ammo sudlanuvchi iltimosi bilan ish ko'rilishi mumkin (338-modda). Fuqaroviy da'vogar kelmasa da'vo ko'rilmay qoldirilishi mumkin (fuqarolik tartibida da'vo qilish huquqi saqlanadi), sud iltimosga ko'ra ishtirokisiz ko'rishi mumkin (339-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "336, 338, 339-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "336-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2623"
+            },
+            {
+              "label": "338-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2637"
+            },
+            {
+              "label": "339-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2642"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Chaqirilganlardan biri kelmagani, yangi dalillar talab qilinishi, prokuror yangi ayblov dalolatnomasi tuzishi va topshirishi yoki mediatsiya yoki protsessual kelishuv tuzilishi sababli muhokama mumkin bo'lmasa, sud ishni muayyan muddatga qoldirish haqida qaror chiqaradi; yangi ayblov bilan himoya huquqi ta'minlanib, tayyorgarlik uchun oqilona muddat beriladi; 45-modda asoslari bo'lsa, sud bir yoki bir necha sudlanuvchiga nisbatan ishni to'xtatib, qolganlar bo'yicha muhokamani davom ettiradi; yashiringan sudlanuvchini qidirish sud qarori bilan e'lon qilinadi (341-modda). Muayyan asoslar aniqlansa ish asosiy muhokamada tugatiladi (343-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "341, 343-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "341-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2655"
+            },
+            {
+              "label": "343-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2666"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Muhokama vaqtida sud sudlanuvchiga nisbatan ehtiyot chorasini tanlashi, o'zgartirishi, bekor qilishi yoki uzaytirishi mumkin; sudlanuvchining qamoqda saqlanishi muddati ish sudga kelgan kundan hukm chiqarilguncha olti oydan oshmasligi kerak, og'ir jinoyatlar bo'yicha sud uni o'n ikki oygacha uzaytirishi mumkin (342-modda). Muhokamada hal qilinadigan barcha masalalar bo'yicha sud qarorlar chiqaradi va ularni majlisda e'lon qiladi; ishni tugatish, to'xtatish, ehtiyot chorasi, rad qilish, ekspertiza tayinlash va xususiy qarorlar maslahatxonada alohida hujjat shaklida chiqariladi; boshqalari sudning ixtiyoriga ko'ra yo shu tartibda yoki zalda bayonnomaga yozib chiqariladi; dalillarni tekshirish masalalari bo'yicha qarorlar shikoyat qilinmaydi (344-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "342, 344-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Постановления, вынесенные в главном судебном разбирательстве по вопросам исследования доказательств, обжалованию... не подлежат. (ст. 344, ч. 4)",
+          "links": [
+            {
+              "label": "342-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2660"
+            },
+            {
+              "label": "344-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2667"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Muhokama sudning normal ishlashi va ishtirokchilar xavfsizligini ta'minlovchi sharoitda o'tadi, raislik qiluvchi qaroriga ko'ra videoaloqa rejimida ham o'tkazilishi mumkin; sud kirishidan oldin sud pristavi \"Sud keladi\" deb e'lon qiladi, hamma o'rnidan turadi; ishtirokchilar tik turib murojaat qiladi, ko'rsatuv beradi; hamma raislik qiluvchi farmoyishiga bo'ysunadi; 16 yoshgacha (taraf yoki guvoh bo'lmaganlar) va mast shaxslar zalga kiritilmaydi; fotosurat, audio-, video- va kinosyomka ishtirokchilar roziligi va raislik qiluvchi ruxsati bilan mumkin (345-modda). Tartib buzilsa yoki sudga hurmatsizlik qilinsa, raislik qiluvchi shaxsni zaldan chiqarishi yoki jinoiy belgilarsiz sudga hurmatsizlik faktini aniqlab pul jazosi qo'llashi mumkin; chiqarish ayblovchi va himoyachidan boshqa har qanday shaxsga qo'llanadi, pul jazosi sudlanuvchi va himoyachi-advokatga qo'llanmaydi; sudlanuvchi chiqarilsa yoki qatnashishdan bosh tortsa, har majlis oldidan unga qatnashishni xohlash-xohlamasligi so'raladi, hukm uning ishtirokida yoki darhol tilxat bilan e'lon qilinadi; jinoyat belgilari bo'lsa materiallar prokurorga yuboriladi (346-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "345, 346-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "345-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2672"
+            },
+            {
+              "label": "346-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2682"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Majlis kotibi protokol yuritadi: kompyuterda, elektron (audio-/videofiksatsiya bilan), mashinkada yoki qo'lda; qog'ozdagi protokolda sana va vaqt, ish, sud tarkibi, ishtirokchilar, sudlanuvchi shaxsi va ehtiyot chorasi, sud harakatlari tartibi, arizalar va iltimoslar, qarorlar, huquqlar tushuntirilishi, ko'rsatuvlarning batafsil mazmuni, ekspertga berilgan savollar va javoblar va boshqalar ko'rsatiladi (347-modda). Protokol imzolangandan keyin besh sutka ichida taraflar u bilan tanishib, yozma yoki elektron raqamli imzoli hujjat shaklida mulohaza berishi mumkin; hajmi katta bo'lsa raislik qiluvchi uzoqroq muddat belgilaydi (348-modda). Mulohazalarni raislik qiluvchi (uzoq vaqt bo'lmasa boshqa sudya) ko'radi va asoslantirilgan qaror bilan to'g'riligini tasdiqlaydi yoki rad etadi; bu qaror shikoyat qilinmaydi (349-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "347, 348, 349-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "347-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2688"
+            },
+            {
+              "label": "348-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2697"
+            },
+            {
+              "label": "349-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2698"
+            }
+          ]
+        }
+      ]
     }
   }
 }

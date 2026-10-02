@@ -18,7 +18,13 @@ window.COUNTRIES = [
           "title": "Deutsches Richtergesetz",
           "ref": "§ 10",
           "url": "https://www.gesetze-im-internet.de/drig/__10.html",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Deutsches Richtergesetz",
+              "url": "https://www.gesetze-im-internet.de/drig/__10.html"
+            }
+          ]
         }
       ]
     },
@@ -1119,7 +1125,13 @@ window.COUNTRIES = [
           "title": "Human Rights Act 1998",
           "ref": "s.4",
           "url": "https://www.legislation.gov.uk/ukpga/1998/42/section/4",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Human Rights Act 1998",
+              "url": "https://www.legislation.gov.uk/ukpga/1998/42/section/4"
+            }
+          ]
         }
       ]
     },
@@ -1131,7 +1143,13 @@ window.COUNTRIES = [
           "title": "Constitutional Reform Act 2005",
           "ref": "ss.61, 63",
           "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/63",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Constitutional Reform Act 2005",
+              "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/63"
+            }
+          ]
         },
         {
           "title": "FJC, Judiciaries Worldwide: United Kingdom",
@@ -1149,7 +1167,13 @@ window.COUNTRIES = [
           "title": "Judicial Pensions and Retirement Act 1993",
           "ref": "s.26(1)",
           "url": "https://www.legislation.gov.uk/ukpga/1993/8/section/26",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Judicial Pensions and Retirement Act 1993",
+              "url": "https://www.legislation.gov.uk/ukpga/1993/8/section/26"
+            }
+          ]
         },
         {
           "title": "FJC, Judiciaries Worldwide: United Kingdom",
@@ -1167,7 +1191,13 @@ window.COUNTRIES = [
           "title": "Constitutional Reform Act 2005",
           "ref": "s.3",
           "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Constitutional Reform Act 2005",
+              "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3"
+            }
+          ]
         }
       ]
     },
@@ -1179,7 +1209,13 @@ window.COUNTRIES = [
           "title": "Constitutional Reform Act 2005",
           "ref": "s.61",
           "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/61",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Constitutional Reform Act 2005",
+              "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/61"
+            }
+          ]
         }
       ]
     },
@@ -1203,13 +1239,25 @@ window.COUNTRIES = [
           "title": "Juries Act 1974",
           "ref": "ss.1, 17",
           "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Juries Act 1974",
+              "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17"
+            }
+          ]
         },
         {
           "title": "Magistrates' Courts Act 1980",
           "ref": "s.121",
           "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Magistrates' Courts Act 1980",
+              "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121"
+            }
+          ]
         }
       ]
     },
@@ -1237,13 +1285,25 @@ window.COUNTRIES = [
           "title": "Criminal Justice Act 1925",
           "ref": "s.41",
           "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Criminal Justice Act 1925",
+              "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41"
+            }
+          ]
         },
         {
           "title": "Welsh Language Act 1993",
           "ref": "s.22",
           "url": "https://www.legislation.gov.uk/ukpga/1993/38/section/22",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Welsh Language Act 1993",
+              "url": "https://www.legislation.gov.uk/ukpga/1993/38/section/22"
+            }
+          ]
         }
       ]
     },
@@ -1255,13 +1315,25 @@ window.COUNTRIES = [
           "title": "Courts Act 2003",
           "ref": "s.1",
           "url": "https://www.legislation.gov.uk/ukpga/2003/39/section/1",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Courts Act 2003",
+              "url": "https://www.legislation.gov.uk/ukpga/2003/39/section/1"
+            }
+          ]
         },
         {
           "title": "Constitutional Reform Act 2005",
           "ref": "s.3(6)",
           "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Constitutional Reform Act 2005",
+              "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3"
+            }
+          ]
         }
       ]
     }
@@ -1299,13 +1371,25 @@ window.COUNTRIES = [
           "title": "18 U.S.C. §3231",
           "ref": "",
           "url": "https://www.law.cornell.edu/uscode/text/18/3231",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "18 U.S.C. §3231",
+              "url": "https://www.law.cornell.edu/uscode/text/18/3231"
+            }
+          ]
         },
         {
           "title": "28 U.S.C. §1291",
           "ref": "",
           "url": "https://www.law.cornell.edu/uscode/text/28/1291",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "28 U.S.C. §1291",
+              "url": "https://www.law.cornell.edu/uscode/text/28/1291"
+            }
+          ]
         }
       ]
     },
@@ -1317,13 +1401,25 @@ window.COUNTRIES = [
           "title": "AQSh Konstitutsiyasi, III modda",
           "ref": "§2",
           "url": "https://www.law.cornell.edu/constitution/articleiii",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, III modda",
+              "url": "https://www.law.cornell.edu/constitution/articleiii"
+            }
+          ]
         },
         {
           "title": "Marbury v. Madison, 5 U.S. 137 (1803)",
           "ref": "",
           "url": "https://www.law.cornell.edu/supremecourt/text/5/137",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Marbury v. Madison, 5 U.S. 137",
+              "url": "https://www.law.cornell.edu/supremecourt/text/5/137"
+            }
+          ]
         }
       ]
     },
@@ -1335,19 +1431,37 @@ window.COUNTRIES = [
           "title": "AQSh Konstitutsiyasi, II modda",
           "ref": "§2",
           "url": "https://www.law.cornell.edu/constitution/articleii",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, II modda",
+              "url": "https://www.law.cornell.edu/constitution/articleii"
+            }
+          ]
         },
         {
           "title": "28 U.S.C. §133",
           "ref": "",
           "url": "https://www.law.cornell.edu/uscode/text/28/133",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "28 U.S.C. §133",
+              "url": "https://www.law.cornell.edu/uscode/text/28/133"
+            }
+          ]
         },
         {
           "title": "28 U.S.C. §44",
           "ref": "",
           "url": "https://www.law.cornell.edu/uscode/text/28/44",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "28 U.S.C. §44",
+              "url": "https://www.law.cornell.edu/uscode/text/28/44"
+            }
+          ]
         },
         {
           "title": "FJC, Judiciaries Worldwide: United States",
@@ -1365,13 +1479,25 @@ window.COUNTRIES = [
           "title": "AQSh Konstitutsiyasi, III modda",
           "ref": "§1",
           "url": "https://www.law.cornell.edu/constitution/articleiii",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, III modda",
+              "url": "https://www.law.cornell.edu/constitution/articleiii"
+            }
+          ]
         },
         {
           "title": "28 U.S.C. §44",
           "ref": "(b)",
           "url": "https://www.law.cornell.edu/uscode/text/28/44",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "28 U.S.C. §44",
+              "url": "https://www.law.cornell.edu/uscode/text/28/44"
+            }
+          ]
         },
         {
           "title": "FJC, Judiciaries Worldwide: United States",
@@ -1389,7 +1515,13 @@ window.COUNTRIES = [
           "title": "AQSh Konstitutsiyasi, III modda",
           "ref": "§1",
           "url": "https://www.law.cornell.edu/constitution/articleiii",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, III modda",
+              "url": "https://www.law.cornell.edu/constitution/articleiii"
+            }
+          ]
         }
       ]
     },
@@ -1401,13 +1533,25 @@ window.COUNTRIES = [
           "title": "28 U.S.C. §331",
           "ref": "",
           "url": "https://www.law.cornell.edu/uscode/text/28/331",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "28 U.S.C. §331",
+              "url": "https://www.law.cornell.edu/uscode/text/28/331"
+            }
+          ]
         },
         {
           "title": "28 U.S.C. §332",
           "ref": "",
           "url": "https://www.law.cornell.edu/uscode/text/28/332",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "28 U.S.C. §332",
+              "url": "https://www.law.cornell.edu/uscode/text/28/332"
+            }
+          ]
         }
       ]
     },
@@ -1439,7 +1583,13 @@ window.COUNTRIES = [
           "title": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
           "ref": "",
           "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
+              "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -1451,7 +1601,13 @@ window.COUNTRIES = [
           "title": "AQSh Konstitutsiyasi, 6-tuzatish",
           "ref": "",
           "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 6-tuzatish",
+              "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+            }
+          ]
         },
         {
           "title": "FRCrP",
@@ -1469,7 +1625,13 @@ window.COUNTRIES = [
           "title": "28 U.S.C. §1827",
           "ref": "(a)-(b)",
           "url": "https://www.law.cornell.edu/uscode/text/28/1827",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "28 U.S.C. §1827",
+              "url": "https://www.law.cornell.edu/uscode/text/28/1827"
+            }
+          ]
         }
       ]
     },
@@ -1481,13 +1643,25 @@ window.COUNTRIES = [
           "title": "28 U.S.C. §605",
           "ref": "",
           "url": "https://www.law.cornell.edu/uscode/text/28/605",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "28 U.S.C. §605",
+              "url": "https://www.law.cornell.edu/uscode/text/28/605"
+            }
+          ]
         },
         {
           "title": "AQSh Konstitutsiyasi, III modda",
           "ref": "§1",
           "url": "https://www.law.cornell.edu/constitution/articleiii",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, III modda",
+              "url": "https://www.law.cornell.edu/constitution/articleiii"
+            }
+          ]
         }
       ]
     }
@@ -2095,6 +2269,231 @@ window.PROCEDURE = [
           ]
         }
       ]
+    },
+    "composition_stability": {
+      "summary": "Asosiy sud majlisi hukm chiqarishga chaqirilgan shaxslar (sudyalar va Schöffe), prokuratura va sud kotibining uzluksiz ishtirokida o'tadi (StPO §226(1)); yakka sudya (Strafrichter) kotibsiz o'tkazishi mumkin, bu qaror shikoyat qilinmaydi (§226(2)). Sudda qarorlarda sudyalar faqat qonunda belgilangan sonda qatnashadi; uzoq davom etadigan majlisda rais qo'shimcha sudyalar (Ergänzungsrichter) jalb etishni buyurishi mumkin, ular majlisda hozir bo'lib, biror sudya qatnasha olmaganda uning o'rniga o'tadi; bu qoida Schöffe'ga ham tegishli (GVG §192).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§ 226",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "original": "Die Hauptverhandlung erfolgt in ununterbrochener Gegenwart der zur Urteilsfindung berufenen Personen sowie der Staatsanwaltschaft und eines Urkundsbeamten der Geschäftsstelle. (§ 226 Abs. 1)",
+          "links": [
+            {
+              "label": "§ 226",
+              "url": "https://www.gesetze-im-internet.de/stpo/__226.html"
+            }
+          ]
+        },
+        {
+          "title": "GVG (nemis asl)",
+          "ref": "§ 192",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "links": [
+            {
+              "label": "§ 192",
+              "url": "https://www.gesetze-im-internet.de/gvg/__192.html"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Majlisni boshqarish, sudlanuvchini so'roq qilish va dalillarni olish raisga (Vorsitzender) yuklangan (§238(1)). Rais majlisni boshqarishga oid buyrug'iga qatnashchi qonunga zid deb e'tiroz bildirsa, sud (hay'at) hal qiladi (§238(2)). Hay'at a'zolari so'rasa, rais ularga sudlanuvchi, guvohlar va ekspertlarga savol berishga ruxsat berishi shart; prokuratura, sudlanuvchi, himoyachi va Schöffe'ga ham xuddi shunday (§240). Sud o'z tashabbusi bilan haqiqatni aniqlash uchun dalillarni kengaytiradi (§244(2), yuqorida).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 238, 240",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 238",
+              "url": "https://www.gesetze-im-internet.de/stpo/__238.html"
+            },
+            {
+              "label": "§ 240",
+              "url": "https://www.gesetze-im-internet.de/stpo/__240.html"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuratura majlisda uzluksiz hozir bo'lishi shart (§226(1)); bir nechta prokuror va bir nechta himoyachi ishtirok etib, ish taqsimlashi mumkin (§227). Prokuratura nafaqat ayblovchi, balki oqlovchi holatlarni ham aniqlashga majbur (§160(2)). Muhim farq: asosiy muhokama ochilgandan keyin ayblov qaytarib olinmaydi (§156), ya'ni O'zbekistondagi kabi ayblovdan voz kechish orqali ishni tugatish mexanizmi yo'q; prokuror oqlov so'rashi mumkin, qaror esa sudniki.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 156, 160, 226, 227",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "original": "Die öffentliche Klage kann nach Eröffnung des Hauptverfahrens nicht zurückgenommen werden. (§ 156)",
+          "links": [
+            {
+              "label": "§ 156",
+              "url": "https://www.gesetze-im-internet.de/stpo/__156.html"
+            },
+            {
+              "label": "§ 160",
+              "url": "https://www.gesetze-im-internet.de/stpo/__160.html"
+            },
+            {
+              "label": "§ 226",
+              "url": "https://www.gesetze-im-internet.de/stpo/__226.html"
+            },
+            {
+              "label": "§ 227",
+              "url": "https://www.gesetze-im-internet.de/stpo/__227.html"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Majburiy himoyada himoyachi kelmasa, ketib qolsa yoki himoyadan bosh tortsa, rais darhol boshqa himoyachi tayinlaydi, sud esa majlisni to'xtatishi (Aussetzung) mumkin; yangi himoyachi tayyorgarlik vaqti yetmasligini aytsa, majlis tanaffus qilinadi yoki to'xtatiladi; to'xtatish himoyachi aybi bilan bo'lsa, xarajat uning zimmasiga (§145). Himoyachi kelishga to'sqinlik qilgani sudlanuvchiga majlisni to'xtatishni talab qilish huquqini bermaydi (§228(2)). Jabrlanuvchi nebenkläger (qo'shilgan ayblovchi) sifatida ishtirok etsa, u majlisda hozir bo'lish, savol berish, dalil iltimosi va fikr bildirish huquqiga ega (§397(1)); uning qo'shilishi jarayonni to'xtatmaydi va belgilangan majlislar uning chaqirilmaganligidan qat'i nazar o'tkaziladi (§398).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 145, 228, 397, 398",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 145",
+              "url": "https://www.gesetze-im-internet.de/stpo/__145.html"
+            },
+            {
+              "label": "§ 228",
+              "url": "https://www.gesetze-im-internet.de/stpo/__228.html"
+            },
+            {
+              "label": "§ 397",
+              "url": "https://www.gesetze-im-internet.de/stpo/__397.html"
+            },
+            {
+              "label": "§ 398",
+              "url": "https://www.gesetze-im-internet.de/stpo/__398.html"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Majlisni to'xtatish (Aussetzung) yoki §229(2) bo'yicha tanaffus qilish haqida sud (hay'at) qaror chiqaradi; rais qisqa tanaffuslarni o'zi buyurishi mumkin (§228(1)). Tanaffus ko'pi bilan 3 hafta davom etishi mumkin (§229(1)); majlis avval kamida 10 kun o'tkazilgan bo'lsa, 1 oygacha (§229(2)). Majlis kamida 10 kun o'tkazilgan bo'lsa, sudlanuvchi yoki hukm chiqaruvchi shaxs kasallik sababli, hukm chiqaruvchi shaxs esa ona/ota ta'tili sababli (ko'pi bilan 2 oy) qatnasha olmaganda muddatlar to'xtab turadi; muddat tugagandan keyingi kunga qadar majlis davom ettirilmasa, u qaytadan boshlanadi (§229(3), (4)). Asosiy muhokama ochilgandan keyin protsessual to'siq paydo bo'lsa, sud majlisdan tashqarida qaror bilan jarayonni tugatishi mumkin (§206a).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 206a, 228, 229",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 206a",
+              "url": "https://www.gesetze-im-internet.de/stpo/__206a.html"
+            },
+            {
+              "label": "§ 228",
+              "url": "https://www.gesetze-im-internet.de/stpo/__228.html"
+            },
+            {
+              "label": "§ 229",
+              "url": "https://www.gesetze-im-internet.de/stpo/__229.html"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Rais buyrug'i bo'yicha e'tiroz bildirilsa, hay'at ajrim chiqaradi (§238(2)). Hukmdan oldin sud chiqargan qarorlar ustidan alohida shikoyat (Beschwerde) berilmaydi; hibsga olish, vaqtincha joylashtirish, musodara, vaqtincha huquq cheklash va uchinchi shaxslarga ta'sir qiluvchi qarorlar bundan mustasno (§305). Dalil iltimoslarini rad etish asoslari §244(3) da sanalgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 238(2), 244(3), 305",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 238",
+              "url": "https://www.gesetze-im-internet.de/stpo/__238.html"
+            },
+            {
+              "label": "§ 244",
+              "url": "https://www.gesetze-im-internet.de/stpo/__244.html"
+            },
+            {
+              "label": "§ 305",
+              "url": "https://www.gesetze-im-internet.de/stpo/__305.html"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Majlisda tartibni saqlash raisga yuklangan; qatnashuvchilar yuzini to'liq yoki qisman yopishi mumkin emas (GVG §176). Ishtirokchilar, guvohlar, ekspertlar va ishda qatnashmaganlar tartib bo'yicha buyruqlarga bo'ysunmasa, zaldan chiqarilishi va 24 soatdan oshmagan muddatga tutib turilishi mumkin; qatnashmaganlar bo'yicha rais, boshqalar bo'yicha sud qaror qiladi (GVG §177). Tartibsizlik uchun 1000 evrogacha jarima (Ordnungsgeld) yoki 1 haftagacha Ordnungshaft belgilanishi va darhol ijro etilishi mumkin (GVG §178). Majlisda jinoyat sodir etilsa, sud holatni aniqlab, bayonnomani vakolatli organga yuboradi, ba'zan vaqtincha hibsga olinadi (GVG §183). Sudlanuvchi tartibsizligi uchun chiqarilsa, sud uning ishtirokini zarur hisoblamasa va ishtiroki majlisga jiddiy zarar qilsa, muhokama uning yo'qligida davom etishi mumkin, lekin unga ayblov bo'yicha so'z berilishi shart (StPO §231b). Majlis ochiq, tele-/ovoz yozuvi taqiqlangan (GVG §169, yuqorida).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl)",
+          "ref": "§§ 176, 177, 178, 183",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "links": [
+            {
+              "label": "§ 176",
+              "url": "https://www.gesetze-im-internet.de/gvg/__176.html"
+            },
+            {
+              "label": "§ 177",
+              "url": "https://www.gesetze-im-internet.de/gvg/__177.html"
+            },
+            {
+              "label": "§ 178",
+              "url": "https://www.gesetze-im-internet.de/gvg/__178.html"
+            },
+            {
+              "label": "§ 183",
+              "url": "https://www.gesetze-im-internet.de/gvg/__183.html"
+            }
+          ]
+        },
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§ 231b",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 231b",
+              "url": "https://www.gesetze-im-internet.de/stpo/__231b.html"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Majlis bayonnomasini rais va (u qatnashgan bo'lsa) sud kotibi imzolaydi (StPO §271(1)). Bayonnomada majlisning borishi va natijalari mohiyatan, barcha muhim rasmiyatlarga rioya qilinganligi, o'qilgan hujjatlar, kiritilgan iltimoslar, chiqarilgan qarorlar va hukmning rezolyutiv qismi ko'rsatiladi; §257c kelishuvi bo'lsa, uning borishi, mazmuni va natijasi ham yoziladi (§273(1), (1a)). Majlis rasmiyatlariga rioya qilinganligi faqat bayonnoma bilan isbotlanadi; bayonnomaning shu qismiga qarshi faqat soxtalik isboti mumkin (§274).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 271, 273, 274",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "original": "Die Beobachtung der für die Hauptverhandlung vorgeschriebenen Förmlichkeiten kann nur durch das Protokoll bewiesen werden. (§ 274)",
+          "links": [
+            {
+              "label": "§ 271",
+              "url": "https://www.gesetze-im-internet.de/stpo/__271.html"
+            },
+            {
+              "label": "§ 273",
+              "url": "https://www.gesetze-im-internet.de/stpo/__273.html"
+            },
+            {
+              "label": "§ 274",
+              "url": "https://www.gesetze-im-internet.de/stpo/__274.html"
+            }
+          ]
+        }
+      ]
     }
   }
 }
@@ -2481,6 +2880,212 @@ window.PROCEDURE = [
           ]
         }
       ]
+    },
+    "composition_stability": {
+      "summary": "Cour d'assises: hakamlar hay'ati tuzilayotganda, qo'shimcha hakamlar (jurés supplémentaires) ham tasodifan tanlanadi; ular majlisda hozir bo'ladi va maslahatlashuvda fikr bildirmasdan qatnashadi, asosiy hakam qatnasha olmasa, o'rniga tanlash tartibida o'tadi (CPP 296). Tribunal correctionnel: uzoq munozara kutilsa, tribunal judiciaire raisi qo'shimcha sudya(lar) majlisda hozir bo'lishini buyurishi mumkin; hukm chiqarishgacha qatnasha olmagan sudya o'rniga ular tayinlash tartibida kiradi (CPP 398).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "296, 398-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 296",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569124"
+            },
+            {
+              "label": "art. 398",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279428"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Cour d'assises raisi majlis tartibini (police de l'audience) saqlaydi va muhokamani boshqaradi; muhokama qadr-qimmatiga zarar yetkazadigan yoki uni asossiz cho'zadigan narsalarni rad etadi (CPP 309). Rais haqiqatni aniqlash uchun 'pouvoir discrétionnaire' (taqdiriy vakolat)ga ega: o'z sharaf va vijdoni bilan zarur deb hisoblagan har qanday choralarni ko'radi, guvohlarni chaqiradi va yangi hujjatlar talab qiladi (CPP 310). Tribunal correctionnel raisi ham tartib va muhokamani boshqaradi (CPP 401). Rais ayblanuvchini so'roq qilganda aybdorlik haqida o'z fikrini bildirmasligi shart (CPP 328).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "309, 310, 328, 401-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "Le président a la police de l'audience et la direction des débats. (art. 309)",
+          "links": [
+            {
+              "label": "art. 309",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569011"
+            },
+            {
+              "label": "art. 310",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569003"
+            },
+            {
+              "label": "art. 328",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568700"
+            },
+            {
+              "label": "art. 401",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576491"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuratura jamoat ayblovini qo'llab, qonunning qo'llanishini talab qiladi va xolislik tamoyiliga amal qiladi (CPP 31). U har bir jinoyat sudida ishtirok etadi, sud muhokamalarida qatnashadi va barcha qarorlar uning huzurida e'lon qilinadi (CPP 32). Yozma talablari (réquisitions) rahbarlar ko'rsatmalariga mos bo'lishi kerak, ammo og'zaki fikrni 'adolat manfaati uchun zarur' deb hisoblagancha erkin bayon qiladi (CPP 33). Ayblovdan alohida voz kechish tartibi bu tahlilda o'qilgan moddalarda topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "31, 32, 33-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "Il développe librement les observations orales qu'il croit convenables au bien de la justice. (art. 33)",
+          "links": [
+            {
+              "label": "art. 31",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027753877"
+            },
+            {
+              "label": "art. 32",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574914"
+            },
+            {
+              "label": "art. 33",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574915"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Jabrlanuvchi (partie civile) har doim advokat orqali ishtirok eta oladi, shunda hukm u uchun qarama-qarshi bahsli hisoblanadi (CPP 424). Jabrlanuvchi tartib bilan chaqirilib, kelmasa yoki vakil yubormasa, fuqaroviy da'vosidan voz kechgan hisoblanadi (CPP 425). Ayblanuvchi (prévenu) kelmasa va advokati kelib himoya qilsa, advokat tinglanishi shart; sud ishni keyingi majlisga qoldirishi mumkin (CPP 410, 412). Cour d'assises'da ayblanuvchi chaqiriqqa bo'ysunmasa, rais uni majburan keltirishi yoki majlis bayonnomasi o'qilgach, uning yo'qligida davom etishni buyurishi mumkin (CPP 320).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "320, 410, 412, 424, 425-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 320",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568856"
+            },
+            {
+              "label": "art. 410",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576508"
+            },
+            {
+              "label": "art. 412",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576515"
+            },
+            {
+              "label": "art. 424",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023480636"
+            },
+            {
+              "label": "art. 425",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576536"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Tribunal correctionnel: muhokama bir majlisda tugamasa, tribunal hukm bilan davom ettirish kunini belgilaydi; taraflar va tinglanmagan guvohlar yangi chaqiruvsiz yangi majlisga kelishga majbur (CPP 461). Tribunal, kerak deb topsa, ishni keyingi majlisga qoldirishi mumkin (CPP 412). Ushbu tahlilda sudlanuvchi yashiringan yoki kasal bo'lganda ishni to'xtatish uchun alohida modda o'qilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "412, 461-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 412",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576515"
+            },
+            {
+              "label": "art. 461",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576647"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Ayblanuvchi har qanday bosqichda va jarayon davrida ozod qilish haqida iltimos qilishi mumkin; sudga kelgan ish bo'yicha vaqtincha qamoqda saqlash masalasini hukm sudining o'zi hal qiladi (cour d'assises faqat shu sessiya davomida) (CPP 148-1). Taraflar xulosalar (conclusions) berishi mumkin; sud ular bo'yicha insidentlar va e'tirozlarni asosiy ishga qo'shib, bitta hukm bilan hal qiladi, avval e'tirozni, keyin mohiyatni ko'radi, istisno hollar bundan mustasno (CPP 459). Cour d'assises'da insident bo'yicha qarorlar (arrêts) ishning mohiyatini oldindan hal qilmaydi; birinchi instansiyada ular alohida shikoyat qilinmaydi (CPP 316).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "148-1, 316, 459-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 148-1",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479389"
+            },
+            {
+              "label": "art. 316",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568965"
+            },
+            {
+              "label": "art. 459",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576642"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Majlislar ochiq, lekin jamoat tartibi, muhokama xotirjamligi, shaxs qadr-qimmati yoki uchinchi shaxs manfaatlariga xavf bo'lsa, sud hukm bilan yopiq majlis (huis clos) buyuradi (CPP 400; cour d'assises uchun 306). Tribunal'da tartibni buzgan har qanday tomoshabin raisning buyrug'i bilan zaldan chiqariladi; chiqarilishga qarshilik qilsa yoki g'alayon qilsa, shu zahotiyoq hibsga olinib, sudlanib, ikki yilgacha ozodlikdan mahrum etilishi mumkin (CPP 404).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "306, 400, 404-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 306",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569024"
+            },
+            {
+              "label": "art. 400",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039099461"
+            },
+            {
+              "label": "art. 404",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576496"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Cour d'assises: kotib (greffier) rasmiyatlarga rioya qilinganligini tasdiqlovchi bayonnoma (procès-verbal) tuzadi; uni rais va kotib imzolaydi, hukm e'lon qilinganidan keyin uch kundan kechiktirmay (CPP 378). Rais boshqacha buyurmasa, bayonnomada ayblanuvchi javoblari va ko'rsatuvlar mazmuni yozilmaydi (CPP 379). Tribunal correctionnel: kotib majlis borishi, ayniqsa guvohlar ko'rsatuvlari va sudlanuvchi javoblari haqida yozuv (notes d'audience) yuritadi; uni kotib imzolaydi va rais har majlisdan keyin uch kun ichida vizalaydi (CPP 453). Hukm asoslari (motivation) cour d'assises'da rais yoki tayinlangan assessor tomonidan yoziladi (CPP 365-1, yuqorida).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "378, 379, 453-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 378",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568538"
+            },
+            {
+              "label": "art. 379",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568531"
+            },
+            {
+              "label": "art. 453",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576625"
+            }
+          ]
+        }
+      ]
     }
   }
 }
@@ -2795,6 +3400,181 @@ window.PROCEDURE = [
             {
               "label": "487-modda",
               "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z3463"
+            }
+          ]
+        }
+      ]
+    },
+    "composition_stability": {
+      "summary": "Ish bir va shu sudya tomonidan ko'rilishi kerak; sudya muhokamani davom ettira olmasa, boshqa sudya bilan almashtiriladi va muhokama qaytadan boshlanadi, zaxira sudya hollari bundan mustasno (332-modda). Uzoq davom etadigan ishda zaxira sudya (запасной судья) tayinlanishi mumkin: u majlis boshidan yoki sud qaror qilgan paytdan hozir bo'ladi va sudya chiqib ketsa uning o'rniga o'tadi, muhokama davom etadi; kirgan zaxira sudya har qanday sud harakatlarini qayta boshlashni talab qila oladi (333-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "332, 333-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Дело должно быть рассмотрено одним и тем же судьей. (ст. 332, ч. 1)",
+          "links": [
+            {
+              "label": "332-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2608"
+            },
+            {
+              "label": "333-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2611"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Muhokamada ish topshirilgan sudya raislik qiladi. U majlisga rahbarlik qiladi, adolat manfaatida taraflar huquqlari tengligini ta'minlash uchun Kodeksdagi barcha choralarni xolislik va betaraflikni saqlab ko'radi, ish holatlarini xolis va to'la tekshirish uchun zarur sharoit yaratadi, majlis tartibiga rioya qilinishini ta'minlaydi, barcha ishtirokchilarga huquq va majburiyatlarini hamda ularni amalga oshirish tartibini tushuntiradi. Raislik qiluvchining harakatlariga e'tiroz bildirilsa, e'tirozlar majlis bayonnomasiga kiritiladi (334-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "334-modda",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "334-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2614"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokurorning davlat ayblovchisi sifatida ishtiroki majburiy (xususiy ayblov ishlari bundan mustasno); murakkab va ko'p epizodli ishlarda bir necha prokuror ayblovni quvvatlashi mumkin; prokuror ishtirok eta olmasa almashtiriladi va yangi prokuror kelishi bilan avvalgi harakatlar takrorlanmaydi (337(1)–(3)). U dalillarni taqdim etadi va tekshirishda ishtirok etadi, ayblov mohiyati va boshqa masalalar bo'yicha fikr bildiradi, qonunni qo'llash va jazo haqida taklif beradi; zarur bo'lsa fuqaroviy da'vo qo'yadi yoki quvvatlaydi; qonun talablari va barcha holatlarni ko'rib chiqishga asoslangan ichki ishonchiga amal qiladi; ayblovni o'zgartirishi mumkin va ayblov sud muhokamasida tasdiqlanmasa, to'liq yoki qisman voz kechishi shart (337(4)–(6)). Ayblovdan voz kechilsa, ish asosiy muhokamada tugatiladi (343-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "337, 343-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Прокурор обязан отказаться от обвинения (полностью или частично), если придет к выводу, что оно не нашло подтверждения в судебном разбирательстве. (ст. 337, ч. 6)",
+          "links": [
+            {
+              "label": "337-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2628"
+            },
+            {
+              "label": "343-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2666"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Himoyachi 67-modda hollarida yoki sudlanuvchi taklifi bilan ishtirok etadi; kelmasa va uni shu majlisda almashtirish imkoni bo'lmasa muhokama qoldiriladi; kelmagan himoyachini almashtirish faqat sudlanuvchi roziligi bilan mumkin; taklif etilgan himoyachi besh sutka ichida ishtirok eta olmasa, sud boshqasini tanlashni taklif qiladi yoki yangisini tayinlaydi (336-modda). Jabrlanuvchi yoki uning vakili ishtirok etadi; jabrlanuvchi kelmasa, sud uning ishtirokisiz to'la aniqlash va huquqlarini himoya qilish mumkinligiga qarab muhokamani davom ettiradi yoki qoldiradi; jabrlanuvchi iltimosi bilan ishtirokdan ozod qilinib, ko'rsatuv uchun belgilangan vaqtda chaqirilishi mumkin; xususiy ayblov ishlarida jabrlanuvchining uzrsiz kelmasligi ishni tugatishga olib keladi, ammo sudlanuvchi iltimosi bilan ish ko'rilishi mumkin (338-modda). Fuqaroviy da'vogar kelmasa da'vo ko'rilmay qoldirilishi mumkin (fuqarolik tartibida da'vo qilish huquqi saqlanadi), sud iltimosga ko'ra ishtirokisiz ko'rishi mumkin (339-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "336, 338, 339-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "336-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2623"
+            },
+            {
+              "label": "338-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2637"
+            },
+            {
+              "label": "339-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2642"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Chaqirilganlardan biri kelmagani, yangi dalillar talab qilinishi, prokuror yangi ayblov dalolatnomasi tuzishi va topshirishi yoki mediatsiya yoki protsessual kelishuv tuzilishi sababli muhokama mumkin bo'lmasa, sud ishni muayyan muddatga qoldirish haqida qaror chiqaradi; yangi ayblov bilan himoya huquqi ta'minlanib, tayyorgarlik uchun oqilona muddat beriladi; 45-modda asoslari bo'lsa, sud bir yoki bir necha sudlanuvchiga nisbatan ishni to'xtatib, qolganlar bo'yicha muhokamani davom ettiradi; yashiringan sudlanuvchini qidirish sud qarori bilan e'lon qilinadi (341-modda). Muayyan asoslar aniqlansa ish asosiy muhokamada tugatiladi (343-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "341, 343-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "341-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2655"
+            },
+            {
+              "label": "343-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2666"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Muhokama vaqtida sud sudlanuvchiga nisbatan ehtiyot chorasini tanlashi, o'zgartirishi, bekor qilishi yoki uzaytirishi mumkin; sudlanuvchining qamoqda saqlanishi muddati ish sudga kelgan kundan hukm chiqarilguncha olti oydan oshmasligi kerak, og'ir jinoyatlar bo'yicha sud uni o'n ikki oygacha uzaytirishi mumkin (342-modda). Muhokamada hal qilinadigan barcha masalalar bo'yicha sud qarorlar chiqaradi va ularni majlisda e'lon qiladi; ishni tugatish, to'xtatish, ehtiyot chorasi, rad qilish, ekspertiza tayinlash va xususiy qarorlar maslahatxonada alohida hujjat shaklida chiqariladi; boshqalari sudning ixtiyoriga ko'ra yo shu tartibda yoki zalda bayonnomaga yozib chiqariladi; dalillarni tekshirish masalalari bo'yicha qarorlar shikoyat qilinmaydi (344-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "342, 344-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "original": "Постановления, вынесенные в главном судебном разбирательстве по вопросам исследования доказательств, обжалованию... не подлежат. (ст. 344, ч. 4)",
+          "links": [
+            {
+              "label": "342-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2660"
+            },
+            {
+              "label": "344-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2667"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Muhokama sudning normal ishlashi va ishtirokchilar xavfsizligini ta'minlovchi sharoitda o'tadi, raislik qiluvchi qaroriga ko'ra videoaloqa rejimida ham o'tkazilishi mumkin; sud kirishidan oldin sud pristavi \"Sud keladi\" deb e'lon qiladi, hamma o'rnidan turadi; ishtirokchilar tik turib murojaat qiladi, ko'rsatuv beradi; hamma raislik qiluvchi farmoyishiga bo'ysunadi; 16 yoshgacha (taraf yoki guvoh bo'lmaganlar) va mast shaxslar zalga kiritilmaydi; fotosurat, audio-, video- va kinosyomka ishtirokchilar roziligi va raislik qiluvchi ruxsati bilan mumkin (345-modda). Tartib buzilsa yoki sudga hurmatsizlik qilinsa, raislik qiluvchi shaxsni zaldan chiqarishi yoki jinoiy belgilarsiz sudga hurmatsizlik faktini aniqlab pul jazosi qo'llashi mumkin; chiqarish ayblovchi va himoyachidan boshqa har qanday shaxsga qo'llanadi, pul jazosi sudlanuvchi va himoyachi-advokatga qo'llanmaydi; sudlanuvchi chiqarilsa yoki qatnashishdan bosh tortsa, har majlis oldidan unga qatnashishni xohlash-xohlamasligi so'raladi, hukm uning ishtirokida yoki darhol tilxat bilan e'lon qilinadi; jinoyat belgilari bo'lsa materiallar prokurorga yuboriladi (346-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "345, 346-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "345-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2672"
+            },
+            {
+              "label": "346-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2682"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Majlis kotibi protokol yuritadi: kompyuterda, elektron (audio-/videofiksatsiya bilan), mashinkada yoki qo'lda; qog'ozdagi protokolda sana va vaqt, ish, sud tarkibi, ishtirokchilar, sudlanuvchi shaxsi va ehtiyot chorasi, sud harakatlari tartibi, arizalar va iltimoslar, qarorlar, huquqlar tushuntirilishi, ko'rsatuvlarning batafsil mazmuni, ekspertga berilgan savollar va javoblar va boshqalar ko'rsatiladi (347-modda). Protokol imzolangandan keyin besh sutka ichida taraflar u bilan tanishib, yozma yoki elektron raqamli imzoli hujjat shaklida mulohaza berishi mumkin; hajmi katta bo'lsa raislik qiluvchi uzoqroq muddat belgilaydi (348-modda). Mulohazalarni raislik qiluvchi (uzoq vaqt bo'lmasa boshqa sudya) ko'radi va asoslantirilgan qaror bilan to'g'riligini tasdiqlaydi yoki rad etadi; bu qaror shikoyat qilinmaydi (349-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK",
+          "ref": "347, 348, 349-moddalar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "links": [
+            {
+              "label": "347-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2688"
+            },
+            {
+              "label": "348-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2697"
+            },
+            {
+              "label": "349-modda",
+              "url": "https://old.adilet.zan.kz/rus/docs/K1400000231#z2698"
             }
           ]
         }
@@ -3169,6 +3949,243 @@ window.PROCEDURE = [
           ]
         }
       ]
+    },
+    "composition_stability": {
+      "summary": "Hakamlar hay'ati yo'q; hukmga faqat majlisda qatnashgan hakimlar katnashadi va maslahatlashuvda faqat qarorga va hukmga qatnashadigan hakimlar bo'ladi (188(1), 227(1)). Bir oturumda tugamaydigan ishda biror sababdan qatnasha olmaydigan a'zo o'rniga ovoz berish huquqi bilan yedek a'zo (yedek üye) bo'lishi mumkin (188(3)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "188, 227-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 188",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 227",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=85"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Mahkeme başkanı yoki hâkim majlisni boshqaradi, sudlanuvchini so'roq qiladi va dalillar taqdim etilishini ta'minlaydi (192(1)). Majlisni boshqarishga oid tadbir qonunga zid deb e'tiroz bildirilsa, sud shu masalada qaror chiqaradi (192(2)). Majlis tartibini rais yoki sudya ta'minlaydi (203(1)). Prokuror, himoyachi yoki vakil advokat sudlanuvchi, katılan, guvoh va ekspertlarga bevosita savol bera oladi; sudlanuvchi va katılan rais yoki sudya orqali; savolga e'tiroz bildirilsa rais hal qiladi; hay'at a'zolari ham savol berishi mumkin (201).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "192, 201, 203-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 192",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=76"
+            },
+            {
+              "label": "m. 201",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=78"
+            },
+            {
+              "label": "m. 203",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=79"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Hukmga qatnashadigan sudyalar, prokuror va majlis kotibi majlisda hozir bo'lishi shart (188(1)). Bir necha prokuror va bir necha advokat bir vaqtda qatnashishi va o'zaro ish taqsimlashi mumkin (189). Prokuror ayblov xulosasida faqat sudlanuvchiga qarshi emas, uning foydasiga bo'lgan holatlarni ham ko'rsatishi kerak (170(5)). Muhokamada u dalillar bo'yicha tortishuvda ishtirok etadi (216) va 'esas hakkında mütalaa' (ish mohiyati bo'yicha xulosa) beradi (bu atama 202(4)-moddada tilga olinadi). Ayblovdan alohida voz kechish tartibi (O'zbekiston va Qozog'istondagi kabi) CMK matnida ko'rilgan qismlarda topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "170, 188, 189, 202(4), 216-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 170",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=69"
+            },
+            {
+              "label": "m. 188",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 189",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=76"
+            },
+            {
+              "label": "m. 202",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=78"
+            },
+            {
+              "label": "m. 216",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=82"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Majburiy himoya hollarida himoyachi majlisda bo'lishi shart, lekin himoyachi uzrsiz kelmasa yoki majlisni tark etsa, majlis davom ettirilishi mumkin (188(1)). Sudlanuvchi kelmasa ham himoyachi barcha oturumlarda ishtirok etishga vakolatli (197). Sud tayinlagan himoyachi kelmasa yoki ketsa, hakim darhol boshqasini tayinlaydi, sud oturumga tanaffus berishi yoki uni qoldirishi mumkin; yangi himoyachi tayyorgarlik uchun vaqt yetmasligini aytsa, oturum qoldiriladi (151). Jabrlanuvchi yoki shikoyatchi ko'rsatgan manzilga chaqiruv yuborilib, kelmasa qayta tebligat qilinmaydi (235). Jabrlanuvchi ishda ishtirok (katılma) etsa, bu ishni to'xtatmaydi (240).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "151, 188, 197, 235, 240-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 151",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=61"
+            },
+            {
+              "label": "m. 188",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 197",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=78"
+            },
+            {
+              "label": "m. 235",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=90"
+            },
+            {
+              "label": "m. 240",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=92"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Duruşma, qoida bo'yicha, tanaffussiz davom ettirilib hukm bilan tugaydi; faqat zarur hollarda ishni oqilona muddatda tugatish imkonini beradigan tarzda tanaffus berilishi mumkin (190(1)). Chaqiruv qog'ozi topshirish muddati (176) buzilgan bo'lsa, sudlanuvchiga tanaffus so'rash huquqi eslatiladi (190(2)). Himoyachi yo'qligi tufayli oturum qoldirilishi mumkin (151). Ish yuritish sharti hali bajarilmagan bo'lsa (masalan, shikoyat), sud 'durma kararı' (to'xtatish qarori) chiqaradi; bu qarorga e'tiroz bildirilishi mumkin (223(8)). Joyi noma'lum yoki chet elda bo'lgan sudlanuvchi (gaip) bo'yicha alohida qoidalar mavjud (244–248).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "151, 190, 223(8), 244–248-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 151",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=61"
+            },
+            {
+              "label": "m. 190",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=76"
+            },
+            {
+              "label": "m. 223",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=83"
+            },
+            {
+              "label": "m. 244–248",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=93"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Qamoqdagi sudlanuvchining qamoqda saqlanishi davom etishi kerakmi, sud har oturumda yoki sharoit talab qilganda oturumlar orasida o'z tashabbusi bilan hal qiladi (108(3)). Hakim qarorlari va qonunda ko'rsatilgan hollarda sud qarorlariga qarshi 'itiraz' yo'li mavjud (267(1)); itiraz qaror ma'lum bo'lgan kundan ikki hafta ichida qaror chiqargan organga beriladi (268(1)). Dalilni taqdim etish iltimosi qonunga zid yo'l bilan olingan bo'lsa va boshqa sanalgan hollarda rad etiladi (206(2)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "108(3), 206, 267, 268-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 108",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=34"
+            },
+            {
+              "label": "m. 206",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=80"
+            },
+            {
+              "label": "m. 267",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=107"
+            },
+            {
+              "label": "m. 268",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=107"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Majlis hamma uchun ochiq; umumiy axloq yoki jamoat xavfsizligi qat'iy talab qilgan hollarda to'liq yoki qisman yopiq o'tkazilishi mumkin (182); majlis zalida ovoz va tasvir yozuvchi qurilmalar ishlatilmaydi (183); sudlanuvchi 18 yoshga to'lmagan bo'lsa majlis yopiq o'tadi (185). Tartibni rais yoki sudya ta'minlaydi, majlis tartibini buzgan shaxs himoya huquqini cheklamaslik sharti bilan zaldan chiqariladi; chiqarilishga qarshilik ko'rsatsa, advokatlardan tashqari, sud qarori bilan darhol to'rt kungacha intizomiy qamoqqa olinishi mumkin (bolalarga qo'llanmaydi) (203). Xatti-harakati majlis tartibini xavf ostiga qo'ysa sudlanuvchi zaldan chiqariladi; sud uning ishtirokini himoya uchun zarur deb hisoblamasa, majlis uning yo'qligida tugallanadi, himoyachisi bo'lmasa baro orqali himoyachi tayinlanadi, qaytarilganda unga yo'qligida bo'lgan ishlar tushuntiriladi (204). Majlisda jinoyat sodir etilsa, sud holatni aniqlab, dalolatnomani vakolatli organga yuboradi va fail hibsga olinishi mumkin (205).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "182, 183, 185, 203, 204, 205-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 182",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=74"
+            },
+            {
+              "label": "m. 183",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 185",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 203",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=79"
+            },
+            {
+              "label": "m. 204",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=79"
+            },
+            {
+              "label": "m. 205",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=80"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Majlis uchun tutanak (protokol) tutiladi; uni rais yoki hakim va zabıt kâtibi imzolaydi; texnik vositalar bilan yozib olingan bo'lsa, yozuvlar kechiktirmay yozma tutanakka aylantirilib imzolanadi (219). Tutanak sarlavhasida sud nomi, oturum sanalari, hakim, prokuror va kotib ismlari ko'rsatiladi (220); mazmunida ishtirokchilar, majlis borishi va natijalari hamda protsessual qoidalarga rioya qilinganligini ko'rsatuvchi unsurlar, sudlanuvchi izohlari, guvoh va ekspert ko'rsatuvlari, o'qilgan hujjatlar, iltimoslar va ularni rad etish asoslari, qarorlar va hukm bo'ladi (221). Majlis qanday o'tgani va qonun tartibiga rioya qilinganligi faqat tutanak bilan isbotlanadi; tutanakka qarshi faqat soxtalik da'vosi bildirilishi mumkin (222).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "219, 220, 221, 222-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "original": "Tutanağa karşı yalnız sahtecilik iddiası yöneltilebilir. (m. 222/1)",
+          "links": [
+            {
+              "label": "m. 219",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=82"
+            },
+            {
+              "label": "m. 220",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=82"
+            },
+            {
+              "label": "m. 221",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=83"
+            },
+            {
+              "label": "m. 222",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=83"
+            }
+          ]
+        }
+      ]
     }
   }
 }
@@ -3229,17 +4246,35 @@ window.PROCEDURE = [
         {
           "title": "Juries Act 1974",
           "ref": "s.1",
-          "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/1"
+          "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/1",
+          "links": [
+            {
+              "label": "Juries Act 1974",
+              "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/1"
+            }
+          ]
         },
         {
           "title": "Magistrates' Courts Act 1980",
           "ref": "s.121(1)",
-          "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121"
+          "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121",
+          "links": [
+            {
+              "label": "Magistrates' Courts Act 1980",
+              "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121"
+            }
+          ]
         },
         {
           "title": "Criminal Justice Act 2003",
           "ref": "ss.44, 46",
-          "url": "https://www.legislation.gov.uk/ukpga/2003/44/section/44"
+          "url": "https://www.legislation.gov.uk/ukpga/2003/44/section/44",
+          "links": [
+            {
+              "label": "Criminal Justice Act 2003",
+              "url": "https://www.legislation.gov.uk/ukpga/2003/44/section/44"
+            }
+          ]
         }
       ]
     },
@@ -3432,7 +4467,13 @@ window.PROCEDURE = [
         {
           "title": "Juries Act 1974",
           "ref": "s.17",
-          "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17"
+          "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17",
+          "links": [
+            {
+              "label": "Juries Act 1974",
+              "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17"
+            }
+          ]
         }
       ]
     },
@@ -3466,7 +4507,13 @@ window.PROCEDURE = [
         {
           "title": "Criminal Appeal Act 1968",
           "ref": "s.1",
-          "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/1"
+          "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/1",
+          "links": [
+            {
+              "label": "Criminal Appeal Act 1968",
+              "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/1"
+            }
+          ]
         }
       ]
     },
@@ -3477,7 +4524,13 @@ window.PROCEDURE = [
         {
           "title": "Criminal Appeal Act 1968",
           "ref": "s.33",
-          "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/33"
+          "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/33",
+          "links": [
+            {
+              "label": "Criminal Appeal Act 1968",
+              "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/33"
+            }
+          ]
         },
         {
           "title": "Criminal Procedure Rules 2025",
@@ -3487,6 +4540,201 @@ window.PROCEDURE = [
             {
               "label": "Rule 43.1",
               "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/43.1"
+            }
+          ]
+        }
+      ]
+    },
+    "composition_stability": {
+      "summary": "Crown Court: sud 4 haftadan uzoq davom etadigan ishda dastlab 14 tagacha hakam tanlashi mumkin (25.6(6)). Dalillar taqdim etilishi boshlanguncha 12 dan ortiq hakam bo'lsa, ortiqchalari tanlanish tartibi teskari ketma-ketlikda chiqariladi (25.7(2)). Sud hakamni qasamyoddan keyin hakamlar hay'ati tarqatilguncha istalgan vaqtda ozod qilishi (discharge) mumkin (25.7(1)); hakamlar hay'atini har bir ayblov bo'yicha hukm chiqarilgach yoki hukm chiqarishdan ozod etilgach tarqatadi (25.7(3)–(4)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "25.6, 25.7",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25",
+          "links": [
+            {
+              "label": "Rule 25.6",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.6"
+            },
+            {
+              "label": "Rule 25.7",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.7"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Sud 'asosiy maqsad' (overriding objective)ni ilgari surish uchun ishni faol boshqarishi shart: haqiqiy masalalarni erta aniqlash, guvohlar ehtiyojlarini aniqlash, jadval belgilash, ijroni kuzatish, dalillarni eng qisqa va aniq taqdim etilishini ta'minlash, kechikishning oldini olish, ishtirokchilar hamkorligini rag'batlantirish va texnologiyadan foydalanish (3.2). Sud har qanday ko'rsatma berishi va ishni boshqarish uchun qadamlar qo'yishi mumkin: ko'rsatmani o'z tashabbusi bilan yoki taraf arizasi bo'yicha berish, eshituvni belgilash, ko'chirish, uzaytirish, bekor qilish yoki keyinga qoldirish, masalalarni alohida hal etish tartibini belgilash va h.k. (3.5). Majlis ketma-ketligini 25.9-qoida belgilaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "3.2, 3.5, 25.9",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 3.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/3.2"
+            },
+            {
+              "label": "Rule 3.5",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/3.5"
+            },
+            {
+              "label": "Rule 25.9",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.9"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuror qaysi ayblov hujjati va qaysi moddalar bo'yicha davom etishni ko'rsatadi va ayblov hujjatida jinoyat bayoni va aniq harakatlar ko'rsatilganini tasdiqlaydi; davom ettirmaslikni tanlagan modda bo'yicha, sud boshqacha ko'rsatma bermasa, keyingi harakatlar qilinmaydi (25.2(2), (4)). Majlisda ayblov ishini qisqa bayon qilishi mumkin, so'ng dalillarni taqdim etadi (25.9(2)(b), (d)); sud ayblov dalillari tugagach, prokuror fikrini tinglagach, hakamlarga oqlashni buyurishi mumkin (25.9(2)(e)). Mirovoy sud (magistrates' court) ishlarida Jamoat prokurorlari direktori (DPP) ayblovni sud ayblov dalillarini eshitishni boshlamaguncha to'xtatishi mumkin (Prosecution of Offences Act 1985 s.23, CrimPR 12.1 izohida), ayblanuvchi esa ishni davom ettirishni talab qilish huquqiga ega. Ayblovdan sud jarayonining o'rtasida voz kechish tartibi bu tahlilda ko'rilgan qoidalarda topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "12.1, 25.2, 25.9",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 12.1",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/12.1"
+            },
+            {
+              "label": "Rule 25.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.2"
+            },
+            {
+              "label": "Rule 25.9",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.9"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Ayblanuvchi sud majlisida qatnashishi (25.2(1)(b)) va ozodlikdan mahrum etishda yuridik vakilga ega bo'lishi (25.2(1)(c)) kerakligi yuqorida ko'rsatilgan. Prokuror, himoyachi, jabrlanuvchi yoki guvohning kelmasligi oqibatlari bo'yicha alohida qoida bu tahlilda o'qilmadi: CrimPR 18 (guvoh yoki ayblanuvchiga ishtirok etishda yordam choralari), 46 (vakillar) va 17 (guvohlarni chaqirish) qismlari mavjud, ularning mazmuni o'qilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "25.2(1); 17, 18, 46-qismlar sarlavhalari",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 25.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.2"
+            },
+            {
+              "label": "46-qism",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/part/46"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Sud majlisni istalgan bosqichda keyinga qoldirishi mumkin (25.2(3)); sud eshituvni belgilash, ko'chirish, uzaytirish, bekor qilish yoki keyinga qoldirish vakolatiga ega (3.5(2)(f)). Hakamlar hay'ati qaror chiqara olmasa, sud uni hukm chiqarishdan ozod etishi mumkin (25.7(3)–(4)). Sudlanuvchi yashiringan yoki ruhiy holat sababli ishni to'xtatish tartibi bu tahlilda o'qilmadi; sudlanuvchining ishga yaroqsizligi (fitness to plead) holati 25.10-qoidada ko'rsatilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "3.5, 25.2, 25.7, 25.10",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 3.5",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/3.5"
+            },
+            {
+              "label": "Rule 25.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.2"
+            },
+            {
+              "label": "Rule 25.7",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.7"
+            },
+            {
+              "label": "Rule 25.10",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.10"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Sud boshlanguncha hal qilinmagan protsedura, dalillarning kiritilishi yoki qabul qilinishi yoki boshqa huquqiy masala bo'yicha ariza majlis davomida ko'riladi; sud qaror qilmasa, ariza va qaror hakamlar yo'qligida e'lon qilinadi (25.3). Ozod qilish va garov (bail) hamda hibsda saqlash muddatlari alohida qismda tartibga solingan (14-qism sarlavhasi). Prokuratura uchun noqulay qarorlar ustidan Court of Appeal'ga shikoyat tartibi 38-qismda (sarlavha).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "25.3; 14, 38-qismlar sarlavhalari",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25",
+          "links": [
+            {
+              "label": "Rule 25.3",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.3"
+            },
+            {
+              "label": "38-qism",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/part/38"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Sud, qoida bo'yicha, ochiq o'tadi; sud hisobot berishni cheklashi, ma'lumotni yashirishi yoki yopiq majlis o'tkazishi mumkin (25.2(1)(a)). Sud majlisi zalida sudya, hakam, guvoh yoki taraflarning fotosurati yoki portretini olish va nashr etish taqiqlanadi (Criminal Justice Act 1925 s.41). Crown Court yoki Court of Appeal'da to'sqinlik qiluvchi, bezovta qiluvchi, haqoratli yoki qo'rqituvchi xatti-harakat bo'lsa, sud 48.5-qoida tartibida sudga hurmatsizlik (contempt) sifatida shu zahoti ko'rib chiqishi mumkin: avval qaysi xatti-harakat ekanligini va nima uchun jiddiy ekanligini tushunarli tilda tushuntiradi (48.5(2)); shuningdek hakamlar chaqiruvi yoki guvoh chaqiruviga bo'ysunmaslik, ovoz yozuv qurilmalaridan foydalanish, suratga olish ham shu tartibda ko'riladi (48.5(1)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "25.2, 48.5",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 25.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.2"
+            },
+            {
+              "label": "Rule 48.5",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/48.5"
+            }
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1925",
+          "ref": "s.41",
+          "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41",
+          "links": [
+            {
+              "label": "Criminal Justice Act 1925",
+              "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Sud kotibi (court officer) har bir ish bo'yicha quyidagilarni qayd etadi: ayblov hujjati, har bir ayblov bo'yicha aybga munosabat, har bir oqlov, hukm, jazo, qaror, ko'rsatma yoki buyruq, garov haqidagi qarorlar, qonun talab qilgan hollarda sud qarorining sabablari, apellyatsiyalar, har bir eshituvda taraflarning ishtirok etgan yoki etmaganligi va boshqalar (5.4(1)). Hakamlarsiz ko'rilgan ishda sud har bir modda bo'yicha hukm sabablarini bayon qilishi shart (25.15(2)). Bayonnomaga mulohaza berish muddati bu tahlilda qoidalardan topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "5.4, 25.15",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 5.4",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/5.4"
+            },
+            {
+              "label": "Rule 25.15",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.15"
             }
           ]
         }
@@ -3535,7 +4783,13 @@ window.PROCEDURE = [
           "title": "AQSh Konstitutsiyasi, 5-tuzatish",
           "ref": "katta hay'at",
           "url": "https://www.law.cornell.edu/constitution/fifth_amendment",
-          "original": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ..."
+          "original": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ...",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 5-tuzatish",
+              "url": "https://www.law.cornell.edu/constitution/fifth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -3561,13 +4815,25 @@ window.PROCEDURE = [
         {
           "title": "18 U.S.C. §3231",
           "ref": "",
-          "url": "https://www.law.cornell.edu/uscode/text/18/3231"
+          "url": "https://www.law.cornell.edu/uscode/text/18/3231",
+          "links": [
+            {
+              "label": "18 U.S.C. §3231",
+              "url": "https://www.law.cornell.edu/uscode/text/18/3231"
+            }
+          ]
         },
         {
           "title": "AQSh Konstitutsiyasi, 6-tuzatish",
           "ref": "",
           "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
-          "original": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury ..."
+          "original": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury ...",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 6-tuzatish",
+              "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -3593,7 +4859,13 @@ window.PROCEDURE = [
         {
           "title": "AQSh Konstitutsiyasi, 6-tuzatish",
           "ref": "",
-          "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+          "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 6-tuzatish",
+              "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -3706,7 +4978,13 @@ window.PROCEDURE = [
         {
           "title": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
           "ref": "",
-          "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+          "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
+              "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -3799,7 +5077,13 @@ window.PROCEDURE = [
         {
           "title": "28 U.S.C. §1291",
           "ref": "",
-          "url": "https://www.law.cornell.edu/uscode/text/28/1291"
+          "url": "https://www.law.cornell.edu/uscode/text/28/1291",
+          "links": [
+            {
+              "label": "28 U.S.C. §1291",
+              "url": "https://www.law.cornell.edu/uscode/text/28/1291"
+            }
+          ]
         }
       ]
     },
@@ -3810,12 +5094,244 @@ window.PROCEDURE = [
         {
           "title": "28 U.S.C. §1254",
           "ref": "",
-          "url": "https://www.law.cornell.edu/uscode/text/28/1254"
+          "url": "https://www.law.cornell.edu/uscode/text/28/1254",
+          "links": [
+            {
+              "label": "28 U.S.C. §1254",
+              "url": "https://www.law.cornell.edu/uscode/text/28/1254"
+            }
+          ]
         },
         {
           "title": "AQSh Konstitutsiyasi, III modda",
           "ref": "§2",
-          "url": "https://www.law.cornell.edu/constitution/articleiii"
+          "url": "https://www.law.cornell.edu/constitution/articleiii",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, III modda",
+              "url": "https://www.law.cornell.edu/constitution/articleiii"
+            }
+          ]
+        }
+      ]
+    },
+    "composition_stability": {
+      "summary": "Sud 6 tagacha zaxira hakam (alternate jurors) tanlashi mumkin; ular asosiy hakamlar kabi malakali bo'lib, xuddi shunday tanlanadi va qasamyod qiladi, imkon bo'lmagan hakamni tanlash ketma-ketligida almashtiradi (FRCrP 24(c)). Sud majlisi boshlangan sudya o'lim, kasallik yoki boshqa nogironlik sababli davom eta olmasa, shu sudning boshqa sudyasi hakamlar sudini yakunlashi mumkin, agar u ish yozuvlari bilan tanishligini tasdiqlasa (Rule 25(a)); hukm yoki aybdorlik topilgandan keyin ham o'xshash qoida (Rule 25(b)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rule 24(c), Rule 25",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 24",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_24"
+            },
+            {
+              "label": "Rule 25",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_25"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Dalillarni taqdim etish va guvohlarni so'roq qilish tartibi ustidan sud oqilona nazoratni amalga oshiradi: haqiqatni aniqlashni samarali qilish, vaqtni isrof qilmaslik va guvohlarni haqoratdan himoya qilish uchun (FRE 611(a)). Kross-so'roq bevosita so'roq predmeti va guvohning ishonchliligi bilan cheklanadi (611(b)); etakchi savollar odatda to'g'ridan-to'g'ri so'roqda ishlatilmaydi (611(c)). Sudya hakamlar hay'atiga qonun bo'yicha ko'rsatma berish tartibini ham belgilaydi (Rule 30).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRE",
+          "ref": "Rule 611",
+          "url": "https://www.law.cornell.edu/rules/fre",
+          "links": [
+            {
+              "label": "Rule 611",
+              "url": "https://www.law.cornell.edu/rules/fre/rule_611"
+            }
+          ]
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 30",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 30",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_30"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Hukumat (prokuror) sud ruxsati bilan indictment, information yoki complaint'ni bekor qilishi (dismiss) mumkin, lekin sud muhokamasi davomida ayblanuvchi roziligisiz ayblovni to'xtata olmaydi (FRCrP 48(a)). Sud ham, ayblov hujjatini taqdim etish yoki ayblanuvchini sudga keltirishdagi ortiqcha kechikish bo'lsa, ayblovni bekor qilishi mumkin (48(b)). Prokuratura dalillarini birinchi taqdim etadi (29(a)), yakuniy nutqni birinchi va javob nutqini oxirida so'zlaydi (Rule 29.1). Aybsizligiga ishonch hosil qilgan prokurorning ayblovdan voz kechish majburiyati (O'zbekistondagidek) bu tahlilda ko'rilgan federal qoidalarda topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rule 48, Rule 29(a), Rule 29.1",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "original": "The government may not dismiss the prosecution during trial without the defendant's consent. (Rule 48(a))",
+          "links": [
+            {
+              "label": "Rule 48",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_48"
+            },
+            {
+              "label": "Rule 29",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_29"
+            },
+            {
+              "label": "Rule 29.1",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_29.1"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Mablag'i yetmaydigan ayblanuvchi uchun sud har bir bosqichda (birinchi taqdim etilishdan apellyatsiyagacha) advokat tayinlashi shart, agar ayblanuvchi voz kechmasa (Rule 44(a)). Jabrlanuvchi (victim) huquqlari: hukumat u haqida sud majlislari to'g'risida o'z vaqtida xabar berishga harakat qiladi; sud uni ochiq majlisdan chiqarib yubormaydi, faqat uning ko'rsatuvi boshqa ko'rsatuvlarni eshitsa sezilarli o'zgarishi aniq va ishonarli dalil bilan tasdiqlansa; jabrlanuvchiga ozod qilish, aybga iqrorlik va jazo bo'yicha fikr bildirish huquqi beriladi (Rule 60(a)). Ayblanuvchining ishtiroki Rule 43 da (yuqorida).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rule 44(a), Rule 60(a)",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 44",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_44"
+            },
+            {
+              "label": "Rule 60",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_60"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Not-guilty deb javob berilgan ishda sud muhokamasi ayblov hujjati qayd etilgan yoki ayblanuvchi sudya oldiga kelgan kundan (qaysi biri keyin bo'lsa) 70 kun ichida boshlanishi kerak (18 U.S.C. §3161(c)(1)). Bu muddatdan chiqarib tashlanadigan kechikishlar: ayblanuvchining ruhiy holatini tekshirish, boshqa ayblovlar bo'yicha sud, oraliq apellyatsiya, sudgacha iltimoslarni ko'rish va sud 'adolat manfaati' manfaatdorlikni tezkor sudga bo'lgan manfaatdan ustun deb topgan holda bergan muddat cho'zish (continuance) (§3161(h)(1), (7)(A)). Sud muhokamani to'xtatish (mistrial) haqida qaror qilishdan oldin tomonlarga fikr bildirish va muqobil taklif qilish imkoni berishi shart (Rule 26.3); hakamlar kelisha olmagan moddalar bo'yicha mistrial e'lon qilinsa, hukumat qayta sud qilishi mumkin (Rule 31(b)(3)), va qayta sud mistrialdan keyin 70 kun ichida boshlanishi kerak (§3161(e)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "18 U.S.C. §3161",
+          "ref": "(c)(1), (e), (h)",
+          "url": "https://www.law.cornell.edu/uscode/text/18/3161",
+          "links": [
+            {
+              "label": "18 U.S.C. §3161",
+              "url": "https://www.law.cornell.edu/uscode/text/18/3161"
+            }
+          ]
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 26.3, Rule 31(b)",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 26.3",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_26.3"
+            },
+            {
+              "label": "Rule 31",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_31"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Sudgacha jinoyat bilan ayblangan shaxs sudya oldiga kelganda sudya u 'sud boshlanguncha' (1) o'z kafolati bilan, (2) shartlar bilan ozod qilinishi, (3) vaqtincha ushlab turilishi yoki (4) qamoqda saqlanishi haqida buyruq chiqaradi (18 U.S.C. §3142(a)). Sudgacha ko'rib chiqiladigan iltimosnomalar Rule 12 da tartibga solingan. Federal apellyatsiya sudlari okrug sudlarining yakuniy qarorlari ustidan shikoyatni ko'radi (28 U.S.C. §1291); oraliq ajrimlar bo'yicha istisnolar bu tahlilda ko'rilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "18 U.S.C. §3142",
+          "ref": "(a)",
+          "url": "https://www.law.cornell.edu/uscode/text/18/3142",
+          "links": [
+            {
+              "label": "18 U.S.C. §3142",
+              "url": "https://www.law.cornell.edu/uscode/text/18/3142"
+            }
+          ]
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 12",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 12",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_12"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Federal jinoyat sudlarida majlis zalida fotosuratga olish va majlisni efirga uzatish, qonun yoki qoida boshqacha belgilamasa, taqiqlanadi (FRCrP 53). Ayblanuvchi sud boshlangandan keyin ixtiyoriy ravishda yo'q bo'lsa yoki sud ogohlantirgandan keyin ham tartibsizlikni davom ettirib chiqarilsa, ishtirok huquqidan voz kechgan hisoblanadi va muhokama hukm chiqarilguncha uning yo'qligida davom etishi mumkin (Rule 43(c)(1)). Sud tartib va o'z hokimiyatini hurmat qilishni ta'minlash uchun jarima yoki qamoq bilan jazolash vakolatiga ega: majlisda yoki unga yaqin joyda tartibsizlik, sud xodimlarining noto'g'ri xatti-harakatlari, sud buyrug'iga bo'ysunmaslik (18 U.S.C. §401); jinoiy sudlanishni (criminal contempt) FRCrP 42 tartibida, ayblanuvchiga ogohlantirish va himoyalanishga vaqt berib, prokuror orqali ko'riladi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rule 43(c), Rule 53, Rule 42",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 43",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_43"
+            },
+            {
+              "label": "Rule 53",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_53"
+            },
+            {
+              "label": "Rule 42",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_42"
+            }
+          ]
+        },
+        {
+          "title": "18 U.S.C. §401",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/18/401",
+          "links": [
+            {
+              "label": "18 U.S.C. §401",
+              "url": "https://www.law.cornell.edu/uscode/text/18/401"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Federal sudning har bir majlisi, jumladan ochiq sudda jinoyat ishlari bo'yicha barcha jarayon, stenografiya, mexanik vosita, elektron ovoz yozuvi yoki boshqa usul bilan so'zma-so'z yozib olinishi kerak; yozuvni tayyorlagan shaxs o'zining rasmiy guvohnomasini ilova qiladi va yozuvni sud kotibiyatiga topshiradi (28 U.S.C. §753(b)). Sud kotibi (clerk) jinoyat ishlari bo'yicha yozuvlarni yuritadi va har bir sud buyrug'i yoki hukmni va uning kiritilgan sanasini yozib qo'yadi (FRCrP 55).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "28 U.S.C. §753",
+          "ref": "(b)",
+          "url": "https://www.law.cornell.edu/uscode/text/28/753",
+          "links": [
+            {
+              "label": "28 U.S.C. §753",
+              "url": "https://www.law.cornell.edu/uscode/text/28/753"
+            }
+          ]
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 55",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 55",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_55"
+            }
+          ]
         }
       ]
     }
@@ -4110,6 +5626,183 @@ window.PROCEDURE = [
             {
               "label": "478-modda",
               "url": "https://lex.uz/uz/docs/-111460#-6626168"
+            }
+          ]
+        }
+      ]
+    },
+    "composition_stability": {
+      "summary": "Har bir jinoyat ishi bir tarkibdagi sud yoki bir sudya tomonidan ko'rib chiqilishi lozim (406-modda). Muhokama uzoq vaqt talab qilsa, ishda zaxiradagi xalq maslahatchisi qatnashishi mumkin: u muhokama boshlanganidan majlis zalida hozir bo'ladi va sudyaning huquqlaridan foydalanadi, lekin sud maslahatlashuvlarida va ish bo'yicha qaror chiqarishda qatnashish huquqi bundan mustasno. Xalq maslahatchisi sud tarkibidan chiqib ketsa, zaxiradagi maslahatchi uning o'rnini egallaydi va muhokama davom etadi (407-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "406, 407-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "original": "Har bir jinoyat ishi bir tarkibdagi sud yoki bir sudya tomonidan koʻrib chiqilishi lozim. (406-modda)",
+          "links": [
+            {
+              "label": "406-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256257"
+            },
+            {
+              "label": "407-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256259"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Sud majlisida shu sudning raisi, uning o'rinbosari yoki sudya raislik qiladi. Raislik qiluvchi majlisga rahbarlik qiladi, ishning barcha holatlarini sinchkovlik bilan, har tomonlama, to'la va xolisona tekshirish hamda haqiqatni aniqlash uchun Kodeksda nazarda tutilgan hamma choralarni ko'radi, ishga aloqasi bo'lmagan holatlarni muhokamaga kiritmaydi. U zalda tartibga rioya qilinishini ta'minlaydi, uning farmoyishlari taraflar va barcha hozir bo'lganlar uchun majburiy. Raislik qiluvchining harakatlariga e'tiroz bildirilsa, e'tirozlar majlis bayonnomasiga yozib qo'yiladi (408-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "408-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "408-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256262"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuror birinchi instansiya sudlarida davlat ayblovini quvvatlaydi: dalillarni tekshirishda ishtirok etadi, sudlanuvchi, jabrlanuvchi, guvoh va ekspertlarga savol beradi, Jinoyat kodeksi normalarini qo'llash, harakatlarni tavsiflash va jazo turi hamda me'yori haqida o'z fikrini bildiradi; jinoyat sabablari va uni bartaraf etish choralari xususida ham fikr bildiradi. U Kodeks talablari va ishning barcha holatlarini ko'rib chiqishga asoslangan o'z ishonchiga amal qiladi. Sud tergovi ma'lumotlari asosida ayblovni o'zgartirish zarur bo'lsa, asoslantirilgan bayonot berishi shart. Muhokama natijasida sudlanuvchining aybsizligiga ishonch hosil qilsa, ayblovdan voz kechishi va sabablarini sudga bayon qilishi shart; bu sudning ishni reabilitatsiya asoslari bo'yicha tugatishiga sabab bo'ladi. Fikrini sudga yozma ravishda taqdim etishi shart. Zarur bo'lsa, fuqaroviy da'vo qo'zg'atadi yoki jabrlanuvchi da'vosini quvvatlaydi. Prokuror apellyatsiya, kassatsiya va taftish instansiyalarida ham ishtirok etadi (409-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "409-modda",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "409-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256270"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Jabrlanuvchi kelmasa, sud uning ishtirokisiz barcha holatlarni to'la aniqlash va huquqlarini himoya qilish mumkinligiga qarab muhokamani davom ettirish yoki keyinga qoldirishni hal qiladi; uzrsiz kelmasa majburiy keltirish haqida ajrim chiqaradi (411-modda). Prokuror kelmasa, muhokama keyinga qoldiriladi; himoyachi kelmasa, uni boshqasi bilan almashtirish faqat sudlanuvchi roziligi bilan mumkin, imkon bo'lmasa muhokama qoldiriladi; jamoat ayblovchisi yoki jamoat himoyachisi kelmasa, sud ularsiz ko'rish yoki qoldirishni hal etadi; ishga yangi kirgan prokuror yoki himoyachiga tayyorgarlik uchun vaqt beriladi; uzrsiz kelmaslik haqida yuqori prokurorga yoki Advokatlar palatasi huzuridagi malaka komissiyasiga xabar qilinadi (412-modda). Fuqaroviy da'vogar kelmasa, sud da'voni ko'rmaydi (u fuqarolik tartibida da'vo qilish huquqini saqlaydi), faqat da'vogar iltimosi bilan ishtirokisiz ko'rish yoki prokuror da'voni quvvatlasa yoki sud zarur topsa ko'rish mumkin; fuqaroviy javobgarning kelmasligi da'voni ko'rishni to'xtatmaydi (413-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "411, 412, 413-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "411-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256285"
+            },
+            {
+              "label": "412-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256289"
+            },
+            {
+              "label": "413-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256298"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Sud majlisiga chaqirilganlardan biri kelmagani, yangi dalillar talab qilish zarurligi yoki majlis texnik vositalari (jumladan videokonferensaloqa) nosozligi sababli muhokama mumkin bo'lmasa, sud uni keyinga qoldiradi va kelmagan shaxslarni chaqirish, yangi dalillarni talab qilish yoki nosozlikni bartaraf etish choralarini ko'radi (418-modda). Sudlanuvchi yashiringan, ruhiy holati buzilgan yoki og'ir kasallikka chalingan bo'lsa, sud shu sudlanuvchiga nisbatan ishni to'xtatib, boshqalarga nisbatan muhokamani davom ettiradi; 416 va 417-moddalar bo'yicha prokurorga qo'shimcha harakatlar topshirilsa yoki alohida ko'rish haqiqatni aniqlashni qiyinlashtirsa, ish yuritish butunlay to'xtatiladi; yashiringan sudlanuvchini qidirish sud ajrimi bilan e'lon qilinadi (420-modda). To'xtatish asoslari bartaraf etilgach, ish qaytadan boshlanadi va muhokama muddati ham qaytadan hisoblanadi (420¹-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "418, 420, 420¹-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "418-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256335"
+            },
+            {
+              "label": "420-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256347"
+            },
+            {
+              "label": "420¹-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-260434"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Muhokama vaqtida sud sudlanuvchiga nisbatan ehtiyot chorasini qo'llashga, o'zgartirishga yoki bekor qilishga haqli (422-modda). Muhokamada hal qilinadigan barcha masalalar bo'yicha sud ajrim chiqaradi. Ehtiyot choralari, lavozimdan chetlatish, tibbiy muassasaga joylashtirish, eksgumatsiya, xatlash, tintuv, suhbatlarni eshitib turish, mol-mulkni xatlash, rad qilish va xususiy ajrimlar alohida xonada (maslahatxonada) alohida hujjat tarzida chiqarilib, sud tomonidan imzolanadi; yopiq majlis o'tkazish haqidagi ajrim ham chiqariladi; boshqa ajrimlar sudning xohishiga ko'ra yo shu tartibda yoki o'z joyida chiqarilib, bayonnomaga yoziladi. Har bir ajrim darhol e'lon qilinadi (423-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "422, 423-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "422-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256353"
+            },
+            {
+              "label": "423-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256356"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Sudyalar kirib kelganda zaldagilarning hammasi o'rnidan turadi; protsess ishtirokchilari sudga tik turgan holda murojaat qiladi, ko'rsatuv beradi, bayonot qiladi (faqat raislik qiluvchi ruxsati bilan istisno); hamma raislik qiluvchining farmoyishlariga so'zsiz bo'ysunishi lozim; sudlanuvchi, jabrlanuvchi, guvoh bo'lmagan 16 yoshga to'lmaganlar zalga kiritilmaydi (424-modda). Tartibni buzgan, farmoyishga bo'ysunmagan yoki sudni behurmat qilgan shaxs avval takrorlansa zaldan chiqarilishi haqida ogohlantiriladi; ta'sir qilmasa, ishtirokchi sud ajrimiga, boshqalar raislik qiluvchi farmoyishiga ko'ra zaldan chiqariladi; ish chiqarib yuborilganlarsiz davom etadi; ayblovchi yoki himoyachiga taalluqli ajrim bo'lsa, ish qoldiriladi (bir shaxsni bir necha ayblovchi/himoyachi bo'lgan hollar bundan mustasno), sud xususiy ajrim chiqaradi. Sudlanuvchi chiqarilgan bo'lsa, hukm uning ishtirokida yoki darhol tilxat bilan e'lon qilinadi; ayrim shaxslar ma'muriy javobgarlikka tortilishi mumkin (425, 272-moddalar). Odil sudlovga qarshi jinoyat belgilari bo'lsa, 273-modda tartibi qo'llanadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "272, 273, 424, 425-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "272-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-254974"
+            },
+            {
+              "label": "273-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-2057129"
+            },
+            {
+              "label": "424-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256361"
+            },
+            {
+              "label": "425-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256368"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Sud majlisining kotibi bayonnoma yuritadi (90–92-moddalar qoidalari bo'yicha); u qo'lda yoki kompyuterda yoziladi, to'liqligi uchun audioyozuv va stenogrammadan foydalanish mumkin. Bayonnomada: ish raqami, joy va sana, majlis boshlangan va tugagan vaqt, sud tarkibi, ishtirokchilar, sudlanuvchi shaxsiga doir ma'lumotlar, raislik qiluvchining farmoyishlari, sud harakatlari tartibi, arizalar va iltimosnomalar, ko'rsatuvlarning batafsil mazmuni, ekspert javoblari, muzokaralar ketma-ketligi va sudlanuvchi oxirgi so'zining mazmuni ko'rsatiladi; videokonferensaloqa va audio-/videoyozuvdan foydalanish haqida belgi qo'yiladi. Bayonnomani raislik qiluvchi va kotib imzolaydi: hukm chiqarilgan kunning ertasidan, murakkab ishlarda uch sutkadan kechiktirmay. Taraflar nusxa olishga haqli (426-modda). Bayonnoma imzolangach besh sutka ichida taraflar mulohaza berishi mumkin; raislik qiluvchi qo'shilsa tasdiqlab bayonnomaga qo'shadi, qo'shilmasa sud tarkibi hal etadi; yakka sudya ko'rgan ishda raislik qiluvchining qarori uzil-kesil, lekin unga shikoyat yoki protest mumkin (427-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "JPK",
+          "ref": "426, 427-moddalar",
+          "url": "https://lex.uz/uz/docs/-111460",
+          "links": [
+            {
+              "label": "426-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-3696578"
+            },
+            {
+              "label": "427-modda",
+              "url": "https://lex.uz/uz/docs/-111460#-256386"
             }
           ]
         }

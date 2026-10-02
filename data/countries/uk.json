@@ -51,7 +51,13 @@
           "title": "Human Rights Act 1998",
           "ref": "s.4",
           "url": "https://www.legislation.gov.uk/ukpga/1998/42/section/4",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Human Rights Act 1998",
+              "url": "https://www.legislation.gov.uk/ukpga/1998/42/section/4"
+            }
+          ]
         }
       ]
     },
@@ -63,7 +69,13 @@
           "title": "Constitutional Reform Act 2005",
           "ref": "ss.61, 63",
           "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/63",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Constitutional Reform Act 2005",
+              "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/63"
+            }
+          ]
         },
         {
           "title": "FJC, Judiciaries Worldwide: United Kingdom",
@@ -81,7 +93,13 @@
           "title": "Judicial Pensions and Retirement Act 1993",
           "ref": "s.26(1)",
           "url": "https://www.legislation.gov.uk/ukpga/1993/8/section/26",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Judicial Pensions and Retirement Act 1993",
+              "url": "https://www.legislation.gov.uk/ukpga/1993/8/section/26"
+            }
+          ]
         },
         {
           "title": "FJC, Judiciaries Worldwide: United Kingdom",
@@ -99,7 +117,13 @@
           "title": "Constitutional Reform Act 2005",
           "ref": "s.3",
           "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Constitutional Reform Act 2005",
+              "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3"
+            }
+          ]
         }
       ]
     },
@@ -111,7 +135,13 @@
           "title": "Constitutional Reform Act 2005",
           "ref": "s.61",
           "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/61",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Constitutional Reform Act 2005",
+              "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/61"
+            }
+          ]
         }
       ]
     },
@@ -135,13 +165,25 @@
           "title": "Juries Act 1974",
           "ref": "ss.1, 17",
           "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Juries Act 1974",
+              "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17"
+            }
+          ]
         },
         {
           "title": "Magistrates' Courts Act 1980",
           "ref": "s.121",
           "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Magistrates' Courts Act 1980",
+              "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121"
+            }
+          ]
         }
       ]
     },
@@ -169,13 +211,25 @@
           "title": "Criminal Justice Act 1925",
           "ref": "s.41",
           "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Criminal Justice Act 1925",
+              "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41"
+            }
+          ]
         },
         {
           "title": "Welsh Language Act 1993",
           "ref": "s.22",
           "url": "https://www.legislation.gov.uk/ukpga/1993/38/section/22",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Welsh Language Act 1993",
+              "url": "https://www.legislation.gov.uk/ukpga/1993/38/section/22"
+            }
+          ]
         }
       ]
     },
@@ -187,13 +241,25 @@
           "title": "Courts Act 2003",
           "ref": "s.1",
           "url": "https://www.legislation.gov.uk/ukpga/2003/39/section/1",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Courts Act 2003",
+              "url": "https://www.legislation.gov.uk/ukpga/2003/39/section/1"
+            }
+          ]
         },
         {
           "title": "Constitutional Reform Act 2005",
           "ref": "s.3(6)",
           "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3",
-          "retrieved": "2026-10-01"
+          "retrieved": "2026-10-01",
+          "links": [
+            {
+              "label": "Constitutional Reform Act 2005",
+              "url": "https://www.legislation.gov.uk/ukpga/2005/4/section/3"
+            }
+          ]
         }
       ]
     }

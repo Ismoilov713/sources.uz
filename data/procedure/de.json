@@ -327,6 +327,231 @@
           ]
         }
       ]
+    },
+    "composition_stability": {
+      "summary": "Asosiy sud majlisi hukm chiqarishga chaqirilgan shaxslar (sudyalar va Schöffe), prokuratura va sud kotibining uzluksiz ishtirokida o'tadi (StPO §226(1)); yakka sudya (Strafrichter) kotibsiz o'tkazishi mumkin, bu qaror shikoyat qilinmaydi (§226(2)). Sudda qarorlarda sudyalar faqat qonunda belgilangan sonda qatnashadi; uzoq davom etadigan majlisda rais qo'shimcha sudyalar (Ergänzungsrichter) jalb etishni buyurishi mumkin, ular majlisda hozir bo'lib, biror sudya qatnasha olmaganda uning o'rniga o'tadi; bu qoida Schöffe'ga ham tegishli (GVG §192).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§ 226",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "original": "Die Hauptverhandlung erfolgt in ununterbrochener Gegenwart der zur Urteilsfindung berufenen Personen sowie der Staatsanwaltschaft und eines Urkundsbeamten der Geschäftsstelle. (§ 226 Abs. 1)",
+          "links": [
+            {
+              "label": "§ 226",
+              "url": "https://www.gesetze-im-internet.de/stpo/__226.html"
+            }
+          ]
+        },
+        {
+          "title": "GVG (nemis asl)",
+          "ref": "§ 192",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "links": [
+            {
+              "label": "§ 192",
+              "url": "https://www.gesetze-im-internet.de/gvg/__192.html"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Majlisni boshqarish, sudlanuvchini so'roq qilish va dalillarni olish raisga (Vorsitzender) yuklangan (§238(1)). Rais majlisni boshqarishga oid buyrug'iga qatnashchi qonunga zid deb e'tiroz bildirsa, sud (hay'at) hal qiladi (§238(2)). Hay'at a'zolari so'rasa, rais ularga sudlanuvchi, guvohlar va ekspertlarga savol berishga ruxsat berishi shart; prokuratura, sudlanuvchi, himoyachi va Schöffe'ga ham xuddi shunday (§240). Sud o'z tashabbusi bilan haqiqatni aniqlash uchun dalillarni kengaytiradi (§244(2), yuqorida).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 238, 240",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 238",
+              "url": "https://www.gesetze-im-internet.de/stpo/__238.html"
+            },
+            {
+              "label": "§ 240",
+              "url": "https://www.gesetze-im-internet.de/stpo/__240.html"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuratura majlisda uzluksiz hozir bo'lishi shart (§226(1)); bir nechta prokuror va bir nechta himoyachi ishtirok etib, ish taqsimlashi mumkin (§227). Prokuratura nafaqat ayblovchi, balki oqlovchi holatlarni ham aniqlashga majbur (§160(2)). Muhim farq: asosiy muhokama ochilgandan keyin ayblov qaytarib olinmaydi (§156), ya'ni O'zbekistondagi kabi ayblovdan voz kechish orqali ishni tugatish mexanizmi yo'q; prokuror oqlov so'rashi mumkin, qaror esa sudniki.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 156, 160, 226, 227",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "original": "Die öffentliche Klage kann nach Eröffnung des Hauptverfahrens nicht zurückgenommen werden. (§ 156)",
+          "links": [
+            {
+              "label": "§ 156",
+              "url": "https://www.gesetze-im-internet.de/stpo/__156.html"
+            },
+            {
+              "label": "§ 160",
+              "url": "https://www.gesetze-im-internet.de/stpo/__160.html"
+            },
+            {
+              "label": "§ 226",
+              "url": "https://www.gesetze-im-internet.de/stpo/__226.html"
+            },
+            {
+              "label": "§ 227",
+              "url": "https://www.gesetze-im-internet.de/stpo/__227.html"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Majburiy himoyada himoyachi kelmasa, ketib qolsa yoki himoyadan bosh tortsa, rais darhol boshqa himoyachi tayinlaydi, sud esa majlisni to'xtatishi (Aussetzung) mumkin; yangi himoyachi tayyorgarlik vaqti yetmasligini aytsa, majlis tanaffus qilinadi yoki to'xtatiladi; to'xtatish himoyachi aybi bilan bo'lsa, xarajat uning zimmasiga (§145). Himoyachi kelishga to'sqinlik qilgani sudlanuvchiga majlisni to'xtatishni talab qilish huquqini bermaydi (§228(2)). Jabrlanuvchi nebenkläger (qo'shilgan ayblovchi) sifatida ishtirok etsa, u majlisda hozir bo'lish, savol berish, dalil iltimosi va fikr bildirish huquqiga ega (§397(1)); uning qo'shilishi jarayonni to'xtatmaydi va belgilangan majlislar uning chaqirilmaganligidan qat'i nazar o'tkaziladi (§398).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 145, 228, 397, 398",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 145",
+              "url": "https://www.gesetze-im-internet.de/stpo/__145.html"
+            },
+            {
+              "label": "§ 228",
+              "url": "https://www.gesetze-im-internet.de/stpo/__228.html"
+            },
+            {
+              "label": "§ 397",
+              "url": "https://www.gesetze-im-internet.de/stpo/__397.html"
+            },
+            {
+              "label": "§ 398",
+              "url": "https://www.gesetze-im-internet.de/stpo/__398.html"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Majlisni to'xtatish (Aussetzung) yoki §229(2) bo'yicha tanaffus qilish haqida sud (hay'at) qaror chiqaradi; rais qisqa tanaffuslarni o'zi buyurishi mumkin (§228(1)). Tanaffus ko'pi bilan 3 hafta davom etishi mumkin (§229(1)); majlis avval kamida 10 kun o'tkazilgan bo'lsa, 1 oygacha (§229(2)). Majlis kamida 10 kun o'tkazilgan bo'lsa, sudlanuvchi yoki hukm chiqaruvchi shaxs kasallik sababli, hukm chiqaruvchi shaxs esa ona/ota ta'tili sababli (ko'pi bilan 2 oy) qatnasha olmaganda muddatlar to'xtab turadi; muddat tugagandan keyingi kunga qadar majlis davom ettirilmasa, u qaytadan boshlanadi (§229(3), (4)). Asosiy muhokama ochilgandan keyin protsessual to'siq paydo bo'lsa, sud majlisdan tashqarida qaror bilan jarayonni tugatishi mumkin (§206a).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 206a, 228, 229",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 206a",
+              "url": "https://www.gesetze-im-internet.de/stpo/__206a.html"
+            },
+            {
+              "label": "§ 228",
+              "url": "https://www.gesetze-im-internet.de/stpo/__228.html"
+            },
+            {
+              "label": "§ 229",
+              "url": "https://www.gesetze-im-internet.de/stpo/__229.html"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Rais buyrug'i bo'yicha e'tiroz bildirilsa, hay'at ajrim chiqaradi (§238(2)). Hukmdan oldin sud chiqargan qarorlar ustidan alohida shikoyat (Beschwerde) berilmaydi; hibsga olish, vaqtincha joylashtirish, musodara, vaqtincha huquq cheklash va uchinchi shaxslarga ta'sir qiluvchi qarorlar bundan mustasno (§305). Dalil iltimoslarini rad etish asoslari §244(3) da sanalgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 238(2), 244(3), 305",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 238",
+              "url": "https://www.gesetze-im-internet.de/stpo/__238.html"
+            },
+            {
+              "label": "§ 244",
+              "url": "https://www.gesetze-im-internet.de/stpo/__244.html"
+            },
+            {
+              "label": "§ 305",
+              "url": "https://www.gesetze-im-internet.de/stpo/__305.html"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Majlisda tartibni saqlash raisga yuklangan; qatnashuvchilar yuzini to'liq yoki qisman yopishi mumkin emas (GVG §176). Ishtirokchilar, guvohlar, ekspertlar va ishda qatnashmaganlar tartib bo'yicha buyruqlarga bo'ysunmasa, zaldan chiqarilishi va 24 soatdan oshmagan muddatga tutib turilishi mumkin; qatnashmaganlar bo'yicha rais, boshqalar bo'yicha sud qaror qiladi (GVG §177). Tartibsizlik uchun 1000 evrogacha jarima (Ordnungsgeld) yoki 1 haftagacha Ordnungshaft belgilanishi va darhol ijro etilishi mumkin (GVG §178). Majlisda jinoyat sodir etilsa, sud holatni aniqlab, bayonnomani vakolatli organga yuboradi, ba'zan vaqtincha hibsga olinadi (GVG §183). Sudlanuvchi tartibsizligi uchun chiqarilsa, sud uning ishtirokini zarur hisoblamasa va ishtiroki majlisga jiddiy zarar qilsa, muhokama uning yo'qligida davom etishi mumkin, lekin unga ayblov bo'yicha so'z berilishi shart (StPO §231b). Majlis ochiq, tele-/ovoz yozuvi taqiqlangan (GVG §169, yuqorida).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl)",
+          "ref": "§§ 176, 177, 178, 183",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "links": [
+            {
+              "label": "§ 176",
+              "url": "https://www.gesetze-im-internet.de/gvg/__176.html"
+            },
+            {
+              "label": "§ 177",
+              "url": "https://www.gesetze-im-internet.de/gvg/__177.html"
+            },
+            {
+              "label": "§ 178",
+              "url": "https://www.gesetze-im-internet.de/gvg/__178.html"
+            },
+            {
+              "label": "§ 183",
+              "url": "https://www.gesetze-im-internet.de/gvg/__183.html"
+            }
+          ]
+        },
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§ 231b",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "links": [
+            {
+              "label": "§ 231b",
+              "url": "https://www.gesetze-im-internet.de/stpo/__231b.html"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Majlis bayonnomasini rais va (u qatnashgan bo'lsa) sud kotibi imzolaydi (StPO §271(1)). Bayonnomada majlisning borishi va natijalari mohiyatan, barcha muhim rasmiyatlarga rioya qilinganligi, o'qilgan hujjatlar, kiritilgan iltimoslar, chiqarilgan qarorlar va hukmning rezolyutiv qismi ko'rsatiladi; §257c kelishuvi bo'lsa, uning borishi, mazmuni va natijasi ham yoziladi (§273(1), (1a)). Majlis rasmiyatlariga rioya qilinganligi faqat bayonnoma bilan isbotlanadi; bayonnomaning shu qismiga qarshi faqat soxtalik isboti mumkin (§274).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl)",
+          "ref": "§§ 271, 273, 274",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "original": "Die Beobachtung der für die Hauptverhandlung vorgeschriebenen Förmlichkeiten kann nur durch das Protokoll bewiesen werden. (§ 274)",
+          "links": [
+            {
+              "label": "§ 271",
+              "url": "https://www.gesetze-im-internet.de/stpo/__271.html"
+            },
+            {
+              "label": "§ 273",
+              "url": "https://www.gesetze-im-internet.de/stpo/__273.html"
+            },
+            {
+              "label": "§ 274",
+              "url": "https://www.gesetze-im-internet.de/stpo/__274.html"
+            }
+          ]
+        }
+      ]
     }
   }
 }

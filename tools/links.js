@@ -96,6 +96,10 @@ function labelFor(doc, n, to) {
 function enrich(source) {
   delete source.links;
   const baseDoc = docOf(source.url);
+  if (!baseDoc && /uscode\/text|legislation\.gov\.uk\/ukpga|gesetze-im-internet\.de\/\w+\/(__|art_)|cornell\.edu\/constitution\/|supremecourt\/text/.test(source.url || "")) {
+    source.links = [{ label: source.title.replace(/\s*\(.*\)$/, ""), url: source.url }];
+    return 1;
+  }
   if (!baseDoc || !source.ref) return 0;
   const links = [], seen = new Set();
   for (const seg of String(source.ref).split(";")) {

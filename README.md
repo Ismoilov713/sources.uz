@@ -3,7 +3,7 @@
 O'zbekiston va xorijiy davlatlar (Qozog'iston, Turkiya, Germaniya, Fransiya, AQSh, Buyuk Britaniya: Angliya va Uels) jinoyat ishlari bo'yicha sud jarayonini bosqichma-bosqich solishtiruvchi statik veb-sayt. Talabalar va huquqshunoslar uchun.
 
 ## Nima bor
-- **Jinoyat ishi bo'yicha sud jarayoni:** 12 bosqich (sudga tayyorlash, sud tarkibi, ishtirok, majlis, ayblov va aybga munosabat, ayblovni o'zgartirish, sud tergovi, kelishuv, muzokara va oxirgi so'z, hukm, apellyatsiya, kassatsiya).
+- **Jinoyat ishi bo'yicha sud jarayoni:** 20 bosqich: sud muhokamasining umumiy shartlari (tarkib o'zgarmasligi, raislik qiluvchi, prokuror, ishtirok, kelmaslik oqibatlari, qoldirish va to'xtatish, ajrimlar, majlis tartibi, bayonnoma) hamda sud majlisi, sud tergovi, kelishuv, muzokara, hukm, apellyatsiya va kassatsiya.
 - **Sud tizimi (umumiy):** tuzilma, konstitutsiyaviy nazorat, sudyalarni tayinlash va muddat, mustaqillik, kengash, xalq ishtiroki, ochiqlik, moliyalashtirish.
 - **Ilmiy manbalar** va **Atamalar lug'ati**.
 - Har bir ma'lumot yonida manba (modda raqami, havola, olingan sana) va holat belgisi: `tasdiqlangan`, `tekshirilmagan`, `ziddiyatli`.

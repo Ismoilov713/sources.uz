@@ -54,17 +54,35 @@
         {
           "title": "Juries Act 1974",
           "ref": "s.1",
-          "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/1"
+          "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/1",
+          "links": [
+            {
+              "label": "Juries Act 1974",
+              "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/1"
+            }
+          ]
         },
         {
           "title": "Magistrates' Courts Act 1980",
           "ref": "s.121(1)",
-          "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121"
+          "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121",
+          "links": [
+            {
+              "label": "Magistrates' Courts Act 1980",
+              "url": "https://www.legislation.gov.uk/ukpga/1980/43/section/121"
+            }
+          ]
         },
         {
           "title": "Criminal Justice Act 2003",
           "ref": "ss.44, 46",
-          "url": "https://www.legislation.gov.uk/ukpga/2003/44/section/44"
+          "url": "https://www.legislation.gov.uk/ukpga/2003/44/section/44",
+          "links": [
+            {
+              "label": "Criminal Justice Act 2003",
+              "url": "https://www.legislation.gov.uk/ukpga/2003/44/section/44"
+            }
+          ]
         }
       ]
     },
@@ -257,7 +275,13 @@
         {
           "title": "Juries Act 1974",
           "ref": "s.17",
-          "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17"
+          "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17",
+          "links": [
+            {
+              "label": "Juries Act 1974",
+              "url": "https://www.legislation.gov.uk/ukpga/1974/23/section/17"
+            }
+          ]
         }
       ]
     },
@@ -291,7 +315,13 @@
         {
           "title": "Criminal Appeal Act 1968",
           "ref": "s.1",
-          "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/1"
+          "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/1",
+          "links": [
+            {
+              "label": "Criminal Appeal Act 1968",
+              "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/1"
+            }
+          ]
         }
       ]
     },
@@ -302,7 +332,13 @@
         {
           "title": "Criminal Appeal Act 1968",
           "ref": "s.33",
-          "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/33"
+          "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/33",
+          "links": [
+            {
+              "label": "Criminal Appeal Act 1968",
+              "url": "https://www.legislation.gov.uk/ukpga/1968/19/section/33"
+            }
+          ]
         },
         {
           "title": "Criminal Procedure Rules 2025",
@@ -312,6 +348,201 @@
             {
               "label": "Rule 43.1",
               "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/43.1"
+            }
+          ]
+        }
+      ]
+    },
+    "composition_stability": {
+      "summary": "Crown Court: sud 4 haftadan uzoq davom etadigan ishda dastlab 14 tagacha hakam tanlashi mumkin (25.6(6)). Dalillar taqdim etilishi boshlanguncha 12 dan ortiq hakam bo'lsa, ortiqchalari tanlanish tartibi teskari ketma-ketlikda chiqariladi (25.7(2)). Sud hakamni qasamyoddan keyin hakamlar hay'ati tarqatilguncha istalgan vaqtda ozod qilishi (discharge) mumkin (25.7(1)); hakamlar hay'atini har bir ayblov bo'yicha hukm chiqarilgach yoki hukm chiqarishdan ozod etilgach tarqatadi (25.7(3)–(4)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "25.6, 25.7",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25",
+          "links": [
+            {
+              "label": "Rule 25.6",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.6"
+            },
+            {
+              "label": "Rule 25.7",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.7"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Sud 'asosiy maqsad' (overriding objective)ni ilgari surish uchun ishni faol boshqarishi shart: haqiqiy masalalarni erta aniqlash, guvohlar ehtiyojlarini aniqlash, jadval belgilash, ijroni kuzatish, dalillarni eng qisqa va aniq taqdim etilishini ta'minlash, kechikishning oldini olish, ishtirokchilar hamkorligini rag'batlantirish va texnologiyadan foydalanish (3.2). Sud har qanday ko'rsatma berishi va ishni boshqarish uchun qadamlar qo'yishi mumkin: ko'rsatmani o'z tashabbusi bilan yoki taraf arizasi bo'yicha berish, eshituvni belgilash, ko'chirish, uzaytirish, bekor qilish yoki keyinga qoldirish, masalalarni alohida hal etish tartibini belgilash va h.k. (3.5). Majlis ketma-ketligini 25.9-qoida belgilaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "3.2, 3.5, 25.9",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 3.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/3.2"
+            },
+            {
+              "label": "Rule 3.5",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/3.5"
+            },
+            {
+              "label": "Rule 25.9",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.9"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuror qaysi ayblov hujjati va qaysi moddalar bo'yicha davom etishni ko'rsatadi va ayblov hujjatida jinoyat bayoni va aniq harakatlar ko'rsatilganini tasdiqlaydi; davom ettirmaslikni tanlagan modda bo'yicha, sud boshqacha ko'rsatma bermasa, keyingi harakatlar qilinmaydi (25.2(2), (4)). Majlisda ayblov ishini qisqa bayon qilishi mumkin, so'ng dalillarni taqdim etadi (25.9(2)(b), (d)); sud ayblov dalillari tugagach, prokuror fikrini tinglagach, hakamlarga oqlashni buyurishi mumkin (25.9(2)(e)). Mirovoy sud (magistrates' court) ishlarida Jamoat prokurorlari direktori (DPP) ayblovni sud ayblov dalillarini eshitishni boshlamaguncha to'xtatishi mumkin (Prosecution of Offences Act 1985 s.23, CrimPR 12.1 izohida), ayblanuvchi esa ishni davom ettirishni talab qilish huquqiga ega. Ayblovdan sud jarayonining o'rtasida voz kechish tartibi bu tahlilda ko'rilgan qoidalarda topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "12.1, 25.2, 25.9",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 12.1",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/12.1"
+            },
+            {
+              "label": "Rule 25.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.2"
+            },
+            {
+              "label": "Rule 25.9",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.9"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Ayblanuvchi sud majlisida qatnashishi (25.2(1)(b)) va ozodlikdan mahrum etishda yuridik vakilga ega bo'lishi (25.2(1)(c)) kerakligi yuqorida ko'rsatilgan. Prokuror, himoyachi, jabrlanuvchi yoki guvohning kelmasligi oqibatlari bo'yicha alohida qoida bu tahlilda o'qilmadi: CrimPR 18 (guvoh yoki ayblanuvchiga ishtirok etishda yordam choralari), 46 (vakillar) va 17 (guvohlarni chaqirish) qismlari mavjud, ularning mazmuni o'qilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "25.2(1); 17, 18, 46-qismlar sarlavhalari",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 25.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.2"
+            },
+            {
+              "label": "46-qism",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/part/46"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Sud majlisni istalgan bosqichda keyinga qoldirishi mumkin (25.2(3)); sud eshituvni belgilash, ko'chirish, uzaytirish, bekor qilish yoki keyinga qoldirish vakolatiga ega (3.5(2)(f)). Hakamlar hay'ati qaror chiqara olmasa, sud uni hukm chiqarishdan ozod etishi mumkin (25.7(3)–(4)). Sudlanuvchi yashiringan yoki ruhiy holat sababli ishni to'xtatish tartibi bu tahlilda o'qilmadi; sudlanuvchining ishga yaroqsizligi (fitness to plead) holati 25.10-qoidada ko'rsatilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "3.5, 25.2, 25.7, 25.10",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 3.5",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/3.5"
+            },
+            {
+              "label": "Rule 25.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.2"
+            },
+            {
+              "label": "Rule 25.7",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.7"
+            },
+            {
+              "label": "Rule 25.10",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.10"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Sud boshlanguncha hal qilinmagan protsedura, dalillarning kiritilishi yoki qabul qilinishi yoki boshqa huquqiy masala bo'yicha ariza majlis davomida ko'riladi; sud qaror qilmasa, ariza va qaror hakamlar yo'qligida e'lon qilinadi (25.3). Ozod qilish va garov (bail) hamda hibsda saqlash muddatlari alohida qismda tartibga solingan (14-qism sarlavhasi). Prokuratura uchun noqulay qarorlar ustidan Court of Appeal'ga shikoyat tartibi 38-qismda (sarlavha).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "25.3; 14, 38-qismlar sarlavhalari",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/part/25",
+          "links": [
+            {
+              "label": "Rule 25.3",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.3"
+            },
+            {
+              "label": "38-qism",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/part/38"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Sud, qoida bo'yicha, ochiq o'tadi; sud hisobot berishni cheklashi, ma'lumotni yashirishi yoki yopiq majlis o'tkazishi mumkin (25.2(1)(a)). Sud majlisi zalida sudya, hakam, guvoh yoki taraflarning fotosurati yoki portretini olish va nashr etish taqiqlanadi (Criminal Justice Act 1925 s.41). Crown Court yoki Court of Appeal'da to'sqinlik qiluvchi, bezovta qiluvchi, haqoratli yoki qo'rqituvchi xatti-harakat bo'lsa, sud 48.5-qoida tartibida sudga hurmatsizlik (contempt) sifatida shu zahoti ko'rib chiqishi mumkin: avval qaysi xatti-harakat ekanligini va nima uchun jiddiy ekanligini tushunarli tilda tushuntiradi (48.5(2)); shuningdek hakamlar chaqiruvi yoki guvoh chaqiruviga bo'ysunmaslik, ovoz yozuv qurilmalaridan foydalanish, suratga olish ham shu tartibda ko'riladi (48.5(1)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "25.2, 48.5",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 25.2",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.2"
+            },
+            {
+              "label": "Rule 48.5",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/48.5"
+            }
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1925",
+          "ref": "s.41",
+          "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41",
+          "links": [
+            {
+              "label": "Criminal Justice Act 1925",
+              "url": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/86/section/41"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Sud kotibi (court officer) har bir ish bo'yicha quyidagilarni qayd etadi: ayblov hujjati, har bir ayblov bo'yicha aybga munosabat, har bir oqlov, hukm, jazo, qaror, ko'rsatma yoki buyruq, garov haqidagi qarorlar, qonun talab qilgan hollarda sud qarorining sabablari, apellyatsiyalar, har bir eshituvda taraflarning ishtirok etgan yoki etmaganligi va boshqalar (5.4(1)). Hakamlarsiz ko'rilgan ishda sud har bir modda bo'yicha hukm sabablarini bayon qilishi shart (25.15(2)). Bayonnomaga mulohaza berish muddati bu tahlilda qoidalardan topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Rules 2025",
+          "ref": "5.4, 25.15",
+          "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+          "links": [
+            {
+              "label": "Rule 5.4",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/5.4"
+            },
+            {
+              "label": "Rule 25.15",
+              "url": "https://www.legislation.gov.uk/uksi/2025/909/rule/25.15"
             }
           ]
         }

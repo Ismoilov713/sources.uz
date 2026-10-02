@@ -38,7 +38,13 @@
           "title": "AQSh Konstitutsiyasi, 5-tuzatish",
           "ref": "katta hay'at",
           "url": "https://www.law.cornell.edu/constitution/fifth_amendment",
-          "original": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ..."
+          "original": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury ...",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 5-tuzatish",
+              "url": "https://www.law.cornell.edu/constitution/fifth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -64,13 +70,25 @@
         {
           "title": "18 U.S.C. §3231",
           "ref": "",
-          "url": "https://www.law.cornell.edu/uscode/text/18/3231"
+          "url": "https://www.law.cornell.edu/uscode/text/18/3231",
+          "links": [
+            {
+              "label": "18 U.S.C. §3231",
+              "url": "https://www.law.cornell.edu/uscode/text/18/3231"
+            }
+          ]
         },
         {
           "title": "AQSh Konstitutsiyasi, 6-tuzatish",
           "ref": "",
           "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
-          "original": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury ..."
+          "original": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury ...",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 6-tuzatish",
+              "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -96,7 +114,13 @@
         {
           "title": "AQSh Konstitutsiyasi, 6-tuzatish",
           "ref": "",
-          "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+          "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 6-tuzatish",
+              "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -209,7 +233,13 @@
         {
           "title": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
           "ref": "",
-          "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+          "url": "https://www.law.cornell.edu/constitution/sixth_amendment",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, 5- va 6-tuzatishlar",
+              "url": "https://www.law.cornell.edu/constitution/sixth_amendment"
+            }
+          ]
         }
       ]
     },
@@ -302,7 +332,13 @@
         {
           "title": "28 U.S.C. §1291",
           "ref": "",
-          "url": "https://www.law.cornell.edu/uscode/text/28/1291"
+          "url": "https://www.law.cornell.edu/uscode/text/28/1291",
+          "links": [
+            {
+              "label": "28 U.S.C. §1291",
+              "url": "https://www.law.cornell.edu/uscode/text/28/1291"
+            }
+          ]
         }
       ]
     },
@@ -313,12 +349,244 @@
         {
           "title": "28 U.S.C. §1254",
           "ref": "",
-          "url": "https://www.law.cornell.edu/uscode/text/28/1254"
+          "url": "https://www.law.cornell.edu/uscode/text/28/1254",
+          "links": [
+            {
+              "label": "28 U.S.C. §1254",
+              "url": "https://www.law.cornell.edu/uscode/text/28/1254"
+            }
+          ]
         },
         {
           "title": "AQSh Konstitutsiyasi, III modda",
           "ref": "§2",
-          "url": "https://www.law.cornell.edu/constitution/articleiii"
+          "url": "https://www.law.cornell.edu/constitution/articleiii",
+          "links": [
+            {
+              "label": "AQSh Konstitutsiyasi, III modda",
+              "url": "https://www.law.cornell.edu/constitution/articleiii"
+            }
+          ]
+        }
+      ]
+    },
+    "composition_stability": {
+      "summary": "Sud 6 tagacha zaxira hakam (alternate jurors) tanlashi mumkin; ular asosiy hakamlar kabi malakali bo'lib, xuddi shunday tanlanadi va qasamyod qiladi, imkon bo'lmagan hakamni tanlash ketma-ketligida almashtiradi (FRCrP 24(c)). Sud majlisi boshlangan sudya o'lim, kasallik yoki boshqa nogironlik sababli davom eta olmasa, shu sudning boshqa sudyasi hakamlar sudini yakunlashi mumkin, agar u ish yozuvlari bilan tanishligini tasdiqlasa (Rule 25(a)); hukm yoki aybdorlik topilgandan keyin ham o'xshash qoida (Rule 25(b)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rule 24(c), Rule 25",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 24",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_24"
+            },
+            {
+              "label": "Rule 25",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_25"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Dalillarni taqdim etish va guvohlarni so'roq qilish tartibi ustidan sud oqilona nazoratni amalga oshiradi: haqiqatni aniqlashni samarali qilish, vaqtni isrof qilmaslik va guvohlarni haqoratdan himoya qilish uchun (FRE 611(a)). Kross-so'roq bevosita so'roq predmeti va guvohning ishonchliligi bilan cheklanadi (611(b)); etakchi savollar odatda to'g'ridan-to'g'ri so'roqda ishlatilmaydi (611(c)). Sudya hakamlar hay'atiga qonun bo'yicha ko'rsatma berish tartibini ham belgilaydi (Rule 30).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRE",
+          "ref": "Rule 611",
+          "url": "https://www.law.cornell.edu/rules/fre",
+          "links": [
+            {
+              "label": "Rule 611",
+              "url": "https://www.law.cornell.edu/rules/fre/rule_611"
+            }
+          ]
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 30",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 30",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_30"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Hukumat (prokuror) sud ruxsati bilan indictment, information yoki complaint'ni bekor qilishi (dismiss) mumkin, lekin sud muhokamasi davomida ayblanuvchi roziligisiz ayblovni to'xtata olmaydi (FRCrP 48(a)). Sud ham, ayblov hujjatini taqdim etish yoki ayblanuvchini sudga keltirishdagi ortiqcha kechikish bo'lsa, ayblovni bekor qilishi mumkin (48(b)). Prokuratura dalillarini birinchi taqdim etadi (29(a)), yakuniy nutqni birinchi va javob nutqini oxirida so'zlaydi (Rule 29.1). Aybsizligiga ishonch hosil qilgan prokurorning ayblovdan voz kechish majburiyati (O'zbekistondagidek) bu tahlilda ko'rilgan federal qoidalarda topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rule 48, Rule 29(a), Rule 29.1",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "original": "The government may not dismiss the prosecution during trial without the defendant's consent. (Rule 48(a))",
+          "links": [
+            {
+              "label": "Rule 48",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_48"
+            },
+            {
+              "label": "Rule 29",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_29"
+            },
+            {
+              "label": "Rule 29.1",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_29.1"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Mablag'i yetmaydigan ayblanuvchi uchun sud har bir bosqichda (birinchi taqdim etilishdan apellyatsiyagacha) advokat tayinlashi shart, agar ayblanuvchi voz kechmasa (Rule 44(a)). Jabrlanuvchi (victim) huquqlari: hukumat u haqida sud majlislari to'g'risida o'z vaqtida xabar berishga harakat qiladi; sud uni ochiq majlisdan chiqarib yubormaydi, faqat uning ko'rsatuvi boshqa ko'rsatuvlarni eshitsa sezilarli o'zgarishi aniq va ishonarli dalil bilan tasdiqlansa; jabrlanuvchiga ozod qilish, aybga iqrorlik va jazo bo'yicha fikr bildirish huquqi beriladi (Rule 60(a)). Ayblanuvchining ishtiroki Rule 43 da (yuqorida).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rule 44(a), Rule 60(a)",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 44",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_44"
+            },
+            {
+              "label": "Rule 60",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_60"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Not-guilty deb javob berilgan ishda sud muhokamasi ayblov hujjati qayd etilgan yoki ayblanuvchi sudya oldiga kelgan kundan (qaysi biri keyin bo'lsa) 70 kun ichida boshlanishi kerak (18 U.S.C. §3161(c)(1)). Bu muddatdan chiqarib tashlanadigan kechikishlar: ayblanuvchining ruhiy holatini tekshirish, boshqa ayblovlar bo'yicha sud, oraliq apellyatsiya, sudgacha iltimoslarni ko'rish va sud 'adolat manfaati' manfaatdorlikni tezkor sudga bo'lgan manfaatdan ustun deb topgan holda bergan muddat cho'zish (continuance) (§3161(h)(1), (7)(A)). Sud muhokamani to'xtatish (mistrial) haqida qaror qilishdan oldin tomonlarga fikr bildirish va muqobil taklif qilish imkoni berishi shart (Rule 26.3); hakamlar kelisha olmagan moddalar bo'yicha mistrial e'lon qilinsa, hukumat qayta sud qilishi mumkin (Rule 31(b)(3)), va qayta sud mistrialdan keyin 70 kun ichida boshlanishi kerak (§3161(e)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "18 U.S.C. §3161",
+          "ref": "(c)(1), (e), (h)",
+          "url": "https://www.law.cornell.edu/uscode/text/18/3161",
+          "links": [
+            {
+              "label": "18 U.S.C. §3161",
+              "url": "https://www.law.cornell.edu/uscode/text/18/3161"
+            }
+          ]
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 26.3, Rule 31(b)",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 26.3",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_26.3"
+            },
+            {
+              "label": "Rule 31",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_31"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Sudgacha jinoyat bilan ayblangan shaxs sudya oldiga kelganda sudya u 'sud boshlanguncha' (1) o'z kafolati bilan, (2) shartlar bilan ozod qilinishi, (3) vaqtincha ushlab turilishi yoki (4) qamoqda saqlanishi haqida buyruq chiqaradi (18 U.S.C. §3142(a)). Sudgacha ko'rib chiqiladigan iltimosnomalar Rule 12 da tartibga solingan. Federal apellyatsiya sudlari okrug sudlarining yakuniy qarorlari ustidan shikoyatni ko'radi (28 U.S.C. §1291); oraliq ajrimlar bo'yicha istisnolar bu tahlilda ko'rilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "18 U.S.C. §3142",
+          "ref": "(a)",
+          "url": "https://www.law.cornell.edu/uscode/text/18/3142",
+          "links": [
+            {
+              "label": "18 U.S.C. §3142",
+              "url": "https://www.law.cornell.edu/uscode/text/18/3142"
+            }
+          ]
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 12",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 12",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_12"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Federal jinoyat sudlarida majlis zalida fotosuratga olish va majlisni efirga uzatish, qonun yoki qoida boshqacha belgilamasa, taqiqlanadi (FRCrP 53). Ayblanuvchi sud boshlangandan keyin ixtiyoriy ravishda yo'q bo'lsa yoki sud ogohlantirgandan keyin ham tartibsizlikni davom ettirib chiqarilsa, ishtirok huquqidan voz kechgan hisoblanadi va muhokama hukm chiqarilguncha uning yo'qligida davom etishi mumkin (Rule 43(c)(1)). Sud tartib va o'z hokimiyatini hurmat qilishni ta'minlash uchun jarima yoki qamoq bilan jazolash vakolatiga ega: majlisda yoki unga yaqin joyda tartibsizlik, sud xodimlarining noto'g'ri xatti-harakatlari, sud buyrug'iga bo'ysunmaslik (18 U.S.C. §401); jinoiy sudlanishni (criminal contempt) FRCrP 42 tartibida, ayblanuvchiga ogohlantirish va himoyalanishga vaqt berib, prokuror orqali ko'riladi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FRCrP",
+          "ref": "Rule 43(c), Rule 53, Rule 42",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 43",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_43"
+            },
+            {
+              "label": "Rule 53",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_53"
+            },
+            {
+              "label": "Rule 42",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_42"
+            }
+          ]
+        },
+        {
+          "title": "18 U.S.C. §401",
+          "ref": "",
+          "url": "https://www.law.cornell.edu/uscode/text/18/401",
+          "links": [
+            {
+              "label": "18 U.S.C. §401",
+              "url": "https://www.law.cornell.edu/uscode/text/18/401"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Federal sudning har bir majlisi, jumladan ochiq sudda jinoyat ishlari bo'yicha barcha jarayon, stenografiya, mexanik vosita, elektron ovoz yozuvi yoki boshqa usul bilan so'zma-so'z yozib olinishi kerak; yozuvni tayyorlagan shaxs o'zining rasmiy guvohnomasini ilova qiladi va yozuvni sud kotibiyatiga topshiradi (28 U.S.C. §753(b)). Sud kotibi (clerk) jinoyat ishlari bo'yicha yozuvlarni yuritadi va har bir sud buyrug'i yoki hukmni va uning kiritilgan sanasini yozib qo'yadi (FRCrP 55).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "28 U.S.C. §753",
+          "ref": "(b)",
+          "url": "https://www.law.cornell.edu/uscode/text/28/753",
+          "links": [
+            {
+              "label": "28 U.S.C. §753",
+              "url": "https://www.law.cornell.edu/uscode/text/28/753"
+            }
+          ]
+        },
+        {
+          "title": "FRCrP",
+          "ref": "Rule 55",
+          "url": "https://www.law.cornell.edu/rules/frcrmp",
+          "links": [
+            {
+              "label": "Rule 55",
+              "url": "https://www.law.cornell.edu/rules/frcrmp/rule_55"
+            }
+          ]
         }
       ]
     }

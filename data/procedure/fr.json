@@ -380,6 +380,212 @@
           ]
         }
       ]
+    },
+    "composition_stability": {
+      "summary": "Cour d'assises: hakamlar hay'ati tuzilayotganda, qo'shimcha hakamlar (jurés supplémentaires) ham tasodifan tanlanadi; ular majlisda hozir bo'ladi va maslahatlashuvda fikr bildirmasdan qatnashadi, asosiy hakam qatnasha olmasa, o'rniga tanlash tartibida o'tadi (CPP 296). Tribunal correctionnel: uzoq munozara kutilsa, tribunal judiciaire raisi qo'shimcha sudya(lar) majlisda hozir bo'lishini buyurishi mumkin; hukm chiqarishgacha qatnasha olmagan sudya o'rniga ular tayinlash tartibida kiradi (CPP 398).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "296, 398-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 296",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569124"
+            },
+            {
+              "label": "art. 398",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279428"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Cour d'assises raisi majlis tartibini (police de l'audience) saqlaydi va muhokamani boshqaradi; muhokama qadr-qimmatiga zarar yetkazadigan yoki uni asossiz cho'zadigan narsalarni rad etadi (CPP 309). Rais haqiqatni aniqlash uchun 'pouvoir discrétionnaire' (taqdiriy vakolat)ga ega: o'z sharaf va vijdoni bilan zarur deb hisoblagan har qanday choralarni ko'radi, guvohlarni chaqiradi va yangi hujjatlar talab qiladi (CPP 310). Tribunal correctionnel raisi ham tartib va muhokamani boshqaradi (CPP 401). Rais ayblanuvchini so'roq qilganda aybdorlik haqida o'z fikrini bildirmasligi shart (CPP 328).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "309, 310, 328, 401-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "Le président a la police de l'audience et la direction des débats. (art. 309)",
+          "links": [
+            {
+              "label": "art. 309",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569011"
+            },
+            {
+              "label": "art. 310",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569003"
+            },
+            {
+              "label": "art. 328",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568700"
+            },
+            {
+              "label": "art. 401",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576491"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuratura jamoat ayblovini qo'llab, qonunning qo'llanishini talab qiladi va xolislik tamoyiliga amal qiladi (CPP 31). U har bir jinoyat sudida ishtirok etadi, sud muhokamalarida qatnashadi va barcha qarorlar uning huzurida e'lon qilinadi (CPP 32). Yozma talablari (réquisitions) rahbarlar ko'rsatmalariga mos bo'lishi kerak, ammo og'zaki fikrni 'adolat manfaati uchun zarur' deb hisoblagancha erkin bayon qiladi (CPP 33). Ayblovdan alohida voz kechish tartibi bu tahlilda o'qilgan moddalarda topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "31, 32, 33-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "original": "Il développe librement les observations orales qu'il croit convenables au bien de la justice. (art. 33)",
+          "links": [
+            {
+              "label": "art. 31",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027753877"
+            },
+            {
+              "label": "art. 32",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574914"
+            },
+            {
+              "label": "art. 33",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574915"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Jabrlanuvchi (partie civile) har doim advokat orqali ishtirok eta oladi, shunda hukm u uchun qarama-qarshi bahsli hisoblanadi (CPP 424). Jabrlanuvchi tartib bilan chaqirilib, kelmasa yoki vakil yubormasa, fuqaroviy da'vosidan voz kechgan hisoblanadi (CPP 425). Ayblanuvchi (prévenu) kelmasa va advokati kelib himoya qilsa, advokat tinglanishi shart; sud ishni keyingi majlisga qoldirishi mumkin (CPP 410, 412). Cour d'assises'da ayblanuvchi chaqiriqqa bo'ysunmasa, rais uni majburan keltirishi yoki majlis bayonnomasi o'qilgach, uning yo'qligida davom etishni buyurishi mumkin (CPP 320).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "320, 410, 412, 424, 425-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 320",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568856"
+            },
+            {
+              "label": "art. 410",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576508"
+            },
+            {
+              "label": "art. 412",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576515"
+            },
+            {
+              "label": "art. 424",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023480636"
+            },
+            {
+              "label": "art. 425",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576536"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Tribunal correctionnel: muhokama bir majlisda tugamasa, tribunal hukm bilan davom ettirish kunini belgilaydi; taraflar va tinglanmagan guvohlar yangi chaqiruvsiz yangi majlisga kelishga majbur (CPP 461). Tribunal, kerak deb topsa, ishni keyingi majlisga qoldirishi mumkin (CPP 412). Ushbu tahlilda sudlanuvchi yashiringan yoki kasal bo'lganda ishni to'xtatish uchun alohida modda o'qilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "412, 461-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 412",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576515"
+            },
+            {
+              "label": "art. 461",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576647"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Ayblanuvchi har qanday bosqichda va jarayon davrida ozod qilish haqida iltimos qilishi mumkin; sudga kelgan ish bo'yicha vaqtincha qamoqda saqlash masalasini hukm sudining o'zi hal qiladi (cour d'assises faqat shu sessiya davomida) (CPP 148-1). Taraflar xulosalar (conclusions) berishi mumkin; sud ular bo'yicha insidentlar va e'tirozlarni asosiy ishga qo'shib, bitta hukm bilan hal qiladi, avval e'tirozni, keyin mohiyatni ko'radi, istisno hollar bundan mustasno (CPP 459). Cour d'assises'da insident bo'yicha qarorlar (arrêts) ishning mohiyatini oldindan hal qilmaydi; birinchi instansiyada ular alohida shikoyat qilinmaydi (CPP 316).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "148-1, 316, 459-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 148-1",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479389"
+            },
+            {
+              "label": "art. 316",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568965"
+            },
+            {
+              "label": "art. 459",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576642"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Majlislar ochiq, lekin jamoat tartibi, muhokama xotirjamligi, shaxs qadr-qimmati yoki uchinchi shaxs manfaatlariga xavf bo'lsa, sud hukm bilan yopiq majlis (huis clos) buyuradi (CPP 400; cour d'assises uchun 306). Tribunal'da tartibni buzgan har qanday tomoshabin raisning buyrug'i bilan zaldan chiqariladi; chiqarilishga qarshilik qilsa yoki g'alayon qilsa, shu zahotiyoq hibsga olinib, sudlanib, ikki yilgacha ozodlikdan mahrum etilishi mumkin (CPP 404).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "306, 400, 404-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 306",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044569024"
+            },
+            {
+              "label": "art. 400",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039099461"
+            },
+            {
+              "label": "art. 404",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576496"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Cour d'assises: kotib (greffier) rasmiyatlarga rioya qilinganligini tasdiqlovchi bayonnoma (procès-verbal) tuzadi; uni rais va kotib imzolaydi, hukm e'lon qilinganidan keyin uch kundan kechiktirmay (CPP 378). Rais boshqacha buyurmasa, bayonnomada ayblanuvchi javoblari va ko'rsatuvlar mazmuni yozilmaydi (CPP 379). Tribunal correctionnel: kotib majlis borishi, ayniqsa guvohlar ko'rsatuvlari va sudlanuvchi javoblari haqida yozuv (notes d'audience) yuritadi; uni kotib imzolaydi va rais har majlisdan keyin uch kun ichida vizalaydi (CPP 453). Hukm asoslari (motivation) cour d'assises'da rais yoki tayinlangan assessor tomonidan yoziladi (CPP 365-1, yuqorida).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale",
+          "ref": "378, 379, 453-moddalar",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006071154/",
+          "links": [
+            {
+              "label": "art. 378",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568538"
+            },
+            {
+              "label": "art. 379",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568531"
+            },
+            {
+              "label": "art. 453",
+              "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576625"
+            }
+          ]
+        }
+      ]
     }
   }
 }

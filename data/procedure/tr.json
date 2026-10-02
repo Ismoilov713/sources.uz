@@ -364,6 +364,243 @@
           ]
         }
       ]
+    },
+    "composition_stability": {
+      "summary": "Hakamlar hay'ati yo'q; hukmga faqat majlisda qatnashgan hakimlar katnashadi va maslahatlashuvda faqat qarorga va hukmga qatnashadigan hakimlar bo'ladi (188(1), 227(1)). Bir oturumda tugamaydigan ishda biror sababdan qatnasha olmaydigan a'zo o'rniga ovoz berish huquqi bilan yedek a'zo (yedek üye) bo'lishi mumkin (188(3)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "188, 227-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 188",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 227",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=85"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Mahkeme başkanı yoki hâkim majlisni boshqaradi, sudlanuvchini so'roq qiladi va dalillar taqdim etilishini ta'minlaydi (192(1)). Majlisni boshqarishga oid tadbir qonunga zid deb e'tiroz bildirilsa, sud shu masalada qaror chiqaradi (192(2)). Majlis tartibini rais yoki sudya ta'minlaydi (203(1)). Prokuror, himoyachi yoki vakil advokat sudlanuvchi, katılan, guvoh va ekspertlarga bevosita savol bera oladi; sudlanuvchi va katılan rais yoki sudya orqali; savolga e'tiroz bildirilsa rais hal qiladi; hay'at a'zolari ham savol berishi mumkin (201).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "192, 201, 203-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 192",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=76"
+            },
+            {
+              "label": "m. 201",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=78"
+            },
+            {
+              "label": "m. 203",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=79"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Hukmga qatnashadigan sudyalar, prokuror va majlis kotibi majlisda hozir bo'lishi shart (188(1)). Bir necha prokuror va bir necha advokat bir vaqtda qatnashishi va o'zaro ish taqsimlashi mumkin (189). Prokuror ayblov xulosasida faqat sudlanuvchiga qarshi emas, uning foydasiga bo'lgan holatlarni ham ko'rsatishi kerak (170(5)). Muhokamada u dalillar bo'yicha tortishuvda ishtirok etadi (216) va 'esas hakkında mütalaa' (ish mohiyati bo'yicha xulosa) beradi (bu atama 202(4)-moddada tilga olinadi). Ayblovdan alohida voz kechish tartibi (O'zbekiston va Qozog'istondagi kabi) CMK matnida ko'rilgan qismlarda topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "170, 188, 189, 202(4), 216-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 170",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=69"
+            },
+            {
+              "label": "m. 188",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 189",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=76"
+            },
+            {
+              "label": "m. 202",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=78"
+            },
+            {
+              "label": "m. 216",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=82"
+            }
+          ]
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Majburiy himoya hollarida himoyachi majlisda bo'lishi shart, lekin himoyachi uzrsiz kelmasa yoki majlisni tark etsa, majlis davom ettirilishi mumkin (188(1)). Sudlanuvchi kelmasa ham himoyachi barcha oturumlarda ishtirok etishga vakolatli (197). Sud tayinlagan himoyachi kelmasa yoki ketsa, hakim darhol boshqasini tayinlaydi, sud oturumga tanaffus berishi yoki uni qoldirishi mumkin; yangi himoyachi tayyorgarlik uchun vaqt yetmasligini aytsa, oturum qoldiriladi (151). Jabrlanuvchi yoki shikoyatchi ko'rsatgan manzilga chaqiruv yuborilib, kelmasa qayta tebligat qilinmaydi (235). Jabrlanuvchi ishda ishtirok (katılma) etsa, bu ishni to'xtatmaydi (240).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "151, 188, 197, 235, 240-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 151",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=61"
+            },
+            {
+              "label": "m. 188",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 197",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=78"
+            },
+            {
+              "label": "m. 235",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=90"
+            },
+            {
+              "label": "m. 240",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=92"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Duruşma, qoida bo'yicha, tanaffussiz davom ettirilib hukm bilan tugaydi; faqat zarur hollarda ishni oqilona muddatda tugatish imkonini beradigan tarzda tanaffus berilishi mumkin (190(1)). Chaqiruv qog'ozi topshirish muddati (176) buzilgan bo'lsa, sudlanuvchiga tanaffus so'rash huquqi eslatiladi (190(2)). Himoyachi yo'qligi tufayli oturum qoldirilishi mumkin (151). Ish yuritish sharti hali bajarilmagan bo'lsa (masalan, shikoyat), sud 'durma kararı' (to'xtatish qarori) chiqaradi; bu qarorga e'tiroz bildirilishi mumkin (223(8)). Joyi noma'lum yoki chet elda bo'lgan sudlanuvchi (gaip) bo'yicha alohida qoidalar mavjud (244–248).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "151, 190, 223(8), 244–248-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 151",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=61"
+            },
+            {
+              "label": "m. 190",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=76"
+            },
+            {
+              "label": "m. 223",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=83"
+            },
+            {
+              "label": "m. 244–248",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=93"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Qamoqdagi sudlanuvchining qamoqda saqlanishi davom etishi kerakmi, sud har oturumda yoki sharoit talab qilganda oturumlar orasida o'z tashabbusi bilan hal qiladi (108(3)). Hakim qarorlari va qonunda ko'rsatilgan hollarda sud qarorlariga qarshi 'itiraz' yo'li mavjud (267(1)); itiraz qaror ma'lum bo'lgan kundan ikki hafta ichida qaror chiqargan organga beriladi (268(1)). Dalilni taqdim etish iltimosi qonunga zid yo'l bilan olingan bo'lsa va boshqa sanalgan hollarda rad etiladi (206(2)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "108(3), 206, 267, 268-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 108",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=34"
+            },
+            {
+              "label": "m. 206",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=80"
+            },
+            {
+              "label": "m. 267",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=107"
+            },
+            {
+              "label": "m. 268",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=107"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Majlis hamma uchun ochiq; umumiy axloq yoki jamoat xavfsizligi qat'iy talab qilgan hollarda to'liq yoki qisman yopiq o'tkazilishi mumkin (182); majlis zalida ovoz va tasvir yozuvchi qurilmalar ishlatilmaydi (183); sudlanuvchi 18 yoshga to'lmagan bo'lsa majlis yopiq o'tadi (185). Tartibni rais yoki sudya ta'minlaydi, majlis tartibini buzgan shaxs himoya huquqini cheklamaslik sharti bilan zaldan chiqariladi; chiqarilishga qarshilik ko'rsatsa, advokatlardan tashqari, sud qarori bilan darhol to'rt kungacha intizomiy qamoqqa olinishi mumkin (bolalarga qo'llanmaydi) (203). Xatti-harakati majlis tartibini xavf ostiga qo'ysa sudlanuvchi zaldan chiqariladi; sud uning ishtirokini himoya uchun zarur deb hisoblamasa, majlis uning yo'qligida tugallanadi, himoyachisi bo'lmasa baro orqali himoyachi tayinlanadi, qaytarilganda unga yo'qligida bo'lgan ishlar tushuntiriladi (204). Majlisda jinoyat sodir etilsa, sud holatni aniqlab, dalolatnomani vakolatli organga yuboradi va fail hibsga olinishi mumkin (205).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "182, 183, 185, 203, 204, 205-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "links": [
+            {
+              "label": "m. 182",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=74"
+            },
+            {
+              "label": "m. 183",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 185",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=75"
+            },
+            {
+              "label": "m. 203",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=79"
+            },
+            {
+              "label": "m. 204",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=79"
+            },
+            {
+              "label": "m. 205",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=80"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Majlis uchun tutanak (protokol) tutiladi; uni rais yoki hakim va zabıt kâtibi imzolaydi; texnik vositalar bilan yozib olingan bo'lsa, yozuvlar kechiktirmay yozma tutanakka aylantirilib imzolanadi (219). Tutanak sarlavhasida sud nomi, oturum sanalari, hakim, prokuror va kotib ismlari ko'rsatiladi (220); mazmunida ishtirokchilar, majlis borishi va natijalari hamda protsessual qoidalarga rioya qilinganligini ko'rsatuvchi unsurlar, sudlanuvchi izohlari, guvoh va ekspert ko'rsatuvlari, o'qilgan hujjatlar, iltimoslar va ularni rad etish asoslari, qarorlar va hukm bo'ladi (221). Majlis qanday o'tgani va qonun tartibiga rioya qilinganligi faqat tutanak bilan isbotlanadi; tutanakka qarshi faqat soxtalik da'vosi bildirilishi mumkin (222).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMK",
+          "ref": "219, 220, 221, 222-moddalar",
+          "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5271&MevzuatTur=1&MevzuatTertip=5",
+          "original": "Tutanağa karşı yalnız sahtecilik iddiası yöneltilebilir. (m. 222/1)",
+          "links": [
+            {
+              "label": "m. 219",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=82"
+            },
+            {
+              "label": "m. 220",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=82"
+            },
+            {
+              "label": "m. 221",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=83"
+            },
+            {
+              "label": "m. 222",
+              "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf#page=83"
+            }
+          ]
+        }
+      ]
     }
   }
 }
