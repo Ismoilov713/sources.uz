@@ -5,6 +5,7 @@ const fs = require("fs"), path = require("path");
 const root = path.join(__dirname, "..");
 const A = JSON.parse(fs.readFileSync(path.join(root, "data", "anchors.json"), "utf8"));
 
+const RU = JSON.parse(fs.readFileSync(path.join(root, "data", "ru_upk_map.json"), "utf8"));
 const BASES = {
   uz_jpk: { id: "-111460" }, uz_sud: { id: "-5534923" }, uz_konst: { id: "-6445145" },
   kz_upk: { id: "K1400000231" }, kz_konst: { id: "K2600000000" },
@@ -30,6 +31,7 @@ function docOf(url) {
   if (/law\.cornell\.edu\/rules\/frap/.test(u)) return "us_frap";
   if (/law\.cornell\.edu\/rules\/fre/.test(u)) return "us_fre";
   if (/legislation\.gov\.uk\/uksi\/2025\/909/.test(u)) return "uk_crimpr";
+  if (/consultant\.ru\/document\/cons_doc_LAW_34481/.test(u)) return "ru_upk";
   return null;
 }
 // ref ichidagi bo'lak boshqa hujjatga tegishli bo'lsa, shuni aniqlaydi
@@ -47,6 +49,8 @@ function tokens(seg, doc) {
   if (/^de_/.test(doc)) {
     for (const m of s.matchAll(/\b(\d+[a-z]?)\b/g)) out.push({ n: m[1] });
   } else if (/^us_/.test(doc)) {
+    for (const m of s.matchAll(/\b(\d+(?:\.\d+)?)\b/g)) out.push({ n: m[1] });
+  } else if (doc === "ru_upk") {
     for (const m of s.matchAll(/\b(\d+(?:\.\d+)?)\b/g)) out.push({ n: m[1] });
   } else if (doc === "uk_crimpr") {
     for (const m of s.matchAll(/\b(\d+\.\d+)\b/g)) out.push({ n: m[1] });
@@ -77,6 +81,7 @@ function urlFor(doc, n) {
     case "us_frcrp": return `https://www.law.cornell.edu/rules/frcrmp/rule_${n}`;
     case "us_frap": return `https://www.law.cornell.edu/rules/frap/rule_${n}`;
     case "us_fre": return `https://www.law.cornell.edu/rules/fre/rule_${n}`;
+    case "ru_upk": { const h = RU[n]; return h ? "https://www.consultant.ru" + h : null; }
     case "uk_crimpr": return n.startsWith("part:") ? `https://www.legislation.gov.uk/uksi/2025/909/part/${n.slice(5)}` : `https://www.legislation.gov.uk/uksi/2025/909/rule/${n}`;
   }
   return null;
@@ -86,6 +91,7 @@ function labelFor(doc, n, to) {
   if (/^uz_/.test(doc)) return `${r.replace(/(\d+)-(\d+)/g, (_, a, b) => a + [...b].map(c => "⁰¹²³⁴⁵⁶⁷⁸⁹"[c]).join(""))}-modda`;
   if (/^kz_/.test(doc)) return `${r}-modda`;
   if (/^tr_/.test(doc)) return `m. ${r}`;
+  if (doc === "ru_upk") return `ст. ${r}`;
   if (doc === "fr_cpp") return `art. ${r}`;
   if (doc === "fr_const" || doc === "de_gg") return `Art. ${r}`;
   if (/^de_/.test(doc)) return `§ ${r}`;

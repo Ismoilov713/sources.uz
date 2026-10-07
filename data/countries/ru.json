@@ -1,0 +1,222 @@
+{
+  "code": "ru",
+  "name": "Rossiya",
+  "updated": "2026-10-07",
+  "criteria": {
+    "legal_family": {
+      "summary": "Rossiya Federatsiyasida sud hokimiyatini faqat sudlar amalga oshiradi; sud hokimiyati qonun chiqaruvchi va ijroiya hokimiyatlardan mustaqil (Konstitutsiya 118-m. 1-qism; FKZ 1-m.). Sud tizimi Konstitutsiya va federal konstitutsiyaviy qonun bilan belgilanadi (FKZ 2-m.); faqat federal sudlar va subyektlarning mirovoy sudyalari ishlaydi, favqulodda sudlar yaratish mumkin emas (FKZ 4-m.). Jinoyat ishi tartibi jinoyat-protsessual qonunchilik bilan tartibga solinadi (Konstitutsiya 128-m. 3-qism). Tizimni \"fuqarolik huquqi\" oilasiga kiritish an'anaviy tasnif bo'lib, qonun matnida yo'q.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "118-m. 1-qism, 128-m. 3-qism",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "FKZ \"O sudebnoy sisteme RF\"",
+          "ref": "1, 2, 4-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_12834/",
+          "retrieved": "2026-10-07",
+          "original": "FKZ 4-m. 1-qism: Создание чрезвычайных судов и судов, не предусмотренных настоящим Федеральным конституционным законом, не допускается."
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Sud tizimini Konstitutsiyaviy sud, Oliy sud, umumiy yurisdiksiya sudlari (jumladan subyektlar oliy sudlari, apellyatsiya va kassatsiya sudlari, harbiy sudlar) va mirovoy sudyalar tashkil etadi. Oliy sud jinoyat, fuqarolik, iqtisodiy, ma'muriy va boshqa ishlar bo'yicha oliy sud organi (FKZ 19-m.). Subyekt oliy sudi/viloyat sudi birinchi, apellyatsiya va kassatsiya instansiyasi sifatida ish ko'radi (FKZ 20-m.). Jinoyat ishlari bo'yicha mirovoy sudya, tuman sudi, subyekt sudi va kassatsiya darajasi 30–31-, 389.3-, 401.3-moddalarda ko'rinadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FKZ \"O sudebnoy sisteme RF\"",
+          "ref": "4, 19, 20-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_12834/",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "30-, 31-m.; 389.3 (2-qism); 401.3 (1-qism)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "links": [
+            {
+              "label": "ст. 30",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/69cb126bd64d361195acc4f01e532641e0133223/"
+            },
+            {
+              "label": "ст. 31",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/29cfdbef8277af2b98dc23eef193c07d41075666/"
+            },
+            {
+              "label": "ст. 389.3",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/57ef33e84e974f1e2e8444a84e5a9966b969bec6/"
+            },
+            {
+              "label": "ст. 401.3",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/f825495a0f4d662bbe99e2f0b5eaefa5606b25fc/"
+            }
+          ]
+        }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Konstitutsiyaviy sud konstitutsiyaviy nazoratning oliy sud organi bo'lib, 11 sudyadan (Rais va uning o'rinbosarini qo'shgan holda) iborat (Konstitutsiya 125-m. 1-qism). U ayrim organlarning so'rovlari bo'yicha ish ko'radi (125-m. 2-qism). Konstitutsiyaviy sud sudyalarini Prezident taqdimiga ko'ra Federatsiya Kengashi tayinlaydi (128-m. 1-qism). Yakka tartibdagi shikoyat tartibi ushbu manbalarda tekshirilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "125-m. 1–2-qism; 128-m. 1-qism",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07",
+          "original": "125-m. 1-qism: Конституционный Суд Российской Федерации состоит из 11 судей, включая Председателя ... и его заместителя."
+        }
+      ]
+    },
+    "judge_appointment": {
+      "summary": "Konstitutsiyaviy sud va Oliy sud raisi, rais o'rinbosarlari va sudyalarini Prezident taqdimiga ko'ra Federatsiya Kengashi tayinlaydi (128-m. 1-qism). Boshqa federal sudlarning raislari, o'rinbosarlari va sudyalarini Prezident federal konstitutsiyaviy qonunda belgilangan tartibda tayinlaydi (128-m. 2-qism). Sudya talablari 119-moddada belgilangan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "119, 128-m. 1–2-qism",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07",
+          "original": "128-m. 2-qism: Председатели, заместители председателей и судьи других федеральных судов назначаются Президентом Российской Федерации в порядке, установленном федеральным конституционным законом."
+        }
+      ]
+    },
+    "judge_term": {
+      "summary": "Federal sudyalarning vakolatlari muayyan muddat bilan cheklanmaydi (Konstitutsiya, FKZ va sudyalar maqomi to'g'risidagi qonunda boshqacha belgilanmagan bo'lsa); federal sudya lavozimida bo'lishning yosh chegarasi 70 yosh (FKZ 14-m.). Sudyalar o'rnidan olinmaydi (121-m. 1-qism); vakolat faqat federal qonunda belgilangan tartib va asoslarda to'xtatilishi yoki tugatilishi mumkin (121-m. 2-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FKZ \"O sudebnoy sisteme RF\"",
+          "ref": "14-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_12834/",
+          "retrieved": "2026-10-07",
+          "original": "FKZ 14-m.: Полномочия судей федеральных судов не ограничены определенным сроком ... Предельный возраст пребывания в должности судьи федерального суда - 70 лет ..."
+        },
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "121-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Sudyalar mustaqil va faqat Konstitutsiya hamda qonunga bo'ysunadi (Konstitutsiya 120-m. 1-qism; FKZ 5-m. 2-qism). Sudyalar o'rnidan olinmaydi (121-m.) va daxlsiz (122-m.). Sudlar o'z faoliyatini boshqa hech kimning irodasiga bog'liq bo'lmay amalga oshiradi (FKZ 5-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "120, 121, 122-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "FKZ \"O sudebnoy sisteme RF\"",
+          "ref": "5-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_12834/",
+          "retrieved": "2026-10-07",
+          "original": "FKZ 5-m. 1-qism: Суды осуществляют судебную власть самостоятельно, независимо от чьей бы то ни было воли, подчиняясь только Конституции Российской Федерации и закону."
+        }
+      ]
+    },
+    "judicial_council": {
+      "summary": "Konstitutsiyaviy va Oliy sud sudyalarini Prezident taqdimiga ko'ra Federatsiya Kengashi tayinlaydi (128-m. 1-qism). Sudyalar malaka kollegiyalari va sudyalar qurultoyi/kengashi kabi organlar to'g'risidagi qoidalar ushbu loyihada manbadan o'qilmagan; shu sababli bu mezon hali to'liq tasdiqlanmagan (keyingi tekshiruv uchun qoldirilgan).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "128-m. 1–2-qism",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "public_participation": {
+      "summary": "Rossiya fuqarolari sud ishida qatnashish huquqiga ega; hakamlar sifatida ishtirok etish fuqarolik burchi (FKZ 8-m. 1–2-qism). Konstitutsiya 123-m. hakamlar sudi bo'lishi mumkinligini qonunda nazarda tutilgan hollarda belgilaydi. UPK bo'yicha ayblanuvchi iltimosi bilan ayrim og'ir jinoyatlar bo'yicha 8 yoki 6 hakamdan iborat hay'at ishtirokida ish ko'riladi (30-m. 2-qism); hakamlar 3 soat ichida yakdillikka erishilmasa, ko'pchilik ovozi bilan verdikt chiqaradi (343-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "FKZ \"O sudebnoy sisteme RF\"",
+          "ref": "8-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_12834/",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "123-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "30-m. 2-qism, 343 (1-qism)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "links": [
+            {
+              "label": "ст. 30",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/69cb126bd64d361195acc4f01e532641e0133223/"
+            },
+            {
+              "label": "ст. 343",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/28202fb26d1587dcb5f6159494865db1106e2bcf/"
+            }
+          ]
+        }
+      ]
+    },
+    "openness_language": {
+      "summary": "Barcha sudlarda ish ochiq ko'riladi; yopiq majlis faqat federal qonunda nazarda tutilgan hollarda (Konstitutsiya 123-m.; FKZ 9-m.; UPK 241-m. 1-qism). UPK 241-m. 2-qismi yopiq majlis asoslarini beradi: davlat yoki qonun bilan qo'riqlanadigan sir, 16 yoshga to'lmaganlarning jinoyatlari, jinsiy daxlsizlikka qarshi jinoyatlar, qatnashuvchilar xavfsizligi. Sud ishi yuritish tili rus tili; Konstitutsiyaviy sud, Oliy sud, kassatsiya va apellyatsiya umumiy yurisdiksiya sudlari, harbiy sudlarda faqat rus tilida (FKZ 10-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "123-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "FKZ \"O sudebnoy sisteme RF\"",
+          "ref": "9, 10-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_12834/",
+          "retrieved": "2026-10-07",
+          "original": "FKZ 9-m.: Разбирательство дел во всех судах открытое. Слушание дела в закрытом заседании допускается в случаях, предусмотренных федеральным законом."
+        },
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "241 (1–2-qismlar)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "links": [
+            {
+              "label": "ст. 241",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/1c70c320a6fcfca2fbadef95fc3294b632f469c0/"
+            }
+          ]
+        }
+      ]
+    },
+    "financing": {
+      "summary": "Sudlarni moliyalashtirish faqat federal byudjetdan amalga oshiriladi va adolat sudlovini to'liq va mustaqil amalga oshirish imkonini berishi kerak (Konstitutsiya 124-m.). Konstitutsiyaviy sud, Oliy sud, umumiy yurisdiksiya sudlari, hakamlik sudlari va mirovoy sudyalarni moliyalashtirish qonun bilan tasdiqlangan normativlar asosida amalga oshiriladi va federal byudjetda alohida satrlarda ko'rsatiladi (FKZ 33-m. 2-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "124-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07",
+          "original": "124-m.: Финансирование судов производится только из федерального бюджета и должно обеспечивать возможность полного и независимого осуществления правосудия ..."
+        },
+        {
+          "title": "FKZ \"O sudebnoy sisteme RF\"",
+          "ref": "33-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_12834/",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    }
+  }
+}

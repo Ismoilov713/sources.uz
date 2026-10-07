@@ -1,12 +1,68 @@
 {
   "note": "Bosh sahifadagi qisqa ko'rinish. Har bir qator saytdagi tasdiqlangan ma'lumotlardan olingan.",
   "countries": {
-    "uz": { "color": "#0b8a7a", "family": "Fuqarolik huquqi (Sovet ta'siri)", "lay": "Sudya + 2 xalq maslahatchisi (hay'atda)", "appeals": "Apellyatsiya, kassatsiya, taftish", "deal": "Aybga iqrorlik to'g'risida kelishuv (prokuror bilan)" },
-    "kz": { "color": "#1f9bd1", "family": "Kontinental (Rim-german) huquq", "lay": "1 sudya + 10 hakam (o'ta og'ir jinoyat, iltimos bilan)", "appeals": "Apellyatsiya, kassatsiya", "deal": "Protsessual kelishuv, qisqartirilgan tartib" },
-    "tr": { "color": "#d1434b", "family": "Fuqarolik huquqi", "lay": "Hakamlar yo'q; kasbiy sudyalar (ağır ceza: 3 sudya)", "appeals": "İstinaf, temyiz, Konstitutsiyaviy sudga murojaat", "deal": "Seri muhakeme, uzlaşma, hukmni ortga qoldirish (HAGB)" },
-    "de": { "color": "#c58b1a", "family": "Fuqarolik huquqi", "lay": "Kasbiy sudya(lar) + Schöffe; hakamlar yo'q", "appeals": "Berufung, Revision", "deal": "Verständigung (§257c)" },
-    "fr": { "color": "#5a56d6", "family": "Fuqarolik huquqi", "lay": "Cour d'assises: 6 hakam (apellyatsiyada 9)", "appeals": "Appel, cassation", "deal": "CRPC, composition pénale" },
-    "us": { "color": "#e0702b", "family": "Umumiy huquq (common law)", "lay": "12 kishilik jury + katta hay'at (grand jury)", "appeals": "Appeal, Supreme Court (certiorari)", "deal": "Plea agreement (Rule 11)" },
-    "uk": { "color": "#a23a7a", "family": "Umumiy huquq (Angliya va Uels)", "lay": "Crown Court: kamida 12 hakam; mirovoy sudyalar", "appeals": "Crown Court / Court of Appeal, Supreme Court", "deal": "Aybni tan olishga jazo yengillashuvi (credit)" }
+    "uz": {
+      "color": "#0b8a7a",
+      "family": "Fuqarolik huquqi (Sovet ta'siri)",
+      "lay": "Sudya + 2 xalq maslahatchisi (hay'atda)",
+      "appeals": "Apellyatsiya, kassatsiya, taftish",
+      "deal": "Aybga iqrorlik to'g'risida kelishuv (prokuror bilan)"
+    },
+    "kz": {
+      "color": "#1f9bd1",
+      "family": "Kontinental (Rim-german) huquq",
+      "lay": "1 sudya + 10 hakam (o'ta og'ir jinoyat, iltimos bilan)",
+      "appeals": "Apellyatsiya, kassatsiya",
+      "deal": "Protsessual kelishuv, qisqartirilgan tartib"
+    },
+    "tr": {
+      "color": "#d1434b",
+      "family": "Fuqarolik huquqi",
+      "lay": "Hakamlar yo'q; kasbiy sudyalar (ağır ceza: 3 sudya)",
+      "appeals": "İstinaf, temyiz, Konstitutsiyaviy sudga murojaat",
+      "deal": "Seri muhakeme, uzlaşma, hukmni ortga qoldirish (HAGB)"
+    },
+    "de": {
+      "color": "#c58b1a",
+      "family": "Fuqarolik huquqi",
+      "lay": "Kasbiy sudya(lar) + Schöffe; hakamlar yo'q",
+      "appeals": "Berufung, Revision",
+      "deal": "Verständigung (§257c)"
+    },
+    "fr": {
+      "color": "#5a56d6",
+      "family": "Fuqarolik huquqi",
+      "lay": "Cour d'assises: 6 hakam (apellyatsiyada 9)",
+      "appeals": "Appel, cassation",
+      "deal": "CRPC, composition pénale"
+    },
+    "us": {
+      "color": "#e0702b",
+      "family": "Umumiy huquq (common law)",
+      "lay": "12 kishilik jury + katta hay'at (grand jury)",
+      "appeals": "Appeal, Supreme Court (certiorari)",
+      "deal": "Plea agreement (Rule 11)"
+    },
+    "uk": {
+      "color": "#a23a7a",
+      "family": "Umumiy huquq (Angliya va Uels)",
+      "lay": "Crown Court: kamida 12 hakam; mirovoy sudyalar",
+      "appeals": "Crown Court / Court of Appeal, Supreme Court",
+      "deal": "Aybni tan olishga jazo yengillashuvi (credit)"
+    },
+    "kr": {
+      "color": "#0f7a9c",
+      "family": "Kontinental (Rim-german) an'anasi",
+      "lay": "Fuqarolar ishtirokidagi sud: 5, 7 yoki 9 hakam (ayblanuvchi istagi bilan)",
+      "appeals": "Apellyatsiya, yakuniy apellyatsiya (kassatsiya)",
+      "deal": "Yengil tartibdagi ko'rish (286-2), qisqartirilgan buyruq (449)"
+    },
+    "ru": {
+      "color": "#7a4cc2",
+      "family": "Fuqarolik huquqi (Sovet ta'siri)",
+      "lay": "Hakamlar hay'ati: 8 yoki 6 hakam (ayblanuvchi iltimosi bilan)",
+      "appeals": "Apellyatsiya, kassatsiya, nazorat tartibida",
+      "deal": "Ayblovga rozilik bilan hukm (314), hamkorlik kelishuvi (317.6)"
+    }
   }
 }

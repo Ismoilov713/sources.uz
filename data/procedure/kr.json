@@ -1,0 +1,303 @@
+{
+  "code": "kr",
+  "updated": "2026-10-07",
+  "basis": "Koreya Respublikasi Jinoyat-protsessual qonuni (CPA), KLRI rasmiy inglizcha tarjimasi, 2020-yil 8-dekabrdagi o'zgartirishlargacha (Act No. 17572); Fuqarolarning jinoyat sudlovida ishtiroki to'g'risidagi qonun (2017), Sud tashkiloti to'g'risidagi qonun (2015), Konstitutsiyaviy sud to'g'risidagi qonun va Konstitutsiya (law.go.kr). Diqqat: yangilangan CPA ning 2026-yil 2-oktabrda kuchga kirgan tahriri o'qilmagan, inglizcha matnlar eskirgan bo'lishi mumkin; koreys tilidagi asl matn bilan solishtirish kerak. O'zbekcha bayon bizning tarjimamiz.",
+  "stages": {
+    "trial_prep": {
+      "summary": "Raislik qiluvchi sud majlisi sanasini belgilaydi; ayblanuvchi chaqiriladi, prokuror va himoyachiga xabar beriladi (267-m.). Samarali va jamlangan ko'rib chiqish uchun raislik qiluvchi ishni majlis oldi tayyorgarlik tartibiga qo'yishi mumkin: tomonlar dalillarini va isbot rejasini yozma ravishda tayyorlaydi yoki tayyorgarlik majlisi o'tkaziladi (266-5-m.). Majlis kunlari ko'rib chiqish jamlangan bo'ladi; bir necha kun kerak bo'lsa, sud har kuni ochiq turadi, istisno holda keyingi majlis oldingisidan 14 kun ichida belgilanadi (267-2-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "267, 266-5, 267-2 (1, 4-qismlar)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "267-2-m. 4-qism: ... the presiding judge shall set next dates for trial within the limit of 14 days from the preceding dates for trial, except in any extraordinary circumstances."
+        }
+      ]
+    },
+    "court_composition": {
+      "summary": "Tuman sudi (district court) birinchi instansiyada ishlarni yakka sudya yoki kollegial tarkibda ko'radi; kollegial tarkib sud o'zi qaror qilgan ishlarni va o'lim jazosi yoki 1 yildan kam bo'lmagan muddatga ozodlikdan mahrum qilish jazosi nazarda tutilgan ishlarni (qonunda sanalgan istisnolardan tashqari) ko'radi (Sud tashkiloti to'g'risidagi qonun 32-m. 1-qism). Fuqarolar ishtirokidagi sudda (Fuqarolarning jinoyat sudlovida ishtiroki to'g'risidagi qonun) sudyalar bilan birga 9 ta (o'lim/umrbod ozodlikdan mahrum qilish ishlari), 7 ta yoki 5 ta hakam (ayblanuvchi faktlarni tan olsa) qatnashadi (13-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "32 (1-qism)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "Act on Citizen Participation in Criminal Trials (KLRI, inglizcha tarjima, 2017)",
+          "ref": "13 (1-qism) (KLRI bosh sahifasida nom bo'yicha qidiring)",
+          "url": "https://elaw.klri.re.kr/eng_service/main.do",
+          "retrieved": "2026-10-07",
+          "original": "Art. 13(1): Nine jurors shall participate ... while seven jurors shall participate in a participatory trial for an eligible case other than those set forth above ..."
+        }
+      ]
+    },
+    "composition_stability": {
+      "summary": "Sud majlisi boshlangandan keyin sudya almashtirilsa, ish ko'rish yangilanadi (qayta boshlanadi); faqat hukm e'lon qilish bo'lsa, bu qoida qo'llanmaydi (301-m.). Yengil tartibdagi ko'rish haqidagi qaror bekor qilinsa ham ish ko'rish yangilanadi, agar tomonlar e'tiroz bildirmasa bundan mustasno (301-2-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "301, 301-2",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "301-m.: Where a judge is changed subsequent to the commencement of trial, the proceedings shall be renewed: Provided, That this shall not apply where only a judgment is pronounced."
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Sud majlisida protsessni raislik qiluvchi sudya boshqaradi (279-m.). Zarur bo'lsa sud muammoni aniqlash yoki protsessni yengillashtirish uchun professional ekspert-maslahatchi tayinlashi mumkin (279-2-m.). Prokuror, ayblanuvchi yoki himoyachi raislik qiluvchining ko'rsatmalariga e'tiroz bildirishga haqli (304-m.). Sud majlisida tartibni 58-m. bo'yicha raislik qiluvchi ta'minlaydi (Sud tashkiloti to'g'risidagi qonun).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "279, 279-2, 304",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "58",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Prokuror sud majlisi zalida ayblanuvchi va himoyachiga teng balandlikdagi o'rindiqda, sudya stolining o'ng va chap tomonida o'tiradi (275-m. 3-qism). Majlis prokuror ishtirokida ochiladi (275-m. 2-qism). Prokuror ayblov varaqasida ko'rsatilgan faktlar, jinoyat nomi va qo'llaniladigan qonun normalarini bayon qiladi (285-m.); dalillarni tekshirish tugagach, fakt va qonunni qo'llash bo'yicha fikrini bildiradi (302-m.). Birinchi instansiya hukmi chiqarilgunga qadar ommaviy ayblov qaytarib olinishi mumkin (255-m. 1-qism). Prokuror ikki marta xabardor qilingan va kelmasa, sud uning ishtirokisiz davom etishi mumkin (278-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "275 (2–3-qismlar), 285, 302, 255 (1-qism), 278",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "255-m. 1-qism: A public prosecution may be withdrawn before a judgment in the first instance is rendered."
+        }
+      ]
+    },
+    "defendant_presence": {
+      "summary": "Ayblanuvchi sud majlisiga kelmasa, sud maxsus qoidalar bo'lmasa majlis o'tkazmaydi (276-m.). Istisnolar: jarima (5 million von gacha) ishlari kabi yengil ishlarda ayblanuvchi kelishi shart emas (277-m.); ushlab turilgan ayblanuvchi sababsiz kelishdan bosh tortsa va uni keltirish mumkin bo'lmasa, majlis uning ishtirokisiz davom etishi mumkin (277-2-m. 1-qism). Sudda ayblanuvchiga jismoniy cheklovlar qo'llanilmaydi (violence yoki qochish xavfi bo'lmasa) (280-m.). Ayblanuvchi guvoh o'rindig'ida o'tiradi (275-m. 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "276, 277, 277-2 (1-qism), 280",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "276-m.: When the criminal defendant does not appear on the day fixed for trial, the court shall not sit without special provisions ..."
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Prokuror kelmaganida: ikki marta xabar berilgan bo'lsa, sud uning ishtirokisiz davom etishi mumkin (278-m.). Majburiy himoya ishlarida (33-m. 1-qism: ayblanuvchi ushlangan, voyaga yetmagan, 70 yoshdan oshgan, soqov-kar va hokazo) himoyachi bo'lmasa sud majlis o'tkaza olmaydi (282-m.); himoyachi kelmasa sud o'z tashabbusi bilan himoyachi tayinlaydi (283-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "278, 282, 283, 33 (1-qism)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "283-m.: In the case of the main clause of Article 282, when the defense counsel fails to attend, the court shall appoint a defense counsel ex officio."
+        }
+      ]
+    },
+    "scope_change_charge": {
+      "summary": "Prokuror sud ruxsati bilan ayblov varaqasidagi faktlarni yoki qo'llaniladigan qonun normalarini qo'shishi, olib tashlashi yoki o'zgartirishi mumkin; sud bunga faqat ayblov faktlarining o'ziga xosligi (identity) buzilmasa ruxsat beradi (298-m. 1-qism). Sud protsess borishiga ko'ra o'zgartirish yoki qo'shishni talab qilishi mumkin (298-m. 2-qism). O'zgarish haqida sud ayblanuvchi yoki himoyachiga darhol xabar beradi (298-m. 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "298 (1–3-qismlar)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "298-m. 1-qism: ... the court shall grant permission only when the identity of the facts charged is not disturbed."
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Ayblanuvchi to'g'ri-noto'g'rini ajrata olmasa yoki qaror qabul qila olmasa, sud tomonlar fikrini eshitib, shu holat davomida sud jarayonini ajrim bilan to'xtatadi (306-m. 1-qism); kasallik tufayli kela olmasa, kela olguncha to'xtatiladi (306-m. 2-qism). Yopilgan tortishuvlarni sud ex officio yoki tomonlar iltimosiga ko'ra ajrim bilan qayta ochishi mumkin (305-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "306 (1–2-qismlar), 305",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "306-m. 1-qism: If the criminal defendant is unable to discern right from wrong or make a decision, the court shall, by its ruling, suspend the trial during the continuance of such state ..."
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Prokuror, ayblanuvchi yoki himoyachi raislik qiluvchining tartibga oid qarori yoki sud ishlarini yuritishga qarshi e'tiroz bildirishi mumkin (304-m.). Sud ajrim bilan tortishuvlarni qayta ochishi (305-m.), jarayonni to'xtatishi (306-m.), yengil tartibdagi ko'rish haqida qaror chiqarishi (286-2-m.) mumkin. Dalillarni tekshirish tartibini sud ex officio yoki tomonlar iltimosiga ko'ra o'zgartirishi mumkin (291-2-m. 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "304, 305, 306, 286-2, 291-2 (3-qism)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Sud majlisi sudya, prokuror va sud xodimlari ishtirokida ochiq zalda o'tkaziladi (CPA 275-m.). Tartibni raislik qiluvchi ta'minlaydi (Sud tashkiloti to'g'risidagi qonun 58-m. 2-qism); majlisni ruxsatsiz yozib olish taqiqlanadi (59-m.). Sud ishini buzgan yoki tartibni buzgan shaxsga 20 kungacha sud tomonidan qamoq yoki 1 million vongacha jarima solinishi mumkin (61-m.). Sudda ayblanuvchiga jismoniy cheklovlar qo'llanilmaydi (CPA 280-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "58, 59, 61 (1-qism)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07",
+          "original": "61-m. 1-qism: If a person commits, inside or outside the court, an act violating an order issued under Article 58 (2) or the provisions of Article 59 or obstructs the trial of the court ..."
+        },
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "275, 280",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Majlis bayonnomasini majlisda qatnashgan sud xodimlari tuzadi (51-m. 1-qism); unda majlisdagi barcha protsedura aks etadi (51-m. 2-qism). Prokuror, ayblanuvchi yoki himoyachi iltimosiga ko'ra sud majlisini stenografiyalash yoki audio/video yozib olish tashkil etiladi, sud buni ex officio ham buyurishi mumkin (56-2-m. 1-qism). Majlisni ruxsatsiz yozib olish taqiqlanadi (Sud tashkiloti to'g'risidagi qonun 59-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "51 (1–2-qismlar), 56-2 (1-qism)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "56-2-m. 1-qism: Except in extraordinary circumstances, every court shall, upon a motion from a prosecutor, a criminal defendant or a defense counsel, assign a stenographer ... or make audio or video records ..."
+        },
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "59",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "opening": {
+      "summary": "Prokuror sud tergovi boshida ayblov varaqasida ko'rsatilgan faktlar, jinoyat nomi va qo'llaniladigan qonun normalarini bayon qiladi; raislik qiluvchi zarur deb topsa, prokurordan dalillar mazmunini ham aytishini talab qilishi mumkin (285-m.). So'ng ayblanuvchi o'zi ayblangan faktlarni tan oladimi-yo'qmi haqida bayonot beradi; sukut saqlash huquqidan foydalansa bu talab qo'llanilmaydi (286-m. 1-qism). Ayblanuvchi va himoyachi o'z foydasiga faktlarni bayon qilishi mumkin (286-m. 2-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "285, 286 (1–2-qismlar)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "285-m.: The prosecutor shall recite the facts charged, the name of crimes, and the applicable provisions of Acts as described in the bill of prosecution ..."
+        }
+      ]
+    },
+    "charge_and_plea": {
+      "summary": "Ayblanuvchi prokuror kirish nutqidan keyin ayblangan faktlarni tan olishi yoki olmasligi haqida bayonot beradi; sukut saqlashga haqli (286-m. 1-qism; 283-2-m.). Ayblanuvchi sud tomonidan aybdorligi qat'iy hukm bilan aniqlanmaguncha aybsiz hisoblanadi (275-2-m.). Ayblanuvchi ayblangan faktlarni birinchi instansiya sudida tan olsa, sud faqat shu faktlarni yengil tartibda ko'rish haqida ajrim chiqarishi mumkin (286-2-m.); ajrim, tan olishning ishonchsizligi bo'yicha, keyin bekor qilinishi mumkin (286-3-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "286 (1–2-qismlar), 283-2, 275-2, 286-2, 286-3",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "275-2-m.: The criminal defendant shall be presumed to be innocent until he/she is finally adjudged to be guilty."
+        }
+      ]
+    },
+    "evidence": {
+      "summary": "Avval prokuror iltimosiga ko'ra dalillar tekshiriladi, so'ng ayblanuvchi/himoyachi iltimosiga ko'ra dalillar, so'ngra sud ex officio qaror qilgan dalillar (291-2-m. 1–2-qism); sud tartibni o'zgartirishi mumkin (3-qism). Faktlar dalillarga asoslanishi va asosli shubhadan holi darajada isbotlanishi kerak (307-m.). Dalillarning isbot kuchini sudya erkin baholaydi (308-m.). Qonuniy tartib buzilib olingan dalillar qabul qilinmaydi (308-2-m.). Ayblanuvchining iqrorligi yagona dalil bo'lsa, u aybdorlik dalili sifatida olinmaydi (310-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "291-2, 307, 308, 308-2, 310",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "307-m. 2-qism: Criminal facts shall be proved to the extent that there is no reasonable doubt."
+        },
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "308-2",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "308-2-m.: Any evidence obtained in violation of the due process shall not be admissible."
+        }
+      ]
+    },
+    "negotiated": {
+      "summary": "Koreya CPA ning o'qilgan inglizcha matnida ayblanuvchi bilan prokuror o'rtasida jazo bo'yicha kelishuv (plea bargaining) instituti topilmadi. Mavjud soddalashtirilgan yo'llar: ayblanuvchi birinchi instansiyada faktlarni tan olsa, sud faqat shu faktlarni yengil tartibda ko'rish haqida ajrim chiqaradi (286-2-m.); prokuror ayblov bilan bir vaqtda yozma ravishda qisqartirilgan buyruq (summary order) so'rashi mumkin (449-m.); sud buni mos topmasa, odatiy tartibda ko'radi (450-m.). Ushbu matn 2020-yilgacha; 2026-yil 2-oktabrda kuchga kirgan o'zgartirishlar o'qilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "286-2, 449, 450",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "449-m.: Demand for summary order shall be made in writing simultaneously with the institution of public prosecution."
+        }
+      ]
+    },
+    "closing": {
+      "summary": "Ayblanuvchini so'roq qilish va dalillarni tekshirish tugagach, prokuror fakt va qonunni qo'llash bo'yicha o'z fikrini bildiradi (302-m.). Keyin raislik qiluvchi ayblanuvchi va himoyachiga so'nggi bayonot (final plea) uchun imkon beradi (303-m.). Zarur bo'lsa, sud tugatilgan tortishuvlarni qayta ochishi mumkin (305-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "302, 303, 305",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "303-m.: The presiding judge shall afford an opportunity to the criminal defendant and his/her defense counsel to make a final plea after hearing the opinion of the prosecutor."
+        }
+      ]
+    },
+    "verdict": {
+      "summary": "Hukm tortishuvlar tugagan kuni e'lon qilinadi, alohida kun belgilanishi mumkin; bunday holda hukm tortishuvlar tugaganidan keyin 14 kun ichida e'lon qilinadi (318-4-m. 1, 3-qism). Hukm yozma shaklda keyinroq tayyorlanishi ham mumkin (318-4-m. 2-qism). Aybdorlik asosli shubhadan holi darajada isbotlangan bo'lishi kerak (307-m. 2-qism). Fuqarolar ishtirokidagi sudda hakamlar aybdor/aybsiz haqida muhokama qilib, yakdil bo'lsa verdikt chiqaradi; bo'lmasa sudyalar fikrini eshitib ko'pchilik ovozi bilan (46-m.); verdikt va jazo bo'yicha fikr sudni bog'lamaydi (46-m. 5-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "318-4 (1–3-qismlar), 307 (2-qism)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "318-4-m. 3-qism: The sentencing date under the proviso to paragraph (1) shall be set within the limit of 14 days after closing pleadings ..."
+        },
+        {
+          "title": "Act on Citizen Participation in Criminal Trials (KLRI, inglizcha tarjima, 2017)",
+          "ref": "46 (2, 3, 5-qismlar) (KLRI bosh sahifasida nom bo'yicha qidiring)",
+          "url": "https://elaw.klri.re.kr/eng_service/main.do",
+          "retrieved": "2026-10-07",
+          "original": "Art. 46(2): ... may deliver a verdict if the jury reaches an unanimous verdict ..."
+        }
+      ]
+    },
+    "appeal": {
+      "summary": "Birinchi instansiya hukmi qoniqarsiz bo'lsa, apellyatsiya beriladi: tuman sudi yakka sudyasi hukmi ustidan shu tuman sudining kollegial hay'atiga, tuman sudi kollegial hay'ati hukmi ustidan yuqori sudga (357-m.). Apellyatsiya muddati 7 kun (358-m.). Ayblanuvchi tomonidan yoki uning foydasiga apellyatsiya berilgan bo'lsa, quyi sud hukmidan og'irroq jazo tayinlanmaydi (368-m.). Apellyatsiya sudi apellyatsiya sabablari doirasida ex officio qaror chiqaradi (364-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "357, 358, 364 (1-qism), 368",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "358-m.: The period allowed for appeal shall be seven days."
+        }
+      ]
+    },
+    "cassation": {
+      "summary": "Oliy sudga yakuniy apellyatsiya (final appeal, ya'ni kassatsiya) muddati 7 kun (374-m.); shikoyat quyi sudga topshirilgan arizadan beriladi (375-m.). Asoslar: Konstitutsiya, qonun yoki qoidalarning qaror natijasiga ta'sir qilgan buzilishi, hukmdan keyin jazo bekor qilingani/o'zgargani yoki umumiy amnistiya e'lon qilingani, qayta ko'rish uchun asos bor-yo'qligi, o'lim yoki 10 yildan kam bo'lmagan ozodlikdan mahrum qilish hukmlarida ayrim holatlar (383-m. 1–4-band).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Procedure Act (KLRI, inglizcha tarjima, 2020-yil 8-dekabrgacha)",
+          "ref": "374, 375, 383 (1–4-bandlar)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=55949",
+          "retrieved": "2026-10-07",
+          "original": "374-m.: The period allowed for a final appeal shall be seven days."
+        }
+      ]
+    }
+  }
+}

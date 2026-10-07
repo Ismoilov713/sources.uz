@@ -1,0 +1,546 @@
+{
+  "code": "ru",
+  "updated": "2026-10-07",
+  "basis": "Rossiya Federatsiyasi Jinoyat-protsessual kodeksi (UPK RF), 2026-yil 26-iyuldagi tahrir (consultant.ru rasmiy bo'lmagan nashri), Rossiya Federatsiyasi Konstitutsiyasi va \"Rossiya Federatsiyasi sud tizimi to'g'risida\"gi FKZ (2026-yil 4-avgust tahriri). O'zbekcha bayon bizning tarjimamiz.",
+  "stages": {
+    "trial_prep": {
+      "summary": "Sudya ishni ko'rishga o'tkazmasdan oldin dastlabki eshituv (predvaritelnoye slushaniye) o'tkazish asoslari bo'lmasa, sud majlisini tayinlash haqida qaror chiqaradi (231-m.). Qarorda majlisning joyi va vaqti, ish yakka sudya yoki kollegial tarkibda ko'rilishi, himoyachi tayinlash, ro'yxatlar bo'yicha chaqiriladigan shaxslar, yopiq majlis o'tkazish va ehtiyot chorasi masalalari hal qilinadi (231-m. 2-qism). Sudya chaqiruvlar bo'yicha topshiriq beradi (232-m.). Sud majlisi tayinlash qarori chiqqandan keyin 14 sutkadan kechiktirmay, hakamlar ishtirokidagi ishlar bo'yicha 30 sutkadan kechiktirmay boshlanishi kerak (233-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "231, 232, 233",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "233-m. 1-qism: ... не позднее 14 суток со дня вынесения судьей постановления о назначении судебного заседания, а по уголовным делам, рассматриваемым судом с участием присяжных заседателей, - не позднее 30 суток.",
+          "links": [
+            {
+              "label": "ст. 231",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/b7e58933c1baa66c049966cfb29e70058576c97f/"
+            },
+            {
+              "label": "ст. 232",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a49873ede66fa64a2202be3a78f5837552968300/"
+            },
+            {
+              "label": "ст. 233",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/32b94a4eb4b1f8584c2c4af71e3c8b8e37d831ab/"
+            }
+          ]
+        }
+      ]
+    },
+    "court_composition": {
+      "summary": "Ishlarni sud kollegial yoki sudya yakka tartibda ko'radi; tarkib ish yuki va ixtisoslikni hisobga olib avtomatlashtirilgan axborot tizimi orqali shakllantiriladi (30-m. 1-qism). Umumiy qoida: ishlarning aksariyatini federal umumiy yurisdiksiya sudining bitta sudyasi ko'radi. Muayyan og'ir jinoyatlar bo'yicha uch sudyadan iborat kollegiya (ayrimlarida ayblanuvchi iltimosi bilan), ayrim og'ir jinoyatlar bo'yicha ayblanuvchi iltimosi bilan hakamlar hay'ati bilan ko'riladi: subyekt oliy sudi va shunga tenglarida 8 hakamlik hay'at, tuman sudida 6 hakamlik hay'at (30-m. 2-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "30-m. 1-, 2-qismlar; 31-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "30-m. 2-qism 2.1-band: судья районного суда, гарнизонного военного суда и коллегия из шести присяжных заседателей - по ходатайству обвиняемого ...",
+          "links": [
+            {
+              "label": "ст. 30",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/69cb126bd64d361195acc4f01e532641e0133223/"
+            },
+            {
+              "label": "ст. 1",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/d21f7d8bcd265f8bab478d023a8a698f459d7018/"
+            },
+            {
+              "label": "ст. 31",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/29cfdbef8277af2b98dc23eef193c07d41075666/"
+            }
+          ]
+        }
+      ]
+    },
+    "composition_stability": {
+      "summary": "Ish bir xil sudya yoki bir xil tarkib tomonidan ko'riladi. Sudyalardan biri majlisda ishtirok eta olmasa, uning o'rniga boshqa sudya qo'yiladi va ishni ko'rish boshidan boshlanadi (242-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "242",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "242-m. 2-qism: ... судебное разбирательство уголовного дела начинается сначала.",
+          "links": [
+            {
+              "label": "ст. 242",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/b11bd0919f2d76290a7d7808ef2e6a3cd2514fae/"
+            }
+          ]
+        }
+      ]
+    },
+    "presiding_judge": {
+      "summary": "Raislik qiluvchi sud majlisini boshqaradi va tomonlarning musobaqalashuvi hamda teng huquqliligini ta'minlovchi barcha choralarni ko'radi; majlis tartibini ta'minlaydi, ishtirokchilarga huquq va majburiyatlarini tushuntiradi, reglament bilan tanishtiradi (243-m. 1-, 2-qism). Raislik qiluvchining harakatlariga e'tirozlar majlis bayoniga kiritiladi (243-m. 3-qism). Ayblov va himoya tomonlari rad etish, iltimos berish, dalil keltirish, sud tortishuvlarida so'zlash bo'yicha teng huquqlarga ega (244-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "243, 244",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "links": [
+            {
+              "label": "ст. 243",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/e35400813274b279ab5dfb78e0c29db38c7e20c6/"
+            },
+            {
+              "label": "ст. 244",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/e060bc432c9e02f889fd1c7aadd11085a01e86b5/"
+            }
+          ]
+        }
+      ]
+    },
+    "prosecutor_role": {
+      "summary": "Ayblovchining sudda ishtirok etishi majburiy; ommaviy va ommaviy-xususiy ayblov ishlarida davlat ayblovchisi ishtirok etishi majburiy, xususiy ayblov ishlarida ayblovni xususiy ayblovchi qo'llab-quvvatlaydi (246-m. 1–3-qism). Davlat ayblovchisi dalillarni taqdim etadi, ularni tekshirishda qatnashadi, ayblov bo'yicha fikrini bildiradi, qonunni qo'llash va jazo tayinlash bo'yicha taklif beradi (246-m. 5-qism). Taqdim etilgan dalillar ayblovni tasdiqlamasa, u ayblovdan voz kechadi va sabablarini bayon qiladi; to'liq yoki qisman voz kechish ishni (ta'qibni) tugatishga olib keladi (246-m. 7-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "246 (1–7-qismlar)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "246-m. 7-qism: Полный или частичный отказ государственного обвинителя от обвинения в ходе судебного разбирательства влечет за собой прекращение уголовного дела или уголовного преследования полностью или в соответствующей его части ...",
+          "links": [
+            {
+              "label": "ст. 246",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/0b334d6ab0531cab03a08103a80d55054a71087a/"
+            }
+          ]
+        }
+      ]
+    },
+    "defendant_presence": {
+      "summary": "Ishni ko'rish ayblanuvchining majburiy ishtirokida o'tadi (247-m. 1-qism); u kelmasa, ish ko'rish qoldiriladi, sud majburiy keltirishga yoki ehtiyot chorasini qo'llash/o'zgartirishga haqli (247-m. 2–3-qism). Istisnolar: kam og'ir va o'rta og'ir jinoyatlar bo'yicha ayblanuvchining o'z iltimosi bilan (4-qism); istisno hollarda og'ir va o'ta og'ir jinoyatlar hamda qonunda sanalgan ayrim kam/o'rta og'ir jinoyatlar bo'yicha, Rossiya hududidan tashqarida bo'lgan yoki sudga kelishdan bo'yin tovlayotgan shaxs yo'qligida (5-qism); bunda himoyachining ishtiroki majburiy (6-qism). Konstitutsiya 123-m. esa sud ishining ayblanuvchi yo'qligida ko'rilishini umumiy qoida sifatida cheklaydi (qonunda nazarda tutilgan hollar bundan mustasno).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "247 (1–7-qismlar)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "247-m. 1-qism: Судебное разбирательство уголовного дела проводится при обязательном участии подсудимого, за исключением случаев, предусмотренных частями четвертой и пятой настоящей статьи.",
+          "links": [
+            {
+              "label": "ст. 247",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/022e504a4d595a838f2eed3c53820d415576f66f/"
+            }
+          ]
+        },
+        {
+          "title": "Rossiya Federatsiyasi Konstitutsiyasi",
+          "ref": "123-m.",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_28399/",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "absence_others": {
+      "summary": "Himoyachi kelmasa va uni almashtirish imkoni bo'lmasa, ish ko'rish qoldiriladi; yangi himoyachiga ish materiallari bilan tanishish va tayyorlanish uchun vaqt beriladi (248-m. 2–3-qism). Chaqirilgan shaxslardan birortasi kelmaganida yoki texnik nosozlik tufayli majlis o'tkazib bo'lmasa, sud ishni muayyan muddatga qoldiradi va kelmaganlarni chaqirish yoki majburiy keltirish choralarini ko'radi (253-m. 1-qism). Davlat ayblovchisi ishtirok eta olmasa, uni almashtirish mumkin; yangi prokurorga tanishish uchun vaqt beriladi, almashtirish bajarilgan harakatlarning takrorlanishiga olib kelmaydi (246-m. 4-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "248 (2–3-qismlar), 253 (1-qism), 246 (4-qism)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "links": [
+            {
+              "label": "ст. 248",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/b711501976b841f07f5ca744c2480038f6a5b8c3/"
+            },
+            {
+              "label": "ст. 253",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/b679a8e28bdc9710e91a03250f48650014aa8981/"
+            },
+            {
+              "label": "ст. 246",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/0b334d6ab0531cab03a08103a80d55054a71087a/"
+            }
+          ]
+        }
+      ]
+    },
+    "scope_change_charge": {
+      "summary": "Sud ishni faqat ayblanuvchiga nisbatan va unga qo'yilgan ayblov doirasida ko'radi (252-m. 1-qism). Ayblovni o'zgartirishga yo'l qo'yiladi, agar bu ayblanuvchining ahvolini yomonlashtirmasa va himoya huquqini buzmasa (252-m. 2-qism). Davlat ayblovchisi ayblovdan to'liq yoki qisman voz kechsa, ish yoki ta'qib shu doirada tugatiladi (246-m. 7-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "252, 246 (7-qism)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "252-m. 2-qism: Изменение обвинения в судебном разбирательстве допускается, если этим не ухудшается положение подсудимого и не нарушается его право на защиту.",
+          "links": [
+            {
+              "label": "ст. 252",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/45b97b36da0cd22fd4244e5b3eb5f3a55fe95611/"
+            },
+            {
+              "label": "ст. 246",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/0b334d6ab0531cab03a08103a80d55054a71087a/"
+            }
+          ]
+        }
+      ]
+    },
+    "adjourn_suspend": {
+      "summary": "Ish ko'rish chaqirilganlarning kelmasligi, texnik nosozliklar (jumladan videokonferensaloqa) yoki yangi dalillarni talab qilish zarurati bo'lganda ma'lum muddatga qoldiriladi; qayta boshlanganda sud majlisi qoldirilgan joyidan davom ettiradi (253-m. 1–2-qism). Ayblanuvchi yashirinib qolsa yoki og'ir kasallik/ruhiy buzilish uni kelishdan mahrum qilsa, uning bo'yicha ish to'xtatiladi, qolgan ayblanuvchilar bo'yicha davom etadi (253-m. 3-qism). Sud ishni muayyan asoslar topilganda majlisda tugatadi (254-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "253 (1–3-qismlar), 254, 238",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "links": [
+            {
+              "label": "ст. 253",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/b679a8e28bdc9710e91a03250f48650014aa8981/"
+            },
+            {
+              "label": "ст. 254",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/bab556c4e0be3fe22845c894ab3b9bd5ae152c25/"
+            },
+            {
+              "label": "ст. 238",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/8ed059855622ce4ae5a29482d2e935c3d0e3a621/"
+            }
+          ]
+        }
+      ]
+    },
+    "interim_rulings": {
+      "summary": "Sud majlisi davomida hal qilinadigan masalalar bo'yicha sud ajrim yoki qaror chiqaradi va ularni majlisda e'lon qiladi (256-m. 1-qism). Ishni prokurorga qaytarish, ishni tugatish, ehtiyot chorasini tanlash/o'zgartirish/bekor qilish, ayblanuvchi yo'qligida ishni ko'rish, rad etish va ekspertiza tayinlash haqidagi ajrim/qaror maslahat xonasida alohida protsessual hujjat shaklida chiqariladi (256-m. 2-qism). Iltimosnomalar bo'yicha raislik qiluvchi tomonlardan so'raydi, fikrlarni eshitib sud har biriga qaror qiladi (271-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "256 (1–2-qismlar), 271",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "256-m. 1-qism: По вопросам, разрешаемым судом во время судебного заседания, суд выносит определения или постановления, которые подлежат оглашению в судебном заседании.",
+          "links": [
+            {
+              "label": "ст. 256",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/074374f747badd0d9bf773f65d6ed4e436a8f457/"
+            },
+            {
+              "label": "ст. 271",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/9ce9d46793c72eab1ada49da310263a28dc65c93/"
+            }
+          ]
+        }
+      ]
+    },
+    "courtroom_order": {
+      "summary": "Sudyalar kirganda barcha turadi; ishtirokchilar sudga murojaat qiladi, ko'rsatma beradi va ariza qiladi tik turgan holda (257-m. 1–2-qism); sudga \"Hurmatli sud\", sudyaga \"Janobi oliylari\" deb murojaat qilinadi (257-m. 3-qism). Tartibni majburiy ijro organlari xodimi ta'minlaydi (257-m. 4-qism). Tartib buzilganda ishtirokchi ogohlantiriladi, zaldan chiqariladi, videokonferensaloqadan uziladi yoki jarima solinadi (258-m. 1-qism); ayblovchi/himoyachi bo'ysunmasa ish qoldirilishi mumkin va yuqori prokuror yoki advokatlar palatasiga xabar beriladi (258-m. 2-qism). Ayblanuvchi tortishuvlar tugagunga qadar zaldan chiqarilishi mumkin, lekin so'nggi so'z huquqi saqlanadi (258-m. 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "257, 258 (1–3-qismlar)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "258-m. 1-qism: ... предупреждается о недопустимости такого поведения, либо удаляется из зала судебного заседания, либо отключается от видео-конференц-связи ... либо на него налагается денежное взыскание ...",
+          "links": [
+            {
+              "label": "ст. 257",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/084711ebb982ccb23b2aee0682692f582a5ca305/"
+            },
+            {
+              "label": "ст. 258",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/32cb11be31673e603e3ca6ad039ceba47d8bcdca/"
+            }
+          ]
+        }
+      ]
+    },
+    "trial_record": {
+      "summary": "Har bir sud majlisida bayonnoma yuritiladi. Birinchi va apellyatsiya instansiyalarida bayonnoma yozma shaklda tuziladi va audioyozuv bilan olib boriladi; 241-modda bo'yicha yopiq majlisda audioyozuvga yo'l qo'yilmaydi (259-m. 1-qism). Bayonnomada majlis joyi va sanasi, tarkib, ishtirokchilar, sudning harakatlari ketma-ketligi, ishtirokchilarning arizalari, e'tirozlari va iltimosnomalari, sud ajrimlari va boshqalar ko'rsatiladi (259-m. 3-qism). Raislik qiluvchining harakatlariga e'tirozlar ham bayonnomaga kiritiladi (243-m. 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "259 (1–3-qismlar), 243 (3-qism)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "259-m. 1-qism: В ходе каждого судебного заседания ведется протокол.",
+          "links": [
+            {
+              "label": "ст. 259",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/bf0680875eb737e514cdb764220b8106968465cc/"
+            },
+            {
+              "label": "ст. 243",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/e35400813274b279ab5dfb78e0c29db38c7e20c6/"
+            }
+          ]
+        }
+      ]
+    },
+    "opening": {
+      "summary": "Sud tergovi davlat ayblovchisining ayblanuvchiga qo'yilgan ayblovni bayon qilishi bilan boshlanadi (273-m. 1-qism). Undan avval tomonlardan yangi guvoh, ekspert chaqirish, hujjat talab qilish yoki ushbu Kodeks buzilib olingan dalillarni chiqarib tashlash haqida iltimoslari so'raladi; iltimos qiluvchi uni asoslashi kerak (271-m. 1-qism). Hakamlar ishtirokidagi ishlarda sud tergovi ayblovchi va himoyachining kirish bayonotlari bilan boshlanadi (335-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "273 (1-qism), 271 (1-qism), 335 (1–3-qismlar)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "273-m. 1-qism: Судебное следствие начинается с изложения государственным обвинителем предъявленного подсудимому обвинения.",
+          "links": [
+            {
+              "label": "ст. 273",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/156d68a331b01d32724c5fe9960423d7980fabde/"
+            },
+            {
+              "label": "ст. 271",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/9ce9d46793c72eab1ada49da310263a28dc65c93/"
+            },
+            {
+              "label": "ст. 335",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/22b69e41548ad548d0776cf79e3f441894c904fe/"
+            }
+          ]
+        }
+      ]
+    },
+    "charge_and_plea": {
+      "summary": "Raislik qiluvchi ayblanuvchidan ayblov tushunarlimi, o'zini aybdor deb tan oladimi, o'zi yoki himoyachisi ayblovga munosabatini bildirishni xohlaydimi, deb so'raydi (273-m. 2-qism). Ayblanuvchi o'z ko'rsatmalarini sud tergovining istalgan paytida, raislik qiluvchining ruxsati bilan berishga haqli (274-m. 3-qism). So'roq tartibi 275-moddada belgilangan: rozilik bilan avval himoyachi va himoya tomoni, keyin davlat ayblovchisi so'raydi, so'ngra sud (275-m. 1, 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "273 (2-qism), 274 (3-qism), 275 (1–3-qismlar)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "273-m. 2-qism: Председательствующий опрашивает подсудимого, понятно ли ему обвинение, признает ли он себя виновным ...",
+          "links": [
+            {
+              "label": "ст. 273",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/156d68a331b01d32724c5fe9960423d7980fabde/"
+            },
+            {
+              "label": "ст. 274",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/292b7ac00f82ec60d6ab76bd815d1d686dfcde46/"
+            },
+            {
+              "label": "ст. 275",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/f234b5e6ef5b9d739ca3238a89375ede0f15fd29/"
+            }
+          ]
+        }
+      ]
+    },
+    "evidence": {
+      "summary": "Dalillarni tekshirish navbatini ularni taqdim etuvchi tomon belgilaydi; birinchi bo'lib ayblov tomoni dalil keltiradi, keyin himoya tomoni (274-m. 1–2-qism). Bir necha ayblanuvchi bo'lsa, navbatni sud tomonlarning fikrini hisobga olib belgilaydi (274-m. 4-qism). Ayblanuvchi so'roqi 275-moddada: tavsiyaviy savollar va ishga aloqasi yo'q savollar rad etiladi; ayblanuvchi yozma yozuvlardan foydalanishi mumkin (275-m. 1–2-qism). Tomonlar ushbu Kodeks buzilib olingan dalillarni chiqarib tashlashni iltimos qilishi mumkin (271-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "274 (1, 2, 4-qismlar), 275 (1–2-qismlar), 271 (1-qism)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "274-m. 2-qism: Первой представляет доказательства сторона обвинения. После исследования доказательств, представленных стороной обвинения, исследуются доказательства, представленные стороной защиты.",
+          "links": [
+            {
+              "label": "ст. 274",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/292b7ac00f82ec60d6ab76bd815d1d686dfcde46/"
+            },
+            {
+              "label": "ст. 275",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/f234b5e6ef5b9d739ca3238a89375ede0f15fd29/"
+            },
+            {
+              "label": "ст. 271",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/9ce9d46793c72eab1ada49da310263a28dc65c93/"
+            }
+          ]
+        }
+      ]
+    },
+    "negotiated": {
+      "summary": "Kam og'ir va o'rta og'ir jinoyatlar bo'yicha ayblanuvchi ayblovga rozilik bildirib, sud tergovisiz hukm chiqarishni iltimos qilishi mumkin (314-m. 1-qism); sud ayblanuvchi iltimosning mohiyatini anglashi, u ixtiyoriy va himoyachi bilan maslahatlashgandan keyin berilgani, davlat/xususiy ayblovchi va jabrlanuvchi e'tiroz bildirmasligiga ishonch hosil qilganda hukm chiqaradi (314-m. 2-qism). Bunda tayinlanadigan jazo eng og'ir jazo turi bo'yicha belgilangan maksimal muddat/miqdorning uchdan ikki qismidan oshmaydi (316-m. 7-qism). Alohida bob: hamkorlik to'g'risida sudgacha kelishuv tuzilgan ayblanuvchi bilan majlis o'tkazish (317.6, 317.7-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "314 (1–2-qismlar), 316 (7-qism), 317.6, 317.7",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "316-m. 7-qism: ... назначает подсудимому наказание, которое не может превышать две трети максимального срока или размера наиболее строгого вида наказания ...",
+          "links": [
+            {
+              "label": "ст. 314",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/d0622d680378b0b2dc5c8c9a2389f1507b5e48b1/"
+            },
+            {
+              "label": "ст. 316",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/2e91b8290d867cba70c876dab41dd7bfe58c050e/"
+            },
+            {
+              "label": "ст. 317.6",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/8ec2bb8062ccbc7ae9823cfa78282cfe9d20d304/"
+            },
+            {
+              "label": "ст. 317.7",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/f9a24487865abd6e624679411aefddff2be3ca29/"
+            }
+          ]
+        }
+      ]
+    },
+    "closing": {
+      "summary": "Sud tergovining oxirida raislik qiluvchi tomonlardan uni to'ldirishni xohlashini so'raydi, so'ngra tergovni tugagan deb e'lon qiladi (291-m.). Tortishuvlar ayblovchi va himoyachi nutqlaridan iborat; birinchi bo'lib har doim ayblovchi, oxirgi bo'lib ayblanuvchi va uning himoyachisi so'zlaydi; sud tortishuvlar davomiyligini cheklay olmaydi (292-m. 1, 3, 5-qism). Tortishuvdan so'ng ayblanuvchiga so'nggi so'z beriladi, unga savol berilmaydi va muddat cheklanmaydi (293-m.). Yangi holatlar yoki dalillar ma'lum bo'lsa, sud tergovni qayta ochishi mumkin (294-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "291, 292 (1, 3, 5-qismlar), 293, 294",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "292-m. 3-qism: ... первым во всех случаях выступает обвинитель, а последними - подсудимый и его защитник.",
+          "links": [
+            {
+              "label": "ст. 291",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/de3aa9e3ab65bf6d3946750894496c23c454199e/"
+            },
+            {
+              "label": "ст. 292",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/8ac35e2109ef9d8ed301454a163961b8eb7bd9c4/"
+            },
+            {
+              "label": "ст. 293",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/64f942cb2b95bfcf8a07a11f5b514a716d335261/"
+            },
+            {
+              "label": "ст. 294",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/d95598d655fc31212d9091e03f922616bf6804e9/"
+            }
+          ]
+        }
+      ]
+    },
+    "verdict": {
+      "summary": "So'nggi so'zdan keyin sud hukm chiqarish uchun maslahat xonasiga chiqadi va majlis zalida hukm e'lon qilish vaqti oldindan aytiladi (295-m.). Hukm Rossiya Federatsiyasi nomidan chiqariladi va qonuniy, asosli va adolatli bo'lishi shart (296-, 297-m.). Maslahat xonasida sud 299-moddadagi savollarni hal qiladi (qilmish isbotlanganmi, uni ayblanuvchi sodir etganmi, jinoyatmi, aybdormi, jazoga tortiladimi, yengillashtiruvchi/og'irlashtiruvchi holatlar va boshqalar). Hukm oqlov yoki ayblov hukmi bo'ladi; ayblov hukmi taxminlarga asoslana olmaydi (302-m.). Hukm sud majlisi zalida e'lon qilinadi, hamma tik turib tinglaydi (310-m.). Hakamlar ishtirokidagi ishlarda hakamlar yakdillikka intiladi; 3 soat muhokamada erishilmasa, ovoz berish bilan hal qilinadi (343-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "295, 296, 297, 299, 302, 310, 343 (1–2-qismlar)",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "302-m. 4-qism: Обвинительный приговор не может быть основан на предположениях ...",
+          "links": [
+            {
+              "label": "ст. 295",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/487d81d8f730a1b82cc4884767e437075b594fad/"
+            },
+            {
+              "label": "ст. 296",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/2332e44489e56b1f91d25c5ec9e4f9e17ef4085c/"
+            },
+            {
+              "label": "ст. 297",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/f66abdcc6a5f318b6c0831103cde581a19b820fb/"
+            },
+            {
+              "label": "ст. 299",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/cf1ceb678dffff12057d67deaa3a29d086d5847b/"
+            },
+            {
+              "label": "ст. 302",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/98e6333ae040bb24e02958770421b27fe8850ac1/"
+            },
+            {
+              "label": "ст. 310",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a857ead19ddaf3402302fda596286dba4c8abf44/"
+            },
+            {
+              "label": "ст. 343",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/28202fb26d1587dcb5f6159494865db1106e2bcf/"
+            }
+          ]
+        }
+      ]
+    },
+    "appeal": {
+      "summary": "Qonuniy kuchga kirmagan birinchi instansiya hukmi ustidan tomonlar apellyatsiya shikoyati/protesti berishi mumkin (389.2-m. 1-qism). Muddat: hukm chiqarilgan kundan 15 sutka; ushlab turilgan mahkum uchun hukm nusxasi topshirilgan kundan (389.4-m. 1-qism). Apellyatsiya instansiyasi shikoyat dalillari bilan bog'lanmaydi va ishni to'liq hajmda tekshirishi mumkin (389.19-m. 1-qism). Mahkumning ahvolini yomonlashtirish faqat prokuror protesti yoki jabrlanuvchi/xususiy ayblovchi shikoyati bo'lgandagina mumkin (389.24-m. 1-qism). Sud hukmni o'zgarishsiz qoldirishi, bekor qilib oqlov yoki ayblov hukmi chiqarishi yoki yangi ko'rishga yuborishi mumkin (389.20-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "389.2 (1-qism), 389.4 (1-qism), 389.19 (1-qism), 389.20 (1-qism), 389.24 (1-qism), 389.17",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "389.4-m. 1-qism: Апелляционные жалоба, представление ... могут быть поданы в течение 15 суток со дня постановления приговора ...",
+          "links": [
+            {
+              "label": "ст. 389.2",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/91bbae713fc8883b3545e34932150259cb9fef64/"
+            },
+            {
+              "label": "ст. 389.4",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/d5a109fd42abf1913e07f8595052237455189659/"
+            },
+            {
+              "label": "ст. 389.19",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/334736ab51d2bc5398b536c7d457632dc952cd8c/"
+            },
+            {
+              "label": "ст. 389.20",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/28ab813254b43c9ff5784f569513577c405bd063/"
+            },
+            {
+              "label": "ст. 389.24",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/48bdea7c5f0d11ef9f8aac07f02f731167093047/"
+            },
+            {
+              "label": "ст. 389.17",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/e9bd669bdc8710df03fadef801807633e8717801/"
+            }
+          ]
+        }
+      ]
+    },
+    "cassation": {
+      "summary": "Qonuniy kuchga kirgan sud qarori ustidan kassatsiya shikoyati/protesti bilan mahkum, oqlangan shaxs, ularning himoyachilari va qonuniy vakillari, jabrlanuvchi, xususiy ayblovchi va boshqa shaxslar o'z huquqlariga daxldor qismda murojaat qilishi mumkin (401.2-m. 1-qism). Kassatsiya sudi hukmni bekor qiladi yoki o'zgartiradi, agar jinoyat va (yoki) jinoyat-protsessual qonunning ishning natijasiga ta'sir etgan jiddiy buzilishlari bo'lsa, yoki sudgacha hamkorlik kelishuvi shartlarining buzilishi aniqlansa (401.15-m. 1-qism). Kassatsiya sudyasi kassatsiya sudi majlisini ishni ko'rib chiqib 20 sutka ichida tayinlaydi (401.8-m. 1-qism). Kassatsiya shikoyati kimga yo'naltirilishi va muddatlari 401.3-moddada bo'lib, ushbu loyihada uning to'liq matni muddat bo'yicha tekshirilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "401.2 (1-qism), 401.8 (1-qism), 401.15 (1-qism), 401.3",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-10-07",
+          "original": "401.15-m. 1-qism: Основаниями отмены или изменения приговора ... при рассмотрении уголовного дела в кассационном порядке являются существенные нарушения уголовного и (или) уголовно-процессуального закона, повлиявшие на исход дела ...",
+          "links": [
+            {
+              "label": "ст. 401.2",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/d5269a853b9e85aa98f82a8b1f8e1b11399f8723/"
+            },
+            {
+              "label": "ст. 401.8",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/ee9019baa2ffec4c63ee0baa9c7d01c0f1785c24/"
+            },
+            {
+              "label": "ст. 401.15",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/502d8f0c5c39b5fccb322eb5052c1b7df8a78726/"
+            },
+            {
+              "label": "ст. 401.3",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/f825495a0f4d662bbe99e2f0b5eaefa5606b25fc/"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

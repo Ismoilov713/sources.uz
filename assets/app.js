@@ -205,7 +205,7 @@ function renderScholarship() {
 }
 function renderGlossary() {
   const g = window.GLOSSARY || { terms: [] };
-  const names = { uz: "O'zbekiston", kz: "Qozog'iston", tr: "Turkiya", de: "Germaniya", fr: "Fransiya", us: "AQSh", uk: "Buyuk Britaniya" };
+  const names = { uz: "O'zbekiston", kz: "Qozog'iston", tr: "Turkiya", de: "Germaniya", fr: "Fransiya", us: "AQSh", uk: "Buyuk Britaniya", kr: "Janubiy Koreya", ru: "Rossiya" };
   return `<div class="ph"><h1>Atamalar lug'ati</h1><p>${esc(g.note)}</p></div>
   <input class="search" id="glq" type="search" placeholder="Atama qidirish: apellyatsiya, hakamlar, kelishuv...">
   <div class="gl" id="glist">${g.terms.map(t => `<div class="card" data-q="${esc((t.uz + " " + Object.values(t.orig).join(" ")).toLowerCase())}"><h3>${esc(t.uz)}</h3>` +

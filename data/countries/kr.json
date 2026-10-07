@@ -1,0 +1,163 @@
+{
+  "code": "kr",
+  "name": "Janubiy Koreya",
+  "updated": "2026-10-07",
+  "criteria": {
+    "legal_family": {
+      "summary": "Koreyada sudlar olti turga bo'linadi: Oliy sud, Yuqori sud, Patent sudi, Tuman sudi, Oila sudi va Ma'muriy sud (Sud tashkiloti to'g'risidagi qonun 3-m. 1-qism). Jinoyat ishi tartibi yozma jinoyat-protsessual kodeksi (CPA) bilan tartibga solinadi; hakamlar fikri sudni bog'lamaydi (Fuqarolar ishtiroki to'g'risidagi qonun 46-m. 5-qism). Tizimni \"kontinental huquq tizimi\"ga kiritish an'anaviy tasnif bo'lib, qonun matnida yo'q.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "3 (1-qism)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "Act on Citizen Participation in Criminal Trials (KLRI, inglizcha tarjima, 2017)",
+          "ref": "46 (5-qism) (KLRI bosh sahifasida nom bo'yicha qidiring)",
+          "url": "https://elaw.klri.re.kr/eng_service/main.do",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Olti turdagi sudlar: Oliy sud, Yuqori sudlar, Patent sudi, Tuman sudlari, Oila sudlari va Ma'muriy sud; tuman va oila sudlarining ishlarining bir qismini ko'rish uchun filial sudlar, shahar/tuman (Si/Gun) sudlari va ro'yxatga olish idoralari tuzilishi mumkin (3-m.). Yuqori sud tuman sudi hukmlariga nisbatan apellyatsiya va shikoyatlarni ko'radi (28-m.). Oliy sud hakamlik vakolatini Oliy sud sudyalarining kamida 2/3 qismidan iborat kollegial tarkib amalga oshiradi (7-m. 1-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "3, 7 (1-qism), 28",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "constitutional_review": {
+      "summary": "Konstitutsiyaviy sud sudlar so'rovi bo'yicha qonunlarning konstitutsiyaviyligi, impichment, siyosiy partiyani tarqatish, organlar o'rtasidagi vakolat nizolari va qonunda nazarda tutilgan konstitutsiyaviy shikoyat bo'yicha vakolatga ega (Konstitutsiya 111-m. 1-qism). U 9 sudyadan iborat va ularni Prezident tayinlaydi (111-m. 2–3-qism). Konstitutsiyaviy shikoyat sudlarning hukmlariga nisbatan berilmaydi (Konstitutsiyaviy sud to'g'risidagi qonun 68-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Koreya Respublikasi Konstitutsiyasi (law.go.kr, rasmiy inglizcha)",
+          "ref": "111-m. 1–3-qism",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&lang=ENG",
+          "retrieved": "2026-10-07",
+          "original": "Art. 111(1): The Constitutional Court shall have jurisdiction over the following matters: 1. The constitutionality of a law upon the request of the courts ..."
+        },
+        {
+          "title": "Constitutional Court Act (KLRI, inglizcha tarjima)",
+          "ref": "68",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=60536",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "judge_appointment": {
+      "summary": "Oliy sud raisi Prezident tomonidan Milliy assambleyaning roziligi bilan tayinlanadi; Oliy sud sudyalari Prezident tomonidan Oliy sud raisining taqdimiga ko'ra Milliy assambleya roziligi bilan tayinlanadi; boshqa sudyalarni Oliy sud raisi Oliy sud sudyalari kengashining roziligi bilan tayinlaydi (Konstitutsiya 104-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Koreya Respublikasi Konstitutsiyasi (law.go.kr, rasmiy inglizcha)",
+          "ref": "104-m.",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&lang=ENG",
+          "retrieved": "2026-10-07",
+          "original": "Art. 104(3): Judges other than the Chief Justice and the Supreme Court Justices shall be appointed by the Chief Justice with the consent of the Conference of Supreme Court Justices."
+        }
+      ]
+    },
+    "judge_term": {
+      "summary": "Oliy sud raisi 6 yil muddatga tayinlanadi va qayta tayinlanmaydi; Oliy sud sudyalari 6 yilga, qayta tayinlanishi mumkin; boshqa sudyalar 10 yilga, qayta tayinlanishi mumkin (Konstitutsiya 105-m. 1–3-qism; Sud tashkiloti to'g'risidagi qonun 45-m. 1–3-qism). Yosh chegarasi: Oliy sud raisi va sudyalari 70, boshqa sudyalar 65 (45-m. 4-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Koreya Respublikasi Konstitutsiyasi (law.go.kr, rasmiy inglizcha)",
+          "ref": "105-m.",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&lang=ENG",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "45",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07",
+          "original": "45-m. 3-qism: The judges shall be appointed for a ten-year term of office, and the term may be renewed."
+        }
+      ]
+    },
+    "judicial_independence": {
+      "summary": "Sudyalar impichment yoki ozodlikdan mahrum qilishdan og'irroq jinoiy jazo bo'yicha hukmdan boshqa tartibda lavozimdan olinmaydi, intizomiy chorasiz to'xtatilmaydi, maoshi kamaytirilmaydi yoki boshqa yomonlashtiruvchi muomalaga uchramaydi (Konstitutsiya 106-m. 1-qism). Ruhiy yoki jismoniy nuqsonlar tufayli vazifalarini bajara olmaslik holatlari qonunda belgilanadi (106-m. 2-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Koreya Respublikasi Konstitutsiyasi (law.go.kr, rasmiy inglizcha)",
+          "ref": "106-m. 1–2-qism",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&lang=ENG",
+          "retrieved": "2026-10-07",
+          "original": "Art. 106(1): No judge shall be removed from office except by impeachment or a sentence of imprisonment without prison labor or heavier punishment ..."
+        }
+      ]
+    },
+    "judicial_council": {
+      "summary": "Oliy sud sudyalari kengashi (Supreme Court Justices' Council) sudyani tayinlash va qayta tayinlashga rozilik berish, Oliy sud reglamentlarini qabul qilish/o'zgartirish, sud amaliyotini to'plash va nashr qilish, byudjet so'rovi, zaxira jamg'armani sarflash va hisobotlar masalalarini hal qiladi (Sud tashkiloti to'g'risidagi qonun 17-m.). Sudyalarni tayinlashda ham unga rozilik talab qilinadi (Konstitutsiya 104-m. 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "17",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07",
+          "original": "17-m.: The following matters shall be decided by the Supreme Court Justices' Council: 1. Consent to the appointment and reappointment of a judge ... 4. Matters concerning the request for the budget, expenditure of reserve fund, and settlement of accounts ..."
+        },
+        {
+          "title": "Koreya Respublikasi Konstitutsiyasi (law.go.kr, rasmiy inglizcha)",
+          "ref": "104-m. 3-qism",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&lang=ENG",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "public_participation": {
+      "summary": "Fuqarolar ishtirokidagi sud: muayyan og'ir jinoyatlar (tuman sudining kollegial hay'ati yurisdiksiyasidagi ishlar) uchun (5-m.); sud ayblanuvchidan fuqarolar ishtirokidagi sud istagini so'raydi (8-m.); 9, 7 yoki 5 hakam qatnashadi (13-m. 1-qism); hakamlar aybdor/aybsiz haqida fikr bildiradi (12-m.), lekin verdikt sudni bog'lamaydi (46-m. 5-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Act on Citizen Participation in Criminal Trials (KLRI, inglizcha tarjima, 2017)",
+          "ref": "5, 8, 12, 13 (1-qism), 46 (5-qism) (KLRI bosh sahifasida nom bo'yicha qidiring)",
+          "url": "https://elaw.klri.re.kr/eng_service/main.do",
+          "retrieved": "2026-10-07",
+          "original": "Art. 13(1): Nine jurors shall participate in a participatory trial for an eligible case the statutory punishment for which shall be death penalty or life imprisonment with or without prison labor, while seven jurors ... "
+        }
+      ]
+    },
+    "openness_language": {
+      "summary": "Sud majlislari va qarorlari ochiq; faqat milliy xavfsizlik, jamoat tartibi yoki axloqqa zarar yetkazish xavfi bo'lsa sud qarori bilan yopiladi (Konstitutsiya 109-m.; Sud tashkiloti to'g'risidagi qonun 57-m. 1-qism). Yopish haqidagi qaror sabablari ko'rsatilgan holda e'lon qilinadi (57-m. 2-qism). Sudda koreys tili qo'llaniladi; koreys tilini bilmaydigan ishtirokchilar uchun tarjimon jalb qilinadi (62-m.).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Koreya Respublikasi Konstitutsiyasi (law.go.kr, rasmiy inglizcha)",
+          "ref": "109-m.",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&lang=ENG",
+          "retrieved": "2026-10-07"
+        },
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "57 (1–2-qismlar), 62",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    },
+    "financing": {
+      "summary": "Oliy sud sudyalari kengashi byudjet so'rovi, zaxira jamg'armani sarflash va hisobotlar masalalarini hal qiladi (Sud tashkiloti to'g'risidagi qonun 17-m. 4-band). Sudlarning byudjet manbalari, ularning davlat byudjetidagi ulushi va tasdiqlash tartibi to'g'risidagi boshqa qoidalar o'qilgan manbalarda tekshirilmagan, shuning uchun mezon to'liq emas.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Court Organization Act (KLRI, inglizcha tarjima, 2015)",
+          "ref": "17 (4-band)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=37126",
+          "retrieved": "2026-10-07"
+        }
+      ]
+    }
+  }
+}
