@@ -147,3 +147,8 @@ h1,h2,h3,h4{line-height:1.25;margin:0}
 .arts>span{color:var(--mut);font-weight:600;margin-right:2px}
 .art{display:inline-block;padding:3px 9px;border-radius:99px;background:color-mix(in srgb,var(--c) 14%,transparent);color:var(--fg);border:1px solid color-mix(in srgb,var(--c) 45%,transparent);text-decoration:none;font-weight:600;white-space:nowrap}
 .art:hover{background:var(--c);color:#fff;border-color:var(--c)}
+.foot{margin-top:44px;padding-top:16px;border-top:1px solid var(--line);font-size:.82rem;color:var(--mut)}
+.foot-bar{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px 20px;align-items:center}
+.foot-c{font-weight:600;color:var(--fg)}
+.foot-links{display:flex;flex-wrap:wrap;gap:4px 16px}.foot-links a{color:var(--mut);text-decoration:none}.foot-links a:hover{text-decoration:underline;color:var(--brand2)}
+.foot-note{margin:8px 0 0}

@@ -30,7 +30,7 @@ powershell -ExecutionPolicy Bypass -File build.ps1
 - Qonunlar o'zgaradi: har bir davlat faylida `updated` sanasi va manba havolasi bor, muhim muddatlarni foydalanishdan oldin rasmiy manbadan tekshiring.
 
 ## Litsenziya va muallif
-Muallif: **Sud tizimlari solishtiruvi loyihasi** (sources.uz).
+Muallif: **Anora Bagirova**, © 2026 (Sud tizimlari solishtiruvi, sources.uz).
 Litsenziya: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)](LICENSE). Foydalanganda muallifni ko'rsating va havola bering, tijoriy maqsadda ishlatmang, o'zgartirilgan ishni xuddi shu litsenziya bilan tarqating.
 Asl qonun matnlari bu litsenziyaga kirmaydi, ular o'z manbalarining shartlariga bo'ysunadi.
 
