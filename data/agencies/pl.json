@@ -1,163 +1,243 @@
 {
   "code": "pl",
   "name": "Polsha",
-  "organ": "Prokuratura + CBA + KAS + GIIF (yagona organ yo'q)",
+  "organ": "CBA + KAS + GIIF + prokuratura (yagona organ yo'q)",
   "updated": "2026-11-09",
   "items": {
     "identity": {
-      "summary": "Polshada yagona organ yo'q: iqtisodiy jinoyatlar bir necha idora o'rtasida bo'lingan. Prokuratura dastlabki tergovni ochadi va nazorat qiladi; Markaziy korrupsiyaga qarshi byuro (CBA) davlat va xususiy sohadagi korrupsiya hamda Polshaning iqtisodiy manfaatlariga zarar yetkazuvchi harakatlarga qarshi maxsus xizmat; Milliy daromadlar ma'muriyati (KAS) soliq va bojxona jinoyatlarini; Moliyaviy axborot bosh inspektori (GIIF) esa moliyaviy razvedkani amalga oshiradi. Bu mazmun ikkilamchi manbalardan olingan.",
-      "status": "tekshirilmagan",
+      "summary": "Polshada O'zbekiston departamentiga o'xshash yagona organ yo'q: vazifa to'rt tuzilma o'rtasida bo'lingan. (1) Markaziy korrupsiyaga qarshi byuro (CBA), 1-modda 1-qismga ko'ra \"jamoat va xo'jalik hayotidagi korrupsiyaga qarshi kurash bo'yicha maxsus xizmat\" bo'lib, davlatning iqtisodiy manfaatlariga zarar yetkazuvchi harakatlarga ham qarshi kurashadi; (2) Milliy daromadlar ma'muriyati (KAS) va uning Soliq-bojxona xizmati soliq va bojxona jinoyatlari bo'yicha; (3) Moliyaviy axborot bosh inspektori (GIIF) moliyaviy razvedka bo'yicha; (4) jinoyat ishlari bo'yicha prokuratura.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
-          "ref": "CBA tavsifi",
-          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "1-modda 1-qism",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Tworzy się Centralne Biuro Antykorupcyjne ... jako służbę specjalną do spraw zwalczania korupcji w życiu publicznym i gospodarczym"
+        },
+        {
+          "title": "KAS to'g'risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "1, 2-moddalar",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
-          "ref": "tizim sharhi",
-          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "title": "Pul yuvish va terrorizmni moliyalashtirishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "10-modda",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "history": {
-      "summary": "CBA 2006-yil iyunidagi qonun bilan ta'sis etilgan va 2006-yil 24-iyuldan ish boshlagan (Wikipedia). Boshqa organlarning tarixi bu loyihada tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "CBA to'g'risidagi qonun 2006-yil 9-iyunda qabul qilingan va 2006-yil 23-iyunda e'lon qilingan (Dz.U. 2006, № 104, 708-poz.); Vikipediyaga ko'ra Byuro 2006-yil 24-iyuldan ishlay boshlagan. KAS 2016-yil 16-noyabrdagi qonun bilan tuzilgan va 2017-yil 1-martdan ishga tushgan (kiritish qonunining 1-moddasi). GIIF ning amaldagi qonuni 2018-yil 1-martdagi AML qonuni; undan oldingi qonun 2000-yil 16-noyabrdagi \"Moliya aylanmasiga noqonuniy yoki oshkor etilmagan manbalardan mulk kiritilishiga qarshi kurash to'g'risida\"gi qonun bo'lgan (CBA qonuni izohida nomi keltirilgan). (Qonun matni e'lon qilingan asl tahrirda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
-          "ref": "tashkil topishi",
-          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "e'lon qilingan sana, izoh 1",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
           "retrieved": "2026-11-09",
-          "original": "functional since 24 July 2006"
+          "original": "ustawa z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych"
+        },
+        {
+          "title": "KAS qonunini kiritish qonuni, 16.11.2016 (Dz.U. 2016 poz. 1948), Dziennik Ustaw",
+          "ref": "1-modda",
+          "url": "https://dziennikustaw.gov.pl/D2016000194801.pdf",
+          "retrieved": "2026-11-09",
+          "original": "wchodzi w życie z dniem 1 marca 2017 r."
+        },
+        {
+          "title": "Vikipediya (polyak): Centralne Biuro Antykorupcyjne (ikkilamchi)",
+          "ref": "Vikipediya: 24.07.2006",
+          "url": "https://pl.wikipedia.org/wiki/Centralne_Biuro_Antykorupcyjne",
+          "retrieved": "2026-11-09"
         }
       ]
     },
     "legal_basis": {
-      "summary": "CBA to'g'risidagi 2006-yil qonuni (ikkilamchi manba); soliq jinoyatlari bo'yicha Fiskal jinoyat kodeksi; AML qonuni (GIIF uchun). Qonun matnlari bu loyihada o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "CBA: 2006-yil 9-iyundagi \"Markaziy korrupsiyaga qarshi byuro to'g'risida\"gi qonun. KAS: 2016-yil 16-noyabrdagi \"Milliy daromadlar ma'muriyati to'g'risida\"gi qonun (Dz.U. 2016, 1947-poz.). GIIF: 2018-yil 1-martdagi \"Pul yuvishga va terrorizmni moliyalashtirishga qarshi kurash to'g'risida\"gi qonun (Dz.U. 2018, 723-poz.). Fiskal jinoyatlar bo'yicha Fiskal jinoyat kodeksi (tegishli moddalar o'qilmagan). (Qonun matni e'lon qilingan asl tahrirda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
-          "ref": "CBA qonuni",
-          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "qonun nomi",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
-          "ref": "Fiskal jinoyat kodeksi",
-          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "title": "KAS to'g'risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "1-modda 1-qism",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Ustawa określa: 1) zadania, organy i organizację Krajowej Administracji Skarbowej"
+        },
+        {
+          "title": "Pul yuvish va terrorizmni moliyalashtirishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "1, 10-moddalar",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "subordination": {
-      "summary": "CBA Bosh vazirga hisobot beradi (Wikipedia). GIIF Moliya vazirligi tarkibida deb ko'rsatilgan. Prokuratura Milliy prokuratura rahbarligida tuzilgan; bo'ysunuv tafsilotlari tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "CBA: Rahbari (Szef CBA) Bosh vazir nazorat qiladigan markaziy hukumat boshqaruvi organi (5-modda 2-qism); Bosh vazir yoki u belgilagan vazir CBA, ABW, Razvedka agentligi va Harbiy axborot xizmatlari faoliyatini muvofiqlashtiradi (5-modda 3-qism). Rahbarni Bosh vazir 4 yillik muddatga Prezident, Maxsus xizmatlar kollegiyasi va Sejm komissiyasi fikrini olgach tayinlaydi va ozod qiladi, qayta tayinlash faqat bir marta mumkin (6-modda). Bosh vazir yo'riqnomalar bilan yo'nalishlarni belgilaydi, yillik rejani tasdiqlaydi (12-modda); har yili 31-martgacha Bosh vazir va Sejmga hisobot beriladi (8-modda 3–4-qismlar). KAS: rahbari moliya vazirligiga bo'ysunadi va uni Bosh vazir moliya vaziri taklifiga ko'ra tayinlaydi (13-modda). GIIF: moliya vaziri moliyaviy axborotning oliy organi, GIIF ni Bosh vazir moliya vaziri taklifiga ko'ra (maxsus xizmatlarni muvofiqlashtiruvchi vazir fikrini olib) tayinlaydi va ozod qiladi; u moliya vazirligi apparatida davlat kotibi yoki davlat kotibining o'rinbosari (10-modda 1–3-qismlar). (Qonun matni e'lon qilingan asl tahrirda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
-          "ref": "bo'ysunuv",
-          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "5, 6, 8, 12-moddalar",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
           "retrieved": "2026-11-09",
-          "original": "reporting to the Prime Minister of Poland"
+          "original": "Szef CBA jest centralnym organem administracji rządowej nadzorowanym przez Prezesa Rady Ministrów"
         },
         {
-          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
-          "ref": "GIIF maqomi",
-          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "title": "KAS to'g'risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "13-modda",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Szef Krajowej Administracji Skarbowej podlega ministrowi właściwemu do spraw finansów publicznych"
+        },
+        {
+          "title": "Pul yuvish va terrorizmni moliyalashtirishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "10-modda",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "functions": {
-      "summary": "CBA davlat va mahalliy boshqaruv organlaridagi, davlat va xususiy sohadagi korrupsiyani tergov qiladi, jinoyat bo'lmagan korrupsiyaning oldini oladi va Bosh vazir, Prezident hamda parlamentni Polsha davlatining iqtisodiy farovonligiga ta'sir qilishi mumkin holatlar haqida xabardor qiladi (Wikipedia). KAS soliq, bojxona va noqonuniy qimor jinoyatlarida tergovlar o'tkazadi, bu ishlar prokuror rahbarligida bo'ladi (ikkilamchi).",
-      "status": "tekshirilmagan",
+      "summary": "CBA (2-modda 1-qism): davlat va o'zini o'zi boshqarish organlari faoliyatiga qarshi jinoyatlarni (Jinoyat kodeksi 228–231), odil sudlovga, saylovga, jamoat tartibiga, hujjatlar ishonchliligiga (270–273), mulkka (286), xo'jalik va pul-qimmatli qog'ozlar aylanmasiga qarshi jinoyatlarni (296–297, 299, 310), Tijorat jamiyatlari kodeksi (585–592) va moliyaviy instrumentlar qonuni (179–183) bo'yicha huquqbuzarliklarni aniqlash, oldini olish va fosh qilish; shuningdek mansabdor shaxslarning mulkiy deklaratsiyalarini va xo'jalik qarorlarini (davlat xaridlari, xususiylashtirish) nazorat qilish. KAS (2-modda 1-qism): soliq, bojxona to'lovlari yig'ish, pul yuvishga qarshi kurash (11-band), valyuta qonunchiligiga rioya, fiskal jinoyat va huquqbuzarliklarni aniqlash va ta'qib qilish (13-band). GIIF (12-modda 1-qism): shubhali mulk haqidagi axborotni tahlil qilish, operatsiyani to'xtatish yoki hisobni bloklash, axborot so'rash, shubha asosli bo'lsa vakolatli organlarga hujjat uzatish, milliy xavf baholash va strategiya yaratish, nazorat. (Qonun matni e'lon qilingan asl tahrirda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
-          "ref": "CBA vazifalari",
-          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "2-modda 1-qism",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
-          "ref": "KAS vazifalari",
-          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "title": "KAS to'g'risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "2-modda 1-qism, 11, 13-bandlar",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
+          "retrieved": "2026-11-09",
+          "original": "rozpoznawanie, wykrywanie i zwalczanie przestępstw skarbowych i wykroczeń skarbowych, zapobieganie tym przestępstwom i wykroczeniom oraz ściganie ich sprawców"
+        },
+        {
+          "title": "Pul yuvish va terrorizmni moliyalashtirishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "12-modda 1-qism",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "jurisdiction": {
-      "summary": "Fiskal jinoyatlar bo'yicha dastlabki ishni prokuror, soliq inspeksiyasi rahbari, bojxona-soliq idorasi rahbari, KAS rahbari, Chegara qo'riqlash xizmati, Politsiya yoki Harbiy politsiya yuritishi mumkin; ular \"moliya organlari\" va \"nomoliya organlari\" deb ikkiga bo'linadi (ikkilamchi manba). Milliy prokuraturadagi iqtisodiy jinoyatlar departamenti bu qidiruvda tasdiqlanmadi.",
-      "status": "tekshirilmagan",
+      "summary": "CBA: korrupsiya (1-modda 3-qism: nomaqbul mulkiy yoki boshqa manfaat va'da qilish, taklif, topshirish, talab va qabul qilish, to'g'ri yoki bilvosita) va \"davlatning iqtisodiy manfaatlariga zid harakat\", ya'ni davlat moliya sektori birligi, jamoat mablag'lari oladigan birlik yoki Davlat xazinasi yoki mahalliy hokimiyat ulushi bor tadbirkor mulkiga \"sezilarli zarar\" (Jinoyat kodeksi 115-modda 7-§) yetkazishi mumkin bo'lgan har qanday xatti-harakat (1-modda 4-qism). KAS: fiskal jinoyat va huquqbuzarliklar (13-band); taqiqlangan yoki cheklangan tovarlar aylanmasi bo'yicha, Soliq-bojxona xizmati aniqlagan jinoyatlar (14-band); Jinoyat kodeksi 258, 270, 271, 273 va 286-moddasi 1-§ bo'yicha, agar bunda davlat daromadiga zarar yetgan yoki xavf tug'ilgan bo'lsa (15-band). (Qonun matni e'lon qilingan asl tahrirda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
-          "ref": "Fiskal jinoyat kodeksi bo'yicha tergov organlari",
-          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "1-modda 3, 4-qismlar",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Korupcją, w rozumieniu ustawy, jest obiecywanie, proponowanie, wręczanie, żądanie, przyjmowanie"
+        },
+        {
+          "title": "KAS to'g'risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "2-modda 1-qism 13–15-bandlar",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "powers": {
-      "summary": "GIIF shubhali hisob-kitoblarni 96 soatgacha bloklashi mumkin va prokuror buni uzaytiradi (ikkilamchi manba); CBA va KAS qo'shma operatsiyalari prokuratura nazorati ostida o'tadi. Aniq vakolatlar birlamchi qonun matnidan tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "CBA xodimlari 13-modda 1-qismga ko'ra: operativ-qidiruv chora-tadbirlari; asosli gumon bo'lsa surishtiruv-tergov harakatlari; nazorat harakatlari; tahliliy-axborot ishi. 14-moddaga ko'ra: shaxsni aniqlash, ushlash va tintuv (Jinoyat-protsessual kodeksi tartibida), shaxsiy ko'rik, yuk va transport vositalarini tekshirish (jinoyat yoki fiskal jinoyat haqida asosli gumon bo'lsa), jamoat joylarida texnik vositalar bilan kuzatish va yozish, davlat idoralari va kommunal xizmat korxonalaridan bepul yordam so'rash. CBA faqat o'z vakolati doirasida ishlaydi va shu doirada Politsiyaning protsessual vakolatlariga ega (13-modda 3-qism). GIIF: shubhali operatsiyani 24 soatgacha to'xtatadi (86-modda 4-qism), so'ng 96 soatgacha to'xtatish yoki hisobni bloklash talabini yuboradi (86-modda 5-qism, 87-modda 2-qism), prokuratura bildirishnomadan keyin 6 oygacha to'xtatish yoki bloklash haqida qaror chiqarishi mumkin (86-modda 9-qism). (Qonun matni e'lon qilingan asl tahrirda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
-          "ref": "GIIF vakolati",
-          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
-          "retrieved": "2026-11-09"
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "13, 14-moddalar",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
+          "retrieved": "2026-11-09",
+          "original": "czynności operacyjno-rozpoznawcze ... czynności dochodzeniowo-śledcze"
+        },
+        {
+          "title": "Pul yuvish va terrorizmni moliyalashtirishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "86, 87-moddalar",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
+          "retrieved": "2026-11-09",
+          "original": "żądanie wstrzymania transakcji lub blokady rachunku na okres nie dłuższy niż 96 godzin"
         }
       ]
     },
     "investigation": {
-      "summary": "Prokuror jinoyat haqidagi xabar, politsiya ma'lumotlari yoki o'z tashabbusi bilan tergovni ochadi (ikkilamchi manba). Tergov ko'pincha ko'p idorali: GIIF, soliq organlari, chegara xizmati va prokurorlar hamkorlik qiladi. Polshada iqtisodiy jinoyatlar bo'yicha ixtisoslashgan prokuratura bo'limlari bor, lekin bu loyihada ularning nomi va vakolati tasdiqlanmadi.",
-      "status": "tekshirilmagan",
+      "summary": "CBA xodimlari faqat asosli gumon bo'lganda \"surishtiruv-tergov harakatlari\"ni (czynności dochodzeniowo-śledcze) jinoyatchilarni ta'qib qilish uchun bajaradi (13-modda 1-qism 1-band) va sud yoki prokuror topshirig'iga ko'ra Jinoyat-protsessual kodeksi bo'yicha harakatlar qiladi (13-modda 2-qism). KAS fiskal jinoyatlarni ta'qib qilishni o'z vazifasi deb biladi (2-modda 1-qism 13-band). GIIF jinoyatni o'zi tergov qilmaydi: u operatsiyani to'xtatish talabini yuborgach, pul yuvish yoki terrorizmni moliyalashtirishda gumon haqida vakolatli prokurorga xabar beradi (86-modda 8-qism, 87-modda 3-qism); shubhali operatsiyalar haqida majburiy subyekt ham prokurorga xabar beradi (89-modda). Ya'ni Polshada jinoyat ishini prokuror yuritadi, CBA va KAS esa uning bilan birga operativ va tergov harakatlarini bajaradi, O'zbekistondagi kabi yagona organda birlashtirilmagan. (Qonun matni e'lon qilingan asl tahrirda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
-          "ref": "tergov jarayoni",
-          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "13-modda 1, 2-qismlar",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
-          "ref": "prokuror roli",
-          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "title": "KAS to'g'risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "2-modda 1-qism 13-band",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Pul yuvish va terrorizmni moliyalashtirishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "86-modda 8-qism, 87-modda 3-qism, 89-modda 1-qism",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "fiu_aml": {
-      "summary": "GIIF – Polshaning moliyaviy razvedka bo'linmasi: shubhali operatsiyalar haqidagi xabarlarni yig'adi va tahlil qiladi, natijalarni tarqatadi; Moliya vazirligi tizimida (ikkilamchi manba). MONEYVAL 2022-yilgi baholash hisobotiga kirish imkoni bo'lmadi.",
-      "status": "tekshirilmagan",
+      "summary": "Polshada moliyaviy razvedkani Moliyaviy axborot bosh inspektori (GIIF) amalga oshiradi: u ayrim vazirning ostidagi organ sifatida emas, balki moliya vaziri (oliy moliyaviy axborot organi) bilan birga \"moliyaviy axborot organlari\"dan biri (10-modda 1-qism). Majburiy subyektlar asosli gumonda GIIF ga darhol xabar beradi (86-modda 1-qism). GIIF shubhali mulkni tahlil qiladi, operatsiyani to'xtatadi yoki hisobni bloklaydi, axborotni uzatadi, xorijiy hamkorlar bilan almashadi, milliy xavf baholash va strategiyani tayyorlaydi, majburiy subyektlar ustidan nazorat o'tkazadi (12-modda 1-qism). Yillik hisobotni Bosh vazirga moliya vaziri orqali taqdim etadi (14-modda 1-qism). KAS ham pul yuvishga qarshi kurashni vazifa sifatida bajaradi (2-modda 11-band). (Qonun matni e'lon qilingan asl tahrirda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
-          "ref": "GIIF",
-          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "title": "Pul yuvish va terrorizmni moliyalashtirishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "10, 12, 14, 86-moddalar",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "MONEYVAL hisoboti, 2022 (kirish rad etildi)",
-          "ref": "Polsha",
-          "url": "https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-mer/MONEYVAL-MER-Poland-2022.pdf.coredownload.inline.pdf",
+          "title": "KAS to'g'risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "2-modda 1-qism 11-band",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "structure": {
-      "summary": "CBA xodimlari soni, rahbar tayinlash tartibi va muddati hamda boshqa idoralar tuzilmasi bu loyihada tekshirilmadi.",
+      "summary": "CBA: ichki tuzilma Bosh vazirning qaror bilan beradigan nizomida (statut) belgilanadi, rahbar esa tashkiliy reglamentlarni tasdiqlaydi va doimiy yoki muvaqqat jamoalar tuza oladi (11-modda). Vikipediya (ikkilamchi) ma'lumotiga ko'ra 2022-yil 31-dekabrda CBA da 1271 kishi ishlagan, 12 ta hududiy delegatura bor, 2023-yilgi byudjet 263,2 mln zlotiy; hozirgi rahbar Tomash Strzelchik (2025-yil 9-apreldan). Prokuratura: Milliy prokuratura tarkibida Iqtisodiy jinoyatlar departamenti va Uyushgan jinoyatchilik va korrupsiya departamenti bor, quyi prokuraturalarni nazorat qiladi va muvofiqlashtiradi (Vikipediya, ikkilamchi; qonun matni o'qilmagan). Politsiyaning Markaziy tergov byurosi (CBŚP) tarkibida \"uyushgan iqtisodiy jinoyatchilikka qarshi kurash\" bo'limi mavjud (ikkilamchi). KAS xodimlari soni tekshirilmagan.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
-          "ref": "tuzilma",
-          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "ref": "11-modda",
+          "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Vikipediya (polyak): Centralne Biuro Antykorupcyjne (ikkilamchi)",
+          "ref": "xodimlar soni, delegaturalar, byudjet",
+          "url": "https://pl.wikipedia.org/wiki/Centralne_Biuro_Antykorupcyjne",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Vikipediya (polyak): Prokuratura Krajowa (ikkilamchi)",
+          "ref": "departamentlar",
+          "url": "https://pl.wikipedia.org/wiki/Prokuratura_Krajowa",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Vikipediya (polyak): Centralne Biuro Śledcze Policji (ikkilamchi)",
+          "ref": "CBŚP bo'limi",
+          "url": "https://pl.wikipedia.org/wiki/Centralne_Biuro_%C5%9Aledcze_Policji",
           "retrieved": "2026-11-09"
         }
       ]
