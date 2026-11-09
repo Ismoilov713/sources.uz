@@ -1,0 +1,166 @@
+{
+  "code": "pl",
+  "name": "Polsha",
+  "organ": "Prokuratura + CBA + KAS + GIIF (yagona organ yo'q)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Polshada yagona organ yo'q: iqtisodiy jinoyatlar bir necha idora o'rtasida bo'lingan. Prokuratura dastlabki tergovni ochadi va nazorat qiladi; Markaziy korrupsiyaga qarshi byuro (CBA) davlat va xususiy sohadagi korrupsiya hamda Polshaning iqtisodiy manfaatlariga zarar yetkazuvchi harakatlarga qarshi maxsus xizmat; Milliy daromadlar ma'muriyati (KAS) soliq va bojxona jinoyatlarini; Moliyaviy axborot bosh inspektori (GIIF) esa moliyaviy razvedkani amalga oshiradi. Bu mazmun ikkilamchi manbalardan olingan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "CBA tavsifi",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "tizim sharhi",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "CBA 2006-yil iyunidagi qonun bilan ta'sis etilgan va 2006-yil 24-iyuldan ish boshlagan (Wikipedia). Boshqa organlarning tarixi bu loyihada tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "tashkil topishi",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09",
+          "original": "functional since 24 July 2006"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "CBA to'g'risidagi 2006-yil qonuni (ikkilamchi manba); soliq jinoyatlari bo'yicha Fiskal jinoyat kodeksi; AML qonuni (GIIF uchun). Qonun matnlari bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "CBA qonuni",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
+          "ref": "Fiskal jinoyat kodeksi",
+          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "CBA Bosh vazirga hisobot beradi (Wikipedia). GIIF Moliya vazirligi tarkibida deb ko'rsatilgan. Prokuratura Milliy prokuratura rahbarligida tuzilgan; bo'ysunuv tafsilotlari tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "bo'ysunuv",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09",
+          "original": "reporting to the Prime Minister of Poland"
+        },
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "GIIF maqomi",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "CBA davlat va mahalliy boshqaruv organlaridagi, davlat va xususiy sohadagi korrupsiyani tergov qiladi, jinoyat bo'lmagan korrupsiyaning oldini oladi va Bosh vazir, Prezident hamda parlamentni Polsha davlatining iqtisodiy farovonligiga ta'sir qilishi mumkin holatlar haqida xabardor qiladi (Wikipedia). KAS soliq, bojxona va noqonuniy qimor jinoyatlarida tergovlar o'tkazadi, bu ishlar prokuror rahbarligida bo'ladi (ikkilamchi).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "CBA vazifalari",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
+          "ref": "KAS vazifalari",
+          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Fiskal jinoyatlar bo'yicha dastlabki ishni prokuror, soliq inspeksiyasi rahbari, bojxona-soliq idorasi rahbari, KAS rahbari, Chegara qo'riqlash xizmati, Politsiya yoki Harbiy politsiya yuritishi mumkin; ular \"moliya organlari\" va \"nomoliya organlari\" deb ikkiga bo'linadi (ikkilamchi manba). Milliy prokuraturadagi iqtisodiy jinoyatlar departamenti bu qidiruvda tasdiqlanmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
+          "ref": "Fiskal jinoyat kodeksi bo'yicha tergov organlari",
+          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "GIIF shubhali hisob-kitoblarni 96 soatgacha bloklashi mumkin va prokuror buni uzaytiradi (ikkilamchi manba); CBA va KAS qo'shma operatsiyalari prokuratura nazorati ostida o'tadi. Aniq vakolatlar birlamchi qonun matnidan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "GIIF vakolati",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Prokuror jinoyat haqidagi xabar, politsiya ma'lumotlari yoki o'z tashabbusi bilan tergovni ochadi (ikkilamchi manba). Tergov ko'pincha ko'p idorali: GIIF, soliq organlari, chegara xizmati va prokurorlar hamkorlik qiladi. Polshada iqtisodiy jinoyatlar bo'yicha ixtisoslashgan prokuratura bo'limlari bor, lekin bu loyihada ularning nomi va vakolati tasdiqlanmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "tergov jarayoni",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
+          "ref": "prokuror roli",
+          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "GIIF – Polshaning moliyaviy razvedka bo'linmasi: shubhali operatsiyalar haqidagi xabarlarni yig'adi va tahlil qiladi, natijalarni tarqatadi; Moliya vazirligi tizimida (ikkilamchi manba). MONEYVAL 2022-yilgi baholash hisobotiga kirish imkoni bo'lmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "GIIF",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "MONEYVAL hisoboti, 2022 (kirish rad etildi)",
+          "ref": "Polsha",
+          "url": "https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-mer/MONEYVAL-MER-Poland-2022.pdf.coredownload.inline.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "CBA xodimlari soni, rahbar tayinlash tartibi va muddati hamda boshqa idoralar tuzilmasi bu loyihada tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "tuzilma",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

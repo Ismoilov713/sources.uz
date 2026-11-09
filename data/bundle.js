@@ -7195,6 +7195,221 @@ window.AGENCIES = [
 }
 ,
 {
+  "code": "ca",
+  "name": "Kanada",
+  "organ": "Moliyaviy jinoyatlar agentligi (taklif, C-29) + RCMP + PPSC + FINTRAC",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Kanadada hozircha yagona organ yo'q: moliyaviy jinoyatlarni ko'p idoraga bo'lingan tizim (RCMP, CRA, qimmatli qog'ozlar regulyatorlari, provinsiya politsiyasi) tergov qiladi, federal ayblovni Kanada Davlat ayblov xizmati (PPSC) olib boradi, moliyaviy razvedkani FINTRAC bajaradi. 2026-yil 27-aprelda Moliya vaziri parlamentga C-29-sonli qonun loyihasini kiritdi: u O'zbekiston departamentiga eng yaqin yangi organ – Moliyaviy jinoyatlar agentligi (Financial Crimes Agency, FCA) ni tuzadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "C-29 loyihasi",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09",
+          "original": "Bill C-29 would create the FCA, a specialized federal law enforcement agency"
+        },
+        {
+          "title": "Director of Public Prosecutions Act, s. 3",
+          "ref": "s. 3",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/D-2.5/section-3.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Agentlik g'oyasi birinchi marta Liberal partiyaning 2021-yilgi dasturida taklif qilingan. C-29 loyihasi 2026-yil 27-aprelda kiritilgan va birinchi o'qishdan o'tgan; ikkinchi, uchinchi o'qish va Senat tasdig'i kerak. 2026-yil 3-noyabrdagi Moliya vazirligi xabarida ham loyiha \"kiritilgan\" deb tilga olinadi, keyingi bosqich ko'rsatilmagan. Agentlik hali tuzilmagan, shuning uchun qonun kuchga kirganini bu loyihada tasdiqlay olmayman.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "holati",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "C-29",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09",
+          "original": "The government introduced it on April 27, 2026"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Amaldagi asoslar: Director of Public Prosecutions Act (PPSC uchun) va Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA, FINTRAC uchun). Yangi organ uchun Bill C-29 (Financial Crimes Agency Act) hali qonun emas. Bill S-8 (Combatting Financial Crimes and Drug Trafficking Act) 2026-yil 3-noyabrda kiritilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Director of Public Prosecutions Act, s. 3",
+          "ref": "s. 3",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/D-2.5/section-3.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "C-29",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "S-8",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "FCA Moliya vaziri huzuridagi mustaqil agentlik bo'ladi; uning Komissarini Governor in Council tayinlaydi, Vazir Komissarga siyosat yoki strategik yo'nalish bo'yicha ko'rsatma berishi mumkin; bosh qarorgoh Ottavada; qonun besh yildan keyin ko'rib chiqiladi. PPSC Direktorini Governor in Council Bosh prokuror tavsiyasiga ko'ra tayinlaydi va Direktor \"Bosh prokuror nomidan va uning ostida\" ishlaydi (s. 3(1), (3)). FINTRAC qonunga ko'ra huquqni muhofaza organlaridan \"arm's length\", mustaqil (PCMLTFA s. 40(a)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "boshqaruv",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09",
+          "original": "independent agency under the Minister of Finance"
+        },
+        {
+          "title": "Director of Public Prosecutions Act, s. 3",
+          "ref": "s. 3(1), (3)",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/D-2.5/section-3.html",
+          "retrieved": "2026-11-09",
+          "original": "under and on behalf of the Attorney General"
+        },
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40(a)",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09",
+          "original": "acts at arm's length and is independent from law enforcement agencies"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "FCA muhim va murakkab moliyaviy jinoyatlarni tergov qilish va jinoiy daromadlarni qaytarishga ko'maklashish uchun ixtisoslashgan federal huquqni muhofaza qiluvchi organ bo'ladi. PPSC Direktori Bosh prokuror nomidan jinoiy ayblovlarni qo'zg'atadi va olib boradi, huquqni muhofaza organlariga maslahat beradi (s. 3(3)(a), (d)). FINTRAC pul yuvish, terrorizm va sanksiyalarni aylanib o'tishni aniqlash, oldini olish va to'xtatishga ko'maklashish uchun axborot yig'adi, tahlil qiladi, baholaydi va taqdim etadi, majburiyatlarga rioyani ta'minlaydi (s. 40).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "FCA vazifasi",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Director of Public Prosecutions Act, s. 3",
+          "ref": "s. 3(3)",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/D-2.5/section-3.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40(b), (e)",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09",
+          "original": "collects, analyses, assesses and discloses information"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "C-29 loyihasi \"moliyaviy jinoyat\"ni keng ta'riflaydi: moliyaviy aktivlar (jumladan raqamli), moliyaviy xizmatlar yoki bozorlarga oid federal huquqbuzarliklar, shu jumladan jinoiy daromadlarni yuvish, savdosi yoki egalik qilish, daromad keltiruvchi Jinoyat kodeksidagi belgilangan jinoyatlar va PCMLTFA bo'yicha huquqbuzarliklar.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "moliyaviy jinoyat ta'rifi",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "FCA Komissari xodimlarni tergovchi yoki butun Kanada bo'ylab tinchlik zobiti vakolatiga ega politsiya xodimi etib belgilashi mumkin, ya'ni Jinoyat kodeksidagi tergov vositalaridan foydalanadi. FINTRAC razvedka organi bo'lib, hibsga olish vakolati yo'q; FCA uning \"operativ hamkori\" bo'ladi. Bosh prokuror FCA tergov qilgan istalgan moliyaviy jinoyat bo'yicha ayblov qo'zg'atishi mumkin, ayrim hollarda esa provinsiya ayblovini federal yurisdiksiyaga \"fiat\" bilan o'tkazishi mumkin. S-8 loyihasi FINTRAC ga pul xizmatlari biznesi ro'yxatdan o'tishini rad etish yoki bekor qilish vakolatini kengaytiradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "FCA vakolati",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09",
+          "original": "designate employees as investigations officers or police officers with peace officer powers across Canada"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "S-8 va FINTRAC",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Hozirgi tizim bo'laklangan: tergov RCMP, Kanada daromadlar agentligi, qimmatli qog'ozlar regulyatorlari va provinsiya politsiyasi o'rtasida taqsimlangan. FCA operativ organ sifatida tuzilgach, RCMP bilan xizmat va yordam ko'rsatish bo'yicha kelishuv nazarda tutilgan, ayblovni PPSC olib boradi. Ya'ni Kanada O'zbekistondagi kabi yagona organga o'tish yo'lida, lekin hali o'tmagan. 2025-yil byudjeti RCMP ga uyushgan jinoyatchilik, moliyaviy jinoyatlar va pul yuvishga qarshi 4 yilda 1,7 mlrd dollar ajratgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "tergov tizimi va FCA-RCMP kelishuvi",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "RCMP moliyalashtirilishi",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "FINTRAC Kanadaning moliyaviy razvedka bo'linmasi: PCMLTFA 40-moddasiga ko'ra huquqni muhofaza organlaridan mustaqil, pul yuvish, terrorizmni moliyalashtirish va sanksiyalarni aylanib o'tishni aniqlash, oldini olish va to'xtatishga ko'maklashish uchun axborot yig'adi, tahlil qiladi, baholaydi va taqdim etadi, shaxsiy ma'lumotlarni himoya qiladi, jamoatchilikni xabardor qiladi va 1- hamda 1.1-qismlarga rioyani ta'minlaydi. Bu O'zbekistondan farq qiladi: FIU va tergov alohida organlarda.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09",
+          "original": "acts at arm's length and is independent from law enforcement agencies"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Moliyalashtirish (2026-yil bahor iqtisodiy yangilanishi): 5 yilda 352,7 mln dollar (2026–27 dan), FCA, PPSC va Moliya vazirligi o'rtasida bo'linadi; FCA uchun doimiy 82,1 mln dollar; PPSC uchun 5 yilda 46,2 mln dollar va doimiy 11,5 mln. Bu hozircha taklif. Xodimlar soni ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "moliyalashtirish",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "PPSC va FCA mablag'lari",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
   "code": "de",
   "name": "Germaniya",
   "organ": "Schwerpunktstaatsanwaltschaften + Wirtschaftsstrafkammer + FIU (yagona organ yo'q)",
@@ -7481,6 +7696,170 @@ window.AGENCIES = [
           "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
           "ref": "705",
           "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "ge",
+  "name": "Gruziya",
+  "organ": "Moliya vazirligining Tergov xizmati (Investigation Service)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Gruziya Moliya vazirligining Tergov xizmati (Investigation Service of the Ministry of Finance). 2-modda 1-qismga ko'ra u Moliya vazirligi tizimidagi \"davlat quyi muassasasi maqomidagi maxsus huquqni muhofaza qiluvchi organ\" bo'lib, davlat nomidan ishlaydi (2-modda 2-qism) va butun mamlakatda yagona markazlashgan tartibda faoliyat yuritadi (12-modda 2-qism). O'zbekiston departamentiga eng yaqin tuzilmalardan biri: moliya-iqtisodiy sohada jinoyatlarni o'zi tergov qiladi, lekin prokuratura tarkibida emas, Moliya vazirligi tizimida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "2-modda; 12-modda",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09",
+          "original": "special law enforcement body with the status of a state sub-agency"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "status",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Xizmat 2009-yil 3-noyabrdagi № 1928-sonli Qonun bilan tashkil etilgan, 1–24-moddalar 2009-yil 1-dekabrdan kuchga kirgan (26-modda). U Daromadlar xizmatining ayrim bo'linmalarini qayta tashkil qilish orqali yaratilgan (25-modda 1-qism). Rasmiy saytga ko'ra uning o'tmishdoshlari Moliyaviy politsiya (2004) va Daromadlar xizmati (2007) bo'lgan; 2009-yil dekabrda Daromadlar xizmatining maxsus tadqiqot va moliyaviy ekspertiza, tergov departamentlari hamda maxsus otryad bo'linmasi birlashtirilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "25, 26-moddalar",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "tarix",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09",
+          "original": "Predecessors were the Financial Police (2004) and the Revenue Service (2007)"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Gruziya Qonuni \"Gruziya Moliya vazirligining Tergov xizmati to'g'risida\" (№ 1928, 03.11.2009; matsne.gov.ge saytida 2026-yil 25-iyungacha o'zgartirishlar bilan) hamda Jinoyat-protsessual kodeksi: Xizmatning to'liq tergovi Kodeksda belgilangan tergov tegishliligi doirasida amalga oshiriladi (8-modda \"b\" band).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "8-modda (b)",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09",
+          "original": "jurisdiction established by Criminal Procedure Code of Georgia"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "12-modda 1-qism: Xizmat Gruziya Hukumati va Moliya vaziriga hisobdor. Xizmat boshlig'ini Moliya vaziri taqdimiga ko'ra Bosh vazir lavozimga tayinlaydi va ozod qiladi (13-modda 1-qism). O'rinbosarlar va tarkibiy bo'linma rahbarlarini boshliq taqdimiga ko'ra Moliya vaziri tayinlaydi (13-modda 5-qism); Xizmat nizomini Moliya vaziri tasdiqlaydi (12-modda 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "12-modda 1, 3-qismlar; 13-modda 1, 5-qismlar",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09",
+          "original": "appointed to and dismissed from the position by the Prime Minister"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "7-modda vazifalari: jinoyatlarning oldini olish, aniqlash va o'z vakolati doirasida tergov qilish (a); moliya va iqtisod sohasidagi ma'muriy huquqbuzarliklar (b); moliya va iqtisod sohasidagi jinoyat va korrupsion harakatlarning oldini olish, aniqlash va bartaraf etish (d); o'z vakolati doirasida foydalanish uchun axborot to'plash va tahlil qilish (e). Rasmiy saytda qo'shimcha: profilaktika choralari, tematik audit va ekspertizalar, moliyaviy, budjet va pul-kredit munosabatlarida jinoyatga sharoit yaratuvchi sabablarni aniqlash va tavsiyalar berish.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "7-modda",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "funksiyalar",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Moliya va iqtisod sohasidagi jinoyatlar (2-modda 1-qism); to'liq tergov faqat Jinoyat-protsessual kodeksidagi tergov tegishliligiga kiruvchi ishlar bo'yicha (8-modda \"b\"). Kodeksdagi aniq jinoyat moddalari ro'yxati bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "2-modda 1-qism; 8-modda (b)",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "8-modda: operativ-qidiruv faoliyati, tergov va qonunga ko'ra majburlov choralari (a); dastlabki to'liq tergov (c); Daromadlar xizmatidan soliq to'lovchi haqidagi axborotni so'rash (g); hayot yoki sog'liqqa xavf bo'lganda kechiktirmasdan turar joy va binolarga kirish (i); Xizmat boshlig'i buyrug'i bilan nazorat postlari (j). 9-modda 1-qism: xodimlar vakolati doirasida jismoniy kuch, maxsus vositalar va o'qotar qurol qo'llashi mumkin. 10-modda operativ va texnik vositalar fuqaro huquqlariga rioya qilgan holda qo'llanishini belgilaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "8–10-moddalar",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09",
+          "original": "operative-investigative activities, investigation, and coercive measures"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Xizmat jinoyat ishlari bo'yicha dastlabki to'liq tergovni o'zi olib boradi (8-modda a, c) va operativ-qidiruv faoliyatini ham amalga oshiradi. Ya'ni O'zbekistonda 2025-yildan keyingi holatdagi kabi, tergov va operativ faoliyat bir organda birlashgan, ammo bu yerda organ Moliya vazirligi tizimida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "8-modda (a), (c)",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "tergov",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Gruziyada moliyaviy razvedka vazifasi alohida organga – Moliyaviy monitoring xizmatiga berilgan; Yevropa Kengashi 2018-yilgi xabarida uni FIU sifatida sanagan. Uning hozirgi maqomi va vakolati birlamchi manbadan tekshirilmadi (Transparency International Georgia materiali uni Moliya vazirligiga o'tkazish taklifi haqida eski).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Yevropa Kengashi, 2018",
+          "ref": "Gruziya FIU",
+          "url": "https://www.coe.int/en/web/corruption/-/council-of-europe-and-european-union-enhance-capacities-of-the-georgian-law-enforcement-agencies-and-financial-analysts-to-investigate-and-prosecute-m",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Xizmat Davlat byudjetidan moliyalashtiriladi (24-modda). Xodimlar sonini Moliya vaziri belgilaydi, shtat jadvalini boshliq tasdiqlaydi (13-modda 6-qism); xodimlikka talablar, jumladan 18–40 yosh va davlat tilini bilish (16-modda 2-qism). Rasmiy saytda hududiy bo'linmalar ko'rsatilgan, ularning soni va tuzilmasi bu loyihada o'qilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "13-modda 6-qism; 16-modda 2-qism; 24-modda",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "hududiy bo'linmalar",
+          "url": "https://is.ge/en/page/investigation_service",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7806,6 +8185,173 @@ window.AGENCIES = [
           "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
           "ref": "Nizom: Agentlik tuzilmasi",
           "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "pl",
+  "name": "Polsha",
+  "organ": "Prokuratura + CBA + KAS + GIIF (yagona organ yo'q)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Polshada yagona organ yo'q: iqtisodiy jinoyatlar bir necha idora o'rtasida bo'lingan. Prokuratura dastlabki tergovni ochadi va nazorat qiladi; Markaziy korrupsiyaga qarshi byuro (CBA) davlat va xususiy sohadagi korrupsiya hamda Polshaning iqtisodiy manfaatlariga zarar yetkazuvchi harakatlarga qarshi maxsus xizmat; Milliy daromadlar ma'muriyati (KAS) soliq va bojxona jinoyatlarini; Moliyaviy axborot bosh inspektori (GIIF) esa moliyaviy razvedkani amalga oshiradi. Bu mazmun ikkilamchi manbalardan olingan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "CBA tavsifi",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "tizim sharhi",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "CBA 2006-yil iyunidagi qonun bilan ta'sis etilgan va 2006-yil 24-iyuldan ish boshlagan (Wikipedia). Boshqa organlarning tarixi bu loyihada tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "tashkil topishi",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09",
+          "original": "functional since 24 July 2006"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "CBA to'g'risidagi 2006-yil qonuni (ikkilamchi manba); soliq jinoyatlari bo'yicha Fiskal jinoyat kodeksi; AML qonuni (GIIF uchun). Qonun matnlari bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "CBA qonuni",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
+          "ref": "Fiskal jinoyat kodeksi",
+          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "CBA Bosh vazirga hisobot beradi (Wikipedia). GIIF Moliya vazirligi tarkibida deb ko'rsatilgan. Prokuratura Milliy prokuratura rahbarligida tuzilgan; bo'ysunuv tafsilotlari tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "bo'ysunuv",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09",
+          "original": "reporting to the Prime Minister of Poland"
+        },
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "GIIF maqomi",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "CBA davlat va mahalliy boshqaruv organlaridagi, davlat va xususiy sohadagi korrupsiyani tergov qiladi, jinoyat bo'lmagan korrupsiyaning oldini oladi va Bosh vazir, Prezident hamda parlamentni Polsha davlatining iqtisodiy farovonligiga ta'sir qilishi mumkin holatlar haqida xabardor qiladi (Wikipedia). KAS soliq, bojxona va noqonuniy qimor jinoyatlarida tergovlar o'tkazadi, bu ishlar prokuror rahbarligida bo'ladi (ikkilamchi).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "CBA vazifalari",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
+          "ref": "KAS vazifalari",
+          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Fiskal jinoyatlar bo'yicha dastlabki ishni prokuror, soliq inspeksiyasi rahbari, bojxona-soliq idorasi rahbari, KAS rahbari, Chegara qo'riqlash xizmati, Politsiya yoki Harbiy politsiya yuritishi mumkin; ular \"moliya organlari\" va \"nomoliya organlari\" deb ikkiga bo'linadi (ikkilamchi manba). Milliy prokuraturadagi iqtisodiy jinoyatlar departamenti bu qidiruvda tasdiqlanmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
+          "ref": "Fiskal jinoyat kodeksi bo'yicha tergov organlari",
+          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "GIIF shubhali hisob-kitoblarni 96 soatgacha bloklashi mumkin va prokuror buni uzaytiradi (ikkilamchi manba); CBA va KAS qo'shma operatsiyalari prokuratura nazorati ostida o'tadi. Aniq vakolatlar birlamchi qonun matnidan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "GIIF vakolati",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Prokuror jinoyat haqidagi xabar, politsiya ma'lumotlari yoki o'z tashabbusi bilan tergovni ochadi (ikkilamchi manba). Tergov ko'pincha ko'p idorali: GIIF, soliq organlari, chegara xizmati va prokurorlar hamkorlik qiladi. Polshada iqtisodiy jinoyatlar bo'yicha ixtisoslashgan prokuratura bo'limlari bor, lekin bu loyihada ularning nomi va vakolati tasdiqlanmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "tergov jarayoni",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Polshada soliq-bojxona jinoyatlari tergovi (ikkilamchi)",
+          "ref": "prokuror roli",
+          "url": "https://kancelaria-skarbiec.pl/?p=22710",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "GIIF – Polshaning moliyaviy razvedka bo'linmasi: shubhali operatsiyalar haqidagi xabarlarni yig'adi va tahlil qiladi, natijalarni tarqatadi; Moliya vazirligi tizimida (ikkilamchi manba). MONEYVAL 2022-yilgi baholash hisobotiga kirish imkoni bo'lmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Polshadagi AML tizimi sharhi (ikkilamchi)",
+          "ref": "GIIF",
+          "url": "https://criminallawpoland.com/advice/combating-financial-crime-understanding-polands-anti-money-laundering-legal-framework/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "MONEYVAL hisoboti, 2022 (kirish rad etildi)",
+          "ref": "Polsha",
+          "url": "https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-mer/MONEYVAL-MER-Poland-2022.pdf.coredownload.inline.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "CBA xodimlari soni, rahbar tayinlash tartibi va muddati hamda boshqa idoralar tuzilmasi bu loyihada tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Wikipedia: Central Anticorruption Bureau (ikkilamchi)",
+          "ref": "tuzilma",
+          "url": "https://en.wikipedia.org/wiki/Central_Anticorruption_Bureau",
           "retrieved": "2026-11-09"
         }
       ]
@@ -9285,6 +9831,15 @@ window.SNAPSHOT = {
     },
     "by": {
       "color": "#4a9a3a"
+    },
+    "ge": {
+      "color": "#c0392b"
+    },
+    "pl": {
+      "color": "#d4337a"
+    },
+    "ca": {
+      "color": "#e4572e"
     }
   }
 }

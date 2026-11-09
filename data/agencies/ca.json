@@ -1,0 +1,214 @@
+{
+  "code": "ca",
+  "name": "Kanada",
+  "organ": "Moliyaviy jinoyatlar agentligi (taklif, C-29) + RCMP + PPSC + FINTRAC",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Kanadada hozircha yagona organ yo'q: moliyaviy jinoyatlarni ko'p idoraga bo'lingan tizim (RCMP, CRA, qimmatli qog'ozlar regulyatorlari, provinsiya politsiyasi) tergov qiladi, federal ayblovni Kanada Davlat ayblov xizmati (PPSC) olib boradi, moliyaviy razvedkani FINTRAC bajaradi. 2026-yil 27-aprelda Moliya vaziri parlamentga C-29-sonli qonun loyihasini kiritdi: u O'zbekiston departamentiga eng yaqin yangi organ – Moliyaviy jinoyatlar agentligi (Financial Crimes Agency, FCA) ni tuzadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "C-29 loyihasi",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09",
+          "original": "Bill C-29 would create the FCA, a specialized federal law enforcement agency"
+        },
+        {
+          "title": "Director of Public Prosecutions Act, s. 3",
+          "ref": "s. 3",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/D-2.5/section-3.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Agentlik g'oyasi birinchi marta Liberal partiyaning 2021-yilgi dasturida taklif qilingan. C-29 loyihasi 2026-yil 27-aprelda kiritilgan va birinchi o'qishdan o'tgan; ikkinchi, uchinchi o'qish va Senat tasdig'i kerak. 2026-yil 3-noyabrdagi Moliya vazirligi xabarida ham loyiha \"kiritilgan\" deb tilga olinadi, keyingi bosqich ko'rsatilmagan. Agentlik hali tuzilmagan, shuning uchun qonun kuchga kirganini bu loyihada tasdiqlay olmayman.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "holati",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "C-29",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09",
+          "original": "The government introduced it on April 27, 2026"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Amaldagi asoslar: Director of Public Prosecutions Act (PPSC uchun) va Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA, FINTRAC uchun). Yangi organ uchun Bill C-29 (Financial Crimes Agency Act) hali qonun emas. Bill S-8 (Combatting Financial Crimes and Drug Trafficking Act) 2026-yil 3-noyabrda kiritilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Director of Public Prosecutions Act, s. 3",
+          "ref": "s. 3",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/D-2.5/section-3.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "C-29",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "S-8",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "FCA Moliya vaziri huzuridagi mustaqil agentlik bo'ladi; uning Komissarini Governor in Council tayinlaydi, Vazir Komissarga siyosat yoki strategik yo'nalish bo'yicha ko'rsatma berishi mumkin; bosh qarorgoh Ottavada; qonun besh yildan keyin ko'rib chiqiladi. PPSC Direktorini Governor in Council Bosh prokuror tavsiyasiga ko'ra tayinlaydi va Direktor \"Bosh prokuror nomidan va uning ostida\" ishlaydi (s. 3(1), (3)). FINTRAC qonunga ko'ra huquqni muhofaza organlaridan \"arm's length\", mustaqil (PCMLTFA s. 40(a)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "boshqaruv",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09",
+          "original": "independent agency under the Minister of Finance"
+        },
+        {
+          "title": "Director of Public Prosecutions Act, s. 3",
+          "ref": "s. 3(1), (3)",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/D-2.5/section-3.html",
+          "retrieved": "2026-11-09",
+          "original": "under and on behalf of the Attorney General"
+        },
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40(a)",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09",
+          "original": "acts at arm's length and is independent from law enforcement agencies"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "FCA muhim va murakkab moliyaviy jinoyatlarni tergov qilish va jinoiy daromadlarni qaytarishga ko'maklashish uchun ixtisoslashgan federal huquqni muhofaza qiluvchi organ bo'ladi. PPSC Direktori Bosh prokuror nomidan jinoiy ayblovlarni qo'zg'atadi va olib boradi, huquqni muhofaza organlariga maslahat beradi (s. 3(3)(a), (d)). FINTRAC pul yuvish, terrorizm va sanksiyalarni aylanib o'tishni aniqlash, oldini olish va to'xtatishga ko'maklashish uchun axborot yig'adi, tahlil qiladi, baholaydi va taqdim etadi, majburiyatlarga rioyani ta'minlaydi (s. 40).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "FCA vazifasi",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Director of Public Prosecutions Act, s. 3",
+          "ref": "s. 3(3)",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/D-2.5/section-3.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40(b), (e)",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09",
+          "original": "collects, analyses, assesses and discloses information"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "C-29 loyihasi \"moliyaviy jinoyat\"ni keng ta'riflaydi: moliyaviy aktivlar (jumladan raqamli), moliyaviy xizmatlar yoki bozorlarga oid federal huquqbuzarliklar, shu jumladan jinoiy daromadlarni yuvish, savdosi yoki egalik qilish, daromad keltiruvchi Jinoyat kodeksidagi belgilangan jinoyatlar va PCMLTFA bo'yicha huquqbuzarliklar.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "moliyaviy jinoyat ta'rifi",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "FCA Komissari xodimlarni tergovchi yoki butun Kanada bo'ylab tinchlik zobiti vakolatiga ega politsiya xodimi etib belgilashi mumkin, ya'ni Jinoyat kodeksidagi tergov vositalaridan foydalanadi. FINTRAC razvedka organi bo'lib, hibsga olish vakolati yo'q; FCA uning \"operativ hamkori\" bo'ladi. Bosh prokuror FCA tergov qilgan istalgan moliyaviy jinoyat bo'yicha ayblov qo'zg'atishi mumkin, ayrim hollarda esa provinsiya ayblovini federal yurisdiksiyaga \"fiat\" bilan o'tkazishi mumkin. S-8 loyihasi FINTRAC ga pul xizmatlari biznesi ro'yxatdan o'tishini rad etish yoki bekor qilish vakolatini kengaytiradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "FCA vakolati",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09",
+          "original": "designate employees as investigations officers or police officers with peace officer powers across Canada"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "S-8 va FINTRAC",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Hozirgi tizim bo'laklangan: tergov RCMP, Kanada daromadlar agentligi, qimmatli qog'ozlar regulyatorlari va provinsiya politsiyasi o'rtasida taqsimlangan. FCA operativ organ sifatida tuzilgach, RCMP bilan xizmat va yordam ko'rsatish bo'yicha kelishuv nazarda tutilgan, ayblovni PPSC olib boradi. Ya'ni Kanada O'zbekistondagi kabi yagona organga o'tish yo'lida, lekin hali o'tmagan. 2025-yil byudjeti RCMP ga uyushgan jinoyatchilik, moliyaviy jinoyatlar va pul yuvishga qarshi 4 yilda 1,7 mlrd dollar ajratgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "tergov tizimi va FCA-RCMP kelishuvi",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "RCMP moliyalashtirilishi",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "FINTRAC Kanadaning moliyaviy razvedka bo'linmasi: PCMLTFA 40-moddasiga ko'ra huquqni muhofaza organlaridan mustaqil, pul yuvish, terrorizmni moliyalashtirish va sanksiyalarni aylanib o'tishni aniqlash, oldini olish va to'xtatishga ko'maklashish uchun axborot yig'adi, tahlil qiladi, baholaydi va taqdim etadi, shaxsiy ma'lumotlarni himoya qiladi, jamoatchilikni xabardor qiladi va 1- hamda 1.1-qismlarga rioyani ta'minlaydi. Bu O'zbekistondan farq qiladi: FIU va tergov alohida organlarda.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act, s. 40",
+          "ref": "s. 40",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/section-40.html",
+          "retrieved": "2026-11-09",
+          "original": "acts at arm's length and is independent from law enforcement agencies"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Moliyalashtirish (2026-yil bahor iqtisodiy yangilanishi): 5 yilda 352,7 mln dollar (2026–27 dan), FCA, PPSC va Moliya vazirligi o'rtasida bo'linadi; FCA uchun doimiy 82,1 mln dollar; PPSC uchun 5 yilda 46,2 mln dollar va doimiy 11,5 mln. Bu hozircha taklif. Xodimlar soni ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Osler: Bill C-29 va Moliyaviy jinoyatlar agentligi (2026)",
+          "ref": "moliyalashtirish",
+          "url": "https://www.osler.com/en/insights/blogs/risk/canada-takes-aim-financial-crime-bill-c-29-financial-crimes-agency/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Kanada Moliya vazirligi xabari, 2026-yil 3-noyabr",
+          "ref": "PPSC va FCA mablag'lari",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-minister-champagne-table-legislation-cracking-down-on-financial-crime-and-the-illicit-use-of-mail.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

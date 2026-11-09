@@ -1,0 +1,163 @@
+{
+  "code": "ge",
+  "name": "Gruziya",
+  "organ": "Moliya vazirligining Tergov xizmati (Investigation Service)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Gruziya Moliya vazirligining Tergov xizmati (Investigation Service of the Ministry of Finance). 2-modda 1-qismga ko'ra u Moliya vazirligi tizimidagi \"davlat quyi muassasasi maqomidagi maxsus huquqni muhofaza qiluvchi organ\" bo'lib, davlat nomidan ishlaydi (2-modda 2-qism) va butun mamlakatda yagona markazlashgan tartibda faoliyat yuritadi (12-modda 2-qism). O'zbekiston departamentiga eng yaqin tuzilmalardan biri: moliya-iqtisodiy sohada jinoyatlarni o'zi tergov qiladi, lekin prokuratura tarkibida emas, Moliya vazirligi tizimida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "2-modda; 12-modda",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09",
+          "original": "special law enforcement body with the status of a state sub-agency"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "status",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Xizmat 2009-yil 3-noyabrdagi № 1928-sonli Qonun bilan tashkil etilgan, 1–24-moddalar 2009-yil 1-dekabrdan kuchga kirgan (26-modda). U Daromadlar xizmatining ayrim bo'linmalarini qayta tashkil qilish orqali yaratilgan (25-modda 1-qism). Rasmiy saytga ko'ra uning o'tmishdoshlari Moliyaviy politsiya (2004) va Daromadlar xizmati (2007) bo'lgan; 2009-yil dekabrda Daromadlar xizmatining maxsus tadqiqot va moliyaviy ekspertiza, tergov departamentlari hamda maxsus otryad bo'linmasi birlashtirilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "25, 26-moddalar",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "tarix",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09",
+          "original": "Predecessors were the Financial Police (2004) and the Revenue Service (2007)"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Gruziya Qonuni \"Gruziya Moliya vazirligining Tergov xizmati to'g'risida\" (№ 1928, 03.11.2009; matsne.gov.ge saytida 2026-yil 25-iyungacha o'zgartirishlar bilan) hamda Jinoyat-protsessual kodeksi: Xizmatning to'liq tergovi Kodeksda belgilangan tergov tegishliligi doirasida amalga oshiriladi (8-modda \"b\" band).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "8-modda (b)",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09",
+          "original": "jurisdiction established by Criminal Procedure Code of Georgia"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "12-modda 1-qism: Xizmat Gruziya Hukumati va Moliya vaziriga hisobdor. Xizmat boshlig'ini Moliya vaziri taqdimiga ko'ra Bosh vazir lavozimga tayinlaydi va ozod qiladi (13-modda 1-qism). O'rinbosarlar va tarkibiy bo'linma rahbarlarini boshliq taqdimiga ko'ra Moliya vaziri tayinlaydi (13-modda 5-qism); Xizmat nizomini Moliya vaziri tasdiqlaydi (12-modda 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "12-modda 1, 3-qismlar; 13-modda 1, 5-qismlar",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09",
+          "original": "appointed to and dismissed from the position by the Prime Minister"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "7-modda vazifalari: jinoyatlarning oldini olish, aniqlash va o'z vakolati doirasida tergov qilish (a); moliya va iqtisod sohasidagi ma'muriy huquqbuzarliklar (b); moliya va iqtisod sohasidagi jinoyat va korrupsion harakatlarning oldini olish, aniqlash va bartaraf etish (d); o'z vakolati doirasida foydalanish uchun axborot to'plash va tahlil qilish (e). Rasmiy saytda qo'shimcha: profilaktika choralari, tematik audit va ekspertizalar, moliyaviy, budjet va pul-kredit munosabatlarida jinoyatga sharoit yaratuvchi sabablarni aniqlash va tavsiyalar berish.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "7-modda",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "funksiyalar",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Moliya va iqtisod sohasidagi jinoyatlar (2-modda 1-qism); to'liq tergov faqat Jinoyat-protsessual kodeksidagi tergov tegishliligiga kiruvchi ishlar bo'yicha (8-modda \"b\"). Kodeksdagi aniq jinoyat moddalari ro'yxati bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "2-modda 1-qism; 8-modda (b)",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "8-modda: operativ-qidiruv faoliyati, tergov va qonunga ko'ra majburlov choralari (a); dastlabki to'liq tergov (c); Daromadlar xizmatidan soliq to'lovchi haqidagi axborotni so'rash (g); hayot yoki sog'liqqa xavf bo'lganda kechiktirmasdan turar joy va binolarga kirish (i); Xizmat boshlig'i buyrug'i bilan nazorat postlari (j). 9-modda 1-qism: xodimlar vakolati doirasida jismoniy kuch, maxsus vositalar va o'qotar qurol qo'llashi mumkin. 10-modda operativ va texnik vositalar fuqaro huquqlariga rioya qilgan holda qo'llanishini belgilaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "8–10-moddalar",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09",
+          "original": "operative-investigative activities, investigation, and coercive measures"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Xizmat jinoyat ishlari bo'yicha dastlabki to'liq tergovni o'zi olib boradi (8-modda a, c) va operativ-qidiruv faoliyatini ham amalga oshiradi. Ya'ni O'zbekistonda 2025-yildan keyingi holatdagi kabi, tergov va operativ faoliyat bir organda birlashgan, ammo bu yerda organ Moliya vazirligi tizimida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "8-modda (a), (c)",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "tergov",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Gruziyada moliyaviy razvedka vazifasi alohida organga – Moliyaviy monitoring xizmatiga berilgan; Yevropa Kengashi 2018-yilgi xabarida uni FIU sifatida sanagan. Uning hozirgi maqomi va vakolati birlamchi manbadan tekshirilmadi (Transparency International Georgia materiali uni Moliya vazirligiga o'tkazish taklifi haqida eski).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Yevropa Kengashi, 2018",
+          "ref": "Gruziya FIU",
+          "url": "https://www.coe.int/en/web/corruption/-/council-of-europe-and-european-union-enhance-capacities-of-the-georgian-law-enforcement-agencies-and-financial-analysts-to-investigate-and-prosecute-m",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Xizmat Davlat byudjetidan moliyalashtiriladi (24-modda). Xodimlar sonini Moliya vaziri belgilaydi, shtat jadvalini boshliq tasdiqlaydi (13-modda 6-qism); xodimlikka talablar, jumladan 18–40 yosh va davlat tilini bilish (16-modda 2-qism). Rasmiy saytda hududiy bo'linmalar ko'rsatilgan, ularning soni va tuzilmasi bu loyihada o'qilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "ref": "13-modda 6-qism; 16-modda 2-qism; 24-modda",
+          "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliya vazirligi Tergov xizmatining rasmiy sayti is.ge",
+          "ref": "hududiy bo'linmalar",
+          "url": "https://is.ge/en/page/investigation_service",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
