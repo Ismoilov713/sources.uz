@@ -5,7 +5,7 @@
   "updated": "2026-11-09",
   "items": {
     "identity": {
-      "summary": "Belarus Davlat nazorat qo'mitasi (КГК) tarkibidagi Moliyaviy tergov departamenti (ДФР) va uning hududiy boshqarma hamda bo'limlari – \"moliyaviy tergov organlari\". 1-moddaga ko'ra ular mamlakat iqtisodiy xavfsizligini ta'minlovchi davlat huquqni muhofaza qiluvchi organlar. Bu O'zbekiston departamentiga eng yaqin tuzilmalardan biri: nazorat qo'mitasi tarkibidagi huquqni muhofaza organi.",
+      "summary": "Belarus Davlat nazorat qo'mitasi (КГК) tarkibidagi Moliyaviy tergov departamenti (ДФР) va uning hududiy boshqarma va bo'limlari – \"moliyaviy tergov organlari\". 1-moddaga ko'ra ular iqtisodiy xavfsizlikni ta'minlovchi davlat huquqni muhofaza qiluvchi organlar. Muhim farq: Jinoyat-protsessual kodeksi ularni dastlabki tergov organi emas, faqat \"surishtiruv organi\" (орган дознания) deb belgilaydi (37-modda 1-qism 7-band); dastlabki tergovni asosan Tergov qo'mitasi tergovchilari olib boradi (182-modda 1-qism). (Jinoyat-protsessual kodeksi moddalari 2012-yil tahririda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
@@ -13,7 +13,13 @@
           "ref": "1-modda",
           "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
           "retrieved": "2026-11-09",
-          "original": "Органы ... государственные правоохранительные органы, обеспечивающие экономическую безопасность"
+          "original": "государственные правоохранительные органы, обеспечивающие экономическую безопасность"
+        },
+        {
+          "title": "Belarus Jinoyat-protsessual kodeksi № 295-З (BMT UNODC bazasidagi 2012-yil tahriri, rus tilida)",
+          "ref": "37-modda 1-qism 7-band; 182-modda 1-qism",
+          "url": "https://www.unodc.org/cld/uploads/res/document/blr/1999/criminal_procedure_code_of_the_republic_of_belarus_ru_html/Belarus_Criminal_Procedure_Code_RU.pdf",
+          "retrieved": "2026-11-09"
         }
       ]
     },
@@ -30,7 +36,7 @@
       ]
     },
     "legal_basis": {
-      "summary": "Belarus Qonuni 2008-yil 16-iyuldagi № 414-З \"Davlat nazorat qo'mitasi moliyaviy tergov organlari to'g'risida\" (17.07.2023 tahrirda ko'rilgan), Prezident qarorlari va boshqa hujjatlar; Departamentning o'ziga xosliklari shular bilan belgilanadi (Qo'mita to'g'risidagi № 142-З qonun, 3-modda 3-qism).",
+      "summary": "Belarus Qonuni 2008-yil 16-iyuldagi № 414-З \"Davlat nazorat qo'mitasi moliyaviy tergov organlari to'g'risida\" (17.07.2023 tahrirda ko'rilgan); Qo'mita to'g'risidagi № 142-З qonunning 3-moddasi 3-qismi Departamentning o'ziga xosliklari Prezident qarorlari va № 414-З bilan belgilanishini yozadi. Jinoyat-protsessual kodeksi: 37-modda (surishtiruv organlari), 182-modda (tergov tegishliligi), 186-modda (surishtiruv organlarining ishi). (Jinoyat-protsessual kodeksi moddalari 2012-yil tahririda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
@@ -40,21 +46,33 @@
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Belarus Qonuni № 142-З (КГК), etalonline.by",
+          "title": "Belarus Qonuni № 142-З Davlat nazorat qo'mitasi to'g'risida, etalonline.by",
           "ref": "3-modda 3-qism",
           "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Belarus Jinoyat-protsessual kodeksi № 295-З (BMT UNODC bazasidagi 2012-yil tahriri, rus tilida)",
+          "ref": "37, 182, 186-moddalar",
+          "url": "https://www.unodc.org/cld/uploads/res/document/blr/1999/criminal_procedure_code_of_the_republic_of_belarus_ru_html/Belarus_Criminal_Procedure_Code_RU.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "subordination": {
-      "summary": "Umumiy rahbarlikni Prezident va КГК Raisi amalga oshiradi; bevosita rahbar КГК Raisining o'rinbosari, u Departament direktori ham. Direktorni Prezident tayinlaydi va ozod qiladi, Departament to'g'risidagi nizomni tasdiqlaydi va shtat sonini belgilaydi; КГК Raisi Prezidentga direktor tayinlash bo'yicha taqdim kiritadi va o'rta va katta boshliq tarkibni tayinlaydi (8, 9-moddalar).",
+      "summary": "Umumiy rahbarlikni Prezident va КГК Raisi amalga oshiradi; bevosita rahbar КГК Raisining o'rinbosari, u Departament direktori ham. Direktorni Prezident tayinlaydi va ozod qiladi, Departament to'g'risidagi nizomni tasdiqlaydi va shtat sonini belgilaydi; КГК Raisi Prezidentga direktor tayinlash bo'yicha taqdim kiritadi va o'rta va katta boshliq tarkibni tayinlaydi (8, 9-moddalar). Viloyat nazorat qo'mitalari raislari Departament boshqarmalari bilan hamkorlikni muvofiqlashtiradi (КГК to'g'risidagi № 142-З qonun, 11-modda).",
       "status": "tasdiqlangan",
       "sources": [
         {
           "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
           "ref": "8, 9-moddalar",
           "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Belarus Qonuni № 142-З Davlat nazorat qo'mitasi to'g'risida, etalonline.by",
+          "ref": "11-modda",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
           "retrieved": "2026-11-09"
         }
       ]
@@ -72,14 +90,15 @@
       ]
     },
     "jurisdiction": {
-      "summary": "Aniq jinoyat moddalari ro'yxati o'qilgan matnda yo'q (matnning bir qismi o'qilmadi); ta'rif umumiy: iqtisodiy sohadagi huquqbuzarliklar, shu jumladan korrupsion.",
-      "status": "tekshirilmagan",
+      "summary": "Jinoyat-protsessual kodeksining 37-moddasi 1-qismi 7-bandiga ko'ra moliyaviy tergov organlari Jinoyat kodeksining 224–227, 233–235, 237–245, 247 va 261-1-moddalarida nazarda tutilgan jinoyatlar bo'yicha surishtiruv organidir. Boshqa surishtiruv organlari ham bor: Ichki ishlar vazirligi, davlat xavfsizligi, chegara, bojxona (kontrabanda va bojxona to'lovlaridan bo'yin tovlash bo'yicha) va boshqalar. Jinoyat kodeksi moddalarining nomi bu loyihada o'qilmagan. (Jinoyat-protsessual kodeksi moddalari 2012-yil tahririda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
-          "ref": "2-modda",
-          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
-          "retrieved": "2026-11-09"
+          "title": "Belarus Jinoyat-protsessual kodeksi № 295-З (BMT UNODC bazasidagi 2012-yil tahriri, rus tilida)",
+          "ref": "37-modda 1-qism 7-band",
+          "url": "https://www.unodc.org/cld/uploads/res/document/blr/1999/criminal_procedure_code_of_the_republic_of_belarus_ru_html/Belarus_Criminal_Procedure_Code_RU.pdf",
+          "retrieved": "2026-11-09",
+          "original": "органы финансовых расследований Комитета государственного контроля Республики Беларусь – по уголовным делам о преступлениях, предусмотренных статьями 224–227, 233–235, 237–245, 247 и 2611 Уголовного кодекса Республики Беларусь"
         }
       ]
     },
@@ -97,9 +116,16 @@
       ]
     },
     "investigation": {
-      "summary": "11-modda: organlar jinoyat haqidagi arizalarni qabul qilib ro'yxatdan o'tkazadi, surishtiruv (дознание) olib boradi va ma'muriy jarayonni yuritadi. Bu manbaning o'qilgan qismida dastlabki tergov (предварительное следствие) vakolati ko'rsatilmagan; bu masala Jinoyat-protsessual kodeksidan alohida tekshirilishi kerak.",
-      "status": "tekshirilmagan",
+      "summary": "Belarusda moliyaviy tergov organi to'liq dastlabki tergov olib bormaydi. Jinoyat-protsessual kodeksiga ko'ra: (1) dastlabki tergov Tergov qo'mitasi tergovchilari tomonidan olib boriladi, faqat ayrim moddalar bo'yicha davlat xavfsizligi tergovchilari (182-modda 1–2-qismlar); (2) surishtiruv organi, shu jumladan ДФР, jinoyat belgilari bo'lganda ish qo'zg'atadi yoki materiallarni tegishlilik bo'yicha uzatadi, qo'zg'atilgan ish bo'yicha shoshilinch tergov harakatlarini bajaradi: ko'rik, tintuv, olib qo'yish, mulk va xat-yozishmalarga qamoq qo'yish, tinglash va yozib olish, shaxsni tanitish, ushlash, ehtiyot chorasini qo'llash, so'roq, ekspertiza tayinlash (186-modda 1-qism); (3) jinoyat va ish qo'zg'atilgani haqida prokurorga darhol xabar beradi (186-modda 2-qism); (4) shoshilinch harakatlar tugagach, ish qo'zg'atilgan kundan boshlab 10 sutkadan kechiktirmay ishni tergovchiga topshiradi (186-modda 3-qism); (5) topshirilgandan keyin tergovchining topshirig'i bilangina harakat qiladi (186-modda 4-qism). 2-moddada \"surishtiruv\" yuritish vakolati ham shu ma'noda ko'rsatilgan. Bu O'zbekiston modelidan farq qiladi: Belarusda tergov va surishtiruv organi ajratilgan. (Jinoyat-protsessual kodeksi moddalari 2012-yil tahririda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
+        {
+          "title": "Belarus Jinoyat-protsessual kodeksi № 295-З (BMT UNODC bazasidagi 2012-yil tahriri, rus tilida)",
+          "ref": "182-modda 1, 2-qism; 186-modda 1–4-qismlar",
+          "url": "https://www.unodc.org/cld/uploads/res/document/blr/1999/criminal_procedure_code_of_the_republic_of_belarus_ru_html/Belarus_Criminal_Procedure_Code_RU.pdf",
+          "retrieved": "2026-11-09",
+          "original": "По выполнении неотложных следственных и других процессуальных действий, но не позднее десяти суток со дня возбуждения уголовного дела орган дознания обязан передать дело следователю."
+        },
         {
           "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
           "ref": "2, 11-moddalar",
@@ -121,7 +147,7 @@
       ]
     },
     "structure": {
-      "summary": "7-modda: tizimga Moliyaviy tergov departamenti (yuridik shaxs huquqi bilan), viloyatlar, Minsk viloyati va Minsk shahri bo'yicha Departament boshqarmalari va ularning tumanlararo bo'limlari kiradi. Shtat sonini Prezident belgilaydi (9-modda). 2019-yil birinchi yarim yilligida bu organlar 590 ta jinoyatni aniqlagani (41,8% og'ir) pravo.by xabarida keltirilgan.",
+      "summary": "7-modda: tizimga Moliyaviy tergov departamenti (yuridik shaxs huquqi bilan), viloyatlar, Minsk viloyati va Minsk shahri bo'yicha Departament boshqarmalari va ularning tumanlararo bo'limlari kiradi. Shtat sonini Prezident belgilaydi (9-modda). 2019-yil birinchi yarim yilligida bu organlar 590 ta jinoyatni aniqlagani (41,8% og'ir) pravo.by xabarida keltirilgan (ikkilamchi).",
       "status": "tasdiqlangan",
       "sources": [
         {
@@ -131,7 +157,7 @@
           "retrieved": "2026-11-09"
         },
         {
-          "title": "pravo.by, 2019",
+          "title": "pravo.by, 2019 (ikkilamchi)",
           "ref": "statistika",
           "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2019/july/38006/",
           "retrieved": "2026-11-09"

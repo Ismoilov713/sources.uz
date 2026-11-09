@@ -7058,7 +7058,7 @@ window.AGENCIES = [
   "updated": "2026-11-09",
   "items": {
     "identity": {
-      "summary": "Belarus Davlat nazorat qo'mitasi (КГК) tarkibidagi Moliyaviy tergov departamenti (ДФР) va uning hududiy boshqarma hamda bo'limlari – \"moliyaviy tergov organlari\". 1-moddaga ko'ra ular mamlakat iqtisodiy xavfsizligini ta'minlovchi davlat huquqni muhofaza qiluvchi organlar. Bu O'zbekiston departamentiga eng yaqin tuzilmalardan biri: nazorat qo'mitasi tarkibidagi huquqni muhofaza organi.",
+      "summary": "Belarus Davlat nazorat qo'mitasi (КГК) tarkibidagi Moliyaviy tergov departamenti (ДФР) va uning hududiy boshqarma va bo'limlari – \"moliyaviy tergov organlari\". 1-moddaga ko'ra ular iqtisodiy xavfsizlikni ta'minlovchi davlat huquqni muhofaza qiluvchi organlar. Muhim farq: Jinoyat-protsessual kodeksi ularni dastlabki tergov organi emas, faqat \"surishtiruv organi\" (орган дознания) deb belgilaydi (37-modda 1-qism 7-band); dastlabki tergovni asosan Tergov qo'mitasi tergovchilari olib boradi (182-modda 1-qism). (Jinoyat-protsessual kodeksi moddalari 2012-yil tahririda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
@@ -7066,7 +7066,13 @@ window.AGENCIES = [
           "ref": "1-modda",
           "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
           "retrieved": "2026-11-09",
-          "original": "Органы ... государственные правоохранительные органы, обеспечивающие экономическую безопасность"
+          "original": "государственные правоохранительные органы, обеспечивающие экономическую безопасность"
+        },
+        {
+          "title": "Belarus Jinoyat-protsessual kodeksi № 295-З (BMT UNODC bazasidagi 2012-yil tahriri, rus tilida)",
+          "ref": "37-modda 1-qism 7-band; 182-modda 1-qism",
+          "url": "https://www.unodc.org/cld/uploads/res/document/blr/1999/criminal_procedure_code_of_the_republic_of_belarus_ru_html/Belarus_Criminal_Procedure_Code_RU.pdf",
+          "retrieved": "2026-11-09"
         }
       ]
     },
@@ -7083,7 +7089,7 @@ window.AGENCIES = [
       ]
     },
     "legal_basis": {
-      "summary": "Belarus Qonuni 2008-yil 16-iyuldagi № 414-З \"Davlat nazorat qo'mitasi moliyaviy tergov organlari to'g'risida\" (17.07.2023 tahrirda ko'rilgan), Prezident qarorlari va boshqa hujjatlar; Departamentning o'ziga xosliklari shular bilan belgilanadi (Qo'mita to'g'risidagi № 142-З qonun, 3-modda 3-qism).",
+      "summary": "Belarus Qonuni 2008-yil 16-iyuldagi № 414-З \"Davlat nazorat qo'mitasi moliyaviy tergov organlari to'g'risida\" (17.07.2023 tahrirda ko'rilgan); Qo'mita to'g'risidagi № 142-З qonunning 3-moddasi 3-qismi Departamentning o'ziga xosliklari Prezident qarorlari va № 414-З bilan belgilanishini yozadi. Jinoyat-protsessual kodeksi: 37-modda (surishtiruv organlari), 182-modda (tergov tegishliligi), 186-modda (surishtiruv organlarining ishi). (Jinoyat-protsessual kodeksi moddalari 2012-yil tahririda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
@@ -7093,21 +7099,33 @@ window.AGENCIES = [
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Belarus Qonuni № 142-З (КГК), etalonline.by",
+          "title": "Belarus Qonuni № 142-З Davlat nazorat qo'mitasi to'g'risida, etalonline.by",
           "ref": "3-modda 3-qism",
           "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Belarus Jinoyat-protsessual kodeksi № 295-З (BMT UNODC bazasidagi 2012-yil tahriri, rus tilida)",
+          "ref": "37, 182, 186-moddalar",
+          "url": "https://www.unodc.org/cld/uploads/res/document/blr/1999/criminal_procedure_code_of_the_republic_of_belarus_ru_html/Belarus_Criminal_Procedure_Code_RU.pdf",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "subordination": {
-      "summary": "Umumiy rahbarlikni Prezident va КГК Raisi amalga oshiradi; bevosita rahbar КГК Raisining o'rinbosari, u Departament direktori ham. Direktorni Prezident tayinlaydi va ozod qiladi, Departament to'g'risidagi nizomni tasdiqlaydi va shtat sonini belgilaydi; КГК Raisi Prezidentga direktor tayinlash bo'yicha taqdim kiritadi va o'rta va katta boshliq tarkibni tayinlaydi (8, 9-moddalar).",
+      "summary": "Umumiy rahbarlikni Prezident va КГК Raisi amalga oshiradi; bevosita rahbar КГК Raisining o'rinbosari, u Departament direktori ham. Direktorni Prezident tayinlaydi va ozod qiladi, Departament to'g'risidagi nizomni tasdiqlaydi va shtat sonini belgilaydi; КГК Raisi Prezidentga direktor tayinlash bo'yicha taqdim kiritadi va o'rta va katta boshliq tarkibni tayinlaydi (8, 9-moddalar). Viloyat nazorat qo'mitalari raislari Departament boshqarmalari bilan hamkorlikni muvofiqlashtiradi (КГК to'g'risidagi № 142-З qonun, 11-modda).",
       "status": "tasdiqlangan",
       "sources": [
         {
           "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
           "ref": "8, 9-moddalar",
           "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Belarus Qonuni № 142-З Davlat nazorat qo'mitasi to'g'risida, etalonline.by",
+          "ref": "11-modda",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7125,14 +7143,15 @@ window.AGENCIES = [
       ]
     },
     "jurisdiction": {
-      "summary": "Aniq jinoyat moddalari ro'yxati o'qilgan matnda yo'q (matnning bir qismi o'qilmadi); ta'rif umumiy: iqtisodiy sohadagi huquqbuzarliklar, shu jumladan korrupsion.",
-      "status": "tekshirilmagan",
+      "summary": "Jinoyat-protsessual kodeksining 37-moddasi 1-qismi 7-bandiga ko'ra moliyaviy tergov organlari Jinoyat kodeksining 224–227, 233–235, 237–245, 247 va 261-1-moddalarida nazarda tutilgan jinoyatlar bo'yicha surishtiruv organidir. Boshqa surishtiruv organlari ham bor: Ichki ishlar vazirligi, davlat xavfsizligi, chegara, bojxona (kontrabanda va bojxona to'lovlaridan bo'yin tovlash bo'yicha) va boshqalar. Jinoyat kodeksi moddalarining nomi bu loyihada o'qilmagan. (Jinoyat-protsessual kodeksi moddalari 2012-yil tahririda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
-          "ref": "2-modda",
-          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
-          "retrieved": "2026-11-09"
+          "title": "Belarus Jinoyat-protsessual kodeksi № 295-З (BMT UNODC bazasidagi 2012-yil tahriri, rus tilida)",
+          "ref": "37-modda 1-qism 7-band",
+          "url": "https://www.unodc.org/cld/uploads/res/document/blr/1999/criminal_procedure_code_of_the_republic_of_belarus_ru_html/Belarus_Criminal_Procedure_Code_RU.pdf",
+          "retrieved": "2026-11-09",
+          "original": "органы финансовых расследований Комитета государственного контроля Республики Беларусь – по уголовным делам о преступлениях, предусмотренных статьями 224–227, 233–235, 237–245, 247 и 2611 Уголовного кодекса Республики Беларусь"
         }
       ]
     },
@@ -7150,9 +7169,16 @@ window.AGENCIES = [
       ]
     },
     "investigation": {
-      "summary": "11-modda: organlar jinoyat haqidagi arizalarni qabul qilib ro'yxatdan o'tkazadi, surishtiruv (дознание) olib boradi va ma'muriy jarayonni yuritadi. Bu manbaning o'qilgan qismida dastlabki tergov (предварительное следствие) vakolati ko'rsatilmagan; bu masala Jinoyat-protsessual kodeksidan alohida tekshirilishi kerak.",
-      "status": "tekshirilmagan",
+      "summary": "Belarusda moliyaviy tergov organi to'liq dastlabki tergov olib bormaydi. Jinoyat-protsessual kodeksiga ko'ra: (1) dastlabki tergov Tergov qo'mitasi tergovchilari tomonidan olib boriladi, faqat ayrim moddalar bo'yicha davlat xavfsizligi tergovchilari (182-modda 1–2-qismlar); (2) surishtiruv organi, shu jumladan ДФР, jinoyat belgilari bo'lganda ish qo'zg'atadi yoki materiallarni tegishlilik bo'yicha uzatadi, qo'zg'atilgan ish bo'yicha shoshilinch tergov harakatlarini bajaradi: ko'rik, tintuv, olib qo'yish, mulk va xat-yozishmalarga qamoq qo'yish, tinglash va yozib olish, shaxsni tanitish, ushlash, ehtiyot chorasini qo'llash, so'roq, ekspertiza tayinlash (186-modda 1-qism); (3) jinoyat va ish qo'zg'atilgani haqida prokurorga darhol xabar beradi (186-modda 2-qism); (4) shoshilinch harakatlar tugagach, ish qo'zg'atilgan kundan boshlab 10 sutkadan kechiktirmay ishni tergovchiga topshiradi (186-modda 3-qism); (5) topshirilgandan keyin tergovchining topshirig'i bilangina harakat qiladi (186-modda 4-qism). 2-moddada \"surishtiruv\" yuritish vakolati ham shu ma'noda ko'rsatilgan. Bu O'zbekiston modelidan farq qiladi: Belarusda tergov va surishtiruv organi ajratilgan. (Jinoyat-protsessual kodeksi moddalari 2012-yil tahririda o'qildi; keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
+        {
+          "title": "Belarus Jinoyat-protsessual kodeksi № 295-З (BMT UNODC bazasidagi 2012-yil tahriri, rus tilida)",
+          "ref": "182-modda 1, 2-qism; 186-modda 1–4-qismlar",
+          "url": "https://www.unodc.org/cld/uploads/res/document/blr/1999/criminal_procedure_code_of_the_republic_of_belarus_ru_html/Belarus_Criminal_Procedure_Code_RU.pdf",
+          "retrieved": "2026-11-09",
+          "original": "По выполнении неотложных следственных и других процессуальных действий, но не позднее десяти суток со дня возбуждения уголовного дела орган дознания обязан передать дело следователю."
+        },
         {
           "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
           "ref": "2, 11-moddalar",
@@ -7174,7 +7200,7 @@ window.AGENCIES = [
       ]
     },
     "structure": {
-      "summary": "7-modda: tizimga Moliyaviy tergov departamenti (yuridik shaxs huquqi bilan), viloyatlar, Minsk viloyati va Minsk shahri bo'yicha Departament boshqarmalari va ularning tumanlararo bo'limlari kiradi. Shtat sonini Prezident belgilaydi (9-modda). 2019-yil birinchi yarim yilligida bu organlar 590 ta jinoyatni aniqlagani (41,8% og'ir) pravo.by xabarida keltirilgan.",
+      "summary": "7-modda: tizimga Moliyaviy tergov departamenti (yuridik shaxs huquqi bilan), viloyatlar, Minsk viloyati va Minsk shahri bo'yicha Departament boshqarmalari va ularning tumanlararo bo'limlari kiradi. Shtat sonini Prezident belgilaydi (9-modda). 2019-yil birinchi yarim yilligida bu organlar 590 ta jinoyatni aniqlagani (41,8% og'ir) pravo.by xabarida keltirilgan (ikkilamchi).",
       "status": "tasdiqlangan",
       "sources": [
         {
@@ -7184,7 +7210,7 @@ window.AGENCIES = [
           "retrieved": "2026-11-09"
         },
         {
-          "title": "pravo.by, 2019",
+          "title": "pravo.by, 2019 (ikkilamchi)",
           "ref": "statistika",
           "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2019/july/38006/",
           "retrieved": "2026-11-09"
@@ -8781,142 +8807,228 @@ window.AGENCIES = [
   "updated": "2026-11-09",
   "items": {
     "identity": {
-      "summary": "Ukraina Iqtisodiy xavfsizlik byurosi (БЕБ, Economic Security Bureau of Ukraine, BEB). Markaziy ijroiya hokimiyat organi bo'lib, iqtisodiy jinoyatlarga qarshi kurashadi: iqtisodiyotga zarar yetkazuvchi huquqbuzarliklarning oldini olish, aniqlash va tergov qilish. O'zbekiston departamentiga yaqin ixtisoslashgan organ, lekin prokuratura tarkibida emas, Vazirlar Mahkamasi tizimida.",
+      "summary": "Iqtisodiy xavfsizlik byurosi (БЕБ, BEB) 1-moddaga ko'ra \"davlat iqtisodiyotining faoliyatiga qarshi huquqbuzarliklarga qarshi kurash vazifasi yuklangan markaziy ijroiya hokimiyat organi\"; u huquqni muhofaza qilish, tahliliy, iqtisodiy, axborot va boshqa vazifalarni bajaradi. Byuro jamoat huquqi yuridik shaxsi (14-modda 1-qism). Bu O'zbekiston departamentiga o'xshash yagona ixtisoslashgan organ, lekin prokuraturada emas, Vazirlar Mahkamasi tizimidagi ijroiya organi. (Qonun matni rus tilidagi tarjima nusxasidan o'qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo'lmadi; nusxada tahrir sanasi 01.01.2022 deb ko'rsatilgan, keyingi o'zgartirishlar tekshirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "status",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "1-modda 1-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-1",
           "retrieved": "2026-11-09",
-          "original": "central executive authority against economic crime"
+          "original": "центральный орган исполнительной власти, на который возлагаются задачи по противодействию правонарушениям, посягающие на функционирование экономики государства"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "14-modda 1-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-14",
+          "retrieved": "2026-11-09"
         }
       ]
     },
     "history": {
-      "summary": "Ikkilamchi manbalarga ko'ra Qonun 2021-yil 28-yanvarda Oliy Rada tomonidan qabul qilingan, 2021-yil 22-martda Prezident imzolagan, 25-martdan kuchga kirgan; Vazirlar Mahkamasi faoliyatni boshlash haqida buyruqni 2021-yil 24-noyabrda chiqargan. Byuro soliq politsiyasi va Ichki ishlar hamda SBU ning iqtisodiy jinoyatlar bo'linmalari vakolatini o'z zimmasiga olgan va \"iqtisodiy jinoyatlar bilan shug'ullanadigan yagona davlat organi\" bo'lishi ko'zda tutilgan.",
+      "summary": "Qonun 2021-yil 28-yanvardagi № 1150-IX bilan qabul qilingan va 2021-yil 25-martdan kuchga kirgan. Qonunga ko'ra Byuro soliq politsiyasi va SBU ning iqtisodiy jinoyatlar bo'yicha vakolatlarining bir qismini o'z zimmasiga olgan; Byuro qonun kuchga kirgandan keyin 6 oy ichida ish boshlashi, Hukumat esa shu muddatda Davlat fiskal xizmatini tugatishi kerak bo'lgan. Soliq politsiyasi bo'linmalariga yangi operativ-qidiruv ishlari ochish taqiqlangan, ularning ishlari 3 oyda yakunlanishi yoki dastlabki tergovga aylanishi lozim bo'lgan; boshqa organlardagi ishlar 2 oy ichida prokurorga topshirilgan. Faoliyatni boshlash haqidagi Vazirlar Mahkamasi buyrug'i 2021-yil 24-noyabrdagi deb qidiruv natijalarida ko'rsatilgan (tekshirilmagan).",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "sanalar va o'rnini olgan organlar",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
-          "retrieved": "2026-11-09"
+          "title": "LIGA:ZAKON: Qonun kuchga kirdi (ikkilamchi)",
+          "ref": "qonun raqami, sanasi va o'tish muddatlari",
+          "url": "https://biz.ligazakon.net/news/202477_nabuv-chinnost-zakon-pro-byuro-ekonomchno-bezpeki-ukrani",
+          "retrieved": "2026-11-09",
+          "original": "Закон України від 28.01.2021 № 1150-IX «Про Бюро економічної безпеки України», чинний з 25 березня 2021 року"
         },
         {
-          "title": "CMS/Kyiv Post (qidiruv natijasi)",
-          "ref": "ishga tushish",
-          "url": "https://www.kyivpost.com/post/49109",
-          "retrieved": "2026-11-09"
+          "title": "CMS Legal (ikkilamchi)",
+          "ref": "kuchga kirishi",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09",
+          "original": "signed by the President on 22 March 2021 and in force from 25 March 2021"
         }
       ]
     },
     "legal_basis": {
-      "summary": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Ukraina Qonuni. Manbalar raqamda kelishmaydi: CMS № 1150-IX (22.03.2021 imzolangan, 25.03.2021 kuchga kirgan) deydi, Byuroning rasmiy sayti esa \"16.12.2020 yildagi № 1089-IX\" ni keltirgani qidiruv natijasida ko'rsatilgan; birlamchi matn (zakon.rada.gov.ua) ulanmadi. Qaysi biri to'g'riligini rasmiy matndan aniqlash kerak.",
-      "status": "ziddiyatli",
+      "summary": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Ukraina Qonuni № 1150-IX (28.01.2021): uni LIGA:ZAKON, CMS va qonun nusxasi sarlavhasi bir xil raqam bilan keltiradi (qidiruv natijasida Byuro rasmiy saytida \"1089-IX\" deb ko'rsatilgani aytilgan edi, bu tasdiqlanmadi). Byuro tegishliligi Jinoyat-protsessual kodeksi 216-moddasi 3-qismida belgilanadi. Qonunning 1-moddasi 3-qismi: huquqiy asos – Konstitutsiya, xalqaro shartnomalar, shu Qonun va boshqa qonunlar. (Qonun matni rus tilidagi tarjima nusxasidan o'qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo'lmadi; nusxada tahrir sanasi 01.01.2022 deb ko'rsatilgan, keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "Qonun raqami va sanasi",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
-          "retrieved": "2026-11-09",
-          "original": "Law No. 1150-IX"
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "1-modda 3-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-1",
+          "retrieved": "2026-11-09"
         },
         {
-          "title": "Byuroning rasmiy sayti (qidiruv natijasi)",
-          "ref": "Qonun raqami",
-          "url": "https://esbu.gov.ua/en/about-bureau/general-principles-of-activity",
+          "title": "LIGA:ZAKON: Qonun kuchga kirdi (ikkilamchi)",
+          "ref": "raqam va sana",
+          "url": "https://biz.ligazakon.net/news/202477_nabuv-chinnost-zakon-pro-byuro-ekonomchno-bezpeki-ukrani",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ukraina Jinoyat-protsessual kodeksi, 216-modda (ukrain tilida, urst.com.ua)",
+          "ref": "216-modda 3-qism",
+          "url": "https://urst.com.ua/kpku/st-216",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "subordination": {
-      "summary": "Byuro faoliyatini Vazirlar Mahkamasi boshqaradi va muvofiqlashtiradi. Direktor Vazirlar Mahkamasi tomonidan ochiq tanlov asosida tayinlanadi: uch a'zoli tanlov komissiyasi (Milliy xavfsizlik va mudofaa kengashi, parlament, Vazirlar Mahkamasidan bittadan), uchta finalist, Bosh vazir bittasini tanlab Vazirlar Mahkamasiga taqdim etadi. Muddat 5 yil, ketma-ket ikki martadan ortiq emas. Qidiruv natijalariga ko'ra Oleksandr Tsyvinskiy 2025-yil avgustida direktor etib tayinlangan (ikkilamchi manba).",
+      "summary": "1-modda 2-qism: Byuro faoliyatini Vazirlar Mahkamasi yo'naltiradi va muvofiqlashtiradi. 5-modda (mustaqillik kafolatlari): direktor va xodimlarni tanlash, tayinlash va ozod qilishning maxsus tartibi, noqonuniy aralashuv taqiqi, moliyalashtirish tartibi; Prezident, davlat organlari, mahalliy hokimiyat, partiyalar va jamoat birlashmalarining Byuro faoliyatiga qonunda ko'zda tutilmagan asoslarda aralashuvi taqiqlanadi, va aniq jinoyat ishlari bo'yicha Jinoyat-protsessual kodeksida nazarda tutilmagan har qanday ko'rsatma noqonuniy sanalib bajarilmaydi. 35-modda: direktor har yili 1-martgacha Oliy Rada va Vazirlar Mahkamasiga hisobot beradi. 34-modda: Byuro huzurida ochiq tanlov va fuqarolarning internet-ovoz berishi orqali shakllanadigan 15 kishilik Jamoat nazorati kengashi bor. (Qonun matni rus tilidagi tarjima nusxasidan o'qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo'lmadi; nusxada tahrir sanasi 01.01.2022 deb ko'rsatilgan, keyingi o'zgartirishlar tekshirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "rahbar va bo'ysunuv",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
-          "retrieved": "2026-11-09",
-          "original": "Appointed by the Cabinet of Ministers after an open competition"
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "1-modda 2-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-1",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "5-modda 1, 2-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-5",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "34-modda",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-34",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "35-modda 1-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-35",
+          "retrieved": "2026-11-09"
         }
       ]
     },
     "functions": {
-      "summary": "Asosiy vazifalar: iqtisodiyotdagi xavf sohalarini baholash va ma'lumotlarni tahlil qilish, xalqaro texnik yordamdan noto'g'ri foydalanishni tergov qilish, davlat tartibga solishiga o'zgartirishlar taklif qilish. Byuroning ikki asosiy vazifasi: tahliliy va huquqni muhofaza qiluvchi; ikkinchisi firibgarlik, soliqdan bo'yin tovlash, kontrabanda va pul yuvish kabi moliyaviy jinoyatlarni qamraydi.",
+      "summary": "4-modda 1-qism: Byuroning asosiy vazifalari: (1) strukturalangan va strukturalanmagan ma'lumotlarni tahlil qilib iqtisodiyotdagi xavf zonalarini aniqlash; (2) davlat iqtisodiy xavfsizligiga xavf va tahdidlarni baholash va ularni kamaytirish yo'llarini ishlab chiqish; (3) iqtisodiyotda g'ayriqonuniy sxemalar yaratilishi shart-sharoitlarini bartaraf etish bo'yicha normativ-huquqiy hujjatlarga o'zgartirish takliflari; (4) davlat iqtisodiy xavfsizligini jinoiy huquqbuzarliklarning oldini olish, aniqlash, to'xtatish va tergov qilish orqali ta'minlash; (5) iqtisodiy xavfsizlikka ta'sir qiluvchi huquqbuzarliklar haqida axborotni yig'ish va tahlil qilish; (6) o'z tegishliligidagi jinoyatlarga qarshi tadbirlarni rejalashtirish; (7) xalqaro texnik yordamni olish va ishlatish bilan bog'liq jinoyatlarni aniqlash va tergov qilish; (8) davlat organlariga tahliliy xulosa va tavsiyalar tayyorlash. (Qonun matni rus tilidagi tarjima nusxasidan o'qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo'lmadi; nusxada tahrir sanasi 01.01.2022 deb ko'rsatilgan, keyingi o'zgartirishlar tekshirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "vazifalar",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
-          "retrieved": "2026-11-09"
-        },
-        {
-          "title": "CMS/Kyiv Post (qidiruv natijasi)",
-          "ref": "funksiyalar",
-          "url": "https://www.kyivpost.com/post/49109",
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "4-modda 1-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-4",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "jurisdiction": {
-      "summary": "Jinoyatlar toifalari bu manbada nomlari bilan sanalmagan; faqat umumiy ta'rif keltirilgan: iqtisodiyotga zarar yetkazuvchi huquqbuzarliklar, firibgarlik, soliqdan bo'yin tovlash, kontrabanda, pul yuvish. Jinoyat-protsessual kodeksidagi aniq tegishlilik ro'yxati o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Jinoyat-protsessual kodeksining 216-moddasi 3-qismiga ko'ra Byuro detektivlari quyidagi Jinoyat kodeksi moddalari bo'yicha dastlabki tergov olib boradi: 199, 200, 203-2, 204, 205-1, 206, 212, 212-1, 218-1, 219, 220-1, 220-2, 222, 222-1, 223-1, 224, 229, 231, 232, 232-1, 232-2, 233. Shuningdek 191 (byudjet qoplamasi predmeti bo'lsa), 206-2, 210, 211-moddalar – agar ular Davlat tergov byurosi yoki Milliy korrupsiyaga qarshi byuroga tegishli bo'lmasa; hamda 191 va 364-moddalar – agar jinoyat predmeti yoki zarar 500 dan 2000 gacha yashash minimumi miqdorida bo'lsa, mansabdor davlat organi, mahalliy hokimiyat yoki ustav kapitalida davlat yoki kommunal ulushi 50% dan ortiq xo'jalik subyekti tomonidan sodir etilsa va boshqa organga tegishli bo'lmasa. Bog'liq 192, 358, 366, 369-moddalar ham tergov qilinishi mumkin. Jinoyat kodeksi moddalarining mazmuni (nomi) bu loyihada o'qilmagan; kodeks matnining aniq tahrir sanasi ko'rsatilmagan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "vakolat doirasi",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
-          "retrieved": "2026-11-09"
+          "title": "Ukraina Jinoyat-protsessual kodeksi, 216-modda (ukrain tilida, urst.com.ua)",
+          "ref": "216-modda 3-qism",
+          "url": "https://urst.com.ua/kpku/st-216",
+          "retrieved": "2026-11-09",
+          "original": "Детективи органів Бюро економічної безпеки України здійснюють досудове розслідування кримінальних правопорушень, передбачених: 1) статтями 199, 200, 203-2, 204, 205-1, 206, 212, 212-1, 218-1, 219, 220-1, 220-2, 222, 222-1, 223-1, 224, 229, 231, 232, 232-1, 232-2, 233"
         }
       ]
     },
     "powers": {
-      "summary": "Qonunga ko'ra Byuro jinoyatlar haqida ma'lumot to'plab tahlil qiladi, operativ-tergov faoliyatini amalga oshiradi, iqtisodiy jinoyatlar bo'yicha yashirinib yurganlarni qidiradi, ma'muriy ish yuritadi va qonunda ko'zda tutilgan hollarda ma'muriy jazo qo'llaydi, davlat organlari, mahalliy o'zini o'zi boshqarish organlari va korxonalardan axborot so'raydi.",
+      "summary": "8-modda 1-qism: Byuro operativ-qidiruv faoliyati va dastlabki tergovni (qonunda belgilangan tegishlilik doirasida) amalga oshiradi; jinoyatlar sabab va shart-sharoitlarini aniqlash uchun axborot-izlash va tahliliy ish olib boradi; organlar, korxonalar, xorijiy organlar va xalqaro tashkilotlar bilan axborot almashadi; tergov organlari, tergov sudyasi va sudlardan yashirinayotgan shaxslarni qidiradi; malakali mutaxassis va ekspertlarni (shu jumladan chet elliklarni) jalb qiladi; huquqni muhofaza va davlat organlari, korxonalar va tashkilotlardan zarur axborotni so'rab oladi; xalqaro hamkorlik qiladi; chet davlat organlarida davlat manfaatlarini himoya qilish ishlarini qo'zg'atadi. 7-modda 3-qism: reyestr va ma'lumotlar bazalariga to'g'ridan-to'g'ri, shu jumladan avtomatlashtirilgan kirish. 9–13-moddalar: axborot-tahliliy faoliyat va xavfga asoslangan yondashuv. 32-modda 2-qism: smetada operativ-texnik, operativ-qidiruv va tergov (yashirin tergov) harakatlari uchun xarajatlar jamg'armasi nazarda tutilgan. (Qonun matni rus tilidagi tarjima nusxasidan o'qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo'lmadi; nusxada tahrir sanasi 01.01.2022 deb ko'rsatilgan, keyingi o'zgartirishlar tekshirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "vakolatlar",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "8-modda 1-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-8",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "7-modda 3-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-7",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "32-modda 2-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-32",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "investigation": {
-      "summary": "CMS xabarida \"dastlabki tergov\" (pre-trial investigation) atamasi ishlatilmagan, faqat \"operativ-tergov faoliyati\" yozilgan; Byuro tergovchilarining ish yuritish vakolati (Jinoyat-protsessual kodeksi bo'yicha) bu loyihada o'qilmagan, shuning uchun uni tasdiqlamayman.",
-      "status": "tekshirilmagan",
+      "summary": "Byuro dastlabki tergovni o'zi olib boradi: 8-moddaning 1-qismi 1-bandi \"operativ-qidiruv faoliyati va dastlabki tergov (досудебное расследование) qonunda belgilangan tegishlilik doirasida\", Jinoyat-protsessual kodeksining 216-moddasi 3-qismi esa Byuro detektivlarini (детективи) tergov subyekti deb belgilaydi. Detektivlik lavozimiga nomzodlar tanlovdan o'tadi, tajribasiz bo'lsa majburiy stajirovka (23-modda). 5-modda: aniq jinoyat ishi bo'yicha Jinoyat-protsessual kodeksida nazarda tutilmagan ko'rsatmalar noqonuniy. Ayblovni sudda qo'llab-quvvatlash prokuraturaning ishi, bu loyihada tekshirilmagan. (Qonun matni rus tilidagi tarjima nusxasidan o'qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo'lmadi; nusxada tahrir sanasi 01.01.2022 deb ko'rsatilgan, keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "tergov vakolati",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "8-modda 1-qism 1-band",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-8",
+          "retrieved": "2026-11-09",
+          "original": "осуществляет оперативно-розыскную деятельность и предварительное расследование в рамках предусмотренной законом подследственности"
+        },
+        {
+          "title": "Ukraina Jinoyat-protsessual kodeksi, 216-modda (ukrain tilida, urst.com.ua)",
+          "ref": "216-modda 3-qism",
+          "url": "https://urst.com.ua/kpku/st-216",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "23-modda",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-23",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "5-modda 2-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-5",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "fiu_aml": {
-      "summary": "Ukrainada moliyaviy razvedka funksiyasi Byurodan alohida organda deb taxmin qilinadi, lekin bu manbalarda tekshirilmagan.",
+      "summary": "Qonun matnida Byuroga moliyaviy razvedka (FIU) vazifasi berilmagan: tahliliy faoliyat (9-modda) iqtisodiy xavflarga yo'naltirilgan. Ukrainada shubhali moliyaviy operatsiyalar bo'yicha FIU funksiyasi boshqa organda deb hisoblanadi, lekin bu loyihada tekshirilmadi.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
-          "ref": "moliyaviy razvedka",
-          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "9-modda",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-9",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "4-modda",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-4",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "structure": {
-      "summary": "Hisob palatasi (Accounting Chamber) Byuro yetarli moliyalashtirilmaganini, kadrlar yetishmasligini va hukumat tomonidan yetarli muvofiqlashtirish bo'lmaganini ta'kidlagan (ikkilamchi manba). Xodimlar soni va tuzilma tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "14-modda: Byuro markaziy apparat va hududiy boshqarmalar orqali ishlaydi; hududiy boshqarmalar jamoat huquqi yuridik shaxslari bo'lib, ularni Vazirlar Mahkamasi tuzadi, qayta tashkil qiladi va tugatadi; tuzilma detektivlar, axborot-tahliliy, operativ-texnik va boshqa bo'linmalarni o'z ichiga olishi mumkin; tuzilma va shtat jadvalini direktor tasdiqlaydi; markaziy apparat va hududiy boshqarmalar xodimlarining chegaraviy soni 4 mingdan oshmaydi (2-qism). 19-modda: xizmat maxsus xarakterdagi davlat xizmati. 32-modda: moliyalashtirish davlat byudjeti va xalqaro texnik yordam loyihalari mablag'lari hisobidan. Direktorning tayinlanishi: Vazirlar Mahkamasi tayinlaydi, Bosh vazir taqdimi va tanlov komissiyasi taklifi bilan (15-modda 1-qism); komissiya 9 kishidan: 3 nafari Milliy xavfsizlik va mudofaa kengashi, 3 nafari Oliy Rada (2 nafari soliq tizimi masalalari, 1 nafari huquqni muhofaza organlari masalalari qo'mitalari taqdimiga ko'ra), 3 nafari Vazirlar Mahkamasi tomonidan belgilanadi (3-qism); komissiya vakolatli bo'lishi uchun kamida 6 a'zo, qaror uchun kamida 5 ovoz kerak (4–5-qismlar); u uch nomzodni tanlaydi (9-qism 5-band). Direktor 5 yilga tayinlanadi va ketma-ket ikki muddatdan ortiq emas (16-modda 4-qism); 35 yoshdan kichik bo'lmagan, 10 yillik tajriba va 5 yillik rahbarlik tajribasi talab qilinadi (16-modda 2-qism); Vazirlar Mahkamasi Byuro ishini qoniqarsiz deb topsa ham ozod qilinishi mumkin (16-modda 5-qism 10-band). (Qonun matni rus tilidagi tarjima nusxasidan o'qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo'lmadi; nusxada tahrir sanasi 01.01.2022 deb ko'rsatilgan, keyingi o'zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "The Public, Hisob palatasi xulosasi (qidiruv natijasi)",
-          "ref": "moliyalashtirish",
-          "url": "https://thepublic.info/en/news/raxunkova_palata_ziasuvala_shho_beb_praciuvav_bez_naleznogo_finansuvannia_ta_dopomogi_uriadu",
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "14-modda",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-14",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "15-modda 1, 3, 4, 5, 9-qismlar",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-15",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "16-modda 2, 4, 5-qismlar",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-16",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "19-modda 2-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-19",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
+          "ref": "32-modda 1-qism",
+          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-32",
           "retrieved": "2026-11-09"
         }
       ]
