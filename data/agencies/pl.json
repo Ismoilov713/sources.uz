@@ -213,31 +213,26 @@
       ]
     },
     "structure": {
-      "summary": "CBA: ichki tuzilma Bosh vazirning qaror bilan beradigan nizomida (statut) belgilanadi, rahbar esa tashkiliy reglamentlarni tasdiqlaydi va doimiy yoki muvaqqat jamoalar tuza oladi (11-modda). Vikipediya (ikkilamchi) ma'lumotiga ko'ra 2022-yil 31-dekabrda CBA da 1271 kishi ishlagan, 12 ta hududiy delegatura bor, 2023-yilgi byudjet 263,2 mln zlotiy; hozirgi rahbar Tomash Strzelchik (2025-yil 9-apreldan). Prokuratura: Milliy prokuratura tarkibida Iqtisodiy jinoyatlar departamenti va Uyushgan jinoyatchilik va korrupsiya departamenti bor, quyi prokuraturalarni nazorat qiladi va muvofiqlashtiradi (Vikipediya, ikkilamchi; qonun matni o'qilmagan). Politsiyaning Markaziy tergov byurosi (CBŚP) tarkibida \"uyushgan iqtisodiy jinoyatchilikka qarshi kurash\" bo'limi mavjud (ikkilamchi). KAS xodimlari soni tekshirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "CBA: ichki tuzilma Bosh vazir zarifi bilan beriladigan nizomda (statut) belgilanadi, rahbar esa tashkiliy reglamentlarni tasdiqlaydi va doimiy yoki muvaqqat jamoalar tuza oladi (11-modda). KAS organlari: moliya vaziri, KAS rahbari, Milliy soliq axboroti direktori, soliq boshqarmalari direktorlari, soliq inspeksiyalari va bojxona-soliq idoralari boshliqlari (11-modda 1-qism); birliklari: vazirlik apparatining bo’linmalari, Milliy soliq axboroti, soliq boshqarmalari, soliq inspeksiyalari, bojxona-soliq idoralari, Maktab va Markaz (36-modda 1-qism). GIIF moliya vazirligi apparatida davlat kotibi yoki davlat kotibining o’rinbosari (pul yuvish qonuni 10-modda 3-qism). Xodimlar soni va byudjet qonun matnida yo’q va bu loyihada o’qilmagan. (Qonun matnlari e’lon qilingan asl tahrirda o’qildi; keyingi o’zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "title": "CBA to’g’risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
           "ref": "11-modda",
           "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Vikipediya (polyak): Centralne Biuro Antykorupcyjne (ikkilamchi)",
-          "ref": "xodimlar soni, delegaturalar, byudjet",
-          "url": "https://pl.wikipedia.org/wiki/Centralne_Biuro_Antykorupcyjne",
-          "retrieved": "2026-11-09"
+          "title": "KAS to’g’risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "11-modda 1-qism; 36-modda 1-qism",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Organami KAS są: 1) minister właściwy do spraw finansów publicznych; 2) Szef Krajowej Administracji Skarbowej"
         },
         {
-          "title": "Vikipediya (polyak): Prokuratura Krajowa (ikkilamchi)",
-          "ref": "departamentlar",
-          "url": "https://pl.wikipedia.org/wiki/Prokuratura_Krajowa",
-          "retrieved": "2026-11-09"
-        },
-        {
-          "title": "Vikipediya (polyak): Centralne Biuro Śledcze Policji (ikkilamchi)",
-          "ref": "CBŚP bo'limi",
-          "url": "https://pl.wikipedia.org/wiki/Centralne_Biuro_%C5%9Aledcze_Policji",
+          "title": "Pul yuvishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "10-modda 3-qism",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
           "retrieved": "2026-11-09"
         }
       ]

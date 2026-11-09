@@ -7077,13 +7077,19 @@ window.AGENCIES = [
       ]
     },
     "history": {
-      "summary": "Qidiruv natijasida keltirilgan hujjatga ko'ra Moliyaviy tergov departamenti Davlat nazorat qo'mitasida Moliyaviy tergovlar davlat qo'mitasi asosida tashkil etilgan va uning huquqiy vorisi hisoblanadi. Hujjat va sanasi birlamchi matndan tekshirilmadi.",
+      "summary": "Moliyaviy tergov organlari to’g’risidagi qonun 2008-yil 16-iyulda № 414-З bilan qabul qilingan (matn 2023-yil 17-iyulgacha o’zgartirishlar bilan o’qildi). Davlat nazorat qo’mitasi to’g’risidagi № 142-З qonunning 3-moddasi 3-qismi Departamentning o’ziga xosliklari Prezident qarorlari va № 414-З qonun bilan belgilanishini yozadi. Departamentning Moliyaviy tergovlar davlat qo’mitasi asosida tashkil etilganligi qidiruv natijasida keltirilgan, birlamchi matndan tekshirilmadi.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "etalonline.by (qidiruv natijasi)",
-          "ref": "ДФР tashkil etilishi",
-          "url": "https://etalonline.by/document/?regnum=P30100617",
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "qonun sanasi va tahriri",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Belarus Qonuni № 142-З (КГК), etalonline.by",
+          "ref": "3-modda 3-qism",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7188,13 +7194,13 @@ window.AGENCIES = [
       ]
     },
     "fiu_aml": {
-      "summary": "Qidiruv natijasiga ko'ra КГК tarkibida Moliyaviy tergov departamenti bilan birga Moliyaviy monitoring departamenti ham bor; uning vakolati bu loyihada birlamchi matndan tekshirilmadi.",
+      "summary": "Moliyaviy razvedka vazifasi Belarusda \"Jinoiy daromadlarni legallashtirish, terrorizm va ommaviy qirg’in qurolini tarqatishni moliyalashtirishning oldini olish choralari to’g’risida\"gi 2014-yil 30-iyundagi № 165-З qonunda tartibga solingan; qonunning 11-moddasi \"moliyaviy monitoring organi vakolati\" deb nomlangan (mundarija). Qidiruv natijasiga ko’ra КГК tarkibida Moliyaviy monitoring departamenti ham bor. Moddaning mazmuni va organning aniq maqomi birlamchi matndan o’qilmadi.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "pravo.by (qidiruv natijasi)",
-          "ref": "КГК tuzilmasi",
-          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2019/july/38006/",
+          "title": "Belarus Qonuni № 165-З (30.06.2014), mundarija, spinform.ru",
+          "ref": "11-modda sarlavhasi",
+          "url": "https://base.spinform.ru/show_doc.fwx?rgn=68802",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7606,6 +7612,196 @@ window.AGENCIES = [
           "title": "GVG (nemis asl matni)",
           "ref": "§ 143 (4)",
           "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "es",
+  "name": "Ispaniya",
+  "organ": "Korrupsiya va uyushgan jinoyatchilikka qarshi prokuratura + tergov sudyalari + SEPBLAC",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Ispaniyada ixtisoslashgan organ – prokuratura tarkibidagi Korrupsiya va uyushgan jinoyatchilikka qarshi kurash prokuraturasi (Fiscalía contra la Corrupción y la Criminalidad Organizada, amalda \"Fiscalía Anticorrupción\"). Prokuratura Ustavining 19-moddasi 2-bandi ikkita Maxsus prokuraturani belgilaydi: Narkotikka qarshi va Korrupsiya va uyushgan jinoyatchilikka qarshi. Prokuratura \"konstitutsiyaviy ahamiyatga ega organ, o’z yuridik shaxsiga ega, Sud hokimiyati tarkibida funksional avtonomiya bilan birlashgan\" (2-modda 1-qism). Moliyaviy razvedkani SEPBLAC bajaradi. Ya’ni O’zbekistondan farq qiladi: iqtisodiy jinoyatlar prokuraturasi bor, lekin tergov sudyasi tizimi saqlanadi va FIU alohida. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "2-modda 1-qism; 19-modda 2-band",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "Son Fiscalías Especiales la Fiscalía Antidroga y la Fiscalía contra la Corrupción y la Criminalidad Organizada"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Prokuratura Ustavi 1981-yilgi 50-sonli qonun (Ley 50/1981) bilan qabul qilingan; 2007-yil 9-oktabrdagi 24/2007-sonli qonun uni o’zgartirib, prokuraturaning maqomi (2-modda) va tegishli normalarni yangilagan. Pul yuvishga qarshi 10/2010-sonli qonun SEPBLAC va Komissiyaning tartibini belgilaydi. Korrupsiyaga qarshi prokuraturaning tashkil etilgan yilini bu manbalar ko’rsatmaydi. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "2-modda va 5-moddadagi o’zgartirish izohlari",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "Se modifica el apartado 1 por el art. único.1 de la Ley 24/2007, de 9 de octubre."
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "44–48-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Prokuratura Ustavi (Ley 50/1981): 1–2-moddalar (vazifa va maqom), 5-modda (prokuror tekshiruvi), 19-modda 4-band (Korrupsiyaga qarshi prokuratura vakolati), 22-modda (rahbarlik). Jinoyat-protsessual qonun (LECrim) 303 va 306-moddalari: tergov sudyasi. Sud hokimiyati organik qonuni (LOPJ) 65-moddasi: Milliy sudning jinoyat palatasi. Pul yuvishga qarshi 10/2010-sonli qonun 44–48-moddalar: Komissiya va SEPBLAC. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "1, 2, 5, 19, 22-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley de Enjuiciamiento Criminal (1882), BOE konsolidatsiyalangan matn",
+          "ref": "303, 306-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley Orgánica del Poder Judicial (1985), BOE konsolidatsiyalangan matn",
+          "ref": "65-modda",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "44–48-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Prokuratura butun davlat uchun yagona; Bosh prokuror (Fiscal General del Estado) uning oliy rahbari bo’lib, ko’rsatma va yo’riqnomalar beradi (22-modda 1–2-qism). Prokuratura \"birlik va ierarxik bo’ysunish\" tamoyillari bo’yicha ishlaydi (2-modda 1-qism). Korrupsiyaga qarshi prokuratura vakolati doirasidagi ishlarni \"alohida ahamiyatga ega\" deb Bosh prokuror baholaydi (19-modda 4-band), delegatlarni ham u tayinlaydi (19-modda 5-band). FIU: SEPBLAC Iqtisodiyot davlat kotibligiga bo’ysunuvchi Komissiyaga tashkiliy va funksional bo’ysunadi, byudjet va shartnoma masalalarini Ispaniya banki yuritadi (10/2010, 44-modda 1-qism, 45-modda 3-qism). (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "2-modda 1-qism; 19-modda 4, 5-bandlar; 22-modda 1–2-qism",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "El Ministerio Fiscal es único para todo el Estado."
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "44-modda 1-qism; 45-modda 3-qism",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "1-modda: prokuratura \"qonuniylik, fuqarolar huquqlari va qonun himoya qiladigan jamoat manfaati yo’lida odil sudlovni rag’batlantirish\" vazifasiga ega. 19-modda 4-band: Korrupsiya va uyushgan jinoyatchilikka qarshi prokuratura 5-moddadagi tekshiruvlarni o’tkazadi va ayrim jinoyatlar bo’yicha jinoiy jarayonlarda bevosita ishtirok etadi – har ikkalasi faqat \"alohida ahamiyatga ega\" ishlarda. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "1-modda; 19-modda 4-band",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "La Fiscalía contra la Corrupción y la Criminalidad Organizada practicará las diligencias ... e intervendrá directamente en procesos penales"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "19-modda 4-band ro’yxati: Davlat g’aznasi, ijtimoiy ta’minot va kontrabanda bo’yicha jinoyatlar; prevarikatsiya; maxfiy axborotdan foydalanish; davlat mablag’larini talon-taroj qilish; firibgarlik va noqonuniy undirish; tijorat nufuzidan foydalanish; poraxo’rlik; mansabdorlarga taqiqlangan bitimlar; aldov; to’lovga qodir emaslik; auksion narxlarini o’zgartirish; intellektual mulk, bozor va iste’molchilarga oid jinoyatlar; korporativ jinoyatlar; pul yuvish; xalqaro tijorat bitimlarida va xususiy sektorda korrupsiya; bog’liq jinoyatlar; uyushgan jinoiy guruhlar bilan bog’liq mol-mulk va pul oqimlarini tekshirish. Narkotik va terrorizm bilan bog’liq pul yuvish boshqa maxsus prokuraturalarga tegishli. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "19-modda 4-band (a–q)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "5-modda: prokuror arizalarni qabul qiladi yoki arxivga yuboradi; sud-protsessual qonun doirasida tekshiruv harakatlarini o’tkazadi yoki buyuradi, lekin ular majburlov yoki huquqlarni cheklovchi chora bo’la olmaydi (profilaktik ushlashni buyurishi mumkin). Shubhalanuvchidan advokat ishtirokida ko’rsatma oladi. Tekshiruv 6 oydan oshmaydi, 19-modda 4-banddagi jinoyatlar bo’yicha 12 oygacha; uzaytirishni Bosh prokuror qaror bilan beradi. Natijada prokuror ishni sudga o’tkazadi (shikoyat yoki querella) yoki arxivlaydi. Tekshiruv natijalari haqiqiylik prezumpsiyasiga ega. SEPBLAC tekshiruv o’tkazadi (10/2010, 47-modda). (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "5-modda 1–3-qismlar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "sin que pueda exceder de seis meses ... tendrán una duración máxima de doce meses"
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "47-modda 1-qism",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Joriy qonunda (LECrim 303, 306-moddalar) jinoyat ishlari bo’yicha dastlabki tergov (sumario) tergov sudyalari (Jueces de instrucción) tomonidan prokuror to’g’ridan-to’g’ri nazoratida yuritiladi. Prokuror avval o’zining oldindan tekshiruvini (diligencias, EOMF 5-modda) olib borishi va natijada ishni sudyaga topshirishi mumkin. Katta iqtisodiy ishlar (monetar jinoyatlar, savdo xavfsizligi va milliy iqtisodiyotga jiddiy ta’sir qiluvchi firibgarliklar) Milliy sudning (Audiencia Nacional) Jinoyat palatasi yagona instansiyada ko’radi (LOPJ 65-modda 1-band b, c). Prokuraturaga tergov rahbarligini beruvchi yangi protsessual qonun loyihasi qidiruv natijalarida eslatilgan, lekin bu loyihada kuchga kirgani tasdiqlanmagan. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Ley de Enjuiciamiento Criminal (1882), BOE konsolidatsiyalangan matn",
+          "ref": "303, 306-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
+          "retrieved": "2026-11-09",
+          "original": "los Jueces de instrucción formarán los sumarios de los delitos públicos bajo la inspección directa del Fiscal"
+        },
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "5-modda",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley Orgánica del Poder Judicial (1985), BOE konsolidatsiyalangan matn",
+          "ref": "65-modda 1-band",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Moliyaviy razvedkani Pul yuvishga qarshi Komissiyaning Ijroiya xizmati (SEPBLAC) amalga oshiradi. U majburiy subyektlardan va boshqa manbalardan olingan axborotni tahlil qiladi va pul yuvish belgilari bo’lsa moliyaviy razvedka hisobotini Prokuratura, sud, politsiya yoki ma’muriy organlarga yuboradi; faoliyatida operativ jihatdan mustaqil va avtonom; hisobotlarning isbot kuchi yo’q (10/2010, 46-modda 1-qism). Har bir davlat organi pul yuvish belgilarini SEPBLAC ga xabar qilishi shart (48-modda 1-qism). Ya’ni O’zbekistondan farq qiladi: FIU tergov organi emas va prokuraturadan tashqarida. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "45, 46, 48-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09",
+          "original": "Los informes de inteligencia financiera no tendrán valor probatorio"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Bosh prokuror zarur bo’lganda har qanday prokuraturada Maxsus prokuraturalarning bir yoki bir necha delegat prokurorlarini tayinlashi mumkin; ular maxsus prokuraturaga qo’shiladi va Maxsus prokuratura rahbari ularga nisbatan o’z doirasida boshqa Fiskal Jefes huquq va majburiyatlariga ega (19-modda 5-band). FIU tomoni: Komissiyaning ikki yordamchi organi – Kotibiyat (Iqtisodiyot davlat kotibligi tarkibidagi bo’linma) va SEPBLAC; Ispaniya banki xodimlari SEPBLAC da ishlaydi (10/2010, 45-modda). Xodimlar soni bu manbalarda yo’q. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "19-modda 5-band",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "45-modda 1–3-qismlar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
           "retrieved": "2026-11-09"
         }
       ]
@@ -8241,6 +8437,244 @@ window.AGENCIES = [
 }
 ,
 {
+  "code": "mx",
+  "name": "Meksika",
+  "organ": "FGR maxsus prokuraturalari (FEMCC, FECOC, FEMDO) + UIF",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Meksikada yagona organ yo’q: iqtisodiy jinoyatlar federal Bosh prokuraturaning (FGR) ixtisoslashgan prokuraturalari o’rtasida bo’lingan: korrupsiyaga qarshi (FEMCC), nazorat va vakolat tegishliligi (FECOC, uning tarkibida Soliq jinoyatlari va moliya tizimi bo’yicha maxsus prokuratura) hamda uyushgan jinoyatchilikka qarshi (FEMDO, uning tarkibida pul yuvish bo’yicha prokuratura). Moliyaviy razvedkani esa alohida organ, Moliyaviy razvedka bo’linmasi (UIF) amalga oshiradi. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FECOC",
+          "ref": "FECOC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FECOC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Moliyaviy razvedka bo’linmasi (UIF) 2004-yil 7-mayda Rasmiy gazetada (Diario Oficial de la Federación) e’lon qilingan farmon bilan tuzilgan. FGR va uning prokuraturalarining tashkil topish tarixi bu loyihada o’qilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09",
+          "original": "se creó la Unidad de Inteligencia Financiera (UIF) mediante decreto publicado en el Diario Oficial de la Federación el 7 de mayo de 2004"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Konstitutsiya 102-modda A bo’limi (FGR maqomi); Federal Jinoyat kodeksi (korrupsiya: 2-kitob 10-sarlavha; pul yuvish: 400 bis-modda; terrorizmni moliyalashtirish: 139 quáter), Uyushgan jinoyatchilikka qarshi federal qonun (FEMDO), Noqonuniy daromadli operatsiyalarning oldini olish va aniqlash federal qonuni (LFPIORPI), Federal soliq kodeksi, Ijtimoiy sug’urta va moliya tizimi qonunlari (FECOC). FGR to’g’risidagi qonun va Organik nizom 27-modda va 249–252-moddalari me’yoriy hujjatlar bazasini (Normateca) belgilaydi. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
+          "ref": "102-modda A",
+          "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "102-modda A: Prokuratura \"Bosh prokuratura (FGR) deb nomlangan, o’z yuridik shaxsi va mulkiga ega mustaqil davlat organi (órgano público autónomo)\". Bosh prokuror 9 yilga tayinlanadi: Senat kamida o’n nomzoddan iborat ro’yxat tuzadi, Ijroiya organi ulardan uch kishilik ro’yxat shakllantiradi, Senat qatnashganlarning uchdan ikki ovozi bilan tayinlaydi; og’ir sabablar bilan Ijroiya hokimiyat uni olib tashlashi mumkin, Senat ko’pchilik ovoz bilan e’tiroz bildirishi mumkin. Prokuratura yillik hisobotni Qonun chiqaruvchi va Ijroiya hokimiyatiga beradi. Kamida saylov jinoyatlari va korrupsiyaga qarshi kurash bo’yicha ixtisoslashgan prokuraturalar bo’lishi shart. UIF ning qaysi vazirlikka bo’ysunishi bu manbalarda aniq o’qilmagan (UIF sahifasi faqat Moliya vazirligi pochta domenini ko’rsatadi). (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
+          "ref": "102-modda A",
+          "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
+          "retrieved": "2026-11-09",
+          "original": "órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "FEMCC: Federal Jinoyat kodeksi 2-kitobining 10-sarlavhasidagi federal jinoyatlarni tergov qiladi va ta’qib qiladi, bog’liq ishlarni (uyushgan jinoyatchilik bo’yicha ham) o’ziga jamlaydi; korrupsiya haqida xabar berish madaniyatini rag’batlantirish rejalarini ishlab chiqadi; nazorat organlari bilan hamkorlik mexanizmlarini yaratadi. FECOC: maxsus qonunlardagi, boshqa birlikka tegishli bo’lmagan federal jinoyatlarni tergov qiladi; maxsus prokuraturalar o’rtasidagi vakolat nizolarini hal qiladi. FEMDO: Uyushgan jinoyatchilikka qarshi federal qonundagi jinoyatlarni tergov qiladi va ta’qib qiladi. UIF: moliyaviy operatsiyalar haqidagi hisobotlarni va faoliyat turlari haqidagi xabarnomalarni qabul qiladi, tahlil qiladi, razvedka hisobotlarini tarqatadi va zarur bo’lsa vakolatli organga jinoyat haqida ariza beradi. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FECOC",
+          "ref": "FECOC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FECOC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09",
+          "original": "Recibir reportes de operaciones financieras y avisos de quienes realizan actividades vulnerables; Analizar ...; Diseminar reportes de inteligencia"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "FEMCC to’rt maxsus prokuraturaga ega: ijtimoiy dasturlar va zaif guruhlarga ta’sir qiluvchi korrupsiya; Konstitutsiyaning 28-moddasidagi strategik sohalar bilan bog’liq korrupsiya; moliya tizimi va xavfli sohalar bilan bog’liq korrupsiya hamda LFPIORPI 17-moddasidagi \"zaif faoliyat turlari\" tekshiruvi; boshqa korrupsiya. FECOC tarkibida Soliq jinoyatlari va moliya tizimi bo’yicha maxsus prokuratura bor: Federal soliq kodeksi, Ijtimoiy sug’urta qonuni va moliya tizimi muassasalariga oid qonunlardagi jinoyatlar; shuningdek davlat xizmatchilari jinoyatlari, intellektual mulk va boshqalar. FEMDO tarkibida noqonuniy daromadli operatsiyalar (pul yuvish), soxta pul va soliq belgilarini soxtalashtirish bo’yicha maxsus prokuratura \"Moliyaviy tahlil kichik bo’linmasi\" bilan ishlaydi. UIF Federal Jinoyat kodeksining 400 bis (noqonuniy daromadli operatsiyalar) va 139 quáter (terrorizmni moliyalashtirish) moddalaridagi jinoyatlarga qarshi mexanizmlarni amalga oshiradi. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FECOC",
+          "ref": "FECOC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FECOC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09",
+          "original": "Operaciones con Recursos de Procedencia Ilícita (artículo 400 bis) ... Financiamiento al terrorismo (artículo 139 quáter)"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "FEMDO tarkibidagi Nazorat texnik korpusi shaxsiy aloqalarni sud ruxsati bilan (Uyushgan jinoyatchilikka qarshi federal qonun 8-moddasi) tinglash bo’yicha tergov harakatlarini boshqaradi va qayd etadi. Prokuratura ayblovni sudda qo’llab-quvvatlaydi, ehtiyot choralarini so’raydi, dalillarni topadi va jazo qo’llashni so’raydi (102-modda A). FEMCC bog’liq ishlarni, hatto uyushgan jinoyatchilik ishlarini ham, yaxlitligini saqlab o’ziga jamlashi shart. UIF jinoyat ishini o’zi qo’zg’atmaydi: u tahlil natijasida kerak bo’lsa vakolatli organga ariza beradi. Hisoblarni to’xtatish vakolati haqidagi ma’lumotlar bu manbalarda tasdiqlanmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09",
+          "original": "intervención de comunicaciones privadas ... con autorización judicial en términos del artículo 8 de la Ley Federal contra la Delincuencia Organizada"
+        },
+        {
+          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
+          "ref": "102-modda A",
+          "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Prokuratura federal jinoyatlarni tergov qiladi va ayblovni sudda qo’llab-quvvatlaydi: tergov prokuratura (Ministerio Público) va politsiya zimmasida (Konstitutsiya 21-modda; FGRning Federal tergov politsiyasi xodimlari Normateca sahifasida eslatilgan). Ya’ni O’zbekistondagi kabi alohida tergov organi emas, ayblovchi prokuratura tergovni o’zi boshqaradi, ixtisoslashuv esa prokuraturaning maxsus bo’limlari orqali. Soliq jinoyatlari bo’yicha Moliya vazirligining shikoyati (querella) talab etilishi qidiruv natijalarida eslatilgan, lekin Federal soliq kodeksi matni o’qilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
+          "ref": "102-modda A; 21-modda",
+          "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
+          "retrieved": "2026-11-09",
+          "original": "La investigación de los delitos corresponde al Ministerio Público y a las policías"
+        },
+        {
+          "title": "FGR Normateca",
+          "ref": "Normateca",
+          "url": "https://www.fgr.org.mx/swb/Normateca",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "UIF – Meksikaning moliyaviy razvedka bo’linmasi: pul yuvish va terrorizmni moliyalashtirishning oldini olish va qarshi kurash uchun markaziy milliy instansiya; hisobotlarni qabul qiladi, tahlil qiladi, razvedka hisobotlarini tarqatadi va zarur bo’lsa denuncia beradi. 2017-yilda FATFning 4-davra baholashida \"asosan bajarilgan\" bahosini olgan (rasmiy sahifa). Soxta dalil kuchi, tezkor to’xtatish muddatlari bu manbalarda ko’rsatilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09",
+          "original": "La Unidad de Inteligencia Financiera es la instancia central nacional para: Recibir reportes ... Analizar ... Diseminar reportes de inteligencia"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "FEMCC tarkibida to’rt maxsus prokuratura (ijtimoiy ta’sir, strategik sohalar, moliya tizimi va xavfli sohalar, boshqa korrupsiya) va ISO 37001:2016 ga asoslangan poraxo’rlikka qarshi boshqaruv tizimi bor. FECOC tarkibida sakkizta maxsus prokuratura: muhim ishlar, soliq jinoyatlari va moliya tizimi, ekologik jinoyatlar va maxsus qonunlar, davlat xizmatchilari va odil sudlovga qarshi jinoyatlar, mualliflik huquqi va sanoat mulki, narkotik mayda savdosi, o’tmishdagi ijtimoiy va siyosiy jinoyatlar, xalqaro ishlar. FEMDO tarkibida: sog’liqqa qarshi jinoyatlar, terrorizm va qurol savdosi, pul yuvish va soxta pul, odam o’g’irlash, odam va a’zolar savdosi, uglevodorod va mualliflik huquqi, transport o’g’irliklari prokuraturalari hamda Jarayonlarni nazorat qilish bo’limi va Nazorat texnik korpusi. Xodimlar soni ko’rsatilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FECOC",
+          "ref": "FECOC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FECOC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
   "code": "pl",
   "name": "Polsha",
   "organ": "CBA + KAS + GIIF + prokuratura (yagona organ yo'q)",
@@ -8455,31 +8889,26 @@ window.AGENCIES = [
       ]
     },
     "structure": {
-      "summary": "CBA: ichki tuzilma Bosh vazirning qaror bilan beradigan nizomida (statut) belgilanadi, rahbar esa tashkiliy reglamentlarni tasdiqlaydi va doimiy yoki muvaqqat jamoalar tuza oladi (11-modda). Vikipediya (ikkilamchi) ma'lumotiga ko'ra 2022-yil 31-dekabrda CBA da 1271 kishi ishlagan, 12 ta hududiy delegatura bor, 2023-yilgi byudjet 263,2 mln zlotiy; hozirgi rahbar Tomash Strzelchik (2025-yil 9-apreldan). Prokuratura: Milliy prokuratura tarkibida Iqtisodiy jinoyatlar departamenti va Uyushgan jinoyatchilik va korrupsiya departamenti bor, quyi prokuraturalarni nazorat qiladi va muvofiqlashtiradi (Vikipediya, ikkilamchi; qonun matni o'qilmagan). Politsiyaning Markaziy tergov byurosi (CBŚP) tarkibida \"uyushgan iqtisodiy jinoyatchilikka qarshi kurash\" bo'limi mavjud (ikkilamchi). KAS xodimlari soni tekshirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "CBA: ichki tuzilma Bosh vazir zarifi bilan beriladigan nizomda (statut) belgilanadi, rahbar esa tashkiliy reglamentlarni tasdiqlaydi va doimiy yoki muvaqqat jamoalar tuza oladi (11-modda). KAS organlari: moliya vaziri, KAS rahbari, Milliy soliq axboroti direktori, soliq boshqarmalari direktorlari, soliq inspeksiyalari va bojxona-soliq idoralari boshliqlari (11-modda 1-qism); birliklari: vazirlik apparatining bo’linmalari, Milliy soliq axboroti, soliq boshqarmalari, soliq inspeksiyalari, bojxona-soliq idoralari, Maktab va Markaz (36-modda 1-qism). GIIF moliya vazirligi apparatida davlat kotibi yoki davlat kotibining o’rinbosari (pul yuvish qonuni 10-modda 3-qism). Xodimlar soni va byudjet qonun matnida yo’q va bu loyihada o’qilmagan. (Qonun matnlari e’lon qilingan asl tahrirda o’qildi; keyingi o’zgartirishlar tekshirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "CBA to'g'risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
+          "title": "CBA to’g’risidagi qonun, 09.06.2006 (Dz.U. 2006 Nr 104 poz. 708), Dziennik Ustaw",
           "ref": "11-modda",
           "url": "https://dziennikustaw.gov.pl/D2006104070801.pdf",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Vikipediya (polyak): Centralne Biuro Antykorupcyjne (ikkilamchi)",
-          "ref": "xodimlar soni, delegaturalar, byudjet",
-          "url": "https://pl.wikipedia.org/wiki/Centralne_Biuro_Antykorupcyjne",
-          "retrieved": "2026-11-09"
+          "title": "KAS to’g’risidagi qonun, 16.11.2016 (Dz.U. 2016 poz. 1947), Dziennik Ustaw",
+          "ref": "11-modda 1-qism; 36-modda 1-qism",
+          "url": "https://dziennikustaw.gov.pl/D2016000194701.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Organami KAS są: 1) minister właściwy do spraw finansów publicznych; 2) Szef Krajowej Administracji Skarbowej"
         },
         {
-          "title": "Vikipediya (polyak): Prokuratura Krajowa (ikkilamchi)",
-          "ref": "departamentlar",
-          "url": "https://pl.wikipedia.org/wiki/Prokuratura_Krajowa",
-          "retrieved": "2026-11-09"
-        },
-        {
-          "title": "Vikipediya (polyak): Centralne Biuro Śledcze Policji (ikkilamchi)",
-          "ref": "CBŚP bo'limi",
-          "url": "https://pl.wikipedia.org/wiki/Centralne_Biuro_%C5%9Aledcze_Policji",
+          "title": "Pul yuvishga qarshi kurash qonuni, 01.03.2018 (Dz.U. 2018 poz. 723), Dziennik Ustaw",
+          "ref": "10-modda 3-qism",
+          "url": "https://dziennikustaw.gov.pl/D2018000072301.pdf",
           "retrieved": "2026-11-09"
         }
       ]
@@ -9031,20 +9460,34 @@ window.AGENCIES = [
       ]
     },
     "fiu_aml": {
-      "summary": "Qonun matnida Byuroga moliyaviy razvedka (FIU) vazifasi berilmagan: tahliliy faoliyat (9-modda) iqtisodiy xavflarga yo'naltirilgan. Ukrainada shubhali moliyaviy operatsiyalar bo'yicha FIU funksiyasi boshqa organda deb hisoblanadi, lekin bu loyihada tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "Ukrainada moliyaviy razvedka vazifasi Byurodan alohida: \"maxsus vakolatli organ\" (spetsialno upovnovajenyy organ) – davlat siyosatini amalga oshiruvchi markaziy ijroiya hokimiyat organi (361-IX qonun 1-modda). Uning vazifalari (25-modda): moliyaviy operatsiyalar haqidagi axborotni yig’ish, qayta ishlash va operativ hamda strategik tahlil qilish; yagona axborot tizimini yuritish; davlat organlari, Milliy bank va xorijiy organlar bilan axborot almashish; milliy xavflarni baholash. Rahbari tanlov natijasida tayinlanadi (26-modda). Majburiy subyekt shubhali operatsiyani to’xtatib, shu kuni organga xabar beradi va u 2 ish kuniga to’xtatiladi; organ to’xtatishni yana 7 ish kunigacha uzaytirishi mumkin (23-modda 1–2-qismlar). Qonun matnida organning nomi ko’rsatilmagan, amalda u Davlat moliyaviy monitoring xizmati deb ataladi. Byuroning vazifasi esa 9-moddadagi iqtisodiy xavflarni tahlil qilish bilan cheklangan (BEB qonuni). (Qonun matni ukrain tilidagi nusxadan o’qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo’lmadi; nusxada tahrir sanasi 01.01.2022.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
-          "ref": "9-modda",
-          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-9",
+          "title": "Ukraina Qonuni № 361-IX (AML), ukrain tilidagi matn, urst.com.ua",
+          "ref": "1-modda (ta’rif)",
+          "url": "https://urst.com.ua/pro_zapobihannia_ta_protydiiu_lehalizatsii_vidmyvanniu_dokhodiv_/st-1",
+          "retrieved": "2026-11-09",
+          "original": "спеціально уповноважений орган - центральний орган виконавчої влади, що реалізує державну політику у сфері запобігання та протидії"
+        },
+        {
+          "title": "Ukraina Qonuni № 361-IX (AML), ukrain tilidagi matn, urst.com.ua",
+          "ref": "25-modda 1-qism",
+          "url": "https://urst.com.ua/pro_zapobihannia_ta_protydiiu_lehalizatsii_vidmyvanniu_dokhodiv_/st-25",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
-          "ref": "4-modda",
-          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-4",
+          "title": "Ukraina Qonuni № 361-IX (AML), ukrain tilidagi matn, urst.com.ua",
+          "ref": "26-modda 1-qism",
+          "url": "https://urst.com.ua/pro_zapobihannia_ta_protydiiu_lehalizatsii_vidmyvanniu_dokhodiv_/st-26",
           "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ukraina Qonuni № 361-IX (AML), ukrain tilidagi matn, urst.com.ua",
+          "ref": "23-modda 1–2-qismlar",
+          "url": "https://urst.com.ua/pro_zapobihannia_ta_protydiiu_lehalizatsii_vidmyvanniu_dokhodiv_/st-23",
+          "retrieved": "2026-11-09",
+          "original": "на строк до семи робочих днів"
         }
       ]
     },
@@ -10083,6 +10526,12 @@ window.SNAPSHOT = {
     },
     "ca": {
       "color": "#e4572e"
+    },
+    "es": {
+      "color": "#c9a227"
+    },
+    "mx": {
+      "color": "#2f8f4a"
     }
   }
 }

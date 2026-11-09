@@ -1,0 +1,237 @@
+{
+  "code": "mx",
+  "name": "Meksika",
+  "organ": "FGR maxsus prokuraturalari (FEMCC, FECOC, FEMDO) + UIF",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Meksikada yagona organ yo’q: iqtisodiy jinoyatlar federal Bosh prokuraturaning (FGR) ixtisoslashgan prokuraturalari o’rtasida bo’lingan: korrupsiyaga qarshi (FEMCC), nazorat va vakolat tegishliligi (FECOC, uning tarkibida Soliq jinoyatlari va moliya tizimi bo’yicha maxsus prokuratura) hamda uyushgan jinoyatchilikka qarshi (FEMDO, uning tarkibida pul yuvish bo’yicha prokuratura). Moliyaviy razvedkani esa alohida organ, Moliyaviy razvedka bo’linmasi (UIF) amalga oshiradi. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FECOC",
+          "ref": "FECOC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FECOC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Moliyaviy razvedka bo’linmasi (UIF) 2004-yil 7-mayda Rasmiy gazetada (Diario Oficial de la Federación) e’lon qilingan farmon bilan tuzilgan. FGR va uning prokuraturalarining tashkil topish tarixi bu loyihada o’qilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09",
+          "original": "se creó la Unidad de Inteligencia Financiera (UIF) mediante decreto publicado en el Diario Oficial de la Federación el 7 de mayo de 2004"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Konstitutsiya 102-modda A bo’limi (FGR maqomi); Federal Jinoyat kodeksi (korrupsiya: 2-kitob 10-sarlavha; pul yuvish: 400 bis-modda; terrorizmni moliyalashtirish: 139 quáter), Uyushgan jinoyatchilikka qarshi federal qonun (FEMDO), Noqonuniy daromadli operatsiyalarning oldini olish va aniqlash federal qonuni (LFPIORPI), Federal soliq kodeksi, Ijtimoiy sug’urta va moliya tizimi qonunlari (FECOC). FGR to’g’risidagi qonun va Organik nizom 27-modda va 249–252-moddalari me’yoriy hujjatlar bazasini (Normateca) belgilaydi. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
+          "ref": "102-modda A",
+          "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "102-modda A: Prokuratura \"Bosh prokuratura (FGR) deb nomlangan, o’z yuridik shaxsi va mulkiga ega mustaqil davlat organi (órgano público autónomo)\". Bosh prokuror 9 yilga tayinlanadi: Senat kamida o’n nomzoddan iborat ro’yxat tuzadi, Ijroiya organi ulardan uch kishilik ro’yxat shakllantiradi, Senat qatnashganlarning uchdan ikki ovozi bilan tayinlaydi; og’ir sabablar bilan Ijroiya hokimiyat uni olib tashlashi mumkin, Senat ko’pchilik ovoz bilan e’tiroz bildirishi mumkin. Prokuratura yillik hisobotni Qonun chiqaruvchi va Ijroiya hokimiyatiga beradi. Kamida saylov jinoyatlari va korrupsiyaga qarshi kurash bo’yicha ixtisoslashgan prokuraturalar bo’lishi shart. UIF ning qaysi vazirlikka bo’ysunishi bu manbalarda aniq o’qilmagan (UIF sahifasi faqat Moliya vazirligi pochta domenini ko’rsatadi). (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
+          "ref": "102-modda A",
+          "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
+          "retrieved": "2026-11-09",
+          "original": "órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "FEMCC: Federal Jinoyat kodeksi 2-kitobining 10-sarlavhasidagi federal jinoyatlarni tergov qiladi va ta’qib qiladi, bog’liq ishlarni (uyushgan jinoyatchilik bo’yicha ham) o’ziga jamlaydi; korrupsiya haqida xabar berish madaniyatini rag’batlantirish rejalarini ishlab chiqadi; nazorat organlari bilan hamkorlik mexanizmlarini yaratadi. FECOC: maxsus qonunlardagi, boshqa birlikka tegishli bo’lmagan federal jinoyatlarni tergov qiladi; maxsus prokuraturalar o’rtasidagi vakolat nizolarini hal qiladi. FEMDO: Uyushgan jinoyatchilikka qarshi federal qonundagi jinoyatlarni tergov qiladi va ta’qib qiladi. UIF: moliyaviy operatsiyalar haqidagi hisobotlarni va faoliyat turlari haqidagi xabarnomalarni qabul qiladi, tahlil qiladi, razvedka hisobotlarini tarqatadi va zarur bo’lsa vakolatli organga jinoyat haqida ariza beradi. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FECOC",
+          "ref": "FECOC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FECOC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09",
+          "original": "Recibir reportes de operaciones financieras y avisos de quienes realizan actividades vulnerables; Analizar ...; Diseminar reportes de inteligencia"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "FEMCC to’rt maxsus prokuraturaga ega: ijtimoiy dasturlar va zaif guruhlarga ta’sir qiluvchi korrupsiya; Konstitutsiyaning 28-moddasidagi strategik sohalar bilan bog’liq korrupsiya; moliya tizimi va xavfli sohalar bilan bog’liq korrupsiya hamda LFPIORPI 17-moddasidagi \"zaif faoliyat turlari\" tekshiruvi; boshqa korrupsiya. FECOC tarkibida Soliq jinoyatlari va moliya tizimi bo’yicha maxsus prokuratura bor: Federal soliq kodeksi, Ijtimoiy sug’urta qonuni va moliya tizimi muassasalariga oid qonunlardagi jinoyatlar; shuningdek davlat xizmatchilari jinoyatlari, intellektual mulk va boshqalar. FEMDO tarkibida noqonuniy daromadli operatsiyalar (pul yuvish), soxta pul va soliq belgilarini soxtalashtirish bo’yicha maxsus prokuratura \"Moliyaviy tahlil kichik bo’linmasi\" bilan ishlaydi. UIF Federal Jinoyat kodeksining 400 bis (noqonuniy daromadli operatsiyalar) va 139 quáter (terrorizmni moliyalashtirish) moddalaridagi jinoyatlarga qarshi mexanizmlarni amalga oshiradi. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FECOC",
+          "ref": "FECOC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FECOC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09",
+          "original": "Operaciones con Recursos de Procedencia Ilícita (artículo 400 bis) ... Financiamiento al terrorismo (artículo 139 quáter)"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "FEMDO tarkibidagi Nazorat texnik korpusi shaxsiy aloqalarni sud ruxsati bilan (Uyushgan jinoyatchilikka qarshi federal qonun 8-moddasi) tinglash bo’yicha tergov harakatlarini boshqaradi va qayd etadi. Prokuratura ayblovni sudda qo’llab-quvvatlaydi, ehtiyot choralarini so’raydi, dalillarni topadi va jazo qo’llashni so’raydi (102-modda A). FEMCC bog’liq ishlarni, hatto uyushgan jinoyatchilik ishlarini ham, yaxlitligini saqlab o’ziga jamlashi shart. UIF jinoyat ishini o’zi qo’zg’atmaydi: u tahlil natijasida kerak bo’lsa vakolatli organga ariza beradi. Hisoblarni to’xtatish vakolati haqidagi ma’lumotlar bu manbalarda tasdiqlanmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09",
+          "original": "intervención de comunicaciones privadas ... con autorización judicial en términos del artículo 8 de la Ley Federal contra la Delincuencia Organizada"
+        },
+        {
+          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
+          "ref": "102-modda A",
+          "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Prokuratura federal jinoyatlarni tergov qiladi va ayblovni sudda qo’llab-quvvatlaydi: tergov prokuratura (Ministerio Público) va politsiya zimmasida (Konstitutsiya 21-modda; FGRning Federal tergov politsiyasi xodimlari Normateca sahifasida eslatilgan). Ya’ni O’zbekistondagi kabi alohida tergov organi emas, ayblovchi prokuratura tergovni o’zi boshqaradi, ixtisoslashuv esa prokuraturaning maxsus bo’limlari orqali. Soliq jinoyatlari bo’yicha Moliya vazirligining shikoyati (querella) talab etilishi qidiruv natijalarida eslatilgan, lekin Federal soliq kodeksi matni o’qilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
+          "ref": "102-modda A; 21-modda",
+          "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
+          "retrieved": "2026-11-09",
+          "original": "La investigación de los delitos corresponde al Ministerio Público y a las policías"
+        },
+        {
+          "title": "FGR Normateca",
+          "ref": "Normateca",
+          "url": "https://www.fgr.org.mx/swb/Normateca",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "UIF – Meksikaning moliyaviy razvedka bo’linmasi: pul yuvish va terrorizmni moliyalashtirishning oldini olish va qarshi kurash uchun markaziy milliy instansiya; hisobotlarni qabul qiladi, tahlil qiladi, razvedka hisobotlarini tarqatadi va zarur bo’lsa denuncia beradi. 2017-yilda FATFning 4-davra baholashida \"asosan bajarilgan\" bahosini olgan (rasmiy sahifa). Soxta dalil kuchi, tezkor to’xtatish muddatlari bu manbalarda ko’rsatilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Moliyaviy razvedka bo’linmasi (UIF), gob.mx rasmiy sahifasi",
+          "ref": "UIF sahifasi",
+          "url": "https://www.gob.mx/uif/que-hacemos",
+          "retrieved": "2026-11-09",
+          "original": "La Unidad de Inteligencia Financiera es la instancia central nacional para: Recibir reportes ... Analizar ... Diseminar reportes de inteligencia"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "FEMCC tarkibida to’rt maxsus prokuratura (ijtimoiy ta’sir, strategik sohalar, moliya tizimi va xavfli sohalar, boshqa korrupsiya) va ISO 37001:2016 ga asoslangan poraxo’rlikka qarshi boshqaruv tizimi bor. FECOC tarkibida sakkizta maxsus prokuratura: muhim ishlar, soliq jinoyatlari va moliya tizimi, ekologik jinoyatlar va maxsus qonunlar, davlat xizmatchilari va odil sudlovga qarshi jinoyatlar, mualliflik huquqi va sanoat mulki, narkotik mayda savdosi, o’tmishdagi ijtimoiy va siyosiy jinoyatlar, xalqaro ishlar. FEMDO tarkibida: sog’liqqa qarshi jinoyatlar, terrorizm va qurol savdosi, pul yuvish va soxta pul, odam o’g’irlash, odam va a’zolar savdosi, uglevodorod va mualliflik huquqi, transport o’g’irliklari prokuraturalari hamda Jarayonlarni nazorat qilish bo’limi va Nazorat texnik korpusi. Xodimlar soni ko’rsatilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMCC",
+          "ref": "FEMCC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FEMCC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FECOC",
+          "ref": "FECOC",
+          "url": "https://www.fgr.org.mx/swb/FGR/FECOC",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Meksika Bosh prokuraturasi (FGR) rasmiy sayti, FEMDO",
+          "ref": "FEMDO",
+          "url": "https://www.fgr.org.mx/en/FGR/FEMDO",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

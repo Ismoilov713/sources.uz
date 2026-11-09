@@ -24,13 +24,19 @@
       ]
     },
     "history": {
-      "summary": "Qidiruv natijasida keltirilgan hujjatga ko'ra Moliyaviy tergov departamenti Davlat nazorat qo'mitasida Moliyaviy tergovlar davlat qo'mitasi asosida tashkil etilgan va uning huquqiy vorisi hisoblanadi. Hujjat va sanasi birlamchi matndan tekshirilmadi.",
+      "summary": "Moliyaviy tergov organlari to’g’risidagi qonun 2008-yil 16-iyulda № 414-З bilan qabul qilingan (matn 2023-yil 17-iyulgacha o’zgartirishlar bilan o’qildi). Davlat nazorat qo’mitasi to’g’risidagi № 142-З qonunning 3-moddasi 3-qismi Departamentning o’ziga xosliklari Prezident qarorlari va № 414-З qonun bilan belgilanishini yozadi. Departamentning Moliyaviy tergovlar davlat qo’mitasi asosida tashkil etilganligi qidiruv natijasida keltirilgan, birlamchi matndan tekshirilmadi.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "etalonline.by (qidiruv natijasi)",
-          "ref": "ДФР tashkil etilishi",
-          "url": "https://etalonline.by/document/?regnum=P30100617",
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "qonun sanasi va tahriri",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Belarus Qonuni № 142-З (КГК), etalonline.by",
+          "ref": "3-modda 3-qism",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
           "retrieved": "2026-11-09"
         }
       ]
@@ -135,13 +141,13 @@
       ]
     },
     "fiu_aml": {
-      "summary": "Qidiruv natijasiga ko'ra КГК tarkibida Moliyaviy tergov departamenti bilan birga Moliyaviy monitoring departamenti ham bor; uning vakolati bu loyihada birlamchi matndan tekshirilmadi.",
+      "summary": "Moliyaviy razvedka vazifasi Belarusda \"Jinoiy daromadlarni legallashtirish, terrorizm va ommaviy qirg’in qurolini tarqatishni moliyalashtirishning oldini olish choralari to’g’risida\"gi 2014-yil 30-iyundagi № 165-З qonunda tartibga solingan; qonunning 11-moddasi \"moliyaviy monitoring organi vakolati\" deb nomlangan (mundarija). Qidiruv natijasiga ko’ra КГК tarkibida Moliyaviy monitoring departamenti ham bor. Moddaning mazmuni va organning aniq maqomi birlamchi matndan o’qilmadi.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "pravo.by (qidiruv natijasi)",
-          "ref": "КГК tuzilmasi",
-          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2019/july/38006/",
+          "title": "Belarus Qonuni № 165-З (30.06.2014), mundarija, spinform.ru",
+          "ref": "11-modda sarlavhasi",
+          "url": "https://base.spinform.ru/show_doc.fwx?rgn=68802",
           "retrieved": "2026-11-09"
         }
       ]

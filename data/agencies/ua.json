@@ -178,20 +178,34 @@
       ]
     },
     "fiu_aml": {
-      "summary": "Qonun matnida Byuroga moliyaviy razvedka (FIU) vazifasi berilmagan: tahliliy faoliyat (9-modda) iqtisodiy xavflarga yo'naltirilgan. Ukrainada shubhali moliyaviy operatsiyalar bo'yicha FIU funksiyasi boshqa organda deb hisoblanadi, lekin bu loyihada tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "Ukrainada moliyaviy razvedka vazifasi Byurodan alohida: \"maxsus vakolatli organ\" (spetsialno upovnovajenyy organ) – davlat siyosatini amalga oshiruvchi markaziy ijroiya hokimiyat organi (361-IX qonun 1-modda). Uning vazifalari (25-modda): moliyaviy operatsiyalar haqidagi axborotni yig’ish, qayta ishlash va operativ hamda strategik tahlil qilish; yagona axborot tizimini yuritish; davlat organlari, Milliy bank va xorijiy organlar bilan axborot almashish; milliy xavflarni baholash. Rahbari tanlov natijasida tayinlanadi (26-modda). Majburiy subyekt shubhali operatsiyani to’xtatib, shu kuni organga xabar beradi va u 2 ish kuniga to’xtatiladi; organ to’xtatishni yana 7 ish kunigacha uzaytirishi mumkin (23-modda 1–2-qismlar). Qonun matnida organning nomi ko’rsatilmagan, amalda u Davlat moliyaviy monitoring xizmati deb ataladi. Byuroning vazifasi esa 9-moddadagi iqtisodiy xavflarni tahlil qilish bilan cheklangan (BEB qonuni). (Qonun matni ukrain tilidagi nusxadan o’qildi, rasmiy zakon.rada.gov.ua sahifasiga ulanib bo’lmadi; nusxada tahrir sanasi 01.01.2022.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
-          "ref": "9-modda",
-          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-9",
+          "title": "Ukraina Qonuni № 361-IX (AML), ukrain tilidagi matn, urst.com.ua",
+          "ref": "1-modda (ta’rif)",
+          "url": "https://urst.com.ua/pro_zapobihannia_ta_protydiiu_lehalizatsii_vidmyvanniu_dokhodiv_/st-1",
+          "retrieved": "2026-11-09",
+          "original": "спеціально уповноважений орган - центральний орган виконавчої влади, що реалізує державну політику у сфері запобігання та протидії"
+        },
+        {
+          "title": "Ukraina Qonuni № 361-IX (AML), ukrain tilidagi matn, urst.com.ua",
+          "ref": "25-modda 1-qism",
+          "url": "https://urst.com.ua/pro_zapobihannia_ta_protydiiu_lehalizatsii_vidmyvanniu_dokhodiv_/st-25",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Qonun № 1150-IX (28.01.2021), rus tilidagi tarjima, urst.com.ua",
-          "ref": "4-modda",
-          "url": "https://urst.com.ua/ru/o_byuro_ekonomicheskoy_bezopasnosti/st-4",
+          "title": "Ukraina Qonuni № 361-IX (AML), ukrain tilidagi matn, urst.com.ua",
+          "ref": "26-modda 1-qism",
+          "url": "https://urst.com.ua/pro_zapobihannia_ta_protydiiu_lehalizatsii_vidmyvanniu_dokhodiv_/st-26",
           "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ukraina Qonuni № 361-IX (AML), ukrain tilidagi matn, urst.com.ua",
+          "ref": "23-modda 1–2-qismlar",
+          "url": "https://urst.com.ua/pro_zapobihannia_ta_protydiiu_lehalizatsii_vidmyvanniu_dokhodiv_/st-23",
+          "retrieved": "2026-11-09",
+          "original": "на строк до семи робочих днів"
         }
       ]
     },

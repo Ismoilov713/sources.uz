@@ -1,0 +1,189 @@
+{
+  "code": "es",
+  "name": "Ispaniya",
+  "organ": "Korrupsiya va uyushgan jinoyatchilikka qarshi prokuratura + tergov sudyalari + SEPBLAC",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Ispaniyada ixtisoslashgan organ – prokuratura tarkibidagi Korrupsiya va uyushgan jinoyatchilikka qarshi kurash prokuraturasi (Fiscalía contra la Corrupción y la Criminalidad Organizada, amalda \"Fiscalía Anticorrupción\"). Prokuratura Ustavining 19-moddasi 2-bandi ikkita Maxsus prokuraturani belgilaydi: Narkotikka qarshi va Korrupsiya va uyushgan jinoyatchilikka qarshi. Prokuratura \"konstitutsiyaviy ahamiyatga ega organ, o’z yuridik shaxsiga ega, Sud hokimiyati tarkibida funksional avtonomiya bilan birlashgan\" (2-modda 1-qism). Moliyaviy razvedkani SEPBLAC bajaradi. Ya’ni O’zbekistondan farq qiladi: iqtisodiy jinoyatlar prokuraturasi bor, lekin tergov sudyasi tizimi saqlanadi va FIU alohida. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "2-modda 1-qism; 19-modda 2-band",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "Son Fiscalías Especiales la Fiscalía Antidroga y la Fiscalía contra la Corrupción y la Criminalidad Organizada"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Prokuratura Ustavi 1981-yilgi 50-sonli qonun (Ley 50/1981) bilan qabul qilingan; 2007-yil 9-oktabrdagi 24/2007-sonli qonun uni o’zgartirib, prokuraturaning maqomi (2-modda) va tegishli normalarni yangilagan. Pul yuvishga qarshi 10/2010-sonli qonun SEPBLAC va Komissiyaning tartibini belgilaydi. Korrupsiyaga qarshi prokuraturaning tashkil etilgan yilini bu manbalar ko’rsatmaydi. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "2-modda va 5-moddadagi o’zgartirish izohlari",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "Se modifica el apartado 1 por el art. único.1 de la Ley 24/2007, de 9 de octubre."
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "44–48-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Prokuratura Ustavi (Ley 50/1981): 1–2-moddalar (vazifa va maqom), 5-modda (prokuror tekshiruvi), 19-modda 4-band (Korrupsiyaga qarshi prokuratura vakolati), 22-modda (rahbarlik). Jinoyat-protsessual qonun (LECrim) 303 va 306-moddalari: tergov sudyasi. Sud hokimiyati organik qonuni (LOPJ) 65-moddasi: Milliy sudning jinoyat palatasi. Pul yuvishga qarshi 10/2010-sonli qonun 44–48-moddalar: Komissiya va SEPBLAC. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "1, 2, 5, 19, 22-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley de Enjuiciamiento Criminal (1882), BOE konsolidatsiyalangan matn",
+          "ref": "303, 306-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley Orgánica del Poder Judicial (1985), BOE konsolidatsiyalangan matn",
+          "ref": "65-modda",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "44–48-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Prokuratura butun davlat uchun yagona; Bosh prokuror (Fiscal General del Estado) uning oliy rahbari bo’lib, ko’rsatma va yo’riqnomalar beradi (22-modda 1–2-qism). Prokuratura \"birlik va ierarxik bo’ysunish\" tamoyillari bo’yicha ishlaydi (2-modda 1-qism). Korrupsiyaga qarshi prokuratura vakolati doirasidagi ishlarni \"alohida ahamiyatga ega\" deb Bosh prokuror baholaydi (19-modda 4-band), delegatlarni ham u tayinlaydi (19-modda 5-band). FIU: SEPBLAC Iqtisodiyot davlat kotibligiga bo’ysunuvchi Komissiyaga tashkiliy va funksional bo’ysunadi, byudjet va shartnoma masalalarini Ispaniya banki yuritadi (10/2010, 44-modda 1-qism, 45-modda 3-qism). (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "2-modda 1-qism; 19-modda 4, 5-bandlar; 22-modda 1–2-qism",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "El Ministerio Fiscal es único para todo el Estado."
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "44-modda 1-qism; 45-modda 3-qism",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "1-modda: prokuratura \"qonuniylik, fuqarolar huquqlari va qonun himoya qiladigan jamoat manfaati yo’lida odil sudlovni rag’batlantirish\" vazifasiga ega. 19-modda 4-band: Korrupsiya va uyushgan jinoyatchilikka qarshi prokuratura 5-moddadagi tekshiruvlarni o’tkazadi va ayrim jinoyatlar bo’yicha jinoiy jarayonlarda bevosita ishtirok etadi – har ikkalasi faqat \"alohida ahamiyatga ega\" ishlarda. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "1-modda; 19-modda 4-band",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "La Fiscalía contra la Corrupción y la Criminalidad Organizada practicará las diligencias ... e intervendrá directamente en procesos penales"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "19-modda 4-band ro’yxati: Davlat g’aznasi, ijtimoiy ta’minot va kontrabanda bo’yicha jinoyatlar; prevarikatsiya; maxfiy axborotdan foydalanish; davlat mablag’larini talon-taroj qilish; firibgarlik va noqonuniy undirish; tijorat nufuzidan foydalanish; poraxo’rlik; mansabdorlarga taqiqlangan bitimlar; aldov; to’lovga qodir emaslik; auksion narxlarini o’zgartirish; intellektual mulk, bozor va iste’molchilarga oid jinoyatlar; korporativ jinoyatlar; pul yuvish; xalqaro tijorat bitimlarida va xususiy sektorda korrupsiya; bog’liq jinoyatlar; uyushgan jinoiy guruhlar bilan bog’liq mol-mulk va pul oqimlarini tekshirish. Narkotik va terrorizm bilan bog’liq pul yuvish boshqa maxsus prokuraturalarga tegishli. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "19-modda 4-band (a–q)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "5-modda: prokuror arizalarni qabul qiladi yoki arxivga yuboradi; sud-protsessual qonun doirasida tekshiruv harakatlarini o’tkazadi yoki buyuradi, lekin ular majburlov yoki huquqlarni cheklovchi chora bo’la olmaydi (profilaktik ushlashni buyurishi mumkin). Shubhalanuvchidan advokat ishtirokida ko’rsatma oladi. Tekshiruv 6 oydan oshmaydi, 19-modda 4-banddagi jinoyatlar bo’yicha 12 oygacha; uzaytirishni Bosh prokuror qaror bilan beradi. Natijada prokuror ishni sudga o’tkazadi (shikoyat yoki querella) yoki arxivlaydi. Tekshiruv natijalari haqiqiylik prezumpsiyasiga ega. SEPBLAC tekshiruv o’tkazadi (10/2010, 47-modda). (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "5-modda 1–3-qismlar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09",
+          "original": "sin que pueda exceder de seis meses ... tendrán una duración máxima de doce meses"
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "47-modda 1-qism",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Joriy qonunda (LECrim 303, 306-moddalar) jinoyat ishlari bo’yicha dastlabki tergov (sumario) tergov sudyalari (Jueces de instrucción) tomonidan prokuror to’g’ridan-to’g’ri nazoratida yuritiladi. Prokuror avval o’zining oldindan tekshiruvini (diligencias, EOMF 5-modda) olib borishi va natijada ishni sudyaga topshirishi mumkin. Katta iqtisodiy ishlar (monetar jinoyatlar, savdo xavfsizligi va milliy iqtisodiyotga jiddiy ta’sir qiluvchi firibgarliklar) Milliy sudning (Audiencia Nacional) Jinoyat palatasi yagona instansiyada ko’radi (LOPJ 65-modda 1-band b, c). Prokuraturaga tergov rahbarligini beruvchi yangi protsessual qonun loyihasi qidiruv natijalarida eslatilgan, lekin bu loyihada kuchga kirgani tasdiqlanmagan. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Ley de Enjuiciamiento Criminal (1882), BOE konsolidatsiyalangan matn",
+          "ref": "303, 306-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
+          "retrieved": "2026-11-09",
+          "original": "los Jueces de instrucción formarán los sumarios de los delitos públicos bajo la inspección directa del Fiscal"
+        },
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "5-modda",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley Orgánica del Poder Judicial (1985), BOE konsolidatsiyalangan matn",
+          "ref": "65-modda 1-band",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Moliyaviy razvedkani Pul yuvishga qarshi Komissiyaning Ijroiya xizmati (SEPBLAC) amalga oshiradi. U majburiy subyektlardan va boshqa manbalardan olingan axborotni tahlil qiladi va pul yuvish belgilari bo’lsa moliyaviy razvedka hisobotini Prokuratura, sud, politsiya yoki ma’muriy organlarga yuboradi; faoliyatida operativ jihatdan mustaqil va avtonom; hisobotlarning isbot kuchi yo’q (10/2010, 46-modda 1-qism). Har bir davlat organi pul yuvish belgilarini SEPBLAC ga xabar qilishi shart (48-modda 1-qism). Ya’ni O’zbekistondan farq qiladi: FIU tergov organi emas va prokuraturadan tashqarida. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "45, 46, 48-moddalar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09",
+          "original": "Los informes de inteligencia financiera no tendrán valor probatorio"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Bosh prokuror zarur bo’lganda har qanday prokuraturada Maxsus prokuraturalarning bir yoki bir necha delegat prokurorlarini tayinlashi mumkin; ular maxsus prokuraturaga qo’shiladi va Maxsus prokuratura rahbari ularga nisbatan o’z doirasida boshqa Fiskal Jefes huquq va majburiyatlariga ega (19-modda 5-band). FIU tomoni: Komissiyaning ikki yordamchi organi – Kotibiyat (Iqtisodiyot davlat kotibligi tarkibidagi bo’linma) va SEPBLAC; Ispaniya banki xodimlari SEPBLAC da ishlaydi (10/2010, 45-modda). Xodimlar soni bu manbalarda yo’q. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
+          "ref": "19-modda 5-band",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "ref": "45-modda 1–3-qismlar",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
