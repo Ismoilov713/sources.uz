@@ -7500,19 +7500,19 @@ window.AGENCIES = [
       ]
     },
     "subordination": {
-      "summary": "§ 143 (3) GVG: turli yer (Land) prokuraturalari kimning ish olib borishi haqida kelisha olmasa, Federal bosh prokuror (Generalbundesanwalt) hal qiladi. Landlar prokuraturalarining vazirlik bilan boshqaruv munosabati bu manbalarda tekshirilmagan. FIU: GwG § 27 (2) ga ko'ra \"tashkiliy jihatdan mustaqil\" va o'z vazifalarida kasbiy jihatdan mustaqil.",
+      "summary": "FIU: Federal moliya vazirligi nazorati ostida, kasbiy mustaqilligi saqlanadi (GwG § 28 (2)). Turli Land prokuraturalari qaysi biri ta’qibni o’z zimmasiga olishi haqida kelisha olmasa, Federal bosh prokuror hal qiladi (GVG § 143 (3)). Landlar prokuraturalarining vazirlikka bo’ysunuv tartibi bu loyihada o’qilmagan.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "GVG (nemis asl matni)",
-          "ref": "§ 143 (3)",
-          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "title": "GwG (nemis asl matni), § 28",
+          "ref": "§ 28 (2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__28.html",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "GwG (nemis asl matni)",
-          "ref": "§ 27 (2)",
-          "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "title": "GVG (nemis asl matni), § 143 (3)",
+          "ref": "§ 143 (3)",
+          "url": "https://www.gesetze-im-internet.de/gvg/__143.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7573,13 +7573,27 @@ window.AGENCIES = [
       ]
     },
     "fiu_aml": {
-      "summary": "GwG § 27 (1): Zentralstelle für Finanztransaktionsuntersuchungen (FIU) shubhali operatsiyalar haqidagi xabarlar uchun markaziy organ, pul yuvish va terrorizmni moliyalashtirishning oldini olish, aniqlash va kurashishga yordam beradi; § 27 (2): u tashkiliy jihatdan mustaqil va kasbiy jihatdan mustaqil. Qaysi vazirlik tarkibiga kirishi sahifada ko'rsatilmagan.",
+      "summary": "GwG § 27 (1): Zentralstelle für Finanztransaktionsuntersuchungen (FIU) shubhali operatsiyalar haqidagi xabarlar uchun markaziy organ; § 27 (2): u tashkiliy jihatdan mustaqil va o’z vazifalarida kasbiy jihatdan mustaqil. § 28 (1): FIU pul yuvish va terrorizmni moliyalashtirish bilan bog’liq axborotni yig’adi va tahlil qiladi, uni aniqlash, oldini olish yoki ta’qib qilish maqsadida vakolatli ichki davlat organlariga uzatadi; xabarlarni qabul qiladi, operativ tahlil o’tkazadi, xorijiy FIU lar bilan axborot almashadi, operatsiyalarni taqiqlaydi va boshqa shoshilinch choralarni buyuradi (5-band). § 28 (2): FIU Federal moliya vazirligi nazorati ostida, ammo kasbiy mustaqilligi saqlanadi. § 30 (1): xabarlar majburiy subyektlardan (§ 43), nazorat organlaridan (§ 44), moliya organlaridan (AO § 31b) va bojxonadan keladi. FIU jinoyat ishini o’zi tergov qilmaydi, natijani vakolatli organlarga uzatadi.",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "GwG (nemis asl matni)",
+          "title": "GwG (nemis asl matni), § 27",
           "ref": "§ 27 (1), (2)",
           "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "retrieved": "2026-11-09",
+          "original": "Die Zentralstelle für Finanztransaktionsuntersuchungen ist organisatorisch eigenständig und arbeitet im Rahmen ihrer Aufgaben und Befugnisse fachlich unabhängig."
+        },
+        {
+          "title": "GwG (nemis asl matni), § 28",
+          "ref": "§ 28 (1), (2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__28.html",
+          "retrieved": "2026-11-09",
+          "original": "die Untersagung von Transaktionen und die Anordnung von sonstigen Sofortmaßnahmen"
+        },
+        {
+          "title": "GwG (nemis asl matni), § 30",
+          "ref": "§ 30 (1)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__30.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7679,12 +7693,19 @@ window.AGENCIES = [
       ]
     },
     "powers": {
-      "summary": "PNFning o'z politsiya xodimlari bu manbalarda ko'rsatilmagan; tergov choralari tergov sudyasi va sud-politsiya xizmatlari orqali amalga oshiriladi. CPP 41-1-2: tegishli yuridik shaxs bilan jinoiy javobgarlikdan voz kechish evaziga jarima va dasturlar bo'yicha kelishuv (CJIP) taklif qilinishi mumkin.",
-      "status": "tekshirilmagan",
+      "summary": "CPP 41-1-2: prokuror ommaviy ayblov qo’zg’atilgunga qadar yuridik shaxsga korrupsiya, soliq firibgarligi (CGI 1741, 1743), ularni yuvish va bog’liq jinoyatlar bo’yicha \"jamoat manfaatidagi sud kelishuvi\" (CJIP) taklif qilishi mumkin: jamoat manfaati jarimasi (3 yillik o’rtacha yillik aylanmaning 30% igacha), Fransiya korrupsiyaga qarshi agentligi nazoratida 3 yilgacha muvofiqlik dasturi va/yoki musodara qilingan mulkni davlat foydasiga topshirish; kelishuvni sud raisi prokuror arizasi bo’yicha tasdiqlaydi (II-qism). CPP 705-2: 705-moddadagi jinoyatlar bo’yicha boshqa sud prokurori avval ish olgan tergov sudyasidan ishni Parijga topshirishni talab qilishi mumkin (8 kundan 1 oygacha muddatda), 705-3: bu qarorga 5 kun ichida Kassatsiya sudining jinoyat palatasiga shikoyat qilinadi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
-          "ref": "41-1-2; 705-2",
+          "ref": "41-1-2 I, II-qismlar",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09",
+          "original": "convention judiciaire d’intérêt public ... amende ... dans la limite de 30 % du chiffre d’affaires moyen annuel"
+        },
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705-2, 705-3",
           "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
           "retrieved": "2026-11-09"
         }
@@ -7703,14 +7724,15 @@ window.AGENCIES = [
       ]
     },
     "fiu_aml": {
-      "summary": "Fransiya moliyaviy razvedkasi (TRACFIN) alohida organ; uning maqomi va vakolati bu loyihada birlamchi manbadan tekshirilmadi (rasmiy sayt kirishga ruxsat bermadi).",
-      "status": "tekshirilmagan",
+      "summary": "Pul-moliya kodeksi (CMF) L. 561-23: iqtisodiyot vaziri maxsus vakolat bergan xodimlardan iborat \"milliy moliyaviy razvedka bo’linmasi\" (cellule de renseignement financier nationale; amalda odatda TRACFIN deb ataladi, kodeks matnida nomi yo’q) xabarlarni qabul qiladi, summalarning kelib chiqishi va yo’nalishini aniqlash uchun ma’lumot to’playdi va tahlil qiladi. L. 561-24: u hali bajarilmagan operatsiyaga qarshi chiqishi (opposition) mumkin; operatsiya 10 ish kuniga kechiktiriladi; Parij sud tribunali raisi so’rov bo’yicha muddatni uzaytirishi yoki mablag’larni vaqtincha sekvestr qilishi, prokuror ham xuddi shu so’rovni berishi mumkin. L. 561-25: hujjat va ma’lumotlarni to’g’ridan-to’g’ri talab qiladi; L. 561-26: 6 oygacha (yangilanadigan) xavfli operatsiya yoki shaxslarni belgilaydi; L. 561-29: xorijiy hamkorlar bilan almashadi. Ya’ni Fransiyada bu vazifa PNF dan alohida va Iqtisodiyot vazirligi xodimlari qo’lida.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Iqtisodiyot vazirligi: TRACFIN",
-          "ref": "missions",
-          "url": "https://www.economie.gouv.fr/tracfin/missions",
-          "retrieved": "2026-11-09"
+          "title": "Code monétaire et financier (Fransiya, rasmiy matn, codes.droit.org nusxasi, 2026-09-01 holati)",
+          "ref": "L. 561-23, L. 561-24, L. 561-25, L. 561-26, L. 561-29",
+          "url": "https://codes.droit.org/payloads/Code%20mon%C3%A9taire%20et%20financier.pdf",
+          "retrieved": "2026-11-09",
+          "original": "les opérations sont reportées d’une durée de dix jours ouvrables à compter du jour d’émission de la notification de cette opposition"
         }
       ]
     },

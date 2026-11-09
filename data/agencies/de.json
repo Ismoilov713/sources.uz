@@ -63,19 +63,19 @@
       ]
     },
     "subordination": {
-      "summary": "§ 143 (3) GVG: turli yer (Land) prokuraturalari kimning ish olib borishi haqida kelisha olmasa, Federal bosh prokuror (Generalbundesanwalt) hal qiladi. Landlar prokuraturalarining vazirlik bilan boshqaruv munosabati bu manbalarda tekshirilmagan. FIU: GwG § 27 (2) ga ko'ra \"tashkiliy jihatdan mustaqil\" va o'z vazifalarida kasbiy jihatdan mustaqil.",
+      "summary": "FIU: Federal moliya vazirligi nazorati ostida, kasbiy mustaqilligi saqlanadi (GwG § 28 (2)). Turli Land prokuraturalari qaysi biri ta’qibni o’z zimmasiga olishi haqida kelisha olmasa, Federal bosh prokuror hal qiladi (GVG § 143 (3)). Landlar prokuraturalarining vazirlikka bo’ysunuv tartibi bu loyihada o’qilmagan.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "GVG (nemis asl matni)",
-          "ref": "§ 143 (3)",
-          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "title": "GwG (nemis asl matni), § 28",
+          "ref": "§ 28 (2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__28.html",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "GwG (nemis asl matni)",
-          "ref": "§ 27 (2)",
-          "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "title": "GVG (nemis asl matni), § 143 (3)",
+          "ref": "§ 143 (3)",
+          "url": "https://www.gesetze-im-internet.de/gvg/__143.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -136,13 +136,27 @@
       ]
     },
     "fiu_aml": {
-      "summary": "GwG § 27 (1): Zentralstelle für Finanztransaktionsuntersuchungen (FIU) shubhali operatsiyalar haqidagi xabarlar uchun markaziy organ, pul yuvish va terrorizmni moliyalashtirishning oldini olish, aniqlash va kurashishga yordam beradi; § 27 (2): u tashkiliy jihatdan mustaqil va kasbiy jihatdan mustaqil. Qaysi vazirlik tarkibiga kirishi sahifada ko'rsatilmagan.",
+      "summary": "GwG § 27 (1): Zentralstelle für Finanztransaktionsuntersuchungen (FIU) shubhali operatsiyalar haqidagi xabarlar uchun markaziy organ; § 27 (2): u tashkiliy jihatdan mustaqil va o’z vazifalarida kasbiy jihatdan mustaqil. § 28 (1): FIU pul yuvish va terrorizmni moliyalashtirish bilan bog’liq axborotni yig’adi va tahlil qiladi, uni aniqlash, oldini olish yoki ta’qib qilish maqsadida vakolatli ichki davlat organlariga uzatadi; xabarlarni qabul qiladi, operativ tahlil o’tkazadi, xorijiy FIU lar bilan axborot almashadi, operatsiyalarni taqiqlaydi va boshqa shoshilinch choralarni buyuradi (5-band). § 28 (2): FIU Federal moliya vazirligi nazorati ostida, ammo kasbiy mustaqilligi saqlanadi. § 30 (1): xabarlar majburiy subyektlardan (§ 43), nazorat organlaridan (§ 44), moliya organlaridan (AO § 31b) va bojxonadan keladi. FIU jinoyat ishini o’zi tergov qilmaydi, natijani vakolatli organlarga uzatadi.",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "GwG (nemis asl matni)",
+          "title": "GwG (nemis asl matni), § 27",
           "ref": "§ 27 (1), (2)",
           "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "retrieved": "2026-11-09",
+          "original": "Die Zentralstelle für Finanztransaktionsuntersuchungen ist organisatorisch eigenständig und arbeitet im Rahmen ihrer Aufgaben und Befugnisse fachlich unabhängig."
+        },
+        {
+          "title": "GwG (nemis asl matni), § 28",
+          "ref": "§ 28 (1), (2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__28.html",
+          "retrieved": "2026-11-09",
+          "original": "die Untersagung von Transaktionen und die Anordnung von sonstigen Sofortmaßnahmen"
+        },
+        {
+          "title": "GwG (nemis asl matni), § 30",
+          "ref": "§ 30 (1)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__30.html",
           "retrieved": "2026-11-09"
         }
       ]
