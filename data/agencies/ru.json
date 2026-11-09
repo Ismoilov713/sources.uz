@@ -5,92 +5,113 @@
   "updated": "2026-11-09",
   "items": {
     "identity": {
-      "summary": "Rossiyada iqtisodiy jinoyatlar bo'yicha yagona maxsus organ yo'q: ishlar UPK 151-moddasiga ko'ra Tergov qo'mitasi (SK), Ichki ishlar vazirligi (MVD) va FSB tergovchilari o'rtasida taqsimlangan. Moliyaviy razvedka vazifasini alohida organ, Rosfinmonitoring bajaradi. O'zbekiston departamentiga eng yaqin funksiya shu uch tuzilmaga bo'lingan.",
+      "summary": "Rossiyada iqtisodiy jinoyatlar bo'yicha yagona maxsus organ yo'q: ishlar UPK 151-moddasiga ko'ra Tergov qo'mitasi (SK), Ichki ishlar vazirligi (MVD) va FSB tergovchilari o'rtasida taqsimlangan; moliyaviy razvedka vazifasini alohida organ, Moliyaviy monitoring federal xizmati (Rosfinmonitoring) bajaradi. Tergov qo'mitasi \"federal davlat organi bo'lib, jinoyat sudlovi sohasida vakolatlarni amalga oshiradi\" (403-ФЗ 1-modda 1-qism); Rosfinmonitoring esa federal ijroiya hokimiyat organi bo'lib, pul yuvish, terrorizm va ekstremizmni moliyalashtirishga qarshi kurash funksiyalarini bajaradi (nizom 1-band). O'zbekiston departamentiga yaqin funksiya shu uch tuzilmaga bo'lingan. (Matnlar rasmiy bo'lmagan huquqiy nusxalardan o'qildi, rasmiy nashr bilan solishtirilmadi.)",
       "status": "tasdiqlangan",
       "sources": [
         {
           "title": "UPK RF (rus tilidagi asl)",
           "ref": "151-modda 2-qism",
           "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Federal qonun № 403-ФЗ (28.12.2010) Tergov qo'mitasi to'g'risida (29.12.2025 tahriri), rulaws.ru nusxasi",
+          "ref": "1-modda 1-qism",
+          "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-28.12.2010-N-403-FZ/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni va Rosfinmonitoring nizomi (2026-yil 9-iyungacha o'zgartirishlar bilan), rulaws.ru nusxasi",
+          "ref": "nizom 1-band",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
           "retrieved": "2026-11-09",
-          "links": [
-            {
-              "label": "ст. 151",
-              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
-            }
-          ]
+          "original": "является федеральным органом исполнительной власти, осуществляющим функции по противодействию легализации (отмыванию) доходов"
         }
       ]
     },
     "history": {
-      "summary": "Rosfinmonitoring nizomi 2012-yil 13-iyundagi № 808 Farmon bilan tasdiqlangan va bir necha marta o'zgartirilgan (2016, 2021, 2022, 2023, 2025). Tergov organlarining shakllanish tarixi bu loyihada o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Tergov qo'mitasi to'g'risidagi № 403-ФЗ qonun 2010-yil 28-dekabrda qabul qilingan (matn 2025-yil 29-dekabrgacha o'zgartirishlar bilan). Rosfinmonitoring nizomi 2012-yil 13-iyundagi № 808 Farmon bilan tasdiqlangan; Farmonning 3-bandi 2026-yil 9-iyundagi № 408 Farmon bilan o'z kuchini yo'qotgan, nizomning ayrim bandlari 2022-yil 5-martdagi № 97 Farmon bilan chiqarilgan, ya'ni nizom bir necha marta o'zgartirilgan. Tergov organlarining tashkil topish tarixi bu loyihada o'qilmagan. (Matnlar rasmiy bo'lmagan huquqiy nusxalardan o'qildi, rasmiy nashr bilan solishtirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
-          "ref": "Farmon va uning tahrirlari",
-          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "title": "Federal qonun № 403-ФЗ (28.12.2010) Tergov qo'mitasi to'g'risida (29.12.2025 tahriri), rulaws.ru nusxasi",
+          "ref": "qonun sarlavhasi",
+          "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-28.12.2010-N-403-FZ/",
           "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni va Rosfinmonitoring nizomi (2026-yil 9-iyungacha o'zgartirishlar bilan), rulaws.ru nusxasi",
+          "ref": "Farmon 13.06.2012 № 808; 3-band",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09",
+          "original": "Утратил силу с 9 июня 2026 года. - Указ Президента РФ от 09.06.2026 N 408."
         }
       ]
     },
     "legal_basis": {
-      "summary": "UPK RF 151-modda (tergov tegishliligi); Prezident Farmoni № 808 (Rosfinmonitoring nizomi). Farmon matni ikkilamchi manbadan (rulaws.ru) ko'rilgan, rasmiy nashr bilan solishtirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "UPK RF 151-modda (tergov tegishliligi); 2010-yil 28-dekabrdagi № 403-ФЗ \"Rossiya Federatsiyasi Tergov qo'mitasi to'g'risida\"gi federal qonun (2-modda: huquqiy asos – Konstitutsiya, shu qonun, boshqa federal qonunlar va Tergov qo'mitasi to'g'risidagi nizom); Prezidentning 2012-yil 13-iyundagi № 808 Farmoni bilan tasdiqlangan Rosfinmonitoring nizomi, shuningdek 2001-yil 7-avgustdagi № 115-ФЗ \"Jinoiy yo'l bilan olingan daromadlarni legallashtirish (yuvish) va terrorizmni moliyalashtirishga qarshi kurash to'g'risida\"gi federal qonun (nizom unga havola qiladi). (Matnlar rasmiy bo'lmagan huquqiy nusxalardan o'qildi, rasmiy nashr bilan solishtirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "UPK RF (rus tilidagi asl)",
           "ref": "151",
           "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
-          "retrieved": "2026-11-09",
-          "links": [
-            {
-              "label": "ст. 151",
-              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
-            }
-          ]
+          "retrieved": "2026-11-09"
         },
         {
-          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
-          "ref": "nizom",
+          "title": "Federal qonun № 403-ФЗ (28.12.2010) Tergov qo'mitasi to'g'risida (29.12.2025 tahriri), rulaws.ru nusxasi",
+          "ref": "2-modda",
+          "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-28.12.2010-N-403-FZ/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni va Rosfinmonitoring nizomi (2026-yil 9-iyungacha o'zgartirishlar bilan), rulaws.ru nusxasi",
+          "ref": "nizom 3-band, 5-band 1-kichik band",
           "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "subordination": {
-      "summary": "Rosfinmonitoringni Hukumat Prezident farmonlari, farmoyishlari va topshiriqlariga ko'ra muvofiqlashtiradi (ikkilamchi manba); to'liq bo'ysunuv tartibi tekshirilmagan. Tergov organlari o'z idoralariga (SK, MVD, FSB) bo'ysunadi, tegishlilik bo'yicha nizolarni prokuror hal qiladi (UPK 151-m. 8-qism).",
-      "status": "tekshirilmagan",
+      "summary": "Tergov qo'mitasi faoliyatiga Prezident rahbarlik qiladi, Qo'mita to'g'risidagi nizomni tasdiqlaydi va shtat sonini belgilaydi (403-ФЗ, 1-modda 3-qism); Qo'mita yagona federal markazlashgan tizim bo'lib, quyi rahbarlar yuqori rahbarlarga va Raisga bo'ysunadi (5-modda 1-qism); Raisning birinchi o'rinbosari va o'rinbosarlarini Prezident Rais taqdimiga ko'ra tayinlaydi (14-modda). Tergov organlari o'z vakolatlarini boshqa davlat organlaridan mustaqil amalga oshiradi (5-modda 2-qism). Rosfinmonitoring faoliyatiga Prezident rahbarlik qiladi (nizom 2-band), Hukumat Prezident farmon va topshiriqlariga ko'ra uni muvofiqlashtiradi (2.1-band). Tegishlilik bo'yicha nizolarni prokuror hal qiladi (UPK 151-modda 8-qism). (Matnlar rasmiy bo'lmagan huquqiy nusxalardan o'qildi, rasmiy nashr bilan solishtirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "UPK RF (rus tilidagi asl)",
-          "ref": "151-modda 7, 8-qismlar",
-          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "title": "Federal qonun № 403-ФЗ (28.12.2010) Tergov qo'mitasi to'g'risida (29.12.2025 tahriri), rulaws.ru nusxasi",
+          "ref": "1-modda 3-qism; 5-modda 1, 2-qism; 14-modda",
+          "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-28.12.2010-N-403-FZ/",
           "retrieved": "2026-11-09",
-          "original": "Споры о подследственности уголовного дела разрешает прокурор.",
-          "links": [
-            {
-              "label": "ст. 151",
-              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
-            }
-          ]
+          "original": "Президент Российской Федерации осуществляет руководство деятельностью Следственного комитета"
         },
         {
-          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
-          "ref": "Hukumat muvofiqlashtiruvi",
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni va Rosfinmonitoring nizomi (2026-yil 9-iyungacha o'zgartirishlar bilan), rulaws.ru nusxasi",
+          "ref": "nizom 2, 2.1-bandlar",
           "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09",
+          "original": "Руководство деятельностью Росфинмониторинга осуществляет Президент Российской Федерации."
+        },
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 8-qism",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "functions": {
-      "summary": "Rosfinmonitoring nizomi jinoiy yo'l bilan olingan daromadlarni legallashtirish, terrorizm va ekstremizmni, ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurash sohasidagi faoliyatni, shuningdek pul mablag'lari bilan operatsiyalardan kelib chiqadigan milliy xavfsizlik tahdidlarini baholash markazi vazifasini belgilaydi (ikkilamchi manba, tekshirilmagan).",
-      "status": "tekshirilmagan",
+      "summary": "Rosfinmonitoring: pul yuvish, terrorizm va ekstremizmni, ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurash sohasida davlat siyosatini ishlab chiqish va tartibga solish, tegishli faoliyatni muvofiqlashtirish va pul yoki mulk bilan operatsiyalardan kelib chiqadigan milliy xavfsizlik tahdidlarini baholash \"milliy markazi\" vazifasi (nizom 1-band). Tergov qo'mitasi jinoyat sudlovi sohasida vakolatlarni amalga oshiradi (403-ФЗ 1-modda 1-qism). (Matnlar rasmiy bo'lmagan huquqiy nusxalardan o'qildi, rasmiy nashr bilan solishtirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
-          "ref": "nizom vazifalari",
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni va Rosfinmonitoring nizomi (2026-yil 9-iyungacha o'zgartirishlar bilan), rulaws.ru nusxasi",
+          "ref": "nizom 1-band",
           "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Federal qonun № 403-ФЗ (28.12.2010) Tergov qo'mitasi to'g'risida (29.12.2025 tahriri), rulaws.ru nusxasi",
+          "ref": "1-modda 1-qism",
+          "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-28.12.2010-N-403-FZ/",
           "retrieved": "2026-11-09"
         }
       ]
@@ -114,20 +135,21 @@
       ]
     },
     "powers": {
-      "summary": "UPK 151-m. 6–8-qismlar: boshqa tegishlilikka kiruvchi jinoyat bilan bog'liq ishlar bo'yicha tergovni bog'liq jinoyatni tergov qiluvchi organ olib boradi (ayrim moddalar), turli tegishlilikdagi ishlar birlashtirilganda tegishlilikni prokuror belgilaydi, nizolarni prokuror hal qiladi. Boshqa vakolatlar (so'rov, operatsiyalarni to'xtatish, tintuv) bu manbalarda tekshirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Rosfinmonitoring (nizom 5-band): nazorat olib borish va javobgarlikka tortish (1), operatsiyalar haqidagi axborotni yig'ish, qayta ishlash va tahlil qilish (4), ularni tekshirish (5), mijozlar operatsiyalari, benefitsiar mulkdorlar va bank hisobvaraqlaridagi harakatlar haqida axborot so'rash (5.1), pul yoki mulk bilan operatsiyalarni to'xtatish haqida qarorlar chiqarish (11), jinoyat yoki soliq organlariga axborot yuborish (17), milliy xavflarni baholash (16.1), Prezidentga yillik tahdidlar hisoboti (9). Tergov qo'mitasi xodimi jinoyat haqidagi xabarni tekshirishda yoki ishni tergov qilishda davlat organlari va tashkilotlar hududi va binolariga to'siqsiz kirishi va hujjatlariga kirish huquqiga ega (403-ФЗ 7-modda 1-qism). (Matnlar rasmiy bo'lmagan huquqiy nusxalardan o'qildi, rasmiy nashr bilan solishtirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "UPK RF (rus tilidagi asl)",
-          "ref": "151-modda 6–8-qismlar",
-          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni va Rosfinmonitoring nizomi (2026-yil 9-iyungacha o'zgartirishlar bilan), rulaws.ru nusxasi",
+          "ref": "nizom 5-band 1, 4, 5, 5.1, 9, 11, 16.1, 17-kichik bandlar",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
           "retrieved": "2026-11-09",
-          "links": [
-            {
-              "label": "ст. 151",
-              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
-            }
-          ]
+          "original": "издает ... постановления о приостановлении операций с денежными средствами или иным имуществом"
+        },
+        {
+          "title": "Federal qonun № 403-ФЗ (28.12.2010) Tergov qo'mitasi to'g'risida (29.12.2025 tahriri), rulaws.ru nusxasi",
+          "ref": "7-modda 1-qism",
+          "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-28.12.2010-N-403-FZ/",
+          "retrieved": "2026-11-09"
         }
       ]
     },
@@ -156,25 +178,32 @@
       ]
     },
     "fiu_aml": {
-      "summary": "Moliyaviy razvedka vazifasi alohida organ, Rosfinmonitoringga berilgan. Uning ayrim vakolatlari va tuzilmasi ikkilamchi manbadan olingan, rasmiy nashr bilan solishtirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Rosfinmonitoring Rossiya moliyaviy razvedkasining vazifasini bajaradi: nizomga ko'ra u operatsiyalar haqidagi ma'lumotlarni yig'adi va tahlil qiladi (5-band 4), shubhali operatsiyalarni aniqlaydi (6), operatsiyalarni to'xtatish haqida qaror chiqaradi (11) va yetarli asos bo'lsa ma'lumotni huquqni muhofaza yoki soliq organlariga uzatadi (17). Rosfinmonitoring jinoyat ishini o'zi tergov qilmaydi. (Matnlar rasmiy bo'lmagan huquqiy nusxalardan o'qildi, rasmiy nashr bilan solishtirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
-          "ref": "nizom",
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni va Rosfinmonitoring nizomi (2026-yil 9-iyungacha o'zgartirishlar bilan), rulaws.ru nusxasi",
+          "ref": "nizom 5-band 4, 6, 11, 17-kichik bandlar",
           "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "structure": {
-      "summary": "Nizom ko'ra Rosfinmonitoring direktori ostida bitta birinchi o'rinbosar va beshta o'rinbosar bo'lishi mumkin, ulardan biri davlat kotibi (ikkilamchi manba). Boshqa tuzilma va xodimlar soni tekshirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Rosfinmonitoring: Farmonning 2-bandiga ko'ra bitta birinchi o'rinbosar va beshta direktor o'rinbosari (shu jumladan bittasi davlat kotibi) hamda asosiy yo'nalishlar bo'yicha 17 tagacha boshqarma bo'lishi mumkin. Tergov qo'mitasi markaziy apparat, hududiy bosh tergov boshqarmalari va tergov bo'limlaridan iborat yagona tizim; Qo'mita va ko'rsatilgan tergov organlari yuridik shaxs (403-ФЗ 4, 5-moddalar). Xodimlar soni bu manbalarda ko'rsatilmagan (Prezident belgilaydi). (Matnlar rasmiy bo'lmagan huquqiy nusxalardan o'qildi, rasmiy nashr bilan solishtirilmadi.)",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
-          "ref": "2-band",
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni va Rosfinmonitoring nizomi (2026-yil 9-iyungacha o'zgartirishlar bilan), rulaws.ru nusxasi",
+          "ref": "Farmon 2-band",
           "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09",
+          "original": "одного первого заместителя и пять заместителей директора ... а также до 17 управлений"
+        },
+        {
+          "title": "Federal qonun № 403-ФЗ (28.12.2010) Tergov qo'mitasi to'g'risida (29.12.2025 tahriri), rulaws.ru nusxasi",
+          "ref": "4, 5-moddalar",
+          "url": "https://rulaws.ru/laws/Federalnyy-zakon-ot-28.12.2010-N-403-FZ/",
           "retrieved": "2026-11-09"
         }
       ]
