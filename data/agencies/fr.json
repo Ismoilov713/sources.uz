@@ -1,0 +1,129 @@
+{
+  "code": "fr",
+  "name": "Fransiya",
+  "organ": "Parquet national financier (PNF)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Parquet national financier (PNF) – Parij sudi huzuridagi ixtisoslashgan milliy moliyaviy prokuratura. CPP 705-moddasiga ko'ra \"moliyaviy prokuror\" (procureur de la République financier), Parij tergov sudyasi va Parij jinoyat sudi oddiy sudlar bilan parallel (concurrente) vakolatga ega; vakolat butun mamlakat hududiga tarqaladi. Ixtisoslashuvi bilan O'zbekiston departamentiga yaqin, lekin tashkiliy jihatdan prokuratura va sudlov bo'g'inlari to'plami.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705-modda",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Le procureur de la République financier, le juge d'instruction et le tribunal correctionnel de Paris exercent une compétence concurrente ..."
+        }
+      ]
+    },
+    "history": {
+      "summary": "Ikkilamchi manbalarga ko'ra PNF 2013-yil 6-dekabrdagi 2013-1117-sonli Qonun bilan tuzilgan va 2014-yil 1-fevralda ish boshlagan; Konstitutsiyaviy kengash 2013-yil 4-dekabr qarori bilan tegishli normalarni konstitutsiyaga mos deb topgan. Birlamchi qonun matni bu loyihada o'qilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Vie-publique: Parquet national financier (qidiruv natijasi)",
+          "ref": "PNF",
+          "url": "https://www.vie-publique.fr/fiches/292717-quest-ce-que-le-parquet-national-financier-pnf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "CPP 705, 705-1, 705-2, 705-3-moddalar (PNF vakolati va ishni Parijga o'tkazish). Jinoiy ish yuritishda kelishuv shakli bo'lgan CJIP (convention judiciaire d'intérêt public) CPP 41-1-2-moddasida (yuridik shaxslar uchun) ko'zda tutilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705, 705-1, 705-2, 705-3; 41-1-2",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "PNFning Adliya vaziri va Parij bosh prokurori bilan bo'ysunuv munosabati bu manbalarda o'qilmadi; faqat \"Parij sudi huzurida\" joylashishi CPP 705-moddasidan ma'lum.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705-modda",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "PNF CPP 705 va 705-1 bo'yicha ayrim jinoyatlar ustidan ta'qib, tergov va sudlov bilan shug'ullanadi; ishlar boshqa joydan o'ziga o'tishi mumkin: boshqa sud huzuridagi prokuror 705-modda doirasidagi jinoyatlar bo'yicha avval ish olgan tergov sudyasidan ishni Parij tergov sudyasiga topshirishni talab qilishi mumkin (705-2).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705, 705-1, 705-2",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "CPP 705: murakkab (ko'p ishtirokchi yoki keng hududli) ishlarda davlat mansabdorlari poraxo'rligi va yaxlitlikka qarshi jinoyatlar (JK 432-10–432-15, 433-1, 433-2, 434-9, 445-1…), saylov jinoyatlari, QQSga oid firibgarlik, xorijiy mansabdorlarga pora (435-1–435-10), soliq firibgarligi (CGI 1741, 1743, uyushgan guruh bilan yoki ma'lum belgilar bilan), ularning pul yuvilishi va bog'liq jinoyatlar, uyushgan jinoiy guruh, raqobatni cheklash (Tijorat kodeksi L. 420-6). 705-1: moliyaviy bozor suiiste'moli (CMF L. 465-1–465-3-3) bo'yicha faqat PNF va Parij sudlari vakolatli.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705, 705-1",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "PNFning o'z politsiya xodimlari bu manbalarda ko'rsatilmagan; tergov choralari tergov sudyasi va sud-politsiya xizmatlari orqali amalga oshiriladi. CPP 41-1-2: tegishli yuridik shaxs bilan jinoiy javobgarlikdan voz kechish evaziga jarima va dasturlar bo'yicha kelishuv (CJIP) taklif qilinishi mumkin.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "41-1-2; 705-2",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "705-modda bo'yicha moliyaviy prokuror, Parij tergov sudyasi (juge d'instruction) va Parij jinoyat sudi (tribunal correctionnel) butun mamlakat hududida vakolatga ega. Ya'ni Fransiyada iqtisodiy jinoyat bo'yicha ayblovchi, tergov sudyasi va sud bir shaharda ixtisoslashgan; tergov sudyasi tizimi bu yerda saqlanadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705, 705-2",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Fransiya moliyaviy razvedkasi (TRACFIN) alohida organ; uning maqomi va vakolati bu loyihada birlamchi manbadan tekshirilmadi (rasmiy sayt kirishga ruxsat bermadi).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Iqtisodiyot vazirligi: TRACFIN",
+          "ref": "missions",
+          "url": "https://www.economie.gouv.fr/tracfin/missions",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "PNF tuzilmasi va magistratlar soni bu loyihada tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

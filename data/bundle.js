@@ -7050,6 +7050,1292 @@ window.PROCEDURE = [
 }
 
 ];
+window.AGENCIES = [
+{
+  "code": "de",
+  "name": "Germaniya",
+  "organ": "Schwerpunktstaatsanwaltschaften + Wirtschaftsstrafkammer + FIU (yagona organ yo'q)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Germaniyada yagona milliy iqtisodiy jinoyatlar organi yo'q. Mas'uliyat ixtisoslashgan prokuratura bo'limlari (Schwerpunktstaatsanwaltschaften) va landgericht huzuridagi iqtisodiy jinoyat palatalari (Wirtschaftsstrafkammer) o'rtasida taqsimlangan; moliyaviy razvedka (FIU) esa alohida, mustaqil markaziy organ.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 74c, § 143 (4)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GwG (nemis asl matni)",
+          "ref": "§ 27",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Bu loyihada qonun matnlari o'qildi, tashkil topish tarixi va yillari birlamchi manbadan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 74c",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "GVG § 74c (Wirtschaftsstrafkammer), § 143 (4) (prokuraturaning ixtisoslashuvi), StPO § 152 (ayblov organi, legalitet printsipi), § 160–161 (tergov majburiyati va prokuratura tergov vakolati), § 163 (politsiya vazifalari), GwG § 27 (FIU).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 74c, § 143",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "GVG § 74c",
+              "url": "https://www.gesetze-im-internet.de/gvg/__74c.html"
+            },
+            {
+              "label": "GVG § 143",
+              "url": "https://www.gesetze-im-internet.de/gvg/__143.html"
+            }
+          ]
+        },
+        {
+          "title": "StPO (nemis asl matni)",
+          "ref": "§ 152, § 160, § 161, § 163",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "§ 143 (3) GVG: turli yer (Land) prokuraturalari kimning ish olib borishi haqida kelisha olmasa, Federal bosh prokuror (Generalbundesanwalt) hal qiladi. Landlar prokuraturalarining vazirlik bilan boshqaruv munosabati bu manbalarda tekshirilmagan. FIU: GwG § 27 (2) ga ko'ra \"tashkiliy jihatdan mustaqil\" va o'z vazifalarida kasbiy jihatdan mustaqil.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 143 (3)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GwG (nemis asl matni)",
+          "ref": "§ 27 (2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "StPO § 160: prokuratura jinoyat haqida xabar olgach faktlarni aniqlashga majbur; § 161: prokuraturaning umumiy tergov vakolati; § 163: tergov davomida politsiyaning vazifalari. Iqtisodiy ishlarga ixtisoslashgan sudlov: landgericht ko'rishi kerak bo'lgan ishlarda maxsus iqtisodiy palata.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl matni)",
+          "ref": "§ 160, § 161, § 163",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "§ 74c (1) GVG iqtisodiy jinoyat palatasi vakolatiga kiradigan ishlar: intellektual mulk, raqobat, bankrotlik, aksiyadorlik va xo'jalik jamiyatlari qonunlari, bank-birja-sug'urta qonunlari, Wirtschaftsstrafgesetz, tashqi iqtisodiy faoliyat, sanksiyalar, soliq va bojxona huquqi, oziq-ovqat, subsidiyaga oid firibgarlik, kapital qo'yilmalar bo'yicha firibgarlik, kredit firibgarligi, bankrotlik, tender kelishuvlari, tijoratdagi poraxo'rlik, pul yuvish, firibgarlik, mablag'ni talon-taroj qilish, \"agar ishni baholash uchun xo'jalik hayotini alohida bilish talab qilinsa\".",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 74c (1)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09",
+          "original": "soweit zur Beurteilung des Falles besondere Kenntnisse des Wirtschaftslebens erforderlich sind"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "Prokuratura tergov bo'yicha umumiy vakolatga ega (StPO § 161, § 161a: guvoh va ekspertlarni so'roq qilish). Tintuv, hibsga olish va boshqa tergov choralari uchun sud ruxsati kerak bo'lishi (§ 162 tergov sudyasi) bu manbalarda sarlavha darajasida ko'rilgan, mazmuni tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl matni)",
+          "ref": "§ 161, § 161a, § 162",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Tergovni prokuratura boshqaradi (§ 152, § 160), politsiya uning topshirig'i bilan harakat qiladi (§ 163). § 143 (4) GVG ga ko'ra bir necha landgericht yoki oberlandesgericht okrugi uchun ma'lum turdagi ishlarni ixtisoslashgan prokuror xodimlariga topshirish mumkin, ya'ni iqtisodiy jinoyatlar bo'yicha ixtisoslashgan prokuratura bo'limlari shu asosda tuziladi. § 74c (3): Land hukumatlari bir landgerichtga bir necha okrug uchun iqtisodiy ishlarni topshirishi mumkin.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 143 (4), § 74c (3)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO (nemis asl matni)",
+          "ref": "§ 152, § 160, § 163",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "GwG § 27 (1): Zentralstelle für Finanztransaktionsuntersuchungen (FIU) shubhali operatsiyalar haqidagi xabarlar uchun markaziy organ, pul yuvish va terrorizmni moliyalashtirishning oldini olish, aniqlash va kurashishga yordam beradi; § 27 (2): u tashkiliy jihatdan mustaqil va kasbiy jihatdan mustaqil. Qaysi vazirlik tarkibiga kirishi sahifada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GwG (nemis asl matni)",
+          "ref": "§ 27 (1), (2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Ixtisoslashgan prokuratura bo'limlari va xodimlar soni bu loyihada o'qilgan manbalarda yo'q.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 143 (4)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "fr",
+  "name": "Fransiya",
+  "organ": "Parquet national financier (PNF)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Parquet national financier (PNF) – Parij sudi huzuridagi ixtisoslashgan milliy moliyaviy prokuratura. CPP 705-moddasiga ko'ra \"moliyaviy prokuror\" (procureur de la République financier), Parij tergov sudyasi va Parij jinoyat sudi oddiy sudlar bilan parallel (concurrente) vakolatga ega; vakolat butun mamlakat hududiga tarqaladi. Ixtisoslashuvi bilan O'zbekiston departamentiga yaqin, lekin tashkiliy jihatdan prokuratura va sudlov bo'g'inlari to'plami.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705-modda",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Le procureur de la République financier, le juge d'instruction et le tribunal correctionnel de Paris exercent une compétence concurrente ..."
+        }
+      ]
+    },
+    "history": {
+      "summary": "Ikkilamchi manbalarga ko'ra PNF 2013-yil 6-dekabrdagi 2013-1117-sonli Qonun bilan tuzilgan va 2014-yil 1-fevralda ish boshlagan; Konstitutsiyaviy kengash 2013-yil 4-dekabr qarori bilan tegishli normalarni konstitutsiyaga mos deb topgan. Birlamchi qonun matni bu loyihada o'qilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Vie-publique: Parquet national financier (qidiruv natijasi)",
+          "ref": "PNF",
+          "url": "https://www.vie-publique.fr/fiches/292717-quest-ce-que-le-parquet-national-financier-pnf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "CPP 705, 705-1, 705-2, 705-3-moddalar (PNF vakolati va ishni Parijga o'tkazish). Jinoiy ish yuritishda kelishuv shakli bo'lgan CJIP (convention judiciaire d'intérêt public) CPP 41-1-2-moddasida (yuridik shaxslar uchun) ko'zda tutilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705, 705-1, 705-2, 705-3; 41-1-2",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "PNFning Adliya vaziri va Parij bosh prokurori bilan bo'ysunuv munosabati bu manbalarda o'qilmadi; faqat \"Parij sudi huzurida\" joylashishi CPP 705-moddasidan ma'lum.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705-modda",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "PNF CPP 705 va 705-1 bo'yicha ayrim jinoyatlar ustidan ta'qib, tergov va sudlov bilan shug'ullanadi; ishlar boshqa joydan o'ziga o'tishi mumkin: boshqa sud huzuridagi prokuror 705-modda doirasidagi jinoyatlar bo'yicha avval ish olgan tergov sudyasidan ishni Parij tergov sudyasiga topshirishni talab qilishi mumkin (705-2).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705, 705-1, 705-2",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "CPP 705: murakkab (ko'p ishtirokchi yoki keng hududli) ishlarda davlat mansabdorlari poraxo'rligi va yaxlitlikka qarshi jinoyatlar (JK 432-10–432-15, 433-1, 433-2, 434-9, 445-1…), saylov jinoyatlari, QQSga oid firibgarlik, xorijiy mansabdorlarga pora (435-1–435-10), soliq firibgarligi (CGI 1741, 1743, uyushgan guruh bilan yoki ma'lum belgilar bilan), ularning pul yuvilishi va bog'liq jinoyatlar, uyushgan jinoiy guruh, raqobatni cheklash (Tijorat kodeksi L. 420-6). 705-1: moliyaviy bozor suiiste'moli (CMF L. 465-1–465-3-3) bo'yicha faqat PNF va Parij sudlari vakolatli.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705, 705-1",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "PNFning o'z politsiya xodimlari bu manbalarda ko'rsatilmagan; tergov choralari tergov sudyasi va sud-politsiya xizmatlari orqali amalga oshiriladi. CPP 41-1-2: tegishli yuridik shaxs bilan jinoiy javobgarlikdan voz kechish evaziga jarima va dasturlar bo'yicha kelishuv (CJIP) taklif qilinishi mumkin.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "41-1-2; 705-2",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "705-modda bo'yicha moliyaviy prokuror, Parij tergov sudyasi (juge d'instruction) va Parij jinoyat sudi (tribunal correctionnel) butun mamlakat hududida vakolatga ega. Ya'ni Fransiyada iqtisodiy jinoyat bo'yicha ayblovchi, tergov sudyasi va sud bir shaharda ixtisoslashgan; tergov sudyasi tizimi bu yerda saqlanadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705, 705-2",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Fransiya moliyaviy razvedkasi (TRACFIN) alohida organ; uning maqomi va vakolati bu loyihada birlamchi manbadan tekshirilmadi (rasmiy sayt kirishga ruxsat bermadi).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Iqtisodiyot vazirligi: TRACFIN",
+          "ref": "missions",
+          "url": "https://www.economie.gouv.fr/tracfin/missions",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "PNF tuzilmasi va magistratlar soni bu loyihada tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
+          "ref": "705",
+          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "kz",
+  "name": "Qozog'iston",
+  "organ": "Moliyaviy monitoring agentligi (AFM), Iqtisodiy tergov xizmati",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Qozog'iston Respublikasi Moliyaviy monitoring agentligi (AFM). Nizomga ko'ra u Prezidentga bevosita bo'ysunuvchi va hisobdor davlat organi bo'lib, o'z vakolati doirasida qarorlarni mustaqil qabul qiladi. Iqtisodiy va moliyaviy huquqbuzarliklarni tergov qilish AFMning \"Iqtisodiy tergov xizmati\" (служба экономических расследований) zimmasida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "1-band",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09",
+          "original": "является государственным органом, непосредственно подчиненным и подотчетным Президенту"
+        },
+        {
+          "title": "UPK RK (rus tilidagi matn)",
+          "ref": "60-modda",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Nizom 2021-yil 20-fevraldagi Prezident Farmoni № 515 bilan tasdiqlangan; Farmon imzolangan kundan kuchga kirgan. Agentlikdan oldingi organlar (masalan, moliyaviy politsiya) va ularning tugatilishi bu loyihada o'qilgan manbalarda tasdiqlanmagan, shu sababli yozilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "Farmon, 2-band",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Prezident Farmoni № 515 (Nizom) va UPK RK: 60-modda (tergovchi turlari, jumladan iqtisodiy tergov xizmati tergovchisi), 187-modda (tergov tegishliligi). Nizom va UPK keyingi yillarda o'zgartirilgan (nizomning sahifasi 21.10.2026 tahririgacha yangilangan; 187-moddaning 3- va 4-qismlari 2026-yil 12-iyundagi № 312-VIII-sonli Qonun bilan chiqarib tashlangan).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "Nizom",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "UPK RK (rus tilidagi matn)",
+          "ref": "60, 187",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-11-09",
+          "original": "60-m. 1-qism: ... следователь органов внутренних дел, следователь органов национальной безопасности и следователь службы экономических расследований ..."
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Agentlik Prezidentga bevosita bo'ysunadi va hisobot beradi. Rahbari Raisdir, uning uchta o'rinbosari bor (bittasi birinchi o'rinbosar) (Nizom, 16, 18-bandlar). Hududiy organlari: viloyatlar va respublika ahamiyatidagi shaharlardagi iqtisodiy tergov departamentlari.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "1, 16, 18-bandlar",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "Nizom 13-bandi vazifalari: jinoiy daromadlarni legallashtirish, terrorizm va ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurash bo'yicha yagona davlat siyosatini amalga oshirish; o'z vakolatiga kiritilgan iqtisodiy va moliyaviy huquqbuzarliklarni aniqlash va tergov qilish; yagona axborot-tahlil tizimini yuritish; xalqaro hamkorlik va xalqaro tashkilotlarda Qozog'iston vakilligi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "13-band",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09",
+          "original": "выявление и расследование экономических и финансовых правонарушений"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "UPK 187-moddasi 3-1-qismiga ko'ra iqtisodiy tergov xizmati tergovchilari Jinoyat kodeksining aniq belgilangan moddalari bo'yicha ishlarni tergov qiladi (masalan, 203-m. 1-1-qism, 214–216, 220–221, 223–224, 226–231, 234–239, 243–245, 248–249, 253, 307-m.). Ayrim moddalar bo'yicha (4-1-qism) ichki ishlar organlari yoki iqtisodiy tergov xizmati, qaysi biri tergovni boshlagan bo'lsa, shu tergov qiladi; 189–190-moddalar bo'yicha davlatga zarar yetgan bo'lsa iqtisodiy tergov xizmati; tadbirkorlik subyektlariga nisbatan 217-m. 2-qism va 217-1 bo'yicha iqtisodiy tergov xizmati.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK (rus tilidagi matn)",
+          "ref": "187-modda 3-1, 4-1-qismlar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "Nizom 14-bandi: pul va boshqa mulk bilan operatsiyalarni shubhali belgilar bo'lganda \"uch ish kuniga qadar\" to'xtatib turish haqida qaror chiqarish; vakolati doirasida protsessual harakatlar va kriminalistik tekshiruvlar o'tkazish. Nizomga ko'ra Agentlik operativ-qidiruv faoliyatini, dastlabki tergovni va ma'muriy huquqbuzarlik ishlarini yuritishni ham tashkil etadi va amalga oshiradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "14, 15-bandlar",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09",
+          "original": "на срок до трех рабочих дней"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "UPK 60-moddasi iqtisodiy tergov xizmati tergovchisini boshqa tergov organlari (ichki ishlar, milliy xavfsizlik) qatorida dastlabki tergov olib borishga vakolatli shaxs deb belgilaydi. Tergovchi dastlabki tergov tugagach hisobot tuzadi, ayblov dalolatnomasini (обвинительный акт) prokuror tuzadi; bu tartib bosqichma-bosqich kiritilmoqda (iqtisodiy tergov xizmati ishlari uchun 2022-yil 1-yanvardan o'ta og'ir jinoyatlar bo'yicha, boshqalar bo'yicha 2027-yil 1-yanvardan). Qonunda ko'zda tutilgan hollarda tergovchi prokurorga protsessual kelishuv imkoniyatini xabar qiladi va buyruq tartibini qo'llaydi (60-modda 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK (rus tilidagi matn)",
+          "ref": "60-modda 1, 3-qismlar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-11-09",
+          "original": "Следователь – должностное лицо, уполномоченное осуществлять досудебное расследование по уголовному делу ..."
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "AFM bir vaqtda mamlakat moliyaviy razvedka organi vazifasini ham bajaradi: moliyaviy monitoring operatsiyalari haqidagi ma'lumotlarni yig'ish va tahlil qilish, respublika ma'lumotlar bazasi, monitoring subyektlari ustidan davlat nazorati, benefitsiar mulkdorlar reyestri (Nizom, 15-band). Ya'ni Qozog'istonda bu ikki vazifa (FIU va iqtisodiy tergov) O'zbekistondagi kabi bitta organda birlashgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "13, 15-bandlar",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Nizomga ilova tuzilma: Raisning kotibiyati; moliyaviy monitoring subyektlari bilan ishlash, moliyaviy monitoring, raqamlashtirish, huquqiy ta'minot, Tergov va Operativ departamentlari, profilaktika va tahliliy ishlanmalar, o'z xavfsizligi, strategiya va operativ boshqaruv, kadrlar, ma'muriy departamentlar; Kriminalistika boshqarmasi; ichki audit xizmati; hududiy iqtisodiy tergov departamentlari; kinologiya markazi. Xodimlar soni bu manbada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "Nizom: Agentlik tuzilmasi",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "ru",
+  "name": "Rossiya",
+  "organ": "Tergov qo'mitasi / MVD tergovchilari + Rosfinmonitoring (yagona organ yo'q)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Rossiyada iqtisodiy jinoyatlar bo'yicha yagona maxsus organ yo'q: ishlar UPK 151-moddasiga ko'ra Tergov qo'mitasi (SK), Ichki ishlar vazirligi (MVD) va FSB tergovchilari o'rtasida taqsimlangan. Moliyaviy razvedka vazifasini alohida organ, Rosfinmonitoring bajaradi. O'zbekiston departamentiga eng yaqin funksiya shu uch tuzilmaga bo'lingan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 2-qism",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        }
+      ]
+    },
+    "history": {
+      "summary": "Rosfinmonitoring nizomi 2012-yil 13-iyundagi № 808 Farmon bilan tasdiqlangan va bir necha marta o'zgartirilgan (2016, 2021, 2022, 2023, 2025). Tergov organlarining shakllanish tarixi bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "Farmon va uning tahrirlari",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "UPK RF 151-modda (tergov tegishliligi); Prezident Farmoni № 808 (Rosfinmonitoring nizomi). Farmon matni ikkilamchi manbadan (rulaws.ru) ko'rilgan, rasmiy nashr bilan solishtirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        },
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "nizom",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Rosfinmonitoringni Hukumat Prezident farmonlari, farmoyishlari va topshiriqlariga ko'ra muvofiqlashtiradi (ikkilamchi manba); to'liq bo'ysunuv tartibi tekshirilmagan. Tergov organlari o'z idoralariga (SK, MVD, FSB) bo'ysunadi, tegishlilik bo'yicha nizolarni prokuror hal qiladi (UPK 151-m. 8-qism).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 7, 8-qismlar",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "original": "Споры о подследственности уголовного дела разрешает прокурор.",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        },
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "Hukumat muvofiqlashtiruvi",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "Rosfinmonitoring nizomi jinoiy yo'l bilan olingan daromadlarni legallashtirish, terrorizm va ekstremizmni, ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurash sohasidagi faoliyatni, shuningdek pul mablag'lari bilan operatsiyalardan kelib chiqadigan milliy xavfsizlik tahdidlarini baholash markazi vazifasini belgilaydi (ikkilamchi manba, tekshirilmagan).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "nizom vazifalari",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "UPK 151-m. 2-qism: SK tergovchilari soliq jinoyatlari (JK 198–199.4-moddalar) va boshqa ayrim iqtisodiy moddalar (171.2, 172.1, 172.3, 173.3, 185–185.6) bo'yicha tergov qiladi; MVD tergovchilari firibgarlik (159–159.6), o'zlashtirish va talon-taroj (160), 171-m. 2-qism, 172.2, 172.4, 174, 176, 178–187-moddalar kabi ko'pchilik oddiy iqtisodiy jinoyatlar bo'yicha. 5-qism: bir qator moddalar bo'yicha (146, 158, 159–160, 171, 172, 173.1–173.2, 174, 176, 178, 183, 187, 190–197, 201–202 va b.) jinoyatni aniqlagan organ tergovchisi ham tergov qilishi mumkin; soliq moddalari bu ro'yxatda yo'q.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 2, 5-qismlar",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        }
+      ]
+    },
+    "powers": {
+      "summary": "UPK 151-m. 6–8-qismlar: boshqa tegishlilikka kiruvchi jinoyat bilan bog'liq ishlar bo'yicha tergovni bog'liq jinoyatni tergov qiluvchi organ olib boradi (ayrim moddalar), turli tegishlilikdagi ishlar birlashtirilganda tegishlilikni prokuror belgilaydi, nizolarni prokuror hal qiladi. Boshqa vakolatlar (so'rov, operatsiyalarni to'xtatish, tintuv) bu manbalarda tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 6–8-qismlar",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Dastlabki tergovni (предварительное следствие) UPK 151-m. 2-qismi bo'yicha SK, FSB va MVD tergovchilari, dastlabki surishtiruvni (дознание, 3-qism) MVD, FSB, FSIN, bojxona va boshqa organ surishtiruvchilari olib boradi. Ayblovni sudda davlat ayblovchisi (prokuror) qo'llab-quvvatlaydi (UPK 246).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 1–3-qismlar",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        },
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "246",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Moliyaviy razvedka vazifasi alohida organ, Rosfinmonitoringga berilgan. Uning ayrim vakolatlari va tuzilmasi ikkilamchi manbadan olingan, rasmiy nashr bilan solishtirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "nizom",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Nizom ko'ra Rosfinmonitoring direktori ostida bitta birinchi o'rinbosar va beshta o'rinbosar bo'lishi mumkin, ulardan biri davlat kotibi (ikkilamchi manba). Boshqa tuzilma va xodimlar soni tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "2-band",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "tr",
+  "name": "Turkiya",
+  "organ": "MASAK (Mali Suçları Araştırma Kurulu Başkanlığı)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Mali Suçları Araştırma Kurulu Başkanlığı (MASAK). Prezident farmonining 231-moddasiga ko'ra u bevosita Vazirga bo'ysunadi. Bu O'zbekiston departamentidan farq qiladi: MASAK moliyaviy razvedka va nazorat organi bo'lib, jinoyat ishini o'zi tergov qilmaydi, balki prokuraturaga topshiradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Malî Suçları Araştırma Kurulu Başkanlığı doğrudan Bakana bağlı olup görev ve yetkileri şunlardır"
+        }
+      ]
+    },
+    "history": {
+      "summary": "5549-sonli Qonun 2006-yil 11-oktabrda qabul qilingan va MASAK vazifalarining qonuniy asosini belgilagan. 2018-yil 2-iyuldagi 703-sonli Farmon-qonun bilan qonunning 12, 19, 20-moddalari bekor qilingan, MASAK vakolatlari Prezident farmoni (CBK № 1, 231-modda)ga ko'chirilgan; 231-modda 2019-yil 7-avgustdagi № 43 farmon bilan o'zgartirilgan. MASAKning dastlabki tashkil etilishi (4208-sonli Qonun) ikkilamchi manbalarda aytilgan, birlamchi matnda tekshirilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda izohlari",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun (mevzuat.gov.tr)",
+          "ref": "19, 20-moddalarning holati",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5549.pdf",
+          "retrieved": "2026-11-09",
+          "original": "MADDE 19 – (Mülga: 2/7/2018-KHK-703/15 md.)"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "5549-sonli Qonun va CBK № 1 ning 231-moddasi. Jinoyat-protsessual jihatdan musodara (mulkni hibsga olish) 17-moddada CMK 128-moddasiga havola bilan berilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun (mevzuat.gov.tr)",
+          "ref": "4, 17, 19/A-moddalar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5549.pdf",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "MASAK Prezident farmoni asosida bevosita Vazirga bo'ysunadi (231/1; \"doğrudan Bakana bağlı\" iborasi 2025-yil 18-iyuldagi № 187 farmon bilan qo'shilgan). Qaysi vazirlik ekani 231-moddaning shu parchasida aytilmagan; MASAK sahifasi Hazine ve Maliye Bakanlığı saytida joylashgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism va izohlar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "231-moddaga ko'ra: (a) jinoiy daromadlarni legallashtirish va terrorizmni moliyalashtirishga qarshi siyosat, strategiya va xavfni baholashda qatnashish; (b) qonunchilik ishlari; (c) rivojlanishni kuzatish, tahlil va tadqiqot; (ç) ma'lumot yig'ish, shubhali operatsiya xabarlarini olish, tahlil qilish va razvedka ma'lumoti yaratish; (d–f) tekshiruv o'tkazish va ishonchli shubha bo'lsa prokuraturaga topshirish; (g) prokuror, sudya yoki sud yuborgan masalalarni tahlil qilish; (ğ) politsiya va boshqa organlardan tekshiruv so'rash; (h) razvedka va huquqni muhofaza organlari bilan hamkorlik; (i) 5549-sonli Qonun bo'yicha majburiyatlar nazorati; (l) xorijiy tengdosh organlar bilan axborot almashish.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09",
+          "original": "ç) ... şüpheli işlem bildirimlerini almak, analiz etmek ve bunları kaydetmek, istihbarat üretmek"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "MASAK vakolati asosan jinoiy daromadlarni legallashtirish va terrorizmni moliyalashtirish bilan cheklangan; \"iqtisodiy xavfsizlikka yo'naltirilgan xavflar\"ni aniqlash ham 231/1(c)da berilgan. Soliq, bank firibgarligi, o'zlashtirish kabi umumiy iqtisodiy jinoyatlar bu moddada nomlanmagan va O'zbekiston departamentining keng vakolat doirasiga o'xshash yagona organ topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism (c) bandi",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "5549-sonli Qonunning 4-moddasi: majburiy subyektlar shubhali operatsiyalar haqida MASAKga xabar berishi shart va xabar berilganini oshkor qila olmaydi. 19/A-modda: shubha bo'lsa Vazir operatsiyani yetti ish kuniga to'xtatib turishga vakolatli (xorijiy tengdosh organ so'rovi bo'yicha ham); qaror buzilsa operatsiya summasicha, lekin 50 ming liradan kam bo'lmagan ma'muriy jarima. 17-modda: kuchli shubha bo'lsa mulk CMK 128-moddasi tartibida hibsga olinadi, kechiktirib bo'lmaydigan hollarda prokuror ham qaror chiqarishi mumkin (24 soat ichida sudya tasdiqlaydi). 231/3–4: mutaxassislar va nazoratchilar axborot va hujjat so'rash, tekshirish huquqiga ega.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun (mevzuat.gov.tr)",
+          "ref": "4, 17, 19/A-moddalar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5549.pdf",
+          "retrieved": "2026-11-09",
+          "original": "yedi iş günü süreyle askıya almaya"
+        },
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 3, 4-qismlar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "MASAK tergov o'tkazmaydi, balki tahlil, tadqiqot va tekshiruv qiladi; legallashtirish yoki terrorizmni moliyalashtirish bo'yicha ishonchli shubha yoki dalil bo'lsa masalani prokuraturaga topshiradi yoki CMK bo'yicha jinoyat haqida xabar beradi (231/1 e, f). Prokuror, sudya yoki sud yuborgan masalalarni ham tahlil qiladi (g). Jinoyat ishini prokuratura va politsiya tergov qiladi (CMK); bu qismi bu loyihada MASAKdan tashqarida tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism (e, f, g)",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "MASAK Turkiyaning moliyaviy razvedka bo'linmasi vazifasini bajaradi: shubhali operatsiya xabarlarini oladi, tahlil qiladi, razvedka ma'lumoti yaratadi, risk toifalarini belgilaydi, majburiy subyektlarni tekshiradi va xorijiy tengdoshlari bilan axborot almashadi (231/1 ç, i, l). Ya'ni Turkiyada bu rol alohida organga ajratilgan, tergov esa boshqa organlarda.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism (ç, ı, i, l)",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Vazifalarni bajarish uchun Hazine va Maliye mutaxassislari, ularning yordamchilari va nazorat xodimlari jalb qilinadi; Boshqarma rahbari talabi bilan tegishli vazir tasdig'i bilan nazoratchilar ajratiladi (231/3). Xodimlar soni va ichki tuzilma bu manbada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 3-qism",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "uk",
+  "name": "Buyuk Britaniya",
+  "organ": "Serious Fraud Office (SFO)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Serious Fraud Office (SFO) – murakkab firibgarlik, poraxo'rlik va korrupsiya ishlari bo'yicha ixtisoslashgan organ. U bir vaqtning o'zida tergov ham qiladi, ayblovni ham qo'llab-quvvatlaydi: sahifada bu Buyuk Britaniya uchun odatiy emas deb ko'rsatilgan. Angliya, Uels va Shimoliy Irlandiyada ishlaydi, Shotlandiyada emas.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09",
+          "original": "created and given its powers under the Criminal Justice Act 1987"
+        }
+      ]
+    },
+    "history": {
+      "summary": "SFO 1988-yilda tashkil topgan va 1987-yilgi Jinoyat odil sudlovi to'g'risidagi qonun (Criminal Justice Act 1987) bilan tuzilgan va vakolat berilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Criminal Justice Act 1987, ayniqsa s. 2 (tergov vakolatlari). Idoraning Bosh prokuror (Attorney General) bilan munosabati \"framework agreement\" asosida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Criminal Justice Act 1987, s. 2 (legislation.gov.uk)",
+          "ref": "s. 2",
+          "url": "https://www.legislation.gov.uk/ukpga/1987/38/section/2",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "SFO ustidan Bosh prokuror (Attorney General) nazorat qiladi (\"superintends\") va munosabat Qonun idoralari bilan tuzilgan ramka kelishuviga asoslangan. Direktorni tayinlash tartibi bu manbada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09",
+          "original": "The Attorney General superintends the SFO"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "SFO \"murakkab moliyaviy jinoyatlarga qarshi kurashadi, jabrlanuvchilar uchun adolatni ta'minlaydi va Buyuk Britaniyaning xavfsiz biznes joyi obro'sini himoya qiladi\". U jinoyatdan olingan moliyaviy foyda uchun jinoyatchilarni quvadi va chet davlatlarga murakkab firibgarlik, poraxo'rlik va korrupsiya ishlarida yordam beradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Direktor, asosli sabablarga ko'ra \"jiddiy yoki murakkab firibgarlik, poraxo'rlik yoki korrupsiya\" bo'lishi mumkin bo'lgan jinoyatlarni tergov qilishi mumkin. Qaror qilishda: jamiyatga yetgan yoki ko'zda tutilgan zarar, Buyuk Britaniyaning xalqaro moliya markazi sifatidagi obro'si va yaxlitligi, iqtisodiyot va farovonlikka zarar, hamda ishning murakkabligi SFOning maxsus mahorat va vakolatlarini talab qiladimi. SFO \"oz sonli yirik iqtisodiy jinoyat ishlari\"ni oladi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "1987-yilgi Qonunning s. 2: Direktor tergov ostidagi shaxsdan yoki tegishli ma'lumotga ega deb hisoblash uchun asos bor boshqa shaxsdan savollarga javob berishni yoki ma'lumot va hujjat taqdim etishni talab qilishi mumkin (s. 2 (2)–(3)). Tintuv orderini rasmiy tinchlik sudyasi SFO xodimi qasamli arizasi asosida beradi (s. 2 (4)–(6)). Talab bo'yicha berilgan bayonotlardan sudda foydalanish cheklangan (s. 2 (8)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Justice Act 1987, s. 2 (legislation.gov.uk)",
+          "ref": "s. 2 (2)–(8)",
+          "url": "https://www.legislation.gov.uk/ukpga/1987/38/section/2",
+          "retrieved": "2026-11-09",
+          "original": "A statement by a person in response to a requirement imposed by virtue of this section"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "SFO o'zi tergov qiladi va o'zi ayblovni qo'llab-quvvatlaydi; bu holat boshqa Buyuk Britaniya organlariga nisbatan \"odatiy emas\" deb ko'rsatilgan. Shu jihatdan u O'zbekiston departamentining 2025-yildan beri dastlabki tergovga ega bo'lgan shakliga yaqin, lekin Bosh prokuror nazoratidagi alohida organ.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09",
+          "original": "It both investigates and prosecutes its own cases"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "SFOning moliyaviy razvedka (FIU) roli bu manbalarda ko'rsatilmagan. Milliy jinoyat agentligi (NCA) sahifasida UKFIU haqida faqat havola bor; uning maqomi va vakolati bu loyihada birlamchi matndan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "National Crime Agency",
+          "ref": "Who we are",
+          "url": "https://www.nationalcrimeagency.gov.uk/who-we-are",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Xodimlar soni va moliyalashtirish sahifada ko'rsatilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "us",
+  "name": "AQSh",
+  "organ": "DOJ White Collar Section + FinCEN + IRS-CI (yagona organ yo'q)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Federal darajada ham yagona organ yo'q: ish bir necha idoraga taqsimlangan. Tergov va ayblovni AQSh Adliya vazirligi Jinoiy bo'limining White Collar and Corporate Enforcement Section (ilgari Fraud Section) olib boradi; moliyaviy razvedka (FinCEN) Moliya vazirligi tarkibidagi byuro; soliq jinoyatlarini IRS Criminal Investigation tergov qiladi. Bu jamoaviy tizim O'zbekiston departamentining vazifalarini uchga bo'ladi: ayblov, tergov, moliyaviy razvedka.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "bo'lim tavsifi",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (a)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "FinCEN 1990-yil 25-aprelda Moliya vazirligining 105-08-sonli buyrug'i bilan tuzilgan (31 U.S.C. § 310 (a)). Adliya vazirligi bo'limi va IRS-CI ning tashkil topish tarixi bu loyihada o'qilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (a)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09",
+          "original": "created by Treasury Order 105-08 on April 25, 1990"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "31 U.S.C. § 310 (FinCEN). Adliya vazirligi bo'limi va IRS-CI uchun qonuniy asoslar bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "FinCEN Moliya vazirligi tarkibidagi byuro, rahbari (Director) Moliya vaziri tomonidan tayinlanadi (§ 310 (a), (b)(1)). Adliya vazirligi bo'limi Jinoiy bo'lim (Criminal Division) tarkibiga kiradi; yuqori rahbari sahifada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (a), (b)(1)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "bo'limning joylashuvi",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "Adliya vazirligi bo'limi \"murakkab iqtisodiy jinoyat\" va xalq salomatligi va xavfsizligiga xavf soladigan murakkab huquqbuzarliklarga qarshi kurashda alohida rol o'ynaydi: butun mamlakat bo'ylab tergov qiladi va ayblov qo'llab-quvvatlaydi, shuningdek siyosat, prokurorlar, regulyatorlar va xususiy sektorni o'qitadi. FinCEN esa ma'lumotlarga davlat darajasida kirish xizmatini yuritadi, ularni tahlil qilib jinoyat belgilarini aniqlaydi va huquqni muhofaza organlariga uzatadi (§ 310 (b)(2)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "mission",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (b)(2)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Adliya vazirligi bo'limining tarkibiy bo'linmalari: Health & Safety, Securities, Market, and Private Fraud, Foreign Corrupt Practices Act (xorijdagi korrupsiya), Corporate Enforcement and Compliance. Soliq jinoyatlari bo'yicha IRS-CI Ichki daromadlar kodeksi buzilishlarini tergov qiladi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "bo'linmalar",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "IRS Criminal Investigation",
+          "ref": "mission",
+          "url": "https://www.irs.gov/compliance/criminal-investigation",
+          "retrieved": "2026-11-09",
+          "original": "investigating potential criminal violations of the Internal Revenue Code"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "FinCEN: \"Financial crimes communications center\" yuritadi, xorijiy FIU bilan hamkorlik qiladi, davlat va xususiy sektor o'rtasida ixtiyoriy axborot almashish (FinCEN Exchange) shaklini yuritadi, chet davlatlarga kamida oltita aloqachi tayinlaydi (§ 310 (b)(2)(D), (H), (d), (h)). Adliya vazirligi bo'limining tintuv, hibsga olish va boshqa tergov vakolatlari bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (b), (d), (h)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Adliya vazirligi bo'limi o'zi tergov va ayblovni olib borishini yozadi; shu bilan birga \"idoralararo va ko'p okrugli tergovlarni tez-tez muvofiqlashtiradi\", ya'ni tergovni boshqa idoralar (masalan IRS-CI) bilan birga o'tkazadi. Boshqa idoralarning rasmiy nomi sahifada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "mission",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09",
+          "original": "frequently coordinates interagency and multi-district investigations"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "FinCEN – AQShning moliyaviy razvedka bo'linmasi: ma'lumotlarni yig'adi va tahlil qiladi, natijalarni federal, shtat, mahalliy, qabila va xorijiy huquqni muhofaza organlariga uzatadi, xorijiy FIU bilan muvofiqlashadi (§ 310 (b)(2), (i)). U jinoyat ishi ustidan tergov yoki ayblov olib bormaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (b)(2)(B)–(D), (H), (i)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Adliya vazirligi bo'limi, FinCEN va IRS-CI xodimlar soni va byudjeti bu loyihada ko'rsatilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "bo'lim tavsifi",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "uz",
+  "name": "O'zbekiston",
+  "organ": "Iqtisodiy jinoyatlarga qarshi kurashish departamenti (Bosh prokuratura huzuridagi)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Bosh prokuratura huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamenti. 2018-yildagi nizomda u \"mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ\" deb ta'riflangan. Yevrosiyo guruhi ma'lumotiga ko'ra u mamlakatning moliyaviy razvedka bo'linmasi (FIU) bo'lib, \"huquqni muhofaza qiluvchi turga\" kiradi, ya'ni faqat tahlil qilmaydi, balki tergov ham olib boradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "1-band va Nizom",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09",
+          "original": "Nizom: mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ"
+        },
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "FIU bo'limi",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "2006-yil aprelda Bosh prokuratura huzuridagi Soliq va valyutaga oid jinoyatlarga qarshi kurashish departamenti qayta tuzilib, jinoiy daromadlarni legallashtirishga qarshi kurashishni ham qamrab olgan moliyaviy razvedka bo'linmasi yaratilgan (EAG). 2018-yil 23-mayda PF-5446-sonli Farmon bilan u Iqtisodiy jinoyatlarga qarshi kurashish departamenti etib qayta tashkil qilingan (1-band). 2025-yil 25-fevraldagi O'RQ-1038-sonli Qonun unga dastlabki tergov vakolatini bergan (26.02.2025 kuchga kirgan).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "tashkil topish",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "1-band",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "qonun nomi va sanasi",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Asosiy hujjatlar: PF-5446 (23.05.2018) farmoni va unga ilova nizom; PQ-3947 (20.09.2018) qarori (jinoiy daromadlarni legallashtirishga qarshi idoralararo komissiya); O'RQ-1038 (25.02.2025) qonuni, u Jinoyat-protsessual kodeksi, Korrupsiyaga qarshi kurashish to'g'risidagi qonun, Ma'muriy javobgarlik va Budjet kodekslariga o'zgartirish kiritgan. Diqqat: lex.uz sahifasida PF-5446 \"2024-yil 8-iyulda kuchini yo'qotgan\" deb belgilangan; shu sanadan keyingi amaldagi nizom matni bu loyihada topilmadi va tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "sahifa holati",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09",
+          "original": "lex.uz: 08.07.2024 yildan kuchini yo'qotgan deb belgilangan"
+        },
+        {
+          "title": "PQ-3947 (20.09.2018) Qaror, lex.uz",
+          "ref": "3-band",
+          "url": "https://lex.uz/mact/-3912609",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "1-qism",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Departament Bosh prokuratura huzurida ishlaydi (O'RQ-1038). 2018-yil nizomiga ko'ra boshliqni Prezident Bosh prokuror taqdimiga binoan tayinlaydi, uning uchta o'rinbosari bor va ular Bosh prokuror o'rinbosariga tenglashtirilgan; boshliq Bosh prokurorga bo'ysunadi va hisobot beradi (17–19-bandlar). EAG ma'lumotiga ko'ra departament boshlig'i Bosh prokuror o'rinbosari hisoblanadi. 2024-yildan keyingi nizom tekshirilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "Nizom 17–19-bandlar",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09",
+          "original": "Bosh prokurorga bo'ysunuv va hisobdorlik asosida"
+        },
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "rahbariyat",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "2018-yil farmonining 2-bandi to'qqiz asosiy vazifa belgilagan: (1) iqtisodiy jinoyatlar, korrupsiya, jinoiy daromadlarni legallashtirish va terrorizmni moliyalashtirishga qarshi kurash bo'yicha tahlil va takliflar; (2) halol tadbirkorlar va xorijiy investorlarni noqonuniy aralashuvdan himoya qilish; (3) budjet mablag'larini talon-taroj qilish, davlat xaridlarida narxlarni oshirish va bunday zararni qoplash; (4) yoqilg'i-energetika, bank, soliq, transport, qurilish va ijtimoiy sohalardagi jinoyatlar; (5) davlat manfaatiga zid bitimlar, noqonuniy valyuta oqimlari, yashirin iqtisodiyot; (6) narxlarni sun'iy ko'tarish va sifatsiz yoki qalbaki dori vositalari savdosi; (7) legallashtirishga qarshi qonunchilik ijrosi; (8) xorijiy organlar bilan hamkorlik; (9) profilaktika va tushuntirish ishlari. 2025-yil qonuni budjet qonunchiligi buzilishining oldini olish va iqtisodiy jinoyatlarni o'z vaqtida aniqlashni qo'shimcha vazifa qilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Kun.uz, 24.05.2018",
+          "ref": "vazifalar ro'yxati",
+          "url": "https://kun.uz/news/2018/05/24/iktisodij-zinoatlarga-karsi-kurasis-departamentining-asosij-vazifalari-belgilandi",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "2-band",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "Departamentning qo'shimcha vazifalari",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Vakolat doirasi sohalar bo'yicha belgilanadi: budjet mablag'lari va davlat xaridlari, yoqilg'i-energetika, bank, soliq, transport, qurilish, ijtimoiy soha, valyuta oqimlari. Dastlabki tergov bo'yicha 2025-yil qonuni Jinoyat kodeksining 177-moddasi 3–4-qismlari, 180–181-1-moddalari, 184-moddasi 3-qismi, 186-moddasi 2-qismi va 186-1-moddasida nazarda tutilgan jinoyatlarga doir ishlarni departament tergovchilariga bergan. Unga Jinoyat kodeksi moddalari nomini qo'yib tekshirish keyingi bosqichga qoldirildi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "JPK 35-modda, olti-qism",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09",
+          "original": "Jinoyat kodeksining 177-moddasi uchinchi va to'rtinchi qismlarida, 180 - 1811-moddalarida, 184-moddasi uchinchi qismida, 186-moddasi ikkinchi qismida, 1861-moddasida"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "2018-yil nizomi bo'yicha: davlat organlaridan axborot va hujjatlar so'rash, tekshiruv o'tkazish, yetarli asos bo'lganda operatsiyalarni 30 ish kunigacha to'xtatib turishni buyurish, vakolati doirasida ishlarni tekshirish va ma'muriy jazo qo'llash. Operativ-qidiruv faoliyati, tergovgacha tekshiruv va surishtiruv EAG tavsifida alohida ko'rsatilgan. 2025-yil qonuni bilan departament tarkibida Davlat moliyaviy nazorati inspeksiyasi belgilangan: u budjet qonunchiligi va intizomiga, budjet mablag'laridan foydalanishga, mablag'larning maqsadli sarflanishiga va davlat xaridlari tanlovlariga rioya etilishini nazorat qiladi (Budjet kodeksi 177-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "Nizom, 12-band va huquqlar",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09",
+          "original": "operatsiyalarni to'xtatish ... 30 ish kuniga qadar"
+        },
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "vakolatlar",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "Budjet kodeksi 177-modda",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "2025-yil 26-fevraldan departament tergovchilari Jinoyat-protsessual kodeksiga ko'ra dastlabki tergovni o'zlari olib boradi (JPK 35-modda, 344-moddaning birinchi qismi: prokurorlar, departament, ichki ishlar va davlat xavfsizligi tergovchilari). Ayrim hollarda surishtiruv shaklida tergov o'tkazish ham mumkin. Korrupsiyaga qarshi kurashish to'g'risidagi qonunning 13-moddasi departamentning tergovgacha tekshiruv va surishtiruvga qo'shimcha ravishda dastlabki tergovni ham amalga oshirishini belgilagan. Ya'ni departament endi faqat \"aniqlovchi\" emas, to'liq tergov organi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "JPK 35, 344-moddalar; Korrupsiyaga qarshi kurashish to'g'risidagi qonun 13-modda",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09",
+          "original": "tergovga qadar tekshiruvni, surishtiruvni va dastlabki tergovni"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "EAG ma'lumotiga ko'ra departament mamlakat moliyaviy razvedka bo'linmasi, huquqni muhofaza qiluvchi turdagi (tahlil + tergov). Jinoiy daromadlarni legallashtirish, terrorizm va ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurashish bo'yicha idoralararo komissiyaning ishchi organi departament huzuridagi Xavflarni baholash markazi hisoblanadi (PQ-3947, 3-band). 2024-yil iyulida chiqqan yangi farmonga ko'ra g'aznachilik shubhali moliyaviy operatsiyalar haqida departamentga 3 ish kuni ichida xabar berishi lozim (advice.uz xabari, birlamchi matn tekshirilmagan).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "FIU turi",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "PQ-3947 (20.09.2018) Qaror, lex.uz",
+          "ref": "3-band",
+          "url": "https://lex.uz/mact/-3912609",
+          "retrieved": "2026-11-09",
+          "original": "Xavflarni baholash markazi Komissiyaning ishchi organi hisoblanadi"
+        },
+        {
+          "title": "Advice.uz, 15.07.2024 (ikkilamchi)",
+          "ref": "g'aznachilik axborot berishi",
+          "url": "https://advice.uz/ru/news/1580",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "2018-yil nizomiga ko'ra boshliq va uchta o'rinbosar; markaziy bo'linmalar va hududiy boshqarmalar rahbarlari Bosh prokuror yoki boshliq tomonidan tayinlanadi (17–21-bandlar). Xizmatga qabul: oliy ma'lumot va tegishli sohada kamida 5 yillik tajriba, 3 oygacha sinov muddati, qasamyod; xodimlar davlat himoyasida (xizmat nizomi, 4, 5, 11, 44-bandlar). Rag'batlantirish ajratilgan budjet mablag'lari va departamentning budjetdan tashqari maxsus jamg'armasidan moliyalashtiriladi (22-band). Departament tarkibidagi Davlat moliyaviy nazorati inspeksiyasi 2025-yildan qonunda nomlangan. Xodimlar soni bu manbalarda ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "Nizom 17–22-bandlar; xizmat to'g'risidagi nizom 4, 5, 11, 44-bandlar",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "Davlat moliyaviy nazorati inspeksiyasi",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+
+];
 window.SCHOLARSHIP = {
     "updated":  "2026-10-01",
     "note":  "Quyidagi manbalar matni ochilib, asosiy da\u0027volari o\u0027qib tekshirilgan. Academia.edu, ResearchGate va ScienceDirect avtomatik kirishni ko\u0027pincha 403 xatosi bilan bloklaydi, shuning uchun ochiq jurnal va institutsional sayt nusxalaridan foydalanildi. Ilmiy maqolalar qonun matnini almashtirmaydi: har bir sahifadagi jarayon bayoni asosiy qonun matniga asoslangan, ilmiy manbalar kontekst, tahlil va amaliyot (statistika) uchun.",

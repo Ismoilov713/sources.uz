@@ -1,0 +1,213 @@
+{
+  "code": "uz",
+  "name": "O'zbekiston",
+  "organ": "Iqtisodiy jinoyatlarga qarshi kurashish departamenti (Bosh prokuratura huzuridagi)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Bosh prokuratura huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamenti. 2018-yildagi nizomda u \"mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ\" deb ta'riflangan. Yevrosiyo guruhi ma'lumotiga ko'ra u mamlakatning moliyaviy razvedka bo'linmasi (FIU) bo'lib, \"huquqni muhofaza qiluvchi turga\" kiradi, ya'ni faqat tahlil qilmaydi, balki tergov ham olib boradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "1-band va Nizom",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09",
+          "original": "Nizom: mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ"
+        },
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "FIU bo'limi",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "2006-yil aprelda Bosh prokuratura huzuridagi Soliq va valyutaga oid jinoyatlarga qarshi kurashish departamenti qayta tuzilib, jinoiy daromadlarni legallashtirishga qarshi kurashishni ham qamrab olgan moliyaviy razvedka bo'linmasi yaratilgan (EAG). 2018-yil 23-mayda PF-5446-sonli Farmon bilan u Iqtisodiy jinoyatlarga qarshi kurashish departamenti etib qayta tashkil qilingan (1-band). 2025-yil 25-fevraldagi O'RQ-1038-sonli Qonun unga dastlabki tergov vakolatini bergan (26.02.2025 kuchga kirgan).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "tashkil topish",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "1-band",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "qonun nomi va sanasi",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Asosiy hujjatlar: PF-5446 (23.05.2018) farmoni va unga ilova nizom; PQ-3947 (20.09.2018) qarori (jinoiy daromadlarni legallashtirishga qarshi idoralararo komissiya); O'RQ-1038 (25.02.2025) qonuni, u Jinoyat-protsessual kodeksi, Korrupsiyaga qarshi kurashish to'g'risidagi qonun, Ma'muriy javobgarlik va Budjet kodekslariga o'zgartirish kiritgan. Diqqat: lex.uz sahifasida PF-5446 \"2024-yil 8-iyulda kuchini yo'qotgan\" deb belgilangan; shu sanadan keyingi amaldagi nizom matni bu loyihada topilmadi va tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "sahifa holati",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09",
+          "original": "lex.uz: 08.07.2024 yildan kuchini yo'qotgan deb belgilangan"
+        },
+        {
+          "title": "PQ-3947 (20.09.2018) Qaror, lex.uz",
+          "ref": "3-band",
+          "url": "https://lex.uz/mact/-3912609",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "1-qism",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Departament Bosh prokuratura huzurida ishlaydi (O'RQ-1038). 2018-yil nizomiga ko'ra boshliqni Prezident Bosh prokuror taqdimiga binoan tayinlaydi, uning uchta o'rinbosari bor va ular Bosh prokuror o'rinbosariga tenglashtirilgan; boshliq Bosh prokurorga bo'ysunadi va hisobot beradi (17–19-bandlar). EAG ma'lumotiga ko'ra departament boshlig'i Bosh prokuror o'rinbosari hisoblanadi. 2024-yildan keyingi nizom tekshirilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "Nizom 17–19-bandlar",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09",
+          "original": "Bosh prokurorga bo'ysunuv va hisobdorlik asosida"
+        },
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "rahbariyat",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "2018-yil farmonining 2-bandi to'qqiz asosiy vazifa belgilagan: (1) iqtisodiy jinoyatlar, korrupsiya, jinoiy daromadlarni legallashtirish va terrorizmni moliyalashtirishga qarshi kurash bo'yicha tahlil va takliflar; (2) halol tadbirkorlar va xorijiy investorlarni noqonuniy aralashuvdan himoya qilish; (3) budjet mablag'larini talon-taroj qilish, davlat xaridlarida narxlarni oshirish va bunday zararni qoplash; (4) yoqilg'i-energetika, bank, soliq, transport, qurilish va ijtimoiy sohalardagi jinoyatlar; (5) davlat manfaatiga zid bitimlar, noqonuniy valyuta oqimlari, yashirin iqtisodiyot; (6) narxlarni sun'iy ko'tarish va sifatsiz yoki qalbaki dori vositalari savdosi; (7) legallashtirishga qarshi qonunchilik ijrosi; (8) xorijiy organlar bilan hamkorlik; (9) profilaktika va tushuntirish ishlari. 2025-yil qonuni budjet qonunchiligi buzilishining oldini olish va iqtisodiy jinoyatlarni o'z vaqtida aniqlashni qo'shimcha vazifa qilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Kun.uz, 24.05.2018",
+          "ref": "vazifalar ro'yxati",
+          "url": "https://kun.uz/news/2018/05/24/iktisodij-zinoatlarga-karsi-kurasis-departamentining-asosij-vazifalari-belgilandi",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "2-band",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "Departamentning qo'shimcha vazifalari",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Vakolat doirasi sohalar bo'yicha belgilanadi: budjet mablag'lari va davlat xaridlari, yoqilg'i-energetika, bank, soliq, transport, qurilish, ijtimoiy soha, valyuta oqimlari. Dastlabki tergov bo'yicha 2025-yil qonuni Jinoyat kodeksining 177-moddasi 3–4-qismlari, 180–181-1-moddalari, 184-moddasi 3-qismi, 186-moddasi 2-qismi va 186-1-moddasida nazarda tutilgan jinoyatlarga doir ishlarni departament tergovchilariga bergan. Unga Jinoyat kodeksi moddalari nomini qo'yib tekshirish keyingi bosqichga qoldirildi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "JPK 35-modda, olti-qism",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09",
+          "original": "Jinoyat kodeksining 177-moddasi uchinchi va to'rtinchi qismlarida, 180 - 1811-moddalarida, 184-moddasi uchinchi qismida, 186-moddasi ikkinchi qismida, 1861-moddasida"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "2018-yil nizomi bo'yicha: davlat organlaridan axborot va hujjatlar so'rash, tekshiruv o'tkazish, yetarli asos bo'lganda operatsiyalarni 30 ish kunigacha to'xtatib turishni buyurish, vakolati doirasida ishlarni tekshirish va ma'muriy jazo qo'llash. Operativ-qidiruv faoliyati, tergovgacha tekshiruv va surishtiruv EAG tavsifida alohida ko'rsatilgan. 2025-yil qonuni bilan departament tarkibida Davlat moliyaviy nazorati inspeksiyasi belgilangan: u budjet qonunchiligi va intizomiga, budjet mablag'laridan foydalanishga, mablag'larning maqsadli sarflanishiga va davlat xaridlari tanlovlariga rioya etilishini nazorat qiladi (Budjet kodeksi 177-modda).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "Nizom, 12-band va huquqlar",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09",
+          "original": "operatsiyalarni to'xtatish ... 30 ish kuniga qadar"
+        },
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "vakolatlar",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "Budjet kodeksi 177-modda",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "2025-yil 26-fevraldan departament tergovchilari Jinoyat-protsessual kodeksiga ko'ra dastlabki tergovni o'zlari olib boradi (JPK 35-modda, 344-moddaning birinchi qismi: prokurorlar, departament, ichki ishlar va davlat xavfsizligi tergovchilari). Ayrim hollarda surishtiruv shaklida tergov o'tkazish ham mumkin. Korrupsiyaga qarshi kurashish to'g'risidagi qonunning 13-moddasi departamentning tergovgacha tekshiruv va surishtiruvga qo'shimcha ravishda dastlabki tergovni ham amalga oshirishini belgilagan. Ya'ni departament endi faqat \"aniqlovchi\" emas, to'liq tergov organi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "JPK 35, 344-moddalar; Korrupsiyaga qarshi kurashish to'g'risidagi qonun 13-modda",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09",
+          "original": "tergovga qadar tekshiruvni, surishtiruvni va dastlabki tergovni"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "EAG ma'lumotiga ko'ra departament mamlakat moliyaviy razvedka bo'linmasi, huquqni muhofaza qiluvchi turdagi (tahlil + tergov). Jinoiy daromadlarni legallashtirish, terrorizm va ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurashish bo'yicha idoralararo komissiyaning ishchi organi departament huzuridagi Xavflarni baholash markazi hisoblanadi (PQ-3947, 3-band). 2024-yil iyulida chiqqan yangi farmonga ko'ra g'aznachilik shubhali moliyaviy operatsiyalar haqida departamentga 3 ish kuni ichida xabar berishi lozim (advice.uz xabari, birlamchi matn tekshirilmagan).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
+          "ref": "FIU turi",
+          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "PQ-3947 (20.09.2018) Qaror, lex.uz",
+          "ref": "3-band",
+          "url": "https://lex.uz/mact/-3912609",
+          "retrieved": "2026-11-09",
+          "original": "Xavflarni baholash markazi Komissiyaning ishchi organi hisoblanadi"
+        },
+        {
+          "title": "Advice.uz, 15.07.2024 (ikkilamchi)",
+          "ref": "g'aznachilik axborot berishi",
+          "url": "https://advice.uz/ru/news/1580",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "2018-yil nizomiga ko'ra boshliq va uchta o'rinbosar; markaziy bo'linmalar va hududiy boshqarmalar rahbarlari Bosh prokuror yoki boshliq tomonidan tayinlanadi (17–21-bandlar). Xizmatga qabul: oliy ma'lumot va tegishli sohada kamida 5 yillik tajriba, 3 oygacha sinov muddati, qasamyod; xodimlar davlat himoyasida (xizmat nizomi, 4, 5, 11, 44-bandlar). Rag'batlantirish ajratilgan budjet mablag'lari va departamentning budjetdan tashqari maxsus jamg'armasidan moliyalashtiriladi (22-band). Departament tarkibidagi Davlat moliyaviy nazorati inspeksiyasi 2025-yildan qonunda nomlangan. Xodimlar soni bu manbalarda ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "ref": "Nizom 17–22-bandlar; xizmat to'g'risidagi nizom 4, 5, 11, 44-bandlar",
+          "url": "https://lex.uz/uz/docs/-3743214",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
+          "ref": "Davlat moliyaviy nazorati inspeksiyasi",
+          "url": "https://lex.uz/docs/-7404929",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

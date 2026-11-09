@@ -1,0 +1,145 @@
+{
+  "code": "kz",
+  "name": "Qozog'iston",
+  "organ": "Moliyaviy monitoring agentligi (AFM), Iqtisodiy tergov xizmati",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Qozog'iston Respublikasi Moliyaviy monitoring agentligi (AFM). Nizomga ko'ra u Prezidentga bevosita bo'ysunuvchi va hisobdor davlat organi bo'lib, o'z vakolati doirasida qarorlarni mustaqil qabul qiladi. Iqtisodiy va moliyaviy huquqbuzarliklarni tergov qilish AFMning \"Iqtisodiy tergov xizmati\" (служба экономических расследований) zimmasida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "1-band",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09",
+          "original": "является государственным органом, непосредственно подчиненным и подотчетным Президенту"
+        },
+        {
+          "title": "UPK RK (rus tilidagi matn)",
+          "ref": "60-modda",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Nizom 2021-yil 20-fevraldagi Prezident Farmoni № 515 bilan tasdiqlangan; Farmon imzolangan kundan kuchga kirgan. Agentlikdan oldingi organlar (masalan, moliyaviy politsiya) va ularning tugatilishi bu loyihada o'qilgan manbalarda tasdiqlanmagan, shu sababli yozilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "Farmon, 2-band",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Prezident Farmoni № 515 (Nizom) va UPK RK: 60-modda (tergovchi turlari, jumladan iqtisodiy tergov xizmati tergovchisi), 187-modda (tergov tegishliligi). Nizom va UPK keyingi yillarda o'zgartirilgan (nizomning sahifasi 21.10.2026 tahririgacha yangilangan; 187-moddaning 3- va 4-qismlari 2026-yil 12-iyundagi № 312-VIII-sonli Qonun bilan chiqarib tashlangan).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "Nizom",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "UPK RK (rus tilidagi matn)",
+          "ref": "60, 187",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-11-09",
+          "original": "60-m. 1-qism: ... следователь органов внутренних дел, следователь органов национальной безопасности и следователь службы экономических расследований ..."
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Agentlik Prezidentga bevosita bo'ysunadi va hisobot beradi. Rahbari Raisdir, uning uchta o'rinbosari bor (bittasi birinchi o'rinbosar) (Nizom, 16, 18-bandlar). Hududiy organlari: viloyatlar va respublika ahamiyatidagi shaharlardagi iqtisodiy tergov departamentlari.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "1, 16, 18-bandlar",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "Nizom 13-bandi vazifalari: jinoiy daromadlarni legallashtirish, terrorizm va ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurash bo'yicha yagona davlat siyosatini amalga oshirish; o'z vakolatiga kiritilgan iqtisodiy va moliyaviy huquqbuzarliklarni aniqlash va tergov qilish; yagona axborot-tahlil tizimini yuritish; xalqaro hamkorlik va xalqaro tashkilotlarda Qozog'iston vakilligi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "13-band",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09",
+          "original": "выявление и расследование экономических и финансовых правонарушений"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "UPK 187-moddasi 3-1-qismiga ko'ra iqtisodiy tergov xizmati tergovchilari Jinoyat kodeksining aniq belgilangan moddalari bo'yicha ishlarni tergov qiladi (masalan, 203-m. 1-1-qism, 214–216, 220–221, 223–224, 226–231, 234–239, 243–245, 248–249, 253, 307-m.). Ayrim moddalar bo'yicha (4-1-qism) ichki ishlar organlari yoki iqtisodiy tergov xizmati, qaysi biri tergovni boshlagan bo'lsa, shu tergov qiladi; 189–190-moddalar bo'yicha davlatga zarar yetgan bo'lsa iqtisodiy tergov xizmati; tadbirkorlik subyektlariga nisbatan 217-m. 2-qism va 217-1 bo'yicha iqtisodiy tergov xizmati.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK (rus tilidagi matn)",
+          "ref": "187-modda 3-1, 4-1-qismlar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "Nizom 14-bandi: pul va boshqa mulk bilan operatsiyalarni shubhali belgilar bo'lganda \"uch ish kuniga qadar\" to'xtatib turish haqida qaror chiqarish; vakolati doirasida protsessual harakatlar va kriminalistik tekshiruvlar o'tkazish. Nizomga ko'ra Agentlik operativ-qidiruv faoliyatini, dastlabki tergovni va ma'muriy huquqbuzarlik ishlarini yuritishni ham tashkil etadi va amalga oshiradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "14, 15-bandlar",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09",
+          "original": "на срок до трех рабочих дней"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "UPK 60-moddasi iqtisodiy tergov xizmati tergovchisini boshqa tergov organlari (ichki ishlar, milliy xavfsizlik) qatorida dastlabki tergov olib borishga vakolatli shaxs deb belgilaydi. Tergovchi dastlabki tergov tugagach hisobot tuzadi, ayblov dalolatnomasini (обвинительный акт) prokuror tuzadi; bu tartib bosqichma-bosqich kiritilmoqda (iqtisodiy tergov xizmati ishlari uchun 2022-yil 1-yanvardan o'ta og'ir jinoyatlar bo'yicha, boshqalar bo'yicha 2027-yil 1-yanvardan). Qonunda ko'zda tutilgan hollarda tergovchi prokurorga protsessual kelishuv imkoniyatini xabar qiladi va buyruq tartibini qo'llaydi (60-modda 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RK (rus tilidagi matn)",
+          "ref": "60-modda 1, 3-qismlar",
+          "url": "https://adilet.zan.kz/rus/docs/K1400000231",
+          "retrieved": "2026-11-09",
+          "original": "Следователь – должностное лицо, уполномоченное осуществлять досудебное расследование по уголовному делу ..."
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "AFM bir vaqtda mamlakat moliyaviy razvedka organi vazifasini ham bajaradi: moliyaviy monitoring operatsiyalari haqidagi ma'lumotlarni yig'ish va tahlil qilish, respublika ma'lumotlar bazasi, monitoring subyektlari ustidan davlat nazorati, benefitsiar mulkdorlar reyestri (Nizom, 15-band). Ya'ni Qozog'istonda bu ikki vazifa (FIU va iqtisodiy tergov) O'zbekistondagi kabi bitta organda birlashgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "13, 15-bandlar",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Nizomga ilova tuzilma: Raisning kotibiyati; moliyaviy monitoring subyektlari bilan ishlash, moliyaviy monitoring, raqamlashtirish, huquqiy ta'minot, Tergov va Operativ departamentlari, profilaktika va tahliliy ishlanmalar, o'z xavfsizligi, strategiya va operativ boshqaruv, kadrlar, ma'muriy departamentlar; Kriminalistika boshqarmasi; ichki audit xizmati; hududiy iqtisodiy tergov departamentlari; kinologiya markazi. Xodimlar soni bu manbada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Agentlik to'g'risidagi Nizom, Prezident Farmoni № 515 (20.02.2021)",
+          "ref": "Nizom: Agentlik tuzilmasi",
+          "url": "https://adilet.zan.kz/rus/docs/U2100000515",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

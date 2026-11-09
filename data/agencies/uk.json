@@ -1,0 +1,138 @@
+{
+  "code": "uk",
+  "name": "Buyuk Britaniya",
+  "organ": "Serious Fraud Office (SFO)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Serious Fraud Office (SFO) – murakkab firibgarlik, poraxo'rlik va korrupsiya ishlari bo'yicha ixtisoslashgan organ. U bir vaqtning o'zida tergov ham qiladi, ayblovni ham qo'llab-quvvatlaydi: sahifada bu Buyuk Britaniya uchun odatiy emas deb ko'rsatilgan. Angliya, Uels va Shimoliy Irlandiyada ishlaydi, Shotlandiyada emas.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09",
+          "original": "created and given its powers under the Criminal Justice Act 1987"
+        }
+      ]
+    },
+    "history": {
+      "summary": "SFO 1988-yilda tashkil topgan va 1987-yilgi Jinoyat odil sudlovi to'g'risidagi qonun (Criminal Justice Act 1987) bilan tuzilgan va vakolat berilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Criminal Justice Act 1987, ayniqsa s. 2 (tergov vakolatlari). Idoraning Bosh prokuror (Attorney General) bilan munosabati \"framework agreement\" asosida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Criminal Justice Act 1987, s. 2 (legislation.gov.uk)",
+          "ref": "s. 2",
+          "url": "https://www.legislation.gov.uk/ukpga/1987/38/section/2",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "SFO ustidan Bosh prokuror (Attorney General) nazorat qiladi (\"superintends\") va munosabat Qonun idoralari bilan tuzilgan ramka kelishuviga asoslangan. Direktorni tayinlash tartibi bu manbada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09",
+          "original": "The Attorney General superintends the SFO"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "SFO \"murakkab moliyaviy jinoyatlarga qarshi kurashadi, jabrlanuvchilar uchun adolatni ta'minlaydi va Buyuk Britaniyaning xavfsiz biznes joyi obro'sini himoya qiladi\". U jinoyatdan olingan moliyaviy foyda uchun jinoyatchilarni quvadi va chet davlatlarga murakkab firibgarlik, poraxo'rlik va korrupsiya ishlarida yordam beradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Direktor, asosli sabablarga ko'ra \"jiddiy yoki murakkab firibgarlik, poraxo'rlik yoki korrupsiya\" bo'lishi mumkin bo'lgan jinoyatlarni tergov qilishi mumkin. Qaror qilishda: jamiyatga yetgan yoki ko'zda tutilgan zarar, Buyuk Britaniyaning xalqaro moliya markazi sifatidagi obro'si va yaxlitligi, iqtisodiyot va farovonlikka zarar, hamda ishning murakkabligi SFOning maxsus mahorat va vakolatlarini talab qiladimi. SFO \"oz sonli yirik iqtisodiy jinoyat ishlari\"ni oladi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "1987-yilgi Qonunning s. 2: Direktor tergov ostidagi shaxsdan yoki tegishli ma'lumotga ega deb hisoblash uchun asos bor boshqa shaxsdan savollarga javob berishni yoki ma'lumot va hujjat taqdim etishni talab qilishi mumkin (s. 2 (2)–(3)). Tintuv orderini rasmiy tinchlik sudyasi SFO xodimi qasamli arizasi asosida beradi (s. 2 (4)–(6)). Talab bo'yicha berilgan bayonotlardan sudda foydalanish cheklangan (s. 2 (8)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Criminal Justice Act 1987, s. 2 (legislation.gov.uk)",
+          "ref": "s. 2 (2)–(8)",
+          "url": "https://www.legislation.gov.uk/ukpga/1987/38/section/2",
+          "retrieved": "2026-11-09",
+          "original": "A statement by a person in response to a requirement imposed by virtue of this section"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "SFO o'zi tergov qiladi va o'zi ayblovni qo'llab-quvvatlaydi; bu holat boshqa Buyuk Britaniya organlariga nisbatan \"odatiy emas\" deb ko'rsatilgan. Shu jihatdan u O'zbekiston departamentining 2025-yildan beri dastlabki tergovga ega bo'lgan shakliga yaqin, lekin Bosh prokuror nazoratidagi alohida organ.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09",
+          "original": "It both investigates and prosecutes its own cases"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "SFOning moliyaviy razvedka (FIU) roli bu manbalarda ko'rsatilmagan. Milliy jinoyat agentligi (NCA) sahifasida UKFIU haqida faqat havola bor; uning maqomi va vakolati bu loyihada birlamchi matndan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "National Crime Agency",
+          "ref": "Who we are",
+          "url": "https://www.nationalcrimeagency.gov.uk/who-we-are",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Xodimlar soni va moliyalashtirish sahifada ko'rsatilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
+          "ref": "About us",
+          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

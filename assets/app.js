@@ -10,6 +10,18 @@ const CRITERIA = {
   openness_language: "Ochiqlik va sud ishi tili",
   financing: "Moliyalashtirish"
 };
+const AGENCY = {
+  identity: "Organ va maqomi",
+  history: "Tashkil topish tarixi",
+  legal_basis: "Huquqiy asos",
+  subordination: "Bo'ysunuv va hisobdorlik",
+  functions: "Funksiya va vazifalar",
+  jurisdiction: "Vakolat doirasi (qaysi jinoyatlar)",
+  powers: "Vakolat va usullar",
+  investigation: "Tergov va ayblov",
+  fiu_aml: "Moliyaviy razvedka (FIU)",
+  structure: "Tuzilma va xodimlar"
+};
 // Jinoyat ishi bo'yicha sudda ish yuritish bosqichlari (tartib bo'yicha)
 const STAGES = {
   trial_prep: "Ishni sudda ko'rishga tayyorlash",
@@ -37,6 +49,8 @@ const STATUS_LABEL = { tasdiqlangan: "✓ tasdiqlangan", tekshirilmagan: "? teks
 
 const snap = (window.SNAPSHOT && window.SNAPSHOT.countries) || {};
 const countries = (window.COUNTRIES || []).slice().sort((a, b) => (b.code === "uz") - (a.code === "uz"));
+const agencies = {};
+(window.AGENCIES || []).forEach(a => { agencies[a.code] = a; });
 const procedure = {};
 (window.PROCEDURE || []).forEach(p => { procedure[p.code] = p; });
 const colorOf = code => (snap[code] && snap[code].color) || "#1f5b94";
@@ -51,7 +65,7 @@ let selected = ["uz", countries[1] ? countries[1].code : "uz"].filter((v, i, a) 
 function readHash() {
   const h = location.hash.replace(/^#\/?/, "");
   const [p, q] = h.split("?");
-  const valid = ["home", "procedure", "system", "scholarship", "glossary"];
+  const valid = ["home", "procedure", "system", "agencies", "scholarship", "glossary"];
   tab = valid.includes(p) ? p : "home";
   if (q) {
     const m = q.match(/(?:^|&)c=([^&]*)/);
@@ -62,7 +76,7 @@ function readHash() {
   }
 }
 function writeHash() {
-  const q = (tab === "procedure" || tab === "system") ? "?c=" + selected.join(",") : "";
+  const q = (tab === "procedure" || tab === "system" || tab === "agencies") ? "?c=" + selected.join(",") : "";
   const next = "#/" + tab + q;
   if (location.hash !== next) history.replaceState(null, "", next);
 }
@@ -77,7 +91,7 @@ function go(t, sel) {
 /* ---------- yon panel ---------- */
 function renderSide() {
   document.querySelectorAll("#nav a").forEach(a => a.classList.toggle("active", a.dataset.tab === tab));
-  $("sideCompare").style.display = (tab === "procedure" || tab === "system") ? "" : "none";
+  $("sideCompare").style.display = (tab === "procedure" || tab === "system" || tab === "agencies") ? "" : "none";
   $("picker").innerHTML = countries.map(c =>
     `<button type="button" class="chip ${selected.includes(c.code) ? "on" : ""}" data-c="${esc(c.code)}" style="--c:${colorOf(c.code)}">
        <span class="dot">${esc(c.code)}</span>${esc(c.name.replace(/ \(.*\)/, ""))}</button>`).join("");
@@ -104,7 +118,7 @@ function artLinks(v) {
 function cellHtml(c, v) {
   if (!v) return `<div class="cell" style="--c:${colorOf(c.code)}"><h4><span class="dot"></span>${esc(c.name)}</h4><p class="empty">Ma'lumot hali qo'shilmagan</p></div>`;
   return `<div class="cell" style="--c:${colorOf(c.code)}">
-    <h4><span class="dot"></span>${esc(c.name)} <span class="status ${esc(v.status)}">${esc(STATUS_LABEL[v.status] || v.status)}</span></h4>
+    <h4><span class="dot"></span>${esc(c.name)} <span class="status ${esc(v.status)}">${esc(STATUS_LABEL[v.status] || v.status)}</span></h4>${v.organ ? `<div class="organ">${esc(v.organ)}</div>` : ""}
     <p class="sum">${esc(v.summary)}</p>${artLinks(v)}${sourcesHtml(v)}</div>`;
 }
 
@@ -220,6 +234,7 @@ function render() {
   if (tab === "home") v.innerHTML = renderHome();
   else if (tab === "procedure") v.innerHTML = renderCompare(STAGES, (c, k) => procedure[c.code] && procedure[c.code].stages[k], "Jinoyat ishi bo'yicha sud jarayoni", "Ish birinchi instansiya sudiga kelib tushgandan hukm ustidan shikoyatgacha bo'lgan bosqichlar. Davlatlarni chap paneldan tanlang.");
   else if (tab === "system") v.innerHTML = renderCompare(CRITERIA, (c, k) => c.criteria[k], "Sud tizimi", "Tuzilma, konstitutsiyaviy nazorat, sudyalarni tayinlash va muddat, mustaqillik, xalq ishtiroki, ochiqlik va moliyalashtirish.");
+  else if (tab === "agencies") v.innerHTML = renderCompare(AGENCY, (c, k) => { const a = agencies[c.code]; return a && a.items[k] ? Object.assign({ organ: a.organ }, a.items[k]) : null; }, "Iqtisodiy jinoyatlarga qarshi kurashish organlari", "O'zbekistondagi Iqtisodiy jinoyatlarga qarshi kurashish departamenti bilan solishtirish uchun xorijiy davlatlarda shunga o'xshash vazifalarni bajaruvchi organlar. Ko'p davlatlarda bu vazifa yagona organga emas, bir necha idoraga taqsimlangan. Davlatlarni chap paneldan tanlang.");
   else if (tab === "scholarship") v.innerHTML = renderScholarship();
   else v.innerHTML = renderGlossary();
   wire();

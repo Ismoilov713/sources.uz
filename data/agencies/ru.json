@@ -1,0 +1,183 @@
+{
+  "code": "ru",
+  "name": "Rossiya",
+  "organ": "Tergov qo'mitasi / MVD tergovchilari + Rosfinmonitoring (yagona organ yo'q)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Rossiyada iqtisodiy jinoyatlar bo'yicha yagona maxsus organ yo'q: ishlar UPK 151-moddasiga ko'ra Tergov qo'mitasi (SK), Ichki ishlar vazirligi (MVD) va FSB tergovchilari o'rtasida taqsimlangan. Moliyaviy razvedka vazifasini alohida organ, Rosfinmonitoring bajaradi. O'zbekiston departamentiga eng yaqin funksiya shu uch tuzilmaga bo'lingan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 2-qism",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        }
+      ]
+    },
+    "history": {
+      "summary": "Rosfinmonitoring nizomi 2012-yil 13-iyundagi № 808 Farmon bilan tasdiqlangan va bir necha marta o'zgartirilgan (2016, 2021, 2022, 2023, 2025). Tergov organlarining shakllanish tarixi bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "Farmon va uning tahrirlari",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "UPK RF 151-modda (tergov tegishliligi); Prezident Farmoni № 808 (Rosfinmonitoring nizomi). Farmon matni ikkilamchi manbadan (rulaws.ru) ko'rilgan, rasmiy nashr bilan solishtirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        },
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "nizom",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Rosfinmonitoringni Hukumat Prezident farmonlari, farmoyishlari va topshiriqlariga ko'ra muvofiqlashtiradi (ikkilamchi manba); to'liq bo'ysunuv tartibi tekshirilmagan. Tergov organlari o'z idoralariga (SK, MVD, FSB) bo'ysunadi, tegishlilik bo'yicha nizolarni prokuror hal qiladi (UPK 151-m. 8-qism).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 7, 8-qismlar",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "original": "Споры о подследственности уголовного дела разрешает прокурор.",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        },
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "Hukumat muvofiqlashtiruvi",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "Rosfinmonitoring nizomi jinoiy yo'l bilan olingan daromadlarni legallashtirish, terrorizm va ekstremizmni, ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurash sohasidagi faoliyatni, shuningdek pul mablag'lari bilan operatsiyalardan kelib chiqadigan milliy xavfsizlik tahdidlarini baholash markazi vazifasini belgilaydi (ikkilamchi manba, tekshirilmagan).",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "nizom vazifalari",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "UPK 151-m. 2-qism: SK tergovchilari soliq jinoyatlari (JK 198–199.4-moddalar) va boshqa ayrim iqtisodiy moddalar (171.2, 172.1, 172.3, 173.3, 185–185.6) bo'yicha tergov qiladi; MVD tergovchilari firibgarlik (159–159.6), o'zlashtirish va talon-taroj (160), 171-m. 2-qism, 172.2, 172.4, 174, 176, 178–187-moddalar kabi ko'pchilik oddiy iqtisodiy jinoyatlar bo'yicha. 5-qism: bir qator moddalar bo'yicha (146, 158, 159–160, 171, 172, 173.1–173.2, 174, 176, 178, 183, 187, 190–197, 201–202 va b.) jinoyatni aniqlagan organ tergovchisi ham tergov qilishi mumkin; soliq moddalari bu ro'yxatda yo'q.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 2, 5-qismlar",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        }
+      ]
+    },
+    "powers": {
+      "summary": "UPK 151-m. 6–8-qismlar: boshqa tegishlilikka kiruvchi jinoyat bilan bog'liq ishlar bo'yicha tergovni bog'liq jinoyatni tergov qiluvchi organ olib boradi (ayrim moddalar), turli tegishlilikdagi ishlar birlashtirilganda tegishlilikni prokuror belgilaydi, nizolarni prokuror hal qiladi. Boshqa vakolatlar (so'rov, operatsiyalarni to'xtatish, tintuv) bu manbalarda tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 6–8-qismlar",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Dastlabki tergovni (предварительное следствие) UPK 151-m. 2-qismi bo'yicha SK, FSB va MVD tergovchilari, dastlabki surishtiruvni (дознание, 3-qism) MVD, FSB, FSIN, bojxona va boshqa organ surishtiruvchilari olib boradi. Ayblovni sudda davlat ayblovchisi (prokuror) qo'llab-quvvatlaydi (UPK 246).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "151-modda 1–3-qismlar",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "ст. 151",
+              "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/a8ce863fe783cf2bec75f4f1de3e5ffb7b4cc043/"
+            }
+          ]
+        },
+        {
+          "title": "UPK RF (rus tilidagi asl)",
+          "ref": "246",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_34481/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Moliyaviy razvedka vazifasi alohida organ, Rosfinmonitoringga berilgan. Uning ayrim vakolatlari va tuzilmasi ikkilamchi manbadan olingan, rasmiy nashr bilan solishtirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "nizom",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Nizom ko'ra Rosfinmonitoring direktori ostida bitta birinchi o'rinbosar va beshta o'rinbosar bo'lishi mumkin, ulardan biri davlat kotibi (ikkilamchi manba). Boshqa tuzilma va xodimlar soni tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Rossiya Prezidentining 13.06.2012 № 808 Farmoni (Rosfinmonitoring to'g'risida)",
+          "ref": "2-band",
+          "url": "https://rulaws.ru/president/Ukaz-Prezidenta-RF-ot-13.06.2012-N-808",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

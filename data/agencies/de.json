@@ -1,0 +1,163 @@
+{
+  "code": "de",
+  "name": "Germaniya",
+  "organ": "Schwerpunktstaatsanwaltschaften + Wirtschaftsstrafkammer + FIU (yagona organ yo'q)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Germaniyada yagona milliy iqtisodiy jinoyatlar organi yo'q. Mas'uliyat ixtisoslashgan prokuratura bo'limlari (Schwerpunktstaatsanwaltschaften) va landgericht huzuridagi iqtisodiy jinoyat palatalari (Wirtschaftsstrafkammer) o'rtasida taqsimlangan; moliyaviy razvedka (FIU) esa alohida, mustaqil markaziy organ.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 74c, § 143 (4)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GwG (nemis asl matni)",
+          "ref": "§ 27",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Bu loyihada qonun matnlari o'qildi, tashkil topish tarixi va yillari birlamchi manbadan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 74c",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "GVG § 74c (Wirtschaftsstrafkammer), § 143 (4) (prokuraturaning ixtisoslashuvi), StPO § 152 (ayblov organi, legalitet printsipi), § 160–161 (tergov majburiyati va prokuratura tergov vakolati), § 163 (politsiya vazifalari), GwG § 27 (FIU).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 74c, § 143",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09",
+          "links": [
+            {
+              "label": "GVG § 74c",
+              "url": "https://www.gesetze-im-internet.de/gvg/__74c.html"
+            },
+            {
+              "label": "GVG § 143",
+              "url": "https://www.gesetze-im-internet.de/gvg/__143.html"
+            }
+          ]
+        },
+        {
+          "title": "StPO (nemis asl matni)",
+          "ref": "§ 152, § 160, § 161, § 163",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "§ 143 (3) GVG: turli yer (Land) prokuraturalari kimning ish olib borishi haqida kelisha olmasa, Federal bosh prokuror (Generalbundesanwalt) hal qiladi. Landlar prokuraturalarining vazirlik bilan boshqaruv munosabati bu manbalarda tekshirilmagan. FIU: GwG § 27 (2) ga ko'ra \"tashkiliy jihatdan mustaqil\" va o'z vazifalarida kasbiy jihatdan mustaqil.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 143 (3)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GwG (nemis asl matni)",
+          "ref": "§ 27 (2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "StPO § 160: prokuratura jinoyat haqida xabar olgach faktlarni aniqlashga majbur; § 161: prokuraturaning umumiy tergov vakolati; § 163: tergov davomida politsiyaning vazifalari. Iqtisodiy ishlarga ixtisoslashgan sudlov: landgericht ko'rishi kerak bo'lgan ishlarda maxsus iqtisodiy palata.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl matni)",
+          "ref": "§ 160, § 161, § 163",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "§ 74c (1) GVG iqtisodiy jinoyat palatasi vakolatiga kiradigan ishlar: intellektual mulk, raqobat, bankrotlik, aksiyadorlik va xo'jalik jamiyatlari qonunlari, bank-birja-sug'urta qonunlari, Wirtschaftsstrafgesetz, tashqi iqtisodiy faoliyat, sanksiyalar, soliq va bojxona huquqi, oziq-ovqat, subsidiyaga oid firibgarlik, kapital qo'yilmalar bo'yicha firibgarlik, kredit firibgarligi, bankrotlik, tender kelishuvlari, tijoratdagi poraxo'rlik, pul yuvish, firibgarlik, mablag'ni talon-taroj qilish, \"agar ishni baholash uchun xo'jalik hayotini alohida bilish talab qilinsa\".",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 74c (1)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09",
+          "original": "soweit zur Beurteilung des Falles besondere Kenntnisse des Wirtschaftslebens erforderlich sind"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "Prokuratura tergov bo'yicha umumiy vakolatga ega (StPO § 161, § 161a: guvoh va ekspertlarni so'roq qilish). Tintuv, hibsga olish va boshqa tergov choralari uchun sud ruxsati kerak bo'lishi (§ 162 tergov sudyasi) bu manbalarda sarlavha darajasida ko'rilgan, mazmuni tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "StPO (nemis asl matni)",
+          "ref": "§ 161, § 161a, § 162",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Tergovni prokuratura boshqaradi (§ 152, § 160), politsiya uning topshirig'i bilan harakat qiladi (§ 163). § 143 (4) GVG ga ko'ra bir necha landgericht yoki oberlandesgericht okrugi uchun ma'lum turdagi ishlarni ixtisoslashgan prokuror xodimlariga topshirish mumkin, ya'ni iqtisodiy jinoyatlar bo'yicha ixtisoslashgan prokuratura bo'limlari shu asosda tuziladi. § 74c (3): Land hukumatlari bir landgerichtga bir necha okrug uchun iqtisodiy ishlarni topshirishi mumkin.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 143 (4), § 74c (3)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO (nemis asl matni)",
+          "ref": "§ 152, § 160, § 163",
+          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "GwG § 27 (1): Zentralstelle für Finanztransaktionsuntersuchungen (FIU) shubhali operatsiyalar haqidagi xabarlar uchun markaziy organ, pul yuvish va terrorizmni moliyalashtirishning oldini olish, aniqlash va kurashishga yordam beradi; § 27 (2): u tashkiliy jihatdan mustaqil va kasbiy jihatdan mustaqil. Qaysi vazirlik tarkibiga kirishi sahifada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "GwG (nemis asl matni)",
+          "ref": "§ 27 (1), (2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__27.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Ixtisoslashgan prokuratura bo'limlari va xodimlar soni bu loyihada o'qilgan manbalarda yo'q.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "GVG (nemis asl matni)",
+          "ref": "§ 143 (4)",
+          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

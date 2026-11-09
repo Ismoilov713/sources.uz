@@ -1,0 +1,150 @@
+{
+  "code": "tr",
+  "name": "Turkiya",
+  "organ": "MASAK (Mali Suçları Araştırma Kurulu Başkanlığı)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Mali Suçları Araştırma Kurulu Başkanlığı (MASAK). Prezident farmonining 231-moddasiga ko'ra u bevosita Vazirga bo'ysunadi. Bu O'zbekiston departamentidan farq qiladi: MASAK moliyaviy razvedka va nazorat organi bo'lib, jinoyat ishini o'zi tergov qilmaydi, balki prokuraturaga topshiradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09",
+          "original": "Malî Suçları Araştırma Kurulu Başkanlığı doğrudan Bakana bağlı olup görev ve yetkileri şunlardır"
+        }
+      ]
+    },
+    "history": {
+      "summary": "5549-sonli Qonun 2006-yil 11-oktabrda qabul qilingan va MASAK vazifalarining qonuniy asosini belgilagan. 2018-yil 2-iyuldagi 703-sonli Farmon-qonun bilan qonunning 12, 19, 20-moddalari bekor qilingan, MASAK vakolatlari Prezident farmoni (CBK № 1, 231-modda)ga ko'chirilgan; 231-modda 2019-yil 7-avgustdagi № 43 farmon bilan o'zgartirilgan. MASAKning dastlabki tashkil etilishi (4208-sonli Qonun) ikkilamchi manbalarda aytilgan, birlamchi matnda tekshirilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda izohlari",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun (mevzuat.gov.tr)",
+          "ref": "19, 20-moddalarning holati",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5549.pdf",
+          "retrieved": "2026-11-09",
+          "original": "MADDE 19 – (Mülga: 2/7/2018-KHK-703/15 md.)"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "5549-sonli Qonun va CBK № 1 ning 231-moddasi. Jinoyat-protsessual jihatdan musodara (mulkni hibsga olish) 17-moddada CMK 128-moddasiga havola bilan berilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun (mevzuat.gov.tr)",
+          "ref": "4, 17, 19/A-moddalar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5549.pdf",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "MASAK Prezident farmoni asosida bevosita Vazirga bo'ysunadi (231/1; \"doğrudan Bakana bağlı\" iborasi 2025-yil 18-iyuldagi № 187 farmon bilan qo'shilgan). Qaysi vazirlik ekani 231-moddaning shu parchasida aytilmagan; MASAK sahifasi Hazine ve Maliye Bakanlığı saytida joylashgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism va izohlar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "231-moddaga ko'ra: (a) jinoiy daromadlarni legallashtirish va terrorizmni moliyalashtirishga qarshi siyosat, strategiya va xavfni baholashda qatnashish; (b) qonunchilik ishlari; (c) rivojlanishni kuzatish, tahlil va tadqiqot; (ç) ma'lumot yig'ish, shubhali operatsiya xabarlarini olish, tahlil qilish va razvedka ma'lumoti yaratish; (d–f) tekshiruv o'tkazish va ishonchli shubha bo'lsa prokuraturaga topshirish; (g) prokuror, sudya yoki sud yuborgan masalalarni tahlil qilish; (ğ) politsiya va boshqa organlardan tekshiruv so'rash; (h) razvedka va huquqni muhofaza organlari bilan hamkorlik; (i) 5549-sonli Qonun bo'yicha majburiyatlar nazorati; (l) xorijiy tengdosh organlar bilan axborot almashish.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09",
+          "original": "ç) ... şüpheli işlem bildirimlerini almak, analiz etmek ve bunları kaydetmek, istihbarat üretmek"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "MASAK vakolati asosan jinoiy daromadlarni legallashtirish va terrorizmni moliyalashtirish bilan cheklangan; \"iqtisodiy xavfsizlikka yo'naltirilgan xavflar\"ni aniqlash ham 231/1(c)da berilgan. Soliq, bank firibgarligi, o'zlashtirish kabi umumiy iqtisodiy jinoyatlar bu moddada nomlanmagan va O'zbekiston departamentining keng vakolat doirasiga o'xshash yagona organ topilmadi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism (c) bandi",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "5549-sonli Qonunning 4-moddasi: majburiy subyektlar shubhali operatsiyalar haqida MASAKga xabar berishi shart va xabar berilganini oshkor qila olmaydi. 19/A-modda: shubha bo'lsa Vazir operatsiyani yetti ish kuniga to'xtatib turishga vakolatli (xorijiy tengdosh organ so'rovi bo'yicha ham); qaror buzilsa operatsiya summasicha, lekin 50 ming liradan kam bo'lmagan ma'muriy jarima. 17-modda: kuchli shubha bo'lsa mulk CMK 128-moddasi tartibida hibsga olinadi, kechiktirib bo'lmaydigan hollarda prokuror ham qaror chiqarishi mumkin (24 soat ichida sudya tasdiqlaydi). 231/3–4: mutaxassislar va nazoratchilar axborot va hujjat so'rash, tekshirish huquqiga ega.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun (mevzuat.gov.tr)",
+          "ref": "4, 17, 19/A-moddalar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5549.pdf",
+          "retrieved": "2026-11-09",
+          "original": "yedi iş günü süreyle askıya almaya"
+        },
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 3, 4-qismlar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "MASAK tergov o'tkazmaydi, balki tahlil, tadqiqot va tekshiruv qiladi; legallashtirish yoki terrorizmni moliyalashtirish bo'yicha ishonchli shubha yoki dalil bo'lsa masalani prokuraturaga topshiradi yoki CMK bo'yicha jinoyat haqida xabar beradi (231/1 e, f). Prokuror, sudya yoki sud yuborgan masalalarni ham tahlil qiladi (g). Jinoyat ishini prokuratura va politsiya tergov qiladi (CMK); bu qismi bu loyihada MASAKdan tashqarida tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism (e, f, g)",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "MASAK Turkiyaning moliyaviy razvedka bo'linmasi vazifasini bajaradi: shubhali operatsiya xabarlarini oladi, tahlil qiladi, razvedka ma'lumoti yaratadi, risk toifalarini belgilaydi, majburiy subyektlarni tekshiradi va xorijiy tengdoshlari bilan axborot almashadi (231/1 ç, i, l). Ya'ni Turkiyada bu rol alohida organga ajratilgan, tergov esa boshqa organlarda.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 1-qism (ç, ı, i, l)",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Vazifalarni bajarish uchun Hazine va Maliye mutaxassislari, ularning yordamchilari va nazorat xodimlari jalb qilinadi; Boshqarma rahbari talabi bilan tegishli vazir tasdig'i bilan nazoratchilar ajratiladi (231/3). Xodimlar soni va ichki tuzilma bu manbada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
+          "ref": "231-modda 3-qism",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

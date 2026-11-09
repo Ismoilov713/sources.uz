@@ -1,0 +1,155 @@
+{
+  "code": "us",
+  "name": "AQSh",
+  "organ": "DOJ White Collar Section + FinCEN + IRS-CI (yagona organ yo'q)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Federal darajada ham yagona organ yo'q: ish bir necha idoraga taqsimlangan. Tergov va ayblovni AQSh Adliya vazirligi Jinoiy bo'limining White Collar and Corporate Enforcement Section (ilgari Fraud Section) olib boradi; moliyaviy razvedka (FinCEN) Moliya vazirligi tarkibidagi byuro; soliq jinoyatlarini IRS Criminal Investigation tergov qiladi. Bu jamoaviy tizim O'zbekiston departamentining vazifalarini uchga bo'ladi: ayblov, tergov, moliyaviy razvedka.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "bo'lim tavsifi",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (a)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "FinCEN 1990-yil 25-aprelda Moliya vazirligining 105-08-sonli buyrug'i bilan tuzilgan (31 U.S.C. § 310 (a)). Adliya vazirligi bo'limi va IRS-CI ning tashkil topish tarixi bu loyihada o'qilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (a)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09",
+          "original": "created by Treasury Order 105-08 on April 25, 1990"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "31 U.S.C. § 310 (FinCEN). Adliya vazirligi bo'limi va IRS-CI uchun qonuniy asoslar bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "FinCEN Moliya vazirligi tarkibidagi byuro, rahbari (Director) Moliya vaziri tomonidan tayinlanadi (§ 310 (a), (b)(1)). Adliya vazirligi bo'limi Jinoiy bo'lim (Criminal Division) tarkibiga kiradi; yuqori rahbari sahifada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (a), (b)(1)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "bo'limning joylashuvi",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "Adliya vazirligi bo'limi \"murakkab iqtisodiy jinoyat\" va xalq salomatligi va xavfsizligiga xavf soladigan murakkab huquqbuzarliklarga qarshi kurashda alohida rol o'ynaydi: butun mamlakat bo'ylab tergov qiladi va ayblov qo'llab-quvvatlaydi, shuningdek siyosat, prokurorlar, regulyatorlar va xususiy sektorni o'qitadi. FinCEN esa ma'lumotlarga davlat darajasida kirish xizmatini yuritadi, ularni tahlil qilib jinoyat belgilarini aniqlaydi va huquqni muhofaza organlariga uzatadi (§ 310 (b)(2)).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "mission",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (b)(2)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Adliya vazirligi bo'limining tarkibiy bo'linmalari: Health & Safety, Securities, Market, and Private Fraud, Foreign Corrupt Practices Act (xorijdagi korrupsiya), Corporate Enforcement and Compliance. Soliq jinoyatlari bo'yicha IRS-CI Ichki daromadlar kodeksi buzilishlarini tergov qiladi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "bo'linmalar",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "IRS Criminal Investigation",
+          "ref": "mission",
+          "url": "https://www.irs.gov/compliance/criminal-investigation",
+          "retrieved": "2026-11-09",
+          "original": "investigating potential criminal violations of the Internal Revenue Code"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "FinCEN: \"Financial crimes communications center\" yuritadi, xorijiy FIU bilan hamkorlik qiladi, davlat va xususiy sektor o'rtasida ixtiyoriy axborot almashish (FinCEN Exchange) shaklini yuritadi, chet davlatlarga kamida oltita aloqachi tayinlaydi (§ 310 (b)(2)(D), (H), (d), (h)). Adliya vazirligi bo'limining tintuv, hibsga olish va boshqa tergov vakolatlari bu loyihada o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (b), (d), (h)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Adliya vazirligi bo'limi o'zi tergov va ayblovni olib borishini yozadi; shu bilan birga \"idoralararo va ko'p okrugli tergovlarni tez-tez muvofiqlashtiradi\", ya'ni tergovni boshqa idoralar (masalan IRS-CI) bilan birga o'tkazadi. Boshqa idoralarning rasmiy nomi sahifada ko'rsatilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "mission",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09",
+          "original": "frequently coordinates interagency and multi-district investigations"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "FinCEN – AQShning moliyaviy razvedka bo'linmasi: ma'lumotlarni yig'adi va tahlil qiladi, natijalarni federal, shtat, mahalliy, qabila va xorijiy huquqni muhofaza organlariga uzatadi, xorijiy FIU bilan muvofiqlashadi (§ 310 (b)(2), (i)). U jinoyat ishi ustidan tergov yoki ayblov olib bormaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "31 U.S.C. § 310 (Cornell LII)",
+          "ref": "§ 310 (b)(2)(B)–(D), (H), (i)",
+          "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Adliya vazirligi bo'limi, FinCEN va IRS-CI xodimlar soni va byudjeti bu loyihada ko'rsatilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
+          "ref": "bo'lim tavsifi",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

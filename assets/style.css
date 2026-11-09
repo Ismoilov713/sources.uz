@@ -152,3 +152,5 @@ h1,h2,h3,h4{line-height:1.25;margin:0}
 .foot-c{font-weight:600;color:var(--fg)}
 .foot-links{display:flex;flex-wrap:wrap;gap:4px 16px}.foot-links a{color:var(--mut);text-decoration:none}.foot-links a:hover{text-decoration:underline;color:var(--brand2)}
 .foot-note{margin:8px 0 0}
+
+.organ{font-size:12.5px;color:var(--muted,#5b6b7c);margin:-4px 0 8px;font-weight:600}
