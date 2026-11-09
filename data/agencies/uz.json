@@ -5,15 +5,15 @@
   "updated": "2026-11-09",
   "items": {
     "identity": {
-      "summary": "Bosh prokuratura huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamenti. 2018-yildagi nizomda u \"mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ\" deb ta'riflangan. Yevrosiyo guruhi ma'lumotiga ko'ra u mamlakatning moliyaviy razvedka bo'linmasi (FIU) bo'lib, \"huquqni muhofaza qiluvchi turga\" kiradi, ya'ni faqat tahlil qilmaydi, balki tergov ham olib boradi.",
+      "summary": "Bosh prokuratura huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamenti. Rasmiy saytda u uch ta'rif bilan berilgan: (1) iqtisodiy va korrupsion jinoyatlar, jinoiy daromadlarni legallashtirish, terrorizmni va ommaviy qirg'in qurolini tarqatishni moliyalashtirish holatlari bo'yicha tezkor-qidiruv faoliyati, tergovgacha tekshiruv va surishtiruvni, shuningdek shu jinoyatlar oqibatida yetkazilgan iqtisodiy zararni qoplashni amalga oshiruvchi \"mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ\"; (2) legallashtirishga, terrorizm va ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurashish masalalari bo'yicha \"maxsus vakolatli davlat organi\"; (3) Soliq, valyutaga oid jinoyatlarga va jinoiy daromadlarni legallashtirishga qarshi kurashish departamentining huquq, majburiyat va shartnomalari (jumladan xalqaro shartnomalari) bo'yicha vorisi. Yevrosiyo guruhi bu organni moliyaviy razvedka bo'linmasi (FIU), \"huquqni muhofaza qiluvchi tur\" deb tasniflaydi.",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
-          "ref": "1-band va Nizom",
-          "url": "https://lex.uz/uz/docs/-3743214",
+          "title": "Departamentning rasmiy sayti prodepartament.uz (sayt test rejimida)",
+          "ref": "Departament faoliyati",
+          "url": "https://prodepartament.uz/about-department/activity",
           "retrieved": "2026-11-09",
-          "original": "Nizom: mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ"
+          "original": "Ўзбекистон Республикаси Бош прокуратураси ҳузурида ... мустақил ихтисослаштирилган ҳуқуқни муҳофаза қилувчи орган"
         },
         {
           "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
@@ -48,46 +48,59 @@
       ]
     },
     "legal_basis": {
-      "summary": "Asosiy hujjatlar: PF-5446 (23.05.2018) farmoni va unga ilova nizom; PQ-3947 (20.09.2018) qarori (jinoiy daromadlarni legallashtirishga qarshi idoralararo komissiya); O'RQ-1038 (25.02.2025) qonuni, u Jinoyat-protsessual kodeksi, Korrupsiyaga qarshi kurashish to'g'risidagi qonun, Ma'muriy javobgarlik va Budjet kodekslariga o'zgartirish kiritgan. Diqqat: lex.uz sahifasida PF-5446 \"2024-yil 8-iyulda kuchini yo'qotgan\" deb belgilangan; shu sanadan keyingi amaldagi nizom matni bu loyihada topilmadi va tekshirilmagan.",
+      "summary": "Rasmiy sayt \"faoliyatning huquqiy asoslari\" sifatida quyidagilarni ko'rsatadi: Konstitutsiya; \"Prokuratura to'g'risida\"gi Qonun; \"Tezkor-qidiruv faoliyati to'g'risida\"gi Qonun; \"Prokuratura organlari xodimlari kunini belgilash to'g'risida\"gi Qonun; Prezidentning \"Huquqbuzarliklar profilaktikasi va jinoyatchilikka qarshi kurashish tizimini yanada takomillashtirish chora-tadbirlari to'g'risida\"gi qarori; hamda \"Departament to'g'risida\" nizom (sahifada nomi bor, raqam va sana ko'rsatilmagan). Bundan tashqari: PF-5446 (23.05.2018) farmoni, PQ-3947 (20.09.2018) qarori, O'RQ-1038 (25.02.2025) Qonuni. Diqqat: lex.uz sahifasida PF-5446 \"2024-yil 8-iyulda kuchini yo'qotgan\" deb belgilangan; amaldagi nizom matni topilmadi.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "title": "Departamentning rasmiy sayti prodepartament.uz (sayt test rejimida)",
+          "ref": "Huquqiy asoslar",
+          "url": "https://prodepartament.uz/about-department/legal-bases",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "lex.uz: Prokuratura to'g'risidagi Qonun",
+          "ref": "Qonun",
+          "url": "https://lex.uz/acts/106197",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "lex.uz: Tezkor-qidiruv faoliyati to'g'risidagi Qonun",
+          "ref": "Qonun",
+          "url": "https://www.lex.uz/acts/2107763",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "PF-5446 (23.05.2018), lex.uz",
           "ref": "sahifa holati",
           "url": "https://lex.uz/uz/docs/-3743214",
           "retrieved": "2026-11-09",
           "original": "lex.uz: 08.07.2024 yildan kuchini yo'qotgan deb belgilangan"
         },
         {
-          "title": "PQ-3947 (20.09.2018) Qaror, lex.uz",
-          "ref": "3-band",
-          "url": "https://lex.uz/mact/-3912609",
-          "retrieved": "2026-11-09"
-        },
-        {
-          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
-          "ref": "1-qism",
+          "title": "O'RQ-1038 (25.02.2025), lex.uz",
+          "ref": "Qonun",
           "url": "https://lex.uz/docs/-7404929",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "subordination": {
-      "summary": "Departament Bosh prokuratura huzurida ishlaydi (O'RQ-1038). 2018-yil nizomiga ko'ra boshliqni Prezident Bosh prokuror taqdimiga binoan tayinlaydi, uning uchta o'rinbosari bor va ular Bosh prokuror o'rinbosariga tenglashtirilgan; boshliq Bosh prokurorga bo'ysunadi va hisobot beradi (17–19-bandlar). EAG ma'lumotiga ko'ra departament boshlig'i Bosh prokuror o'rinbosari hisoblanadi. 2024-yildan keyingi nizom tekshirilmagan.",
+      "summary": "Departament Bosh prokuratura huzurida ishlaydi; rahbari Bosh prokuror o'rinbosari lavozimida (\"Bosh prokuror o'rinbosari – Departament boshlig'i\"). Rasmiy saytdagi rahbariyat: Xatamov Jaxongir Jurayevich (Bosh prokuror o'rinbosari, Departament boshlig'i), Yunusov Marat Erkinovich (birinchi o'rinbosar), Ibragimov Jaxongir Xursanbayevich va Aripov Abror Odilovich (o'rinbosarlar). 2018-yil nizomiga ko'ra boshliqni Prezident Bosh prokuror taqdimiga binoan tayinlaydi va u Bosh prokurorga bo'ysunadi hamda hisobot beradi (17–19-bandlar); 2024-yildan keyingi nizom tekshirilmagan.",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
-          "ref": "Nizom 17–19-bandlar",
+          "title": "Departamentning rasmiy sayti prodepartament.uz (sayt test rejimida)",
+          "ref": "Rahbariyat",
+          "url": "https://prodepartament.uz/about-department/managements",
+          "retrieved": "2026-11-09",
+          "original": "Бош прокурор ўринбосари - Департамент бошлиғи"
+        },
+        {
+          "title": "PF-5446 (23.05.2018) nizomi, lex.uz",
+          "ref": "17–19-bandlar",
           "url": "https://lex.uz/uz/docs/-3743214",
           "retrieved": "2026-11-09",
           "original": "Bosh prokurorga bo'ysunuv va hisobdorlik asosida"
-        },
-        {
-          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
-          "ref": "rahbariyat",
-          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
-          "retrieved": "2026-11-09"
         }
       ]
     },
@@ -192,19 +205,19 @@
       ]
     },
     "structure": {
-      "summary": "2018-yil nizomiga ko'ra boshliq va uchta o'rinbosar; markaziy bo'linmalar va hududiy boshqarmalar rahbarlari Bosh prokuror yoki boshliq tomonidan tayinlanadi (17–21-bandlar). Xizmatga qabul: oliy ma'lumot va tegishli sohada kamida 5 yillik tajriba, 3 oygacha sinov muddati, qasamyod; xodimlar davlat himoyasida (xizmat nizomi, 4, 5, 11, 44-bandlar). Rag'batlantirish ajratilgan budjet mablag'lari va departamentning budjetdan tashqari maxsus jamg'armasidan moliyalashtiriladi (22-band). Departament tarkibidagi Davlat moliyaviy nazorati inspeksiyasi 2025-yildan qonunda nomlangan. Xodimlar soni bu manbalarda ko'rsatilmagan.",
+      "summary": "Rasmiy saytdagi tashkiliy tuzilma sxemasiga ko'ra boshliq (Bosh prokuror o'rinbosari) huzurida yordamchi va matbuot kotibi bor; 4 ta o'rinbosar (biri birinchi o'rinbosar) bo'linmalarni boshqaradi. Birinchi o'rinbosar: Tizimli tahlil boshqarmasi; Moliya-xo'jalik bo'limi; Raqamlashtirish va axborot xavfsizligini ta'minlash bo'limi; Davlat moliyaviy nazorati inspeksiyasi; Alkogol va tamaki bozorini tartibga solish inspeksiyasi. 2-o'rinbosar: Ijtimoiy sohada korrupsiya va iqtisodiy jinoyatlarga qarshi kurashish boshqarmasi; Iqtisodiy sohada korrupsiya va iqtisodiy jinoyatlarga qarshi kurashish boshqarmasi; Kriminalistika laboratoriyasi. 3-o'rinbosar: Taftish boshqarmasi; Murojaatlar bilan ishlash bo'limi; Tergov boshqarmasi (navbatchilik qismi bilan). 4-o'rinbosar: Jinoiy faoliyatdan olingan daromadlarni legallashtirishga qarshi kurashish boshqarmasi; Terrorizmni moliyalashtirishga qarshi kurashish boshqarmasi; Xavflarni baholash markazi. Bevosita boshliqqa bo'ysunuvchilar: Xalqaro aloqalar bo'limi, Shaxsiy xavfsizlik boshqarmasi, Tashkiliy-nazorat bo'limi, Jamoatchilik bilan aloqalar va huquqiy axborot bo'limi, Tezkor-qidiruv faoliyati hisobi bo'limi, Kadrlar bo'limi, Maxsus bo'lim, hududiy boshqarmalar va bo'limlar (sayt bosh sahifasida 14 ta hududiy boshqarma ko'rsatilgan). Xodimlar soni ko'rsatilmagan. 2018-yil nizomi bo'yicha xizmatga qabul: oliy ma'lumot va kamida 5 yillik tajriba, 3 oygacha sinov muddati, qasamyod; xodimlar davlat himoyasida.",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
-          "ref": "Nizom 17–22-bandlar; xizmat to'g'risidagi nizom 4, 5, 11, 44-bandlar",
-          "url": "https://lex.uz/uz/docs/-3743214",
+          "title": "Departamentning rasmiy sayti prodepartament.uz (sayt test rejimida)",
+          "ref": "Tashkiliy tuzilma (rasm-sxema)",
+          "url": "https://prodepartament.uz/about-department/structure",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
-          "ref": "Davlat moliyaviy nazorati inspeksiyasi",
-          "url": "https://lex.uz/docs/-7404929",
+          "title": "PF-5446 (23.05.2018) nizomi, lex.uz",
+          "ref": "xizmat to'g'risidagi nizom, 4, 5, 11, 44-bandlar",
+          "url": "https://lex.uz/uz/docs/-3743214",
           "retrieved": "2026-11-09"
         }
       ]

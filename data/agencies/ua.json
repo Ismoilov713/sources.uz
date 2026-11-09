@@ -1,0 +1,149 @@
+{
+  "code": "ua",
+  "name": "Ukraina",
+  "organ": "Iqtisodiy xavfsizlik byurosi (БЕБ)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Ukraina Iqtisodiy xavfsizlik byurosi (БЕБ, Economic Security Bureau of Ukraine, BEB). Markaziy ijroiya hokimiyat organi bo'lib, iqtisodiy jinoyatlarga qarshi kurashadi: iqtisodiyotga zarar yetkazuvchi huquqbuzarliklarning oldini olish, aniqlash va tergov qilish. O'zbekiston departamentiga yaqin ixtisoslashgan organ, lekin prokuratura tarkibida emas, Vazirlar Mahkamasi tizimida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "status",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09",
+          "original": "central executive authority against economic crime"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Ikkilamchi manbalarga ko'ra Qonun 2021-yil 28-yanvarda Oliy Rada tomonidan qabul qilingan, 2021-yil 22-martda Prezident imzolagan, 25-martdan kuchga kirgan; Vazirlar Mahkamasi faoliyatni boshlash haqida buyruqni 2021-yil 24-noyabrda chiqargan. Byuro soliq politsiyasi va Ichki ishlar hamda SBU ning iqtisodiy jinoyatlar bo'linmalari vakolatini o'z zimmasiga olgan va \"iqtisodiy jinoyatlar bilan shug'ullanadigan yagona davlat organi\" bo'lishi ko'zda tutilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "sanalar va o'rnini olgan organlar",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "CMS/Kyiv Post (qidiruv natijasi)",
+          "ref": "ishga tushish",
+          "url": "https://www.kyivpost.com/post/49109",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Ukraina Qonuni. Manbalar raqamda kelishmaydi: CMS № 1150-IX (22.03.2021 imzolangan, 25.03.2021 kuchga kirgan) deydi, Byuroning rasmiy sayti esa \"16.12.2020 yildagi № 1089-IX\" ni keltirgani qidiruv natijasida ko'rsatilgan; birlamchi matn (zakon.rada.gov.ua) ulanmadi. Qaysi biri to'g'riligini rasmiy matndan aniqlash kerak.",
+      "status": "ziddiyatli",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "Qonun raqami va sanasi",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09",
+          "original": "Law No. 1150-IX"
+        },
+        {
+          "title": "Byuroning rasmiy sayti (qidiruv natijasi)",
+          "ref": "Qonun raqami",
+          "url": "https://esbu.gov.ua/en/about-bureau/general-principles-of-activity",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Byuro faoliyatini Vazirlar Mahkamasi boshqaradi va muvofiqlashtiradi. Direktor Vazirlar Mahkamasi tomonidan ochiq tanlov asosida tayinlanadi: uch a'zoli tanlov komissiyasi (Milliy xavfsizlik va mudofaa kengashi, parlament, Vazirlar Mahkamasidan bittadan), uchta finalist, Bosh vazir bittasini tanlab Vazirlar Mahkamasiga taqdim etadi. Muddat 5 yil, ketma-ket ikki martadan ortiq emas. Qidiruv natijalariga ko'ra Oleksandr Tsyvinskiy 2025-yil avgustida direktor etib tayinlangan (ikkilamchi manba).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "rahbar va bo'ysunuv",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09",
+          "original": "Appointed by the Cabinet of Ministers after an open competition"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "Asosiy vazifalar: iqtisodiyotdagi xavf sohalarini baholash va ma'lumotlarni tahlil qilish, xalqaro texnik yordamdan noto'g'ri foydalanishni tergov qilish, davlat tartibga solishiga o'zgartirishlar taklif qilish. Byuroning ikki asosiy vazifasi: tahliliy va huquqni muhofaza qiluvchi; ikkinchisi firibgarlik, soliqdan bo'yin tovlash, kontrabanda va pul yuvish kabi moliyaviy jinoyatlarni qamraydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "vazifalar",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "CMS/Kyiv Post (qidiruv natijasi)",
+          "ref": "funksiyalar",
+          "url": "https://www.kyivpost.com/post/49109",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Jinoyatlar toifalari bu manbada nomlari bilan sanalmagan; faqat umumiy ta'rif keltirilgan: iqtisodiyotga zarar yetkazuvchi huquqbuzarliklar, firibgarlik, soliqdan bo'yin tovlash, kontrabanda, pul yuvish. Jinoyat-protsessual kodeksidagi aniq tegishlilik ro'yxati o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "vakolat doirasi",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "Qonunga ko'ra Byuro jinoyatlar haqida ma'lumot to'plab tahlil qiladi, operativ-tergov faoliyatini amalga oshiradi, iqtisodiy jinoyatlar bo'yicha yashirinib yurganlarni qidiradi, ma'muriy ish yuritadi va qonunda ko'zda tutilgan hollarda ma'muriy jazo qo'llaydi, davlat organlari, mahalliy o'zini o'zi boshqarish organlari va korxonalardan axborot so'raydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "vakolatlar",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "CMS xabarida \"dastlabki tergov\" (pre-trial investigation) atamasi ishlatilmagan, faqat \"operativ-tergov faoliyati\" yozilgan; Byuro tergovchilarining ish yuritish vakolati (Jinoyat-protsessual kodeksi bo'yicha) bu loyihada o'qilmagan, shuning uchun uni tasdiqlamayman.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "tergov vakolati",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Ukrainada moliyaviy razvedka funksiyasi Byurodan alohida organda deb taxmin qilinadi, lekin bu manbalarda tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "moliyaviy razvedka",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Hisob palatasi (Accounting Chamber) Byuro yetarli moliyalashtirilmaganini, kadrlar yetishmasligini va hukumat tomonidan yetarli muvofiqlashtirish bo'lmaganini ta'kidlagan (ikkilamchi manba). Xodimlar soni va tuzilma tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "The Public, Hisob palatasi xulosasi (qidiruv natijasi)",
+          "ref": "moliyalashtirish",
+          "url": "https://thepublic.info/en/news/raxunkova_palata_ziasuvala_shho_beb_praciuvav_bez_naleznogo_finansuvannia_ta_dopomogi_uriadu",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

@@ -7052,6 +7052,149 @@ window.PROCEDURE = [
 ];
 window.AGENCIES = [
 {
+  "code": "by",
+  "name": "Belarus",
+  "organ": "Davlat nazorat qo'mitasi huzuridagi Moliyaviy tergov departamenti (ДФР)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Belarus Davlat nazorat qo'mitasi (КГК) tarkibidagi Moliyaviy tergov departamenti (ДФР) va uning hududiy boshqarma hamda bo'limlari – \"moliyaviy tergov organlari\". 1-moddaga ko'ra ular mamlakat iqtisodiy xavfsizligini ta'minlovchi davlat huquqni muhofaza qiluvchi organlar. Bu O'zbekiston departamentiga eng yaqin tuzilmalardan biri: nazorat qo'mitasi tarkibidagi huquqni muhofaza organi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "1-modda",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09",
+          "original": "Органы ... государственные правоохранительные органы, обеспечивающие экономическую безопасность"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Qidiruv natijasida keltirilgan hujjatga ko'ra Moliyaviy tergov departamenti Davlat nazorat qo'mitasida Moliyaviy tergovlar davlat qo'mitasi asosida tashkil etilgan va uning huquqiy vorisi hisoblanadi. Hujjat va sanasi birlamchi matndan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "etalonline.by (qidiruv natijasi)",
+          "ref": "ДФР tashkil etilishi",
+          "url": "https://etalonline.by/document/?regnum=P30100617",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Belarus Qonuni 2008-yil 16-iyuldagi № 414-З \"Davlat nazorat qo'mitasi moliyaviy tergov organlari to'g'risida\" (17.07.2023 tahrirda ko'rilgan), Prezident qarorlari va boshqa hujjatlar; Departamentning o'ziga xosliklari shular bilan belgilanadi (Qo'mita to'g'risidagi № 142-З qonun, 3-modda 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "umumiy",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Belarus Qonuni № 142-З (КГК), etalonline.by",
+          "ref": "3-modda 3-qism",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Umumiy rahbarlikni Prezident va КГК Raisi amalga oshiradi; bevosita rahbar КГК Raisining o'rinbosari, u Departament direktori ham. Direktorni Prezident tayinlaydi va ozod qiladi, Departament to'g'risidagi nizomni tasdiqlaydi va shtat sonini belgilaydi; КГК Raisi Prezidentga direktor tayinlash bo'yicha taqdim kiritadi va o'rta va katta boshliq tarkibni tayinlaydi (8, 9-moddalar).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "8, 9-moddalar",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "2-modda: organlar jamiyat va davlatni iqtisodiy tajovuzlardan, fuqarolar va tashkilotlarning iqtisodiy sohadagi huquqlarini himoya qiladi; korrupsion jinoyatlarni ham o'z ichiga olgan jinoyat va ma'muriy huquqbuzarliklarning profilaktikasi, aniqlanishi va oldini olishi bilan shug'ullanadi; o'z vakolati doirasida surishtiruv (дознание) va ma'muriy jarayonni olib boradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "2-modda",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Aniq jinoyat moddalari ro'yxati o'qilgan matnda yo'q (matnning bir qismi o'qilmadi); ta'rif umumiy: iqtisodiy sohadagi huquqbuzarliklar, shu jumladan korrupsion.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "2-modda",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "13-modda: operativ-qidiruv faoliyati; tekshiruvlar, monitoring va davlat organlari va tashkilotlaridan axborot so'rash; bank hisobvaraqlari haqida axborot olish (bank sirini saqlagan holda); majburiy qarorlar chiqarish, shu jumladan hisobvaraq bo'yicha operatsiyalarni to'xtatish (qaror organ rahbari yoki uning o'rinbosari tomonidan); quyi organlarning noqonuniy qarorlarini bekor qilish; jinoyatda gumon qilinayotgan va ma'muriy jarayondagi shaxslarni ushlash va olib kelish. 14-modda xodimlar huquqlari: tekshiriladigan obyektlarga xizmat guvohnomasi va ko'rsatma bilan kirish, ushlanganlarni shaxsiy tintuv qilish, foto va videoga olish, dalil bo'lishi mumkin bo'lgan hujjat va predmetlarni olish, buxgalteriya hujjatlarini tekshirish.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "13, 14-moddalar",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09",
+          "original": "Осуществление оперативно-розыскной деятельности ... приостановление операций по счетам"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "11-modda: organlar jinoyat haqidagi arizalarni qabul qilib ro'yxatdan o'tkazadi, surishtiruv (дознание) olib boradi va ma'muriy jarayonni yuritadi. Bu manbaning o'qilgan qismida dastlabki tergov (предварительное следствие) vakolati ko'rsatilmagan; bu masala Jinoyat-protsessual kodeksidan alohida tekshirilishi kerak.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "2, 11-moddalar",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Qidiruv natijasiga ko'ra КГК tarkibida Moliyaviy tergov departamenti bilan birga Moliyaviy monitoring departamenti ham bor; uning vakolati bu loyihada birlamchi matndan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "pravo.by (qidiruv natijasi)",
+          "ref": "КГК tuzilmasi",
+          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2019/july/38006/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "7-modda: tizimga Moliyaviy tergov departamenti (yuridik shaxs huquqi bilan), viloyatlar, Minsk viloyati va Minsk shahri bo'yicha Departament boshqarmalari va ularning tumanlararo bo'limlari kiradi. Shtat sonini Prezident belgilaydi (9-modda). 2019-yil birinchi yarim yilligida bu organlar 590 ta jinoyatni aniqlagani (41,8% og'ir) pravo.by xabarida keltirilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "7, 9-moddalar",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "pravo.by, 2019",
+          "ref": "statistika",
+          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2019/july/38006/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
   "code": "de",
   "name": "Germaniya",
   "organ": "Schwerpunktstaatsanwaltschaften + Wirtschaftsstrafkammer + FIU (yagona organ yo'q)",
@@ -7338,6 +7481,185 @@ window.AGENCIES = [
           "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
           "ref": "705",
           "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "code": "kr",
+  "name": "Janubiy Koreya",
+  "organ": "Jiddiy jinoyatlarni tergov qilish agentligi (SCIA) + Davlat ayblov xizmati + FSS/NTS maxsus sud politsiyasi (2026-yil 2-oktabrdan)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Janubiy Koreyada 2026-yil 2-oktabrda 78 yillik prokuratura xizmati tugatildi va uning o'rniga ikki yangi organ ochildi: faqat ayblov va ayblovni qo'llab-quvvatlash bilan shug'ullanuvchi Davlat ayblov xizmati (Public Prosecution Service, Adliya vazirligi huzurida) va Jiddiy jinoyatlarni tergov qilish agentligi (Serious Crimes Investigation Agency, SCIA, Ichki ishlar va xavfsizlik vazirligi huzurida). Iqtisodiy jinoyatlar va korrupsiya bo'yicha asosiy tergov organi SCIA. Bu O'zbekistondagi modeldan farq qiladi: tergov va ayblov bu yerda alohida organlarga ajratilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "tugatilishi va yangi organlar",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09",
+          "original": "Two new agencies replace it"
+        },
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "SCIA va PPS",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Eski modelda iqtisodiy jinoyatlarni prokuratura tergov qilgan. Moliyaviy va qimmatli qog'ozlar jinoyatlari bo'yicha qo'shma tergov guruhi 2013-yilda Seul markaziy okrug prokuraturasida tuzilgan, 2014-yil fevralda Seul janubiy okrug prokuraturasiga ko'chirilgan, 2020-yil yanvarda tugatilgan va 2022-yil mayda 48 a'zodan iborat yangi \"qo'shma tergov guruhi\" sifatida tiklangan. 2026-yil 2-oktabrda prokuratura tugatildi; SCIA va Davlat ayblov xizmati shu kuni ishga tushdi. Islohot taxminan bir yilda yakunlangan va tezda o'tkazilgani tanqid qilingan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Asia Economy (Asiae), 2024",
+          "ref": "qo'shma tergov guruhi tarixi",
+          "url": "https://www.asiae.co.kr/en/article/2024031713435071359",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Korea Times, 18.05.2022",
+          "ref": "guruh tiklanishi",
+          "url": "https://www.koreatimes.co.kr/amp/southkorea/law-crime/20220518/prosecution-revives-joint-investigation-team-on-financial-and-securities-crimes",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "2026-yil 2-oktabr",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "islohot muddati",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "OAV xabarlariga ko'ra: Davlat tashkiloti to'g'risidagi qonunga (Government Organization Act) o'zgartirish prokuratura idoralarini tugatgan; Jinoyat-protsessual qonun o'zgartirilib, prokurorlarning mustaqil va qo'shimcha tergov vakolati olib tashlangan (196-modda chiqarilgan); Prokuratura xizmati to'g'risidagi qonunda bosh prokuror Davlat ayblov xizmati rahbari etib belgilangan; SCIA to'g'risidagi qonun 2026-yil 29-sentabrdagi o'zgartirish (Act No. 22016) bilan kengaytirilgan. Qonunlarning o'zi (matni) bu loyihada o'qilmagan, mazmun ikkilamchi manbalardan olingan. Loyihada avval o'qilgan CPA ning inglizcha matni 2020-yilgacha va endi eskirgan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "JPK 196-modda chiqarilgan; Act No. 22016",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "qonunlar ro'yxati",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "SCIA Ichki ishlar va xavfsizlik vazirligi huzurida (dastlab Prezident Adliya vazirligi huzurida taklif qilgan edi; vazirlik tanlovi tanqid qilingan: \"Ichki ishlar vazirligida vakolat haddan tashqari to'planishi mumkin\"). Davlat ayblov xizmati Adliya vazirligi huzurida. Ishga tushirish kunida ikkala organning ham doimiy rahbari tayinlanmagan edi; SCIA rahbari nomzodi bo'yicha qo'shimcha tekshiruv ketayotgan edi. Bosh prokuror lavozimi 2025-yil iyulidan bo'sh. Hozirgi (2026-yil noyabr) holat tekshirilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "bo'ysunuv",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "rahbariyat va bo'ysunuv",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "SCIA yetti toifadagi jinoyatlarni to'g'ridan-to'g'ri tergov qiladi: korrupsiya, iqtisodiy jinoyatlar, mudofaa sanoati, giyohvandlik, qo'zg'olon va tashqi tajovuz, kiberjinoyat va qonunni buzib ko'rsatish; kuchsiz guruhlarga qaratilgan jinoyatlar bo'yicha qo'shimcha tergov ham olib boradi. Politsiya aksar umumiy jinoyatlarni tergov qiladi. Davlat ayblov xizmati ayblovni hal qiladi va sudda qo'llab-quvvatlaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "SCIA va politsiya vazifalari",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "SCIA vakolatidagi toifalar",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Iqtisodiy jinoyatlar bo'yicha taqsimlanish (Seoul Economic Daily): qimmatli qog'oz bozoridagi suiiste'mollar (insayder savdo, narxni manipulyatsiya qilish) Moliyaviy nazorat xizmati (FSS) yoki SCIA ning moliyaviy jinoyatlar byurosi tomonidan; kelishilgan harakatlar (kartel) Adolatli savdo komissiyasi taqdimoti orqali SCIA ning antimonopol byurosiga; soliq ishlari Milliy soliq xizmati (NTS) yoki SCIA ning iqtisodiy jinoyatlar byurosiga; o'zlashtirish va ishonchni suiiste'mol qilish SCIA ga faqat foyda 500 million von va undan ko'p bo'lganda (Maxsus iqtisodiy jinoyatlar uchun og'irlashtirilgan javobgarlik to'g'risidagi qonun) yuboriladi, qolgani politsiyada. Maxsus sud politsiyasi: FSS (kapital bozor), NTS (soliq), Bojxona xizmati (bojxona), mehnat inspektorlari.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "iqtisodiy jinoyatlar xaritasi",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "Yangi tartibda Davlat ayblov xizmati o'zi tergov qila olmaydi va gumondorni chaqira olmaydi. U yozuvlar asosida ayblov haqida qaror qiladi, hibsga olish orderi so'ralganda gumondor bilan suhbatlasha oladi (201-modda 7-qism) va ish to'liq bo'lmasa faqat qo'shimcha yoki qayta tergov \"so'rashi\" mumkin (197-2-modda 8-qism, 245-13-moddasi). Qayta tergovni talab qilish yozuvlar yuborilgandan keyin 3 oy ichida mumkin, ikki tomonlama talablar jarayonni 10 oy va undan uzoqqa cho'zishi mumkin.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "Davlat ayblov xizmati vakolatlari",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09",
+          "original": "It cannot investigate directly or summon suspects for questioning"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Tergov SCIA, politsiya va maxsus sud politsiyasi (FSS, NTS, Bojxona xizmati va b.) orqali olib boriladi; maxsus sud politsiyasi ishlari \"nottransfer\" qarori bo'lmagani sababli barchasi Davlat ayblov xizmatiga yuboriladi. Ya'ni O'zbekistondagi departament bir organda birlashtiradigan tergov va nazorat Koreyada bir necha organ o'rtasida taqsimlangan, ayblov esa alohida organga berilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "maxsus sud politsiyasi",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "tergov va ayblovning ajralishi",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Koreya moliyaviy razvedkasi (KoFIU) bu loyihada birlamchi manbadan tekshirilmadi; qidiruv natijalarida u haqida faqat tasodifiy eslatma bor.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Asia Economy qidiruv natijasi",
+          "ref": "KoFIU",
+          "url": "https://www.asiae.co.kr/en/article/2024031713435071359",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "SCIA uchun ruxsat etilgan xodimlar soni 2874, biroq ariza topshirganlar 1962 (taxminan 68%), ulardan atigi ~100 nafari prokuror bo'lgan; katta tergovchi lavozimlarining (5-daraja va yuqori) 629 tasidan 212 tasiga (33,7%) ariza kelgan. Prokurorlarni SCIA ga \"tergov sud xodimlari\" sifatida o'tkazish rejasidan voz kechilgan. Mavjud prokuratura idoralari tergov vazifasisiz Davlat ayblov xizmati filiallariga aylangan; Oliy prokuratura tugatilgan. 137 ta quyi hujjat, 61 ta qonun o'zgartirish kutmoqda.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "xodimlar soni va tuzilma",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7827,6 +8149,156 @@ window.AGENCIES = [
 }
 ,
 {
+  "code": "ua",
+  "name": "Ukraina",
+  "organ": "Iqtisodiy xavfsizlik byurosi (БЕБ)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Ukraina Iqtisodiy xavfsizlik byurosi (БЕБ, Economic Security Bureau of Ukraine, BEB). Markaziy ijroiya hokimiyat organi bo'lib, iqtisodiy jinoyatlarga qarshi kurashadi: iqtisodiyotga zarar yetkazuvchi huquqbuzarliklarning oldini olish, aniqlash va tergov qilish. O'zbekiston departamentiga yaqin ixtisoslashgan organ, lekin prokuratura tarkibida emas, Vazirlar Mahkamasi tizimida.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "status",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09",
+          "original": "central executive authority against economic crime"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Ikkilamchi manbalarga ko'ra Qonun 2021-yil 28-yanvarda Oliy Rada tomonidan qabul qilingan, 2021-yil 22-martda Prezident imzolagan, 25-martdan kuchga kirgan; Vazirlar Mahkamasi faoliyatni boshlash haqida buyruqni 2021-yil 24-noyabrda chiqargan. Byuro soliq politsiyasi va Ichki ishlar hamda SBU ning iqtisodiy jinoyatlar bo'linmalari vakolatini o'z zimmasiga olgan va \"iqtisodiy jinoyatlar bilan shug'ullanadigan yagona davlat organi\" bo'lishi ko'zda tutilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "sanalar va o'rnini olgan organlar",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "CMS/Kyiv Post (qidiruv natijasi)",
+          "ref": "ishga tushish",
+          "url": "https://www.kyivpost.com/post/49109",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "\"Iqtisodiy xavfsizlik byurosi to'g'risida\"gi Ukraina Qonuni. Manbalar raqamda kelishmaydi: CMS № 1150-IX (22.03.2021 imzolangan, 25.03.2021 kuchga kirgan) deydi, Byuroning rasmiy sayti esa \"16.12.2020 yildagi № 1089-IX\" ni keltirgani qidiruv natijasida ko'rsatilgan; birlamchi matn (zakon.rada.gov.ua) ulanmadi. Qaysi biri to'g'riligini rasmiy matndan aniqlash kerak.",
+      "status": "ziddiyatli",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "Qonun raqami va sanasi",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09",
+          "original": "Law No. 1150-IX"
+        },
+        {
+          "title": "Byuroning rasmiy sayti (qidiruv natijasi)",
+          "ref": "Qonun raqami",
+          "url": "https://esbu.gov.ua/en/about-bureau/general-principles-of-activity",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Byuro faoliyatini Vazirlar Mahkamasi boshqaradi va muvofiqlashtiradi. Direktor Vazirlar Mahkamasi tomonidan ochiq tanlov asosida tayinlanadi: uch a'zoli tanlov komissiyasi (Milliy xavfsizlik va mudofaa kengashi, parlament, Vazirlar Mahkamasidan bittadan), uchta finalist, Bosh vazir bittasini tanlab Vazirlar Mahkamasiga taqdim etadi. Muddat 5 yil, ketma-ket ikki martadan ortiq emas. Qidiruv natijalariga ko'ra Oleksandr Tsyvinskiy 2025-yil avgustida direktor etib tayinlangan (ikkilamchi manba).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "rahbar va bo'ysunuv",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09",
+          "original": "Appointed by the Cabinet of Ministers after an open competition"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "Asosiy vazifalar: iqtisodiyotdagi xavf sohalarini baholash va ma'lumotlarni tahlil qilish, xalqaro texnik yordamdan noto'g'ri foydalanishni tergov qilish, davlat tartibga solishiga o'zgartirishlar taklif qilish. Byuroning ikki asosiy vazifasi: tahliliy va huquqni muhofaza qiluvchi; ikkinchisi firibgarlik, soliqdan bo'yin tovlash, kontrabanda va pul yuvish kabi moliyaviy jinoyatlarni qamraydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "vazifalar",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "CMS/Kyiv Post (qidiruv natijasi)",
+          "ref": "funksiyalar",
+          "url": "https://www.kyivpost.com/post/49109",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Jinoyatlar toifalari bu manbada nomlari bilan sanalmagan; faqat umumiy ta'rif keltirilgan: iqtisodiyotga zarar yetkazuvchi huquqbuzarliklar, firibgarlik, soliqdan bo'yin tovlash, kontrabanda, pul yuvish. Jinoyat-protsessual kodeksidagi aniq tegishlilik ro'yxati o'qilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "vakolat doirasi",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "Qonunga ko'ra Byuro jinoyatlar haqida ma'lumot to'plab tahlil qiladi, operativ-tergov faoliyatini amalga oshiradi, iqtisodiy jinoyatlar bo'yicha yashirinib yurganlarni qidiradi, ma'muriy ish yuritadi va qonunda ko'zda tutilgan hollarda ma'muriy jazo qo'llaydi, davlat organlari, mahalliy o'zini o'zi boshqarish organlari va korxonalardan axborot so'raydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "vakolatlar",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "CMS xabarida \"dastlabki tergov\" (pre-trial investigation) atamasi ishlatilmagan, faqat \"operativ-tergov faoliyati\" yozilgan; Byuro tergovchilarining ish yuritish vakolati (Jinoyat-protsessual kodeksi bo'yicha) bu loyihada o'qilmagan, shuning uchun uni tasdiqlamayman.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "tergov vakolati",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Ukrainada moliyaviy razvedka funksiyasi Byurodan alohida organda deb taxmin qilinadi, lekin bu manbalarda tekshirilmagan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "CMS Legal: Law No. 1150-IX on the Bureau of Economic Security",
+          "ref": "moliyaviy razvedka",
+          "url": "https://cms.law/en/ukr/legal-updates/the-law-creating-bureau-of-economic-security-entered-into-force",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "Hisob palatasi (Accounting Chamber) Byuro yetarli moliyalashtirilmaganini, kadrlar yetishmasligini va hukumat tomonidan yetarli muvofiqlashtirish bo'lmaganini ta'kidlagan (ikkilamchi manba). Xodimlar soni va tuzilma tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "The Public, Hisob palatasi xulosasi (qidiruv natijasi)",
+          "ref": "moliyalashtirish",
+          "url": "https://thepublic.info/en/news/raxunkova_palata_ziasuvala_shho_beb_praciuvav_bez_naleznogo_finansuvannia_ta_dopomogi_uriadu",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
+,
+{
   "code": "uk",
   "name": "Buyuk Britaniya",
   "organ": "Serious Fraud Office (SFO)",
@@ -8128,15 +8600,15 @@ window.AGENCIES = [
   "updated": "2026-11-09",
   "items": {
     "identity": {
-      "summary": "Bosh prokuratura huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamenti. 2018-yildagi nizomda u \"mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ\" deb ta'riflangan. Yevrosiyo guruhi ma'lumotiga ko'ra u mamlakatning moliyaviy razvedka bo'linmasi (FIU) bo'lib, \"huquqni muhofaza qiluvchi turga\" kiradi, ya'ni faqat tahlil qilmaydi, balki tergov ham olib boradi.",
+      "summary": "Bosh prokuratura huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamenti. Rasmiy saytda u uch ta'rif bilan berilgan: (1) iqtisodiy va korrupsion jinoyatlar, jinoiy daromadlarni legallashtirish, terrorizmni va ommaviy qirg'in qurolini tarqatishni moliyalashtirish holatlari bo'yicha tezkor-qidiruv faoliyati, tergovgacha tekshiruv va surishtiruvni, shuningdek shu jinoyatlar oqibatida yetkazilgan iqtisodiy zararni qoplashni amalga oshiruvchi \"mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ\"; (2) legallashtirishga, terrorizm va ommaviy qirg'in qurolini tarqatishni moliyalashtirishga qarshi kurashish masalalari bo'yicha \"maxsus vakolatli davlat organi\"; (3) Soliq, valyutaga oid jinoyatlarga va jinoiy daromadlarni legallashtirishga qarshi kurashish departamentining huquq, majburiyat va shartnomalari (jumladan xalqaro shartnomalari) bo'yicha vorisi. Yevrosiyo guruhi bu organni moliyaviy razvedka bo'linmasi (FIU), \"huquqni muhofaza qiluvchi tur\" deb tasniflaydi.",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
-          "ref": "1-band va Nizom",
-          "url": "https://lex.uz/uz/docs/-3743214",
+          "title": "Departamentning rasmiy sayti prodepartament.uz (sayt test rejimida)",
+          "ref": "Departament faoliyati",
+          "url": "https://prodepartament.uz/about-department/activity",
           "retrieved": "2026-11-09",
-          "original": "Nizom: mustaqil ixtisoslashtirilgan huquqni muhofaza qiluvchi organ"
+          "original": "Ўзбекистон Республикаси Бош прокуратураси ҳузурида ... мустақил ихтисослаштирилган ҳуқуқни муҳофаза қилувчи орган"
         },
         {
           "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
@@ -8171,46 +8643,59 @@ window.AGENCIES = [
       ]
     },
     "legal_basis": {
-      "summary": "Asosiy hujjatlar: PF-5446 (23.05.2018) farmoni va unga ilova nizom; PQ-3947 (20.09.2018) qarori (jinoiy daromadlarni legallashtirishga qarshi idoralararo komissiya); O'RQ-1038 (25.02.2025) qonuni, u Jinoyat-protsessual kodeksi, Korrupsiyaga qarshi kurashish to'g'risidagi qonun, Ma'muriy javobgarlik va Budjet kodekslariga o'zgartirish kiritgan. Diqqat: lex.uz sahifasida PF-5446 \"2024-yil 8-iyulda kuchini yo'qotgan\" deb belgilangan; shu sanadan keyingi amaldagi nizom matni bu loyihada topilmadi va tekshirilmagan.",
+      "summary": "Rasmiy sayt \"faoliyatning huquqiy asoslari\" sifatida quyidagilarni ko'rsatadi: Konstitutsiya; \"Prokuratura to'g'risida\"gi Qonun; \"Tezkor-qidiruv faoliyati to'g'risida\"gi Qonun; \"Prokuratura organlari xodimlari kunini belgilash to'g'risida\"gi Qonun; Prezidentning \"Huquqbuzarliklar profilaktikasi va jinoyatchilikka qarshi kurashish tizimini yanada takomillashtirish chora-tadbirlari to'g'risida\"gi qarori; hamda \"Departament to'g'risida\" nizom (sahifada nomi bor, raqam va sana ko'rsatilmagan). Bundan tashqari: PF-5446 (23.05.2018) farmoni, PQ-3947 (20.09.2018) qarori, O'RQ-1038 (25.02.2025) Qonuni. Diqqat: lex.uz sahifasida PF-5446 \"2024-yil 8-iyulda kuchini yo'qotgan\" deb belgilangan; amaldagi nizom matni topilmadi.",
       "status": "tekshirilmagan",
       "sources": [
         {
-          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
+          "title": "Departamentning rasmiy sayti prodepartament.uz (sayt test rejimida)",
+          "ref": "Huquqiy asoslar",
+          "url": "https://prodepartament.uz/about-department/legal-bases",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "lex.uz: Prokuratura to'g'risidagi Qonun",
+          "ref": "Qonun",
+          "url": "https://lex.uz/acts/106197",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "lex.uz: Tezkor-qidiruv faoliyati to'g'risidagi Qonun",
+          "ref": "Qonun",
+          "url": "https://www.lex.uz/acts/2107763",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "PF-5446 (23.05.2018), lex.uz",
           "ref": "sahifa holati",
           "url": "https://lex.uz/uz/docs/-3743214",
           "retrieved": "2026-11-09",
           "original": "lex.uz: 08.07.2024 yildan kuchini yo'qotgan deb belgilangan"
         },
         {
-          "title": "PQ-3947 (20.09.2018) Qaror, lex.uz",
-          "ref": "3-band",
-          "url": "https://lex.uz/mact/-3912609",
-          "retrieved": "2026-11-09"
-        },
-        {
-          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
-          "ref": "1-qism",
+          "title": "O'RQ-1038 (25.02.2025), lex.uz",
+          "ref": "Qonun",
           "url": "https://lex.uz/docs/-7404929",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "subordination": {
-      "summary": "Departament Bosh prokuratura huzurida ishlaydi (O'RQ-1038). 2018-yil nizomiga ko'ra boshliqni Prezident Bosh prokuror taqdimiga binoan tayinlaydi, uning uchta o'rinbosari bor va ular Bosh prokuror o'rinbosariga tenglashtirilgan; boshliq Bosh prokurorga bo'ysunadi va hisobot beradi (17–19-bandlar). EAG ma'lumotiga ko'ra departament boshlig'i Bosh prokuror o'rinbosari hisoblanadi. 2024-yildan keyingi nizom tekshirilmagan.",
+      "summary": "Departament Bosh prokuratura huzurida ishlaydi; rahbari Bosh prokuror o'rinbosari lavozimida (\"Bosh prokuror o'rinbosari – Departament boshlig'i\"). Rasmiy saytdagi rahbariyat: Xatamov Jaxongir Jurayevich (Bosh prokuror o'rinbosari, Departament boshlig'i), Yunusov Marat Erkinovich (birinchi o'rinbosar), Ibragimov Jaxongir Xursanbayevich va Aripov Abror Odilovich (o'rinbosarlar). 2018-yil nizomiga ko'ra boshliqni Prezident Bosh prokuror taqdimiga binoan tayinlaydi va u Bosh prokurorga bo'ysunadi hamda hisobot beradi (17–19-bandlar); 2024-yildan keyingi nizom tekshirilmagan.",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
-          "ref": "Nizom 17–19-bandlar",
+          "title": "Departamentning rasmiy sayti prodepartament.uz (sayt test rejimida)",
+          "ref": "Rahbariyat",
+          "url": "https://prodepartament.uz/about-department/managements",
+          "retrieved": "2026-11-09",
+          "original": "Бош прокурор ўринбосари - Департамент бошлиғи"
+        },
+        {
+          "title": "PF-5446 (23.05.2018) nizomi, lex.uz",
+          "ref": "17–19-bandlar",
           "url": "https://lex.uz/uz/docs/-3743214",
           "retrieved": "2026-11-09",
           "original": "Bosh prokurorga bo'ysunuv va hisobdorlik asosida"
-        },
-        {
-          "title": "Yevrosiyo guruhi (EAG): O'zbekiston profili",
-          "ref": "rahbariyat",
-          "url": "https://eurasiangroup.org/en/respublika-uzbekistan",
-          "retrieved": "2026-11-09"
         }
       ]
     },
@@ -8315,19 +8800,19 @@ window.AGENCIES = [
       ]
     },
     "structure": {
-      "summary": "2018-yil nizomiga ko'ra boshliq va uchta o'rinbosar; markaziy bo'linmalar va hududiy boshqarmalar rahbarlari Bosh prokuror yoki boshliq tomonidan tayinlanadi (17–21-bandlar). Xizmatga qabul: oliy ma'lumot va tegishli sohada kamida 5 yillik tajriba, 3 oygacha sinov muddati, qasamyod; xodimlar davlat himoyasida (xizmat nizomi, 4, 5, 11, 44-bandlar). Rag'batlantirish ajratilgan budjet mablag'lari va departamentning budjetdan tashqari maxsus jamg'armasidan moliyalashtiriladi (22-band). Departament tarkibidagi Davlat moliyaviy nazorati inspeksiyasi 2025-yildan qonunda nomlangan. Xodimlar soni bu manbalarda ko'rsatilmagan.",
+      "summary": "Rasmiy saytdagi tashkiliy tuzilma sxemasiga ko'ra boshliq (Bosh prokuror o'rinbosari) huzurida yordamchi va matbuot kotibi bor; 4 ta o'rinbosar (biri birinchi o'rinbosar) bo'linmalarni boshqaradi. Birinchi o'rinbosar: Tizimli tahlil boshqarmasi; Moliya-xo'jalik bo'limi; Raqamlashtirish va axborot xavfsizligini ta'minlash bo'limi; Davlat moliyaviy nazorati inspeksiyasi; Alkogol va tamaki bozorini tartibga solish inspeksiyasi. 2-o'rinbosar: Ijtimoiy sohada korrupsiya va iqtisodiy jinoyatlarga qarshi kurashish boshqarmasi; Iqtisodiy sohada korrupsiya va iqtisodiy jinoyatlarga qarshi kurashish boshqarmasi; Kriminalistika laboratoriyasi. 3-o'rinbosar: Taftish boshqarmasi; Murojaatlar bilan ishlash bo'limi; Tergov boshqarmasi (navbatchilik qismi bilan). 4-o'rinbosar: Jinoiy faoliyatdan olingan daromadlarni legallashtirishga qarshi kurashish boshqarmasi; Terrorizmni moliyalashtirishga qarshi kurashish boshqarmasi; Xavflarni baholash markazi. Bevosita boshliqqa bo'ysunuvchilar: Xalqaro aloqalar bo'limi, Shaxsiy xavfsizlik boshqarmasi, Tashkiliy-nazorat bo'limi, Jamoatchilik bilan aloqalar va huquqiy axborot bo'limi, Tezkor-qidiruv faoliyati hisobi bo'limi, Kadrlar bo'limi, Maxsus bo'lim, hududiy boshqarmalar va bo'limlar (sayt bosh sahifasida 14 ta hududiy boshqarma ko'rsatilgan). Xodimlar soni ko'rsatilmagan. 2018-yil nizomi bo'yicha xizmatga qabul: oliy ma'lumot va kamida 5 yillik tajriba, 3 oygacha sinov muddati, qasamyod; xodimlar davlat himoyasida.",
       "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "PF-5446 (23.05.2018) va uning nizomi, lex.uz",
-          "ref": "Nizom 17–22-bandlar; xizmat to'g'risidagi nizom 4, 5, 11, 44-bandlar",
-          "url": "https://lex.uz/uz/docs/-3743214",
+          "title": "Departamentning rasmiy sayti prodepartament.uz (sayt test rejimida)",
+          "ref": "Tashkiliy tuzilma (rasm-sxema)",
+          "url": "https://prodepartament.uz/about-department/structure",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "O'RQ-1038 (25.02.2025) Qonun, lex.uz",
-          "ref": "Davlat moliyaviy nazorati inspeksiyasi",
-          "url": "https://lex.uz/docs/-7404929",
+          "title": "PF-5446 (23.05.2018) nizomi, lex.uz",
+          "ref": "xizmat to'g'risidagi nizom, 4, 5, 11, 44-bandlar",
+          "url": "https://lex.uz/uz/docs/-3743214",
           "retrieved": "2026-11-09"
         }
       ]
@@ -8794,6 +9279,12 @@ window.SNAPSHOT = {
       "lay": "Hakamlar hay'ati: 8 yoki 6 hakam (ayblanuvchi iltimosi bilan)",
       "appeals": "Apellyatsiya, kassatsiya, nazorat tartibida",
       "deal": "Ayblovga rozilik bilan hukm (314), hamkorlik kelishuvi (317.6)"
+    },
+    "ua": {
+      "color": "#2b7fd6"
+    },
+    "by": {
+      "color": "#4a9a3a"
     }
   }
 }

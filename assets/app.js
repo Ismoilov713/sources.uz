@@ -51,6 +51,8 @@ const snap = (window.SNAPSHOT && window.SNAPSHOT.countries) || {};
 const countries = (window.COUNTRIES || []).slice().sort((a, b) => (b.code === "uz") - (a.code === "uz"));
 const agencies = {};
 (window.AGENCIES || []).forEach(a => { agencies[a.code] = a; });
+const agencyList = (window.AGENCIES || []).map(a => ({ code: a.code, name: a.name })).sort((a, b) => (b.code === "uz") - (a.code === "uz"));
+const pool = () => (tab === "agencies" ? agencyList : countries);
 const procedure = {};
 (window.PROCEDURE || []).forEach(p => { procedure[p.code] = p; });
 const colorOf = code => (snap[code] && snap[code].color) || "#1f5b94";
@@ -70,7 +72,7 @@ function readHash() {
   if (q) {
     const m = q.match(/(?:^|&)c=([^&]*)/);
     if (m) {
-      const list = m[1].split(",").filter(c => countries.some(x => x.code === c));
+      const list = m[1].split(",").filter(c => countries.some(x => x.code === c) || agencyList.some(x => x.code === c));
       if (list.length) selected = list;
     }
   }
@@ -92,7 +94,7 @@ function go(t, sel) {
 function renderSide() {
   document.querySelectorAll("#nav a").forEach(a => a.classList.toggle("active", a.dataset.tab === tab));
   $("sideCompare").style.display = (tab === "procedure" || tab === "system" || tab === "agencies") ? "" : "none";
-  $("picker").innerHTML = countries.map(c =>
+  $("picker").innerHTML = pool().map(c =>
     `<button type="button" class="chip ${selected.includes(c.code) ? "on" : ""}" data-c="${esc(c.code)}" style="--c:${colorOf(c.code)}">
        <span class="dot">${esc(c.code)}</span>${esc(c.name.replace(/ \(.*\)/, ""))}</button>`).join("");
   $("picker").querySelectorAll(".chip").forEach(b => b.onclick = () => {
@@ -181,7 +183,7 @@ function renderHome() {
 
 /* ---------- solishtirish ko'rinishlari ---------- */
 function filtered(labels, getter) {
-  const cs = countries.filter(c => selected.includes(c.code));
+  const cs = pool().filter(c => selected.includes(c.code));
   const onlyDiff = $("onlyDiff").checked, onlyVer = $("onlyVerified").checked;
   const out = [];
   let i = 0;
@@ -269,7 +271,7 @@ function wire() {
 document.querySelectorAll("#nav a").forEach(a => a.onclick = e => { e.preventDefault(); go(a.dataset.tab); });
 $("onlyDiff").onchange = render;
 $("onlyVerified").onchange = render;
-$("selAll").onclick = () => { selected = countries.map(c => c.code); writeHash(); render(); };
+$("selAll").onclick = () => { selected = pool().map(c => c.code); writeHash(); render(); };
 $("selNone").onclick = () => { selected = []; writeHash(); render(); };
 window.addEventListener("hashchange", () => { readHash(); render(); });
 readHash();

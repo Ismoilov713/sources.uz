@@ -63,6 +63,12 @@
       "lay": "Hakamlar hay'ati: 8 yoki 6 hakam (ayblanuvchi iltimosi bilan)",
       "appeals": "Apellyatsiya, kassatsiya, nazorat tartibida",
       "deal": "Ayblovga rozilik bilan hukm (314), hamkorlik kelishuvi (317.6)"
+    },
+    "ua": {
+      "color": "#2b7fd6"
+    },
+    "by": {
+      "color": "#4a9a3a"
     }
   }
 }

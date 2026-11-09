@@ -1,0 +1,178 @@
+{
+  "code": "kr",
+  "name": "Janubiy Koreya",
+  "organ": "Jiddiy jinoyatlarni tergov qilish agentligi (SCIA) + Davlat ayblov xizmati + FSS/NTS maxsus sud politsiyasi (2026-yil 2-oktabrdan)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Janubiy Koreyada 2026-yil 2-oktabrda 78 yillik prokuratura xizmati tugatildi va uning o'rniga ikki yangi organ ochildi: faqat ayblov va ayblovni qo'llab-quvvatlash bilan shug'ullanuvchi Davlat ayblov xizmati (Public Prosecution Service, Adliya vazirligi huzurida) va Jiddiy jinoyatlarni tergov qilish agentligi (Serious Crimes Investigation Agency, SCIA, Ichki ishlar va xavfsizlik vazirligi huzurida). Iqtisodiy jinoyatlar va korrupsiya bo'yicha asosiy tergov organi SCIA. Bu O'zbekistondagi modeldan farq qiladi: tergov va ayblov bu yerda alohida organlarga ajratilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "tugatilishi va yangi organlar",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09",
+          "original": "Two new agencies replace it"
+        },
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "SCIA va PPS",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Eski modelda iqtisodiy jinoyatlarni prokuratura tergov qilgan. Moliyaviy va qimmatli qog'ozlar jinoyatlari bo'yicha qo'shma tergov guruhi 2013-yilda Seul markaziy okrug prokuraturasida tuzilgan, 2014-yil fevralda Seul janubiy okrug prokuraturasiga ko'chirilgan, 2020-yil yanvarda tugatilgan va 2022-yil mayda 48 a'zodan iborat yangi \"qo'shma tergov guruhi\" sifatida tiklangan. 2026-yil 2-oktabrda prokuratura tugatildi; SCIA va Davlat ayblov xizmati shu kuni ishga tushdi. Islohot taxminan bir yilda yakunlangan va tezda o'tkazilgani tanqid qilingan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Asia Economy (Asiae), 2024",
+          "ref": "qo'shma tergov guruhi tarixi",
+          "url": "https://www.asiae.co.kr/en/article/2024031713435071359",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Korea Times, 18.05.2022",
+          "ref": "guruh tiklanishi",
+          "url": "https://www.koreatimes.co.kr/amp/southkorea/law-crime/20220518/prosecution-revives-joint-investigation-team-on-financial-and-securities-crimes",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "2026-yil 2-oktabr",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "islohot muddati",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "OAV xabarlariga ko'ra: Davlat tashkiloti to'g'risidagi qonunga (Government Organization Act) o'zgartirish prokuratura idoralarini tugatgan; Jinoyat-protsessual qonun o'zgartirilib, prokurorlarning mustaqil va qo'shimcha tergov vakolati olib tashlangan (196-modda chiqarilgan); Prokuratura xizmati to'g'risidagi qonunda bosh prokuror Davlat ayblov xizmati rahbari etib belgilangan; SCIA to'g'risidagi qonun 2026-yil 29-sentabrdagi o'zgartirish (Act No. 22016) bilan kengaytirilgan. Qonunlarning o'zi (matni) bu loyihada o'qilmagan, mazmun ikkilamchi manbalardan olingan. Loyihada avval o'qilgan CPA ning inglizcha matni 2020-yilgacha va endi eskirgan.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "JPK 196-modda chiqarilgan; Act No. 22016",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "qonunlar ro'yxati",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "SCIA Ichki ishlar va xavfsizlik vazirligi huzurida (dastlab Prezident Adliya vazirligi huzurida taklif qilgan edi; vazirlik tanlovi tanqid qilingan: \"Ichki ishlar vazirligida vakolat haddan tashqari to'planishi mumkin\"). Davlat ayblov xizmati Adliya vazirligi huzurida. Ishga tushirish kunida ikkala organning ham doimiy rahbari tayinlanmagan edi; SCIA rahbari nomzodi bo'yicha qo'shimcha tekshiruv ketayotgan edi. Bosh prokuror lavozimi 2025-yil iyulidan bo'sh. Hozirgi (2026-yil noyabr) holat tekshirilmagan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "bo'ysunuv",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "rahbariyat va bo'ysunuv",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "SCIA yetti toifadagi jinoyatlarni to'g'ridan-to'g'ri tergov qiladi: korrupsiya, iqtisodiy jinoyatlar, mudofaa sanoati, giyohvandlik, qo'zg'olon va tashqi tajovuz, kiberjinoyat va qonunni buzib ko'rsatish; kuchsiz guruhlarga qaratilgan jinoyatlar bo'yicha qo'shimcha tergov ham olib boradi. Politsiya aksar umumiy jinoyatlarni tergov qiladi. Davlat ayblov xizmati ayblovni hal qiladi va sudda qo'llab-quvvatlaydi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "SCIA va politsiya vazifalari",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "SCIA vakolatidagi toifalar",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Iqtisodiy jinoyatlar bo'yicha taqsimlanish (Seoul Economic Daily): qimmatli qog'oz bozoridagi suiiste'mollar (insayder savdo, narxni manipulyatsiya qilish) Moliyaviy nazorat xizmati (FSS) yoki SCIA ning moliyaviy jinoyatlar byurosi tomonidan; kelishilgan harakatlar (kartel) Adolatli savdo komissiyasi taqdimoti orqali SCIA ning antimonopol byurosiga; soliq ishlari Milliy soliq xizmati (NTS) yoki SCIA ning iqtisodiy jinoyatlar byurosiga; o'zlashtirish va ishonchni suiiste'mol qilish SCIA ga faqat foyda 500 million von va undan ko'p bo'lganda (Maxsus iqtisodiy jinoyatlar uchun og'irlashtirilgan javobgarlik to'g'risidagi qonun) yuboriladi, qolgani politsiyada. Maxsus sud politsiyasi: FSS (kapital bozor), NTS (soliq), Bojxona xizmati (bojxona), mehnat inspektorlari.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "iqtisodiy jinoyatlar xaritasi",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "Yangi tartibda Davlat ayblov xizmati o'zi tergov qila olmaydi va gumondorni chaqira olmaydi. U yozuvlar asosida ayblov haqida qaror qiladi, hibsga olish orderi so'ralganda gumondor bilan suhbatlasha oladi (201-modda 7-qism) va ish to'liq bo'lmasa faqat qo'shimcha yoki qayta tergov \"so'rashi\" mumkin (197-2-modda 8-qism, 245-13-moddasi). Qayta tergovni talab qilish yozuvlar yuborilgandan keyin 3 oy ichida mumkin, ikki tomonlama talablar jarayonni 10 oy va undan uzoqqa cho'zishi mumkin.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "Davlat ayblov xizmati vakolatlari",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09",
+          "original": "It cannot investigate directly or summon suspects for questioning"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "Tergov SCIA, politsiya va maxsus sud politsiyasi (FSS, NTS, Bojxona xizmati va b.) orqali olib boriladi; maxsus sud politsiyasi ishlari \"nottransfer\" qarori bo'lmagani sababli barchasi Davlat ayblov xizmatiga yuboriladi. Ya'ni O'zbekistondagi departament bir organda birlashtiradigan tergov va nazorat Koreyada bir necha organ o'rtasida taqsimlangan, ayblov esa alohida organga berilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Seoul Economic Daily, 17.10.2026",
+          "ref": "maxsus sud politsiyasi",
+          "url": "https://en.sedaily.com/society/2026/10/17/korea-scraps-prosecution-service-how-corporate-criminal",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Xinhua, 02.10.2026",
+          "ref": "tergov va ayblovning ajralishi",
+          "url": "https://english.news.cn/20261002/3c75be13b6cf4736acc3d8015e3ce9f2/c.html",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Koreya moliyaviy razvedkasi (KoFIU) bu loyihada birlamchi manbadan tekshirilmadi; qidiruv natijalarida u haqida faqat tasodifiy eslatma bor.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Asia Economy qidiruv natijasi",
+          "ref": "KoFIU",
+          "url": "https://www.asiae.co.kr/en/article/2024031713435071359",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "SCIA uchun ruxsat etilgan xodimlar soni 2874, biroq ariza topshirganlar 1962 (taxminan 68%), ulardan atigi ~100 nafari prokuror bo'lgan; katta tergovchi lavozimlarining (5-daraja va yuqori) 629 tasidan 212 tasiga (33,7%) ariza kelgan. Prokurorlarni SCIA ga \"tergov sud xodimlari\" sifatida o'tkazish rejasidan voz kechilgan. Mavjud prokuratura idoralari tergov vazifasisiz Davlat ayblov xizmati filiallariga aylangan; Oliy prokuratura tugatilgan. 137 ta quyi hujjat, 61 ta qonun o'zgartirish kutmoqda.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Korea JoongAng Daily (ishga tushirish arafasida)",
+          "ref": "xodimlar soni va tuzilma",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-tears-up-78-years-of-prosecution-with-no-chiefs-too-few-staff-and-unfinished-rule-book/12900047",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}

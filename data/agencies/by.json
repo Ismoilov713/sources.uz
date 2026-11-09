@@ -1,0 +1,142 @@
+{
+  "code": "by",
+  "name": "Belarus",
+  "organ": "Davlat nazorat qo'mitasi huzuridagi Moliyaviy tergov departamenti (ДФР)",
+  "updated": "2026-11-09",
+  "items": {
+    "identity": {
+      "summary": "Belarus Davlat nazorat qo'mitasi (КГК) tarkibidagi Moliyaviy tergov departamenti (ДФР) va uning hududiy boshqarma hamda bo'limlari – \"moliyaviy tergov organlari\". 1-moddaga ko'ra ular mamlakat iqtisodiy xavfsizligini ta'minlovchi davlat huquqni muhofaza qiluvchi organlar. Bu O'zbekiston departamentiga eng yaqin tuzilmalardan biri: nazorat qo'mitasi tarkibidagi huquqni muhofaza organi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "1-modda",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09",
+          "original": "Органы ... государственные правоохранительные органы, обеспечивающие экономическую безопасность"
+        }
+      ]
+    },
+    "history": {
+      "summary": "Qidiruv natijasida keltirilgan hujjatga ko'ra Moliyaviy tergov departamenti Davlat nazorat qo'mitasida Moliyaviy tergovlar davlat qo'mitasi asosida tashkil etilgan va uning huquqiy vorisi hisoblanadi. Hujjat va sanasi birlamchi matndan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "etalonline.by (qidiruv natijasi)",
+          "ref": "ДФР tashkil etilishi",
+          "url": "https://etalonline.by/document/?regnum=P30100617",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "legal_basis": {
+      "summary": "Belarus Qonuni 2008-yil 16-iyuldagi № 414-З \"Davlat nazorat qo'mitasi moliyaviy tergov organlari to'g'risida\" (17.07.2023 tahrirda ko'rilgan), Prezident qarorlari va boshqa hujjatlar; Departamentning o'ziga xosliklari shular bilan belgilanadi (Qo'mita to'g'risidagi № 142-З qonun, 3-modda 3-qism).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "umumiy",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Belarus Qonuni № 142-З (КГК), etalonline.by",
+          "ref": "3-modda 3-qism",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "subordination": {
+      "summary": "Umumiy rahbarlikni Prezident va КГК Raisi amalga oshiradi; bevosita rahbar КГК Raisining o'rinbosari, u Departament direktori ham. Direktorni Prezident tayinlaydi va ozod qiladi, Departament to'g'risidagi nizomni tasdiqlaydi va shtat sonini belgilaydi; КГК Raisi Prezidentga direktor tayinlash bo'yicha taqdim kiritadi va o'rta va katta boshliq tarkibni tayinlaydi (8, 9-moddalar).",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "8, 9-moddalar",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "functions": {
+      "summary": "2-modda: organlar jamiyat va davlatni iqtisodiy tajovuzlardan, fuqarolar va tashkilotlarning iqtisodiy sohadagi huquqlarini himoya qiladi; korrupsion jinoyatlarni ham o'z ichiga olgan jinoyat va ma'muriy huquqbuzarliklarning profilaktikasi, aniqlanishi va oldini olishi bilan shug'ullanadi; o'z vakolati doirasida surishtiruv (дознание) va ma'muriy jarayonni olib boradi.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "2-modda",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "jurisdiction": {
+      "summary": "Aniq jinoyat moddalari ro'yxati o'qilgan matnda yo'q (matnning bir qismi o'qilmadi); ta'rif umumiy: iqtisodiy sohadagi huquqbuzarliklar, shu jumladan korrupsion.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "2-modda",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "powers": {
+      "summary": "13-modda: operativ-qidiruv faoliyati; tekshiruvlar, monitoring va davlat organlari va tashkilotlaridan axborot so'rash; bank hisobvaraqlari haqida axborot olish (bank sirini saqlagan holda); majburiy qarorlar chiqarish, shu jumladan hisobvaraq bo'yicha operatsiyalarni to'xtatish (qaror organ rahbari yoki uning o'rinbosari tomonidan); quyi organlarning noqonuniy qarorlarini bekor qilish; jinoyatda gumon qilinayotgan va ma'muriy jarayondagi shaxslarni ushlash va olib kelish. 14-modda xodimlar huquqlari: tekshiriladigan obyektlarga xizmat guvohnomasi va ko'rsatma bilan kirish, ushlanganlarni shaxsiy tintuv qilish, foto va videoga olish, dalil bo'lishi mumkin bo'lgan hujjat va predmetlarni olish, buxgalteriya hujjatlarini tekshirish.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "13, 14-moddalar",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09",
+          "original": "Осуществление оперативно-розыскной деятельности ... приостановление операций по счетам"
+        }
+      ]
+    },
+    "investigation": {
+      "summary": "11-modda: organlar jinoyat haqidagi arizalarni qabul qilib ro'yxatdan o'tkazadi, surishtiruv (дознание) olib boradi va ma'muriy jarayonni yuritadi. Bu manbaning o'qilgan qismida dastlabki tergov (предварительное следствие) vakolati ko'rsatilmagan; bu masala Jinoyat-protsessual kodeksidan alohida tekshirilishi kerak.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "2, 11-moddalar",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "fiu_aml": {
+      "summary": "Qidiruv natijasiga ko'ra КГК tarkibida Moliyaviy tergov departamenti bilan birga Moliyaviy monitoring departamenti ham bor; uning vakolati bu loyihada birlamchi matndan tekshirilmadi.",
+      "status": "tekshirilmagan",
+      "sources": [
+        {
+          "title": "pravo.by (qidiruv natijasi)",
+          "ref": "КГК tuzilmasi",
+          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2019/july/38006/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    },
+    "structure": {
+      "summary": "7-modda: tizimga Moliyaviy tergov departamenti (yuridik shaxs huquqi bilan), viloyatlar, Minsk viloyati va Minsk shahri bo'yicha Departament boshqarmalari va ularning tumanlararo bo'limlari kiradi. Shtat sonini Prezident belgilaydi (9-modda). 2019-yil birinchi yarim yilligida bu organlar 590 ta jinoyatni aniqlagani (41,8% og'ir) pravo.by xabarida keltirilgan.",
+      "status": "tasdiqlangan",
+      "sources": [
+        {
+          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
+          "ref": "7, 9-moddalar",
+          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "pravo.by, 2019",
+          "ref": "statistika",
+          "url": "https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2019/july/38006/",
+          "retrieved": "2026-11-09"
+        }
+      ]
+    }
+  }
+}
