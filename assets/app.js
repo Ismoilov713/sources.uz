@@ -240,7 +240,7 @@ function render() {
   else if (tab === "scholarship") v.innerHTML = renderScholarship();
   else v.innerHTML = renderGlossary();
   wire();
-  if (window.track) window.track("view", tab, selected);
+  if (window.track) window.track("view", tab, ["procedure", "system", "agencies"].includes(tab) ? selected : []);
 }
 function wire() {
   document.querySelectorAll("[data-go]").forEach(a => a.onclick = e => {
