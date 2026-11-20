@@ -240,6 +240,7 @@ function render() {
   else if (tab === "scholarship") v.innerHTML = renderScholarship();
   else v.innerHTML = renderGlossary();
   wire();
+  if (window.track) window.track("view", tab, selected);
 }
 function wire() {
   document.querySelectorAll("[data-go]").forEach(a => a.onclick = e => {
@@ -262,8 +263,10 @@ function wire() {
     }
   });
   const q = $("glq");
+  let qTimer;
   if (q) q.oninput = () => {
     const t = q.value.trim().toLowerCase();
+    clearTimeout(qTimer); if (t.length >= 3) qTimer = setTimeout(() => window.track && window.track("search", t), 1500);
     document.querySelectorAll("#glist .card").forEach(c => { c.style.display = !t || c.dataset.q.includes(t) ? "" : "none"; });
   };
 }
