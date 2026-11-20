@@ -178,20 +178,21 @@
       ]
     },
     "investigation": {
-      "summary": "Prokuratura federal jinoyatlarni tergov qiladi va ayblovni sudda qo’llab-quvvatlaydi: tergov prokuratura (Ministerio Público) va politsiya zimmasida (Konstitutsiya 21-modda; FGRning Federal tergov politsiyasi xodimlari Normateca sahifasida eslatilgan). Ya’ni O’zbekistondagi kabi alohida tergov organi emas, ayblovchi prokuratura tergovni o’zi boshqaradi, ixtisoslashuv esa prokuraturaning maxsus bo’limlari orqali. Soliq jinoyatlari bo’yicha Moliya vazirligining shikoyati (querella) talab etilishi qidiruv natijalarida eslatilgan, lekin Federal soliq kodeksi matni o’qilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
-      "status": "tekshirilmagan",
+      "summary": "Jinoyatlarni tergov qilish Konstitutsiya 21-moddasiga ko'ra prokuratura (Ministerio Público) va politsiya zimmasida, politsiya prokuratura rahbarligi va buyrug'i ostida ishlaydi; sudlar oldida ayblovni qo'llab-quvvatlash faqat prokuraturaga tegishli. Ya'ni O'zbekistondagi kabi alohida tergov organi emas: ayblovchi prokuratura tergovni o'zi boshqaradi, ixtisoslashuv prokuraturaning maxsus bo'limlari orqali. Soliq jinoyatlari bo'yicha jinoiy ish qo'zg'atish uchun Federal soliq kodeksi 92-moddasiga ko'ra avval Moliya vazirligi (SHCP) shikoyat (querella) bildirishi (105, 108-112, 114-moddalar), federal xazinaga zarar yetgani yoki yetishi mumkinligini deklaratsiya qilishi (102, 103, 115-moddalar) yoki ruxsat talab qiladigan/taqiqlangan tovarlar kontrabandasida tegishli deklaratsiya berishi kerak; qolgan hollarda federal prokuraturaga ariza yetarli. Jinoiy jarayonlar SHCP so'rovi bilan, aybdorlar soliq, jarima va penyani to'lasa yoki ta'minlasa, to'xtatiladi. Kodeks matni ordenjuridico.gob.mx nusxasidan (so'nggi islohot 2021-yil 12-noyabr) o'qildi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
-          "ref": "102-modda A; 21-modda",
+          "title": "Meksika Konstitutsiyasi, 21-modda (Constitute Project nusxasi)",
+          "ref": "21-modda",
           "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
-          "retrieved": "2026-11-09",
-          "original": "La investigación de los delitos corresponde al Ministerio Público y a las policías"
+          "original": "La investigación de los delitos corresponde al Ministerio Público y a las policías",
+          "retrieved": "2026-11-09"
         },
         {
-          "title": "FGR Normateca",
-          "ref": "Normateca",
-          "url": "https://www.fgr.org.mx/swb/Normateca",
+          "title": "Código Fiscal de la Federación, 92-modda (Orden Jurídico Nacional nusxasi)",
+          "ref": "92-modda",
+          "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo56.html",
+          "original": "Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Hacienda y Crédito Público: I. Formule querella",
           "retrieved": "2026-11-09"
         }
       ]

@@ -23,26 +23,53 @@
       ]
     },
     "history": {
-      "summary": "FinCEN 1990-yil 25-aprelda Moliya vazirligining 105-08-sonli buyrug'i bilan tuzilgan (31 U.S.C. § 310 (a)). Adliya vazirligi bo'limi va IRS-CI ning tashkil topish tarixi bu loyihada o'qilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "FinCEN 1990-yil 25-aprelda Moliya vazirligining 105-08-sonli buyrug'i bilan tuzilgan (31 U.S.C. § 310 (a)). Adliya vazirligi Jinoyat bo'limining Firibgarlik seksiyasi (Fraud Section) 1955-yilda tuzilgan; bo'limning o'zi 1919-yilda rasman tashkil etilgan. IRS Jinoyat tergovi xizmati (IRS-CI) 1919-yilda Daromadlar departamentining Razvedka bo'limi sifatida, rahbari Elmer Irey boshchiligida, atigi oltita maxsus agent bilan boshlangan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "31 U.S.C. § 310 (Cornell LII)",
           "ref": "§ 310 (a)",
           "url": "https://www.law.cornell.edu/uscode/text/31/310",
-          "retrieved": "2026-11-09",
-          "original": "created by Treasury Order 105-08 on April 25, 1990"
+          "original": "created by Treasury Order 105-08 on April 25, 1990",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Adliya vazirligi, Jinoyat bo'limi tarixi",
+          "ref": "1919 va 1955 yozuvlari",
+          "url": "https://www.justice.gov/criminal/history/historical-timeline",
+          "original": "The Fraud Section is established.",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "IRS-CI 2025 yillik hisoboti",
+          "ref": "2-3-betlar",
+          "url": "https://www.irs.gov/pub/irs-pdf/p3583.pdf",
+          "original": "Founded in 1919 as the Intelligence Unit of the Department of Revenue, led by Chief Elmer Irey, the agency began with just six special agents.",
+          "retrieved": "2026-11-09"
         }
       ]
     },
     "legal_basis": {
-      "summary": "31 U.S.C. § 310 (FinCEN). Adliya vazirligi bo'limi va IRS-CI uchun qonuniy asoslar bu loyihada o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "FinCEN: 31 U.S.C. § 310. Adliya vazirligi Jinoyat bo'limi: 28 C.F.R. § 0.55 — bo'limga \"firibgarlik bo'yicha jinoyat ishlari\" (soliq firibgarligi va sog'liqni saqlash rejalari bo'yicha firibgarlik bundan mustasno) hamda fuqarolik yoki jinoiy musodara ishlari yuklangan (b, d bandlar). IRS-CI: 26 U.S.C. § 7608 (b).",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "31 U.S.C. § 310 (Cornell LII)",
           "ref": "§ 310",
           "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "28 C.F.R. § 0.55 (Cornell LII)",
+          "ref": "(b), (d)",
+          "url": "https://www.law.cornell.edu/cfr/text/28/0.55",
+          "original": "Cases involving criminal frauds except cases involving tax frauds and cases involving fraud with respect to health plans",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "26 U.S.C. § 7608 (Cornell LII)",
+          "ref": "(b)",
+          "url": "https://www.law.cornell.edu/uscode/text/26/7608",
           "retrieved": "2026-11-09"
         }
       ]
@@ -103,13 +130,27 @@
       ]
     },
     "powers": {
-      "summary": "FinCEN: \"Financial crimes communications center\" yuritadi, xorijiy FIU bilan hamkorlik qiladi, davlat va xususiy sektor o'rtasida ixtiyoriy axborot almashish (FinCEN Exchange) shaklini yuritadi, chet davlatlarga kamida oltita aloqachi tayinlaydi (§ 310 (b)(2)(D), (H), (d), (h)). Adliya vazirligi bo'limining tintuv, hibsga olish va boshqa tergov vakolatlari bu loyihada o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "FinCEN: \"Financial crimes communications center\" yuritadi, xorijiy FIU bilan hamkorlik qiladi, davlat va xususiy sektor o'rtasida ixtiyoriy axborot almashish (FinCEN Exchange) shaklini yuritadi, chet davlatlarga kamida oltita aloqachi tayinlaydi (§ 310 (b)(2)(D), (H), (d), (h)). IRS-CI jinoiy tergovchilari qonun bo'yicha tintuv va hibsga olish orderlarini ijro etadi, sud chaqiruvlarini topshiradi, soliq qonunlari bo'yicha ularning ko'z o'ngida sodir etilgan huquqbuzarlik yoki asosli gumon bo'lgan og'ir jinoyat uchun orderlarsiz hibsga oladi va musodara qilinadigan mulkni olib qo'yadi (26 U.S.C. § 7608 (b)(2)). Firibgarlik seksiyasi, rasmiy tavsifiga ko'ra, murakkab ishlarni \"tergov qiladi va ayblov bilan chiqadi\" hamda ko'p okrugli tergovlarni muvofiqlashtiradi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "31 U.S.C. § 310 (Cornell LII)",
           "ref": "§ 310 (b), (d), (h)",
           "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "26 U.S.C. § 7608 (Cornell LII)",
+          "ref": "(b)(2)(A)-(C)",
+          "url": "https://www.law.cornell.edu/uscode/text/26/7608",
+          "original": "to execute and serve search warrants and arrest warrants ... to make arrests without warrant ... to make seizures of property subject to forfeiture under the internal revenue laws",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Adliya vazirligi Firibgarlik seksiyasi",
+          "ref": "Bosh sahifa",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "original": "The Section investigates and prosecutes these complex cases throughout the country.",
           "retrieved": "2026-11-09"
         }
       ]
@@ -140,13 +181,27 @@
       ]
     },
     "structure": {
-      "summary": "Adliya vazirligi bo'limi, FinCEN va IRS-CI xodimlar soni va byudjeti bu loyihada ko'rsatilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Firibgarlik seksiyasi to'rtta bo'linmaga bo'lingan: Sog'liq va xavfsizlik, Qimmatli qog'ozlar-bozor-xususiy firibgarlik, Xorijiy korrupt amaliyotlar to'g'risidagi qonun (FCPA) va Korporativ ijro va muvofiqlik bo'linmalari; 2026-yil yanvarida seksiyada 200 dan ortiq prokuror ishlagan. IRS-CI: 2025 moliya yilida 2 189 maxsus agent va 954 yordamchi xodim (jami 3 143), 50 shtat, Guam, Puerto-Riko va Virjiniya orollarida, hamda chet elda 14 attashe posti.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
-          "ref": "bo'lim tavsifi",
+          "title": "Adliya vazirligi Firibgarlik seksiyasi",
+          "ref": "Bo'linmalar ro'yxati",
           "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Adliya vazirligi matbuot xabari, 2026-yil 22-yanvar",
+          "ref": "Matn",
+          "url": "https://www.justice.gov/opa/pr/criminal-divisions-fraud-section-announces-historic-year-accomplishments",
+          "original": "Now, with more than 200 attorneys, the Section has strengthened its capacity",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "IRS-CI 2025 yillik hisoboti",
+          "ref": "3-bet, xodimlar jadvali",
+          "url": "https://www.irs.gov/pub/irs-pdf/p3583.pdf",
+          "original": "IRS-CI also maintains 14 attaché posts abroad",
           "retrieved": "2026-11-09"
         }
       ]

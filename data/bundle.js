@@ -7077,19 +7077,21 @@ window.AGENCIES = [
       ]
     },
     "history": {
-      "summary": "Moliyaviy tergov organlari to’g’risidagi qonun 2008-yil 16-iyulda № 414-З bilan qabul qilingan (matn 2023-yil 17-iyulgacha o’zgartirishlar bilan o’qildi). Davlat nazorat qo’mitasi to’g’risidagi № 142-З qonunning 3-moddasi 3-qismi Departamentning o’ziga xosliklari Prezident qarorlari va № 414-З qonun bilan belgilanishini yozadi. Departamentning Moliyaviy tergovlar davlat qo’mitasi asosida tashkil etilganligi qidiruv natijasida keltirilgan, birlamchi matndan tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "Moliyaviy tergov organlari to'g'risidagi qonun 2008-yil 16-iyulda № 414-З bilan qabul qilingan va rasmiy e'londan 10 kun o'tib kuchga kirgan; u 2001-yil 4-iyundagi \"Belarus moliyaviy tergov organlari to'g'risida\"gi oldingi qonunni bekor qilgan (34-modda). Qonun tizimi: Davlat nazorat qo'mitasi (KGK) Moliyaviy tergovlar departamenti (yuridik shaxs huquqi bilan), uning viloyatlar, Minsk viloyati va Minsk shahri boshqarmalari, ularning tumanlararo bo'limlari (7-modda). Qonun matni mirror nusxadan (2011-yilgi tahrir) o'qildi; keyingi o'zgartirishlar (jumladan 2020-yil 10-dekabrdagi № 63-З bilan 1-modda) 1-3-moddalarda ko'rilgan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
-          "ref": "qonun sanasi va tahriri",
-          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "title": "Belarus qonuni № 414-З (16.07.2008) Moliyaviy tergov organlari to'g'risida, 34, 36-moddalar (levonevsky.org nusxasi)",
+          "ref": "7, 34, 36-moddalar",
+          "url": "http://pravo.levonevsky.org/bazaby11/republic14/text595.htm",
+          "original": "Признать утратившими силу: Закон Республики Беларусь от 4 июня 2001 года \"Об органах финансовых расследований Республики Беларусь\"",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Belarus Qonuni № 142-З (КГК), etalonline.by",
-          "ref": "3-modda 3-qism",
-          "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
+          "title": "Belarus qonuni № 414-З, 1-5-moddalar (spinform)",
+          "ref": "1-3-moddalar",
+          "url": "https://base.spinform.ru/show_doc.fwx?rgn=23925",
+          "original": "(В статью внесены изменения в соответствии с Законом Республики Беларусь от 10.12.2020 № 63-З )",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7466,13 +7468,27 @@ window.AGENCIES = [
       ]
     },
     "history": {
-      "summary": "Bu loyihada qonun matnlari o'qildi, tashkil topish tarixi va yillari birlamchi manbadan tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "Moliyaviy razvedka (FIU) 2017-yil 26-iyunda Federal jinoyat idorasidan (BKA) Bosh bojxona direksiyasiga (Generalzolldirektion) o'tkazilgan. 2021-yil 1-maydan u Bosh bojxona direksiyasiga \"funksional organ\" va yangi X direksiya sifatida to'liq kiritilgan. Ixtisoslashgan prokuratura bo'limlari (Schwerpunktstaatsanwaltschaften) GVG § 143 (4) asosida tuziladi, ularning tashkil etilgan yillari umumiy qonunda yo'q, chunki ular Landlar bo'yicha alohida tashkil etiladi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "GVG (nemis asl matni)",
-          "ref": "§ 74c",
-          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "title": "BKA: FIU",
+          "ref": "Bosh sahifa",
+          "url": "https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/Geldwaesche/FIU/fiu.html",
+          "original": "Mit dem Wechsel der Zuständigkeit der Financial Intelligence Unit (FIU) zur Generalzolldirektion am 26. Juni 2017",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Zoll: FIU vazifalari",
+          "ref": "Tashkiliy joylashuv",
+          "url": "https://www.zoll.de/DE/Der-Zoll/Aufgaben-des-Zolls/Schutz-fuer-Mensch-Wirtschaft-und-Umwelt/FIU-Aufgaben/fiu-aufgaben_node.html",
+          "original": "als funktionale Behörde und als neue Direktion X in die Generalzolldirektion integriert",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GVG § 143",
+          "ref": "(4)",
+          "url": "https://www.gesetze-im-internet.de/gvg/__143.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7506,19 +7522,33 @@ window.AGENCIES = [
       ]
     },
     "subordination": {
-      "summary": "FIU: Federal moliya vazirligi nazorati ostida, kasbiy mustaqilligi saqlanadi (GwG § 28 (2)). Turli Land prokuraturalari qaysi biri ta’qibni o’z zimmasiga olishi haqida kelisha olmasa, Federal bosh prokuror hal qiladi (GVG § 143 (3)). Landlar prokuraturalarining vazirlikka bo’ysunuv tartibi bu loyihada o’qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Prokuratura xodimlari o'z rahbarlarining xizmat ko'rsatmalariga bo'ysunadi (GVG § 146). Nazorat va rahbarlik huquqi: Federal adliya vaziriga — Bosh federal prokuror va federal prokurorlar bo'yicha; Land adliya ma'muriyatiga — o'sha Landning barcha prokuratura xodimlari bo'yicha; Oberlandesgericht va Landgericht huzuridagi birinchi prokuraturaga — o'z okrugidagi barcha prokuratura xodimlari bo'yicha (GVG § 147). Turli Land prokuraturalari ta'qibni kim olishi haqida kelisha olmasa, Federal bosh prokuror hal qiladi (§ 143 (3)). FIU: Federal moliya vazirligi nazoratida, kasbiy mustaqillik saqlanadi (GwG § 28 (2)); tashkiliy jihatdan Bosh bojxona direksiyasida joylashgan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "GwG (nemis asl matni), § 28",
-          "ref": "§ 28 (2)",
-          "url": "https://www.gesetze-im-internet.de/gwg_2017/__28.html",
+          "title": "GVG § 146",
+          "ref": "§ 146",
+          "url": "https://www.gesetze-im-internet.de/gvg/__146.html",
+          "original": "Die Beamten der Staatsanwaltschaft haben den dienstlichen Anweisungen ihres Vorgesetzten nachzukommen.",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "GVG (nemis asl matni), § 143 (3)",
-          "ref": "§ 143 (3)",
+          "title": "GVG § 147",
+          "ref": "§ 147 №1-3",
+          "url": "https://www.gesetze-im-internet.de/gvg/__147.html",
+          "original": "Das Recht der Aufsicht und Leitung steht zu: ... der Landesjustizverwaltung hinsichtlich aller staatsanwaltschaftlichen Beamten des betreffenden Landes",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GVG § 143",
+          "ref": "(3)",
           "url": "https://www.gesetze-im-internet.de/gvg/__143.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GwG § 28",
+          "ref": "(2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__28.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7549,13 +7579,39 @@ window.AGENCIES = [
       ]
     },
     "powers": {
-      "summary": "Prokuratura tergov bo'yicha umumiy vakolatga ega (StPO § 161, § 161a: guvoh va ekspertlarni so'roq qilish). Tintuv, hibsga olish va boshqa tergov choralari uchun sud ruxsati kerak bo'lishi (§ 162 tergov sudyasi) bu manbalarda sarlavha darajasida ko'rilgan, mazmuni tekshirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Prokuratura tergov bo'yicha umumiy vakolatga ega (StPO § 161, § 161a: guvoh va ekspertlarni so'roq qilish). Tintuv odatda faqat sudya buyrug'i bilan o'tkaziladi; kechiktirib bo'lmaydigan xavf bo'lsa prokuratura va uning tergov yordamchilari (Ermittlungspersonen) ham buyurishi mumkin (StPO § 105 (1)). Tintuv gumon qilinuvchining uyi, xonalari, shaxsi va mulkida o'tkazilishi mumkin (§ 102). Tergov hibsi faqat sudyaning yozma order bilan buyuriladi (§ 114 (1)); asos — qochish, dalillarni yo'q qilish xavfi va boshqalar (§ 112). Prokuratura sud tergov harakati kerak bo'lsa, ariza bilan tergov sudyasiga (Amtsgericht) murojaat qiladi (§ 162 (1)); sud harakat qonuniyligini tekshiradi (§ 162 (2)).",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "StPO (nemis asl matni)",
-          "ref": "§ 161, § 161a, § 162",
-          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "title": "StPO § 105",
+          "ref": "(1)",
+          "url": "https://www.gesetze-im-internet.de/stpo/__105.html",
+          "original": "Durchsuchungen dürfen nur durch den Richter, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen ... angeordnet werden.",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO § 114",
+          "ref": "(1)",
+          "url": "https://www.gesetze-im-internet.de/stpo/__114.html",
+          "original": "Die Untersuchungshaft wird durch schriftlichen Haftbefehl des Richters angeordnet.",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO § 102",
+          "ref": "§ 102",
+          "url": "https://www.gesetze-im-internet.de/stpo/__102.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO § 112",
+          "ref": "(1), (2)",
+          "url": "https://www.gesetze-im-internet.de/stpo/__112.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO § 162",
+          "ref": "(1), (2)",
+          "url": "https://www.gesetze-im-internet.de/stpo/__162.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7605,13 +7661,25 @@ window.AGENCIES = [
       ]
     },
     "structure": {
-      "summary": "Ixtisoslashgan prokuratura bo'limlari va xodimlar soni bu loyihada o'qilgan manbalarda yo'q.",
-      "status": "tekshirilmagan",
+      "summary": "Germaniyada iqtisodiy jinoyatlar uchun yagona milliy tuzilma yo'q. Prokuratura Oberlandesgericht va Landgericht huzurida tashkil etiladi, rahbari birinchi prokuror (GVG § 147 №3); ixtisoslashgan bo'limlar Landlar tomonidan GVG § 143 (4) asosida tuziladi. FIU esa Bosh bojxona direksiyasining X direksiyasi sifatida bitta markaziy organ.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "GVG (nemis asl matni)",
-          "ref": "§ 143 (4)",
-          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "title": "GVG § 147",
+          "ref": "№3",
+          "url": "https://www.gesetze-im-internet.de/gvg/__147.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GVG § 143",
+          "ref": "(4)",
+          "url": "https://www.gesetze-im-internet.de/gvg/__143.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Zoll: FIU vazifalari",
+          "ref": "Tashkiliy joylashuv",
+          "url": "https://www.zoll.de/DE/Der-Zoll/Aufgaben-des-Zolls/Schutz-fuer-Mensch-Wirtschaft-und-Umwelt/FIU-Aufgaben/fiu-aufgaben_node.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7639,18 +7707,18 @@ window.AGENCIES = [
       ]
     },
     "history": {
-      "summary": "Prokuratura Ustavi 1981-yilgi 50-sonli qonun (Ley 50/1981) bilan qabul qilingan; 2007-yil 9-oktabrdagi 24/2007-sonli qonun uni o’zgartirib, prokuraturaning maqomi (2-modda) va tegishli normalarni yangilagan. Pul yuvishga qarshi 10/2010-sonli qonun SEPBLAC va Komissiyaning tartibini belgilaydi. Korrupsiyaga qarshi prokuraturaning tashkil etilgan yilini bu manbalar ko’rsatmaydi. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
-      "status": "tekshirilmagan",
+      "summary": "Prokuratura Ustavi 1981-yilgi 50-sonli qonun (Ley 50/1981) bilan qabul qilingan. 1995-yil 24-apreldagi 10/1995-sonli qonun unga korrupsiya bilan bog'liq iqtisodiy jinoyatlarga qarshi kurashuvchi maxsus prokuratura (Fiscalía Especial para la Represión de los Delitos Económicos relacionados con la Corrupción) tashkil etuvchi moddalarni qo'shgan. 2007-yil 9-oktabrdagi 24/2007-sonli qonun bu moddalarni (18 bis, 18 ter) bekor qilgan, hozirgi 19-moddaning \"ikki\" qismi maxsus prokuraturalar sifatida Antinarkotik prokuratura va Korrupsiya va uyushgan jinoyatchilikka qarshi prokuraturani (Fiscalía contra la Corrupción y la Criminalidad Organizada) nomlaydi. Pul yuvishga qarshi 10/2010-sonli qonun SEPBLAC va Komissiya tartibini belgilaydi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
-          "ref": "2-modda va 5-moddadagi o’zgartirish izohlari",
+          "ref": "18 ter (bekor qilingan) va 19-moddalar, o'zgartirish izohlari",
           "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
-          "retrieved": "2026-11-09",
-          "original": "Se modifica el apartado 1 por el art. único.1 de la Ley 24/2007, de 9 de octubre."
+          "original": "Se añade por el art. único.3 de la Ley 10/1995, de 24 de abril. ... Se suprime por el art. único.13 de la Ley 24/2007, de 9 de octubre. ... Son Fiscalías Especiales la Fiscalía Antidroga y la Fiscalía contra la Corrupción y la Criminalidad Organizada.",
+          "retrieved": "2026-11-09"
         },
         {
-          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to'g'risida, BOE konsolidatsiyalangan matn",
           "ref": "44–48-moddalar",
           "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
           "retrieved": "2026-11-09"
@@ -7829,13 +7897,21 @@ window.AGENCIES = [
       ]
     },
     "history": {
-      "summary": "Ikkilamchi manbalarga ko'ra PNF 2013-yil 6-dekabrdagi 2013-1117-sonli Qonun bilan tuzilgan va 2014-yil 1-fevralda ish boshlagan; Konstitutsiyaviy kengash 2013-yil 4-dekabr qarori bilan tegishli normalarni konstitutsiyaga mos deb topgan. Birlamchi qonun matni bu loyihada o'qilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "PNF 2013-yil 6-dekabrdagi soliq firibgarligiga va yirik iqtisodiy-moliyaviy jinoyatchilikka qarshi kurash to'g'risidagi qonun bilan tuzilgan; 2014-yil 1-fevralda, qonun e'lon qilinganidan 55 kun o'tib, ish boshlagan. Konstitutsiyaviy kengash 2013-yil 4-dekabrda (2013-679 DC va 2013-680 DC) tegishli normalarni hech qanday izohsiz konstitutsiyaga mos deb topgan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Vie-publique: Parquet national financier (qidiruv natijasi)",
-          "ref": "PNF",
-          "url": "https://www.vie-publique.fr/fiches/292717-quest-ce-que-le-parquet-national-financier-pnf",
+          "title": "Adliya inspeksiyasi (IGJ) hisoboti, 2020-yil",
+          "ref": "Kirish qismi",
+          "url": "https://www.justice.gouv.fr/sites/default/files/migrations/presse/art_pix/IF%20PNF%2015092020.pdf",
+          "original": "Le PNF a été mis en place le 1er février 2014, 55 jours après la publication de la loi du 6 décembre 2013",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Adliya vazirligi, 2014-yil 31-yanvardagi jinoiy siyosat sirkulyari (JUSD1402887C)",
+          "ref": "1-izoh",
+          "url": "https://www.justice.gouv.fr/sites/default/files/migrations/textes/art_pix/JUSD1402887C.pdf",
+          "original": "Dans ses décisions n°2013-679 DC et 2013-680 DC du 4 décembre 2013, le Conseil constitutionnel a déclaré conformes à la Constitution les dispositions relatives au procureur de la République financier",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7853,13 +7929,14 @@ window.AGENCIES = [
       ]
     },
     "subordination": {
-      "summary": "PNFning Adliya vaziri va Parij bosh prokurori bilan bo'ysunuv munosabati bu manbalarda o'qilmadi; faqat \"Parij sudi huzurida\" joylashishi CPP 705-moddasidan ma'lum.",
-      "status": "tekshirilmagan",
+      "summary": "Moliyaviy prokuror Parij sudi huzurida, milliy vakolat bilan ishlaydi va Parij apellyatsiya sudi huzuridagi bosh prokurorning ierarxik rahbarligi ostida.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
-          "ref": "705-modda",
-          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "title": "Adliya vazirligi, 2014-yil 31-yanvardagi jinoiy siyosat sirkulyari (JUSD1402887C)",
+          "ref": "I.1, 1-bet",
+          "url": "https://www.justice.gouv.fr/sites/default/files/migrations/textes/art_pix/JUSD1402887C.pdf",
+          "original": "sous l'autorité hiérarchique du procureur général près la cour d'appel de Paris",
           "retrieved": "2026-11-09"
         }
       ]
@@ -7933,13 +8010,14 @@ window.AGENCIES = [
       ]
     },
     "structure": {
-      "summary": "PNF tuzilmasi va magistratlar soni bu loyihada tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "PNF ishga tushganda 5 magistrat bilan boshlagan; dastlabki 18 oyda magistratlar soni 16 taga, sud kotibiyati xodimlari 1 tadan 7 taga o'sgan. Ishlar soni 2014-yildagi 211 tadan 2020-yilda 578 taga yetgan. Hozirgi xodimlar soni bu manbada ko'rsatilmagan, shuning uchun keltirilmadi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
-          "ref": "705",
-          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "title": "Adliya inspeksiyasi (IGJ) hisoboti, 2020-yil",
+          "ref": "Kirish qismi",
+          "url": "https://www.justice.gouv.fr/sites/default/files/migrations/presse/art_pix/IF%20PNF%2015092020.pdf",
+          "original": "Les effectifs du PNF ont crû significativement les 18 premiers mois, passant de cinq à 16 magistrats et d'un à sept fonctionnaires de greffe.",
           "retrieved": "2026-11-09"
         }
       ]
@@ -8036,13 +8114,20 @@ window.AGENCIES = [
       ]
     },
     "jurisdiction": {
-      "summary": "Moliya va iqtisod sohasidagi jinoyatlar (2-modda 1-qism); to'liq tergov faqat Jinoyat-protsessual kodeksidagi tergov tegishliligiga kiruvchi ishlar bo'yicha (8-modda \"b\"). Kodeksdagi aniq jinoyat moddalari ro'yxati bu loyihada o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Moliya va iqtisod sohasidagi jinoyatlar (Tergov xizmati to'g'risidagi qonunning 2-moddasi 1-qismi); to'liq tergov faqat Jinoyat-protsessual kodeksidagi tergov tegishliligiga kiruvchi ishlar bo'yicha (8-modda \"b\"). JPK 34-moddasi 1-qismi Moliya vazirligining tergov bo'linmalarini jinoyat ishlarini tergov qiluvchi organlar qatorida sanaydi; tergov tegishliligini, boshqacha qonunda belgilanmagan bo'lsa, Gruziya Bosh prokurori belgilaydi (35-modda), hududiy tegishlilikni ham (36-modda). Ya'ni qaysi jinoyatlar Xizmatga tegishli ekani kodeks moddalari ro'yxati bilan emas, Bosh prokuror belgilovi bilan aniqlanadi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge",
           "ref": "2-modda 1-qism; 8-modda (b)",
           "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Gruziya Jinoyat-protsessual kodeksi, matsne.gov.ge",
+          "ref": "34-modda 1-qism; 35-36-moddalar",
+          "url": "https://matsne.gov.ge/en/document/view/90034",
+          "original": "An investigative jurisdiction shall be determined by the General Prosecutor of Georgia, unless otherwise determined by law.",
           "retrieved": "2026-11-09"
         }
       ]
@@ -8079,13 +8164,14 @@ window.AGENCIES = [
       ]
     },
     "fiu_aml": {
-      "summary": "Gruziyada moliyaviy razvedka vazifasi alohida organga – Moliyaviy monitoring xizmatiga berilgan; Yevropa Kengashi 2018-yilgi xabarida uni FIU sifatida sanagan. Uning hozirgi maqomi va vakolati birlamchi manbadan tekshirilmadi (Transparency International Georgia materiali uni Moliya vazirligiga o'tkazish taklifi haqida eski).",
-      "status": "tekshirilmagan",
+      "summary": "Gruziyada moliyaviy razvedka vazifasi alohida organ — Moliyaviy monitoring xizmatiga berilgan. 2019-yil 30-oktabrdagi pul yuvish va terrorizmni moliyalashtirishga qarshi kurashga ko'maklashish to'g'risidagi qonunga ko'ra (31-modda) Xizmat — qonun asosida tuzilgan jamoat huquqi yuridik shaxsi, o'z faoliyatida mustaqil, unga ta'sir o'tkazish taqiqlangan; Gruziya Hukumati oldida hisobdor va yiliga hisobot beradi; rahbarini Bosh vazir tayinlaydi va ishdan bo'shatadi (32-modda); davlat byudjeti hisobidan moliyalashtiriladi (33-modda). Vazifasi (34-modda 1-qism): majburiy subyektlardan va boshqa manbalardan kelgan xabarlarni tahlil qiladi, pul yuvish, terrorizmni moliyalashtirish yoki boshqa jinoyatga asosli ishonch bo'lsa, tahlil natijasini Gruziya Prokuraturasi, Davlat xavfsizlik xizmati, Daromadlar xizmati va/yoki Ichki ishlar vazirligiga yuboradi. Matn qonunning 2019-yil 30-oktabrdagi dastlabki tahriridan olingan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Yevropa Kengashi, 2018",
-          "ref": "Gruziya FIU",
-          "url": "https://www.coe.int/en/web/corruption/-/council-of-europe-and-european-union-enhance-capacities-of-the-georgian-law-enforcement-agencies-and-financial-analysts-to-investigate-and-prosecute-m",
+          "title": "Gruziya qonuni: Pul yuvish va terrorizmni moliyalashtirishga qarshi kurashga ko'maklashish to'g'risida (5226-Iს, 30.10.2019), matsne.gov.ge",
+          "ref": "31-34-moddalar",
+          "url": "https://matsne.gov.ge/en/document/view/4690334?publication=0",
+          "original": "The Service is a legal entity under public law established on the basis of this Law ... In its activities, the Service shall be independent and guided by the legislation of Georgia.",
           "retrieved": "2026-11-09"
         }
       ]
@@ -8167,9 +8253,16 @@ window.AGENCIES = [
       ]
     },
     "legal_basis": {
-      "summary": "OAV xabarlariga ko'ra: Davlat tashkiloti to'g'risidagi qonunga (Government Organization Act) o'zgartirish prokuratura idoralarini tugatgan; Jinoyat-protsessual qonun o'zgartirilib, prokurorlarning mustaqil va qo'shimcha tergov vakolati olib tashlangan (196-modda chiqarilgan); Prokuratura xizmati to'g'risidagi qonunda bosh prokuror Davlat ayblov xizmati rahbari etib belgilangan; SCIA to'g'risidagi qonun 2026-yil 29-sentabrdagi o'zgartirish (Act No. 22016) bilan kengaytirilgan. Qonunlarning o'zi (matni) bu loyihada o'qilmagan, mazmun ikkilamchi manbalardan olingan. Loyihada avval o'qilgan CPA ning inglizcha matni 2020-yilgacha va endi eskirgan.",
+      "summary": "Qonunlarning o'z matni (law.go.kr, elaw) bu yerda o'qilmadi: law.go.kr dinamik sayt bo'lib matn bermadi, inglizcha tarjima topilmadi. Mazmun ikki ikkilamchi manbadan olingan. Kim & Chang yuridik firmasi (2026-yil 10-avgust) yozishicha, 2026-yil martda Milliy majlis Prokuratura xizmati to'g'risidagi qonun va Jiddiy jinoyatlarni tergov qilish agentligini tashkil etish va faoliyati to'g'risidagi qonunni (SCIA Act) qabul qilgan, ular eski Prokuratura to'g'risidagi qonunni bekor qilgan; 2026-yil 31-iyulda Jinoyat-protsessual qonunga keng o'zgartirish qabul qilingan, u 4-avgustda e'lon qilingan va 2-oktabrdan kuchga kirgan: prokurorlarning umumiy tergov vakolati asosi bo'lgan 196-modda chiqarilgan, prokuror o'zi tergov boshlay olmaydi va politsiyadan kelgan ishni o'zi qo'shimcha tergov qila olmaydi, order uchun sudga faqat politsiya so'rovi bilan murojaat qiladi; ushlab turish muddatlari (politsiya 10 kun, prokuror yana 10 kun, bir marta 10 kunga uzaytiriladi) o'zgarmagan (202, 203, 205-moddalar). OAV (Seoul Economic Daily, Korea JoongAng Daily) shu o'zgarishlarni va SCIA to'g'risidagi qonunga 2026-yil 29-sentabrdagi o'zgartirish (Act No. 22016) haqida xabar bergan.",
       "status": "tekshirilmagan",
       "sources": [
+        {
+          "title": "Kim & Chang: Amended Criminal Procedure Act (2026.08.10)",
+          "ref": "1-3-bo'limlar",
+          "url": "https://www.kimchang.com/en/insights/detail.kc?sch_section=4&idx=35504",
+          "original": "deletion of Article 196, the provision that had long served as the legal basis for prosecutors' general investigative authority",
+          "retrieved": "2026-11-09"
+        },
         {
           "title": "Seoul Economic Daily, 17.10.2026",
           "ref": "JPK 196-modda chiqarilgan; Act No. 22016",
@@ -8264,13 +8357,14 @@ window.AGENCIES = [
       ]
     },
     "fiu_aml": {
-      "summary": "Koreya moliyaviy razvedkasi (KoFIU) bu loyihada birlamchi manbadan tekshirilmadi; qidiruv natijalarida u haqida faqat tasodifiy eslatma bor.",
-      "status": "tekshirilmagan",
+      "summary": "Koreya moliyaviy razvedka bo'linmasi (KoFIU) \"Muayyan moliyaviy operatsiya ma'lumotlarini xabar qilish va ishlatish to'g'risida\"gi qonun (Act No. 6516, 2001-yil 27-sentabr) 3-moddasiga ko'ra Moliyaviy xizmatlar komissiyasi huzurida tuzilgan. Vazifalari: 4, 4-2 va 9-moddalar bo'yicha kelgan xabarlarni yig'ish, tahlil qilish va taqdim etish; moliya kompaniyalari faoliyatini nazorat qilish va tekshirish; xalqaro moliyaviy razvedka xizmatlari bilan hamkorlik; virtual aktiv xizmat ko'rsatuvchilarining xabarlari bilan bog'liq vazifalar; terrorizmni va ommaviy qirg'in qurolini tarqatishni moliyalashtirishni taqiqlash to'g'risidagi qonun bo'yicha vazifalar. KoFIU o'z vazifalarini mustaqil bajaradi, uning xodimlari boshqa vazifa bilan shug'ullanmaydi (3-modda 2-qism). Matn 2021-yil 28-dekabr tahriridan (elaw.klri.re.kr inglizcha tarjimasi).",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Asia Economy qidiruv natijasi",
-          "ref": "KoFIU",
-          "url": "https://www.asiae.co.kr/en/article/2024031713435071359",
+          "title": "Act on Reporting and Using Specified Financial Transaction Information, 3-modda (elaw.klri.re.kr)",
+          "ref": "3-modda (1), (2)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=60111&type=part&key=23",
+          "original": "The Korea Financial Intelligence Unit shall be established under the Financial Services Commission to efficiently perform the following duties",
           "retrieved": "2026-11-09"
         }
       ]
@@ -8616,20 +8710,21 @@ window.AGENCIES = [
       ]
     },
     "investigation": {
-      "summary": "Prokuratura federal jinoyatlarni tergov qiladi va ayblovni sudda qo’llab-quvvatlaydi: tergov prokuratura (Ministerio Público) va politsiya zimmasida (Konstitutsiya 21-modda; FGRning Federal tergov politsiyasi xodimlari Normateca sahifasida eslatilgan). Ya’ni O’zbekistondagi kabi alohida tergov organi emas, ayblovchi prokuratura tergovni o’zi boshqaradi, ixtisoslashuv esa prokuraturaning maxsus bo’limlari orqali. Soliq jinoyatlari bo’yicha Moliya vazirligining shikoyati (querella) talab etilishi qidiruv natijalarida eslatilgan, lekin Federal soliq kodeksi matni o’qilmagan. (Rasmiy saytlar matni 2026-yil noyabrda o’qildi; Konstitutsiya matni Constitute Project nusxasidan, qonunlarning o’zi (LOFGR, CFF, LFPIORPI) Deputatlar palatasi saytiga ulanib bo’lmagani uchun o’qilmadi.)",
-      "status": "tekshirilmagan",
+      "summary": "Jinoyatlarni tergov qilish Konstitutsiya 21-moddasiga ko'ra prokuratura (Ministerio Público) va politsiya zimmasida, politsiya prokuratura rahbarligi va buyrug'i ostida ishlaydi; sudlar oldida ayblovni qo'llab-quvvatlash faqat prokuraturaga tegishli. Ya'ni O'zbekistondagi kabi alohida tergov organi emas: ayblovchi prokuratura tergovni o'zi boshqaradi, ixtisoslashuv prokuraturaning maxsus bo'limlari orqali. Soliq jinoyatlari bo'yicha jinoiy ish qo'zg'atish uchun Federal soliq kodeksi 92-moddasiga ko'ra avval Moliya vazirligi (SHCP) shikoyat (querella) bildirishi (105, 108-112, 114-moddalar), federal xazinaga zarar yetgani yoki yetishi mumkinligini deklaratsiya qilishi (102, 103, 115-moddalar) yoki ruxsat talab qiladigan/taqiqlangan tovarlar kontrabandasida tegishli deklaratsiya berishi kerak; qolgan hollarda federal prokuraturaga ariza yetarli. Jinoiy jarayonlar SHCP so'rovi bilan, aybdorlar soliq, jarima va penyani to'lasa yoki ta'minlasa, to'xtatiladi. Kodeks matni ordenjuridico.gob.mx nusxasidan (so'nggi islohot 2021-yil 12-noyabr) o'qildi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Meksika Konstitutsiyasi, 102-modda A bo’limi (Constitute Project nusxasi)",
-          "ref": "102-modda A; 21-modda",
+          "title": "Meksika Konstitutsiyasi, 21-modda (Constitute Project nusxasi)",
+          "ref": "21-modda",
           "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=es",
-          "retrieved": "2026-11-09",
-          "original": "La investigación de los delitos corresponde al Ministerio Público y a las policías"
+          "original": "La investigación de los delitos corresponde al Ministerio Público y a las policías",
+          "retrieved": "2026-11-09"
         },
         {
-          "title": "FGR Normateca",
-          "ref": "Normateca",
-          "url": "https://www.fgr.org.mx/swb/Normateca",
+          "title": "Código Fiscal de la Federación, 92-modda (Orden Jurídico Nacional nusxasi)",
+          "ref": "92-modda",
+          "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo56.html",
+          "original": "Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Hacienda y Crédito Público: I. Formule querella",
           "retrieved": "2026-11-09"
         }
       ]
@@ -9242,13 +9337,20 @@ window.AGENCIES = [
       ]
     },
     "investigation": {
-      "summary": "MASAK tergov o'tkazmaydi, balki tahlil, tadqiqot va tekshiruv qiladi; legallashtirish yoki terrorizmni moliyalashtirish bo'yicha ishonchli shubha yoki dalil bo'lsa masalani prokuraturaga topshiradi yoki CMK bo'yicha jinoyat haqida xabar beradi (231/1 e, f). Prokuror, sudya yoki sud yuborgan masalalarni ham tahlil qiladi (g). Jinoyat ishini prokuratura va politsiya tergov qiladi (CMK); bu qismi bu loyihada MASAKdan tashqarida tekshirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "MASAK tergov o'tkazmaydi, balki tahlil, tadqiqot va tekshiruv qiladi; legallashtirish yoki terrorizmni moliyalashtirish bo'yicha ishonchli shubha yoki dalil bo'lsa masalani prokuraturaga topshiradi yoki CMK bo'yicha jinoyat haqida xabar beradi (231/1 e, f). Prokuror, sudya yoki sud yuborgan masalalarni ham tahlil qiladi (g). Jinoyat ishini prokuratura tergov qiladi: CMK 160-moddaga ko'ra prokuror jinoyat sodir etilganday ko'ringan holatni bilishi bilanoq ish haqiqatini aniqlashga kirishadi va o'ziga bo'ysunuvchi adliya kollukchilari orqali gumon qilinuvchi foydasiga va zarariga bo'lgan dalillarni to'playdi; 161-modda: prokuror bevosita yoki adliya kollukchilari orqali har qanday tekshiruv o'tkaza oladi, barcha davlat xizmatchilaridan axborot talab qila oladi, kollukchilar uning buyruqlarini kechiktirmay bajaradi; buyruqlar yozma, shoshilinch holda og'zaki beriladi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
           "ref": "231-modda 1-qism (e, f, g)",
           "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "5271 sayılı Ceza Muhakemesi Kanunu (mevzuat.gov.tr)",
+          "ref": "160-161-moddalar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "original": "Cumhuriyet savcısı, doğrudan doğruya veya emrindeki adlî kolluk görevlileri aracılığı ile her türlü araştırmayı yapabilir",
           "retrieved": "2026-11-09"
         }
       ]
@@ -9643,25 +9745,27 @@ window.AGENCIES = [
       ]
     },
     "fiu_aml": {
-      "summary": "SFOning moliyaviy razvedka (FIU) roli bu manbalarda ko'rsatilmagan. Milliy jinoyat agentligi (NCA) sahifasida UKFIU haqida faqat havola bor; uning maqomi va vakolati bu loyihada birlamchi matndan tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "SFOning o'zi moliyaviy razvedka organi emas. Buyuk Britaniyaning moliyaviy razvedka bo'linmasi (UKFIU) Milliy jinoyat agentligi (NCA) tarkibidagi Milliy iqtisodiy jinoyat markazi (NECC) ichida joylashgan; u shubhali faoliyat haqidagi xabarlar (SAR) tizimi orqali kelgan razvedka ma'lumotlarini qabul qilish, tahlil qilish va tarqatish bo'yicha milliy mas'uliyatga ega, ma'lumotni mamlakat ichidagi va xalqaro huquq-tartibot organlari bilan bo'lishadi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "National Crime Agency",
-          "ref": "Who we are",
-          "url": "https://www.nationalcrimeagency.gov.uk/who-we-are",
+          "title": "NCA: UK Financial Intelligence Unit",
+          "ref": "Bosh sahifa",
+          "url": "https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/money-laundering-and-illicit-finance/ukfiu",
+          "original": "The UKFIU is housed within the National Crime Agency's National Economic Crime Centre (NECC).",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "structure": {
-      "summary": "Xodimlar soni va moliyalashtirish sahifada ko'rsatilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "2025-26 moliya yilida SFO bo'yicha o'rtacha ekvivalent to'liq shtat soni 686,62 ni tashkil etgan (doimiy xodimlar 557,99, muddatli 24,84, agentlik orqali 103,79); 2024-25 yilda 643,34. Yillik byudjet 107,45 mln funt sterling.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
-          "ref": "About us",
-          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "title": "SFO Annual Report and Accounts 2025-26 (HC 480)",
+          "ref": "\"SFO at a Glance\" va xodimlar hisoboti",
+          "url": "https://assets.publishing.service.gov.uk/media/6a58aa679e631544544137f6/SFO_Annual_Report_and_Accounts_2025-26.pdf",
+          "original": "The average number of full-time equivalent employees during the year was as follows: ... 686.62 ... 643.34",
           "retrieved": "2026-11-09"
         }
       ]
@@ -9694,26 +9798,53 @@ window.AGENCIES = [
       ]
     },
     "history": {
-      "summary": "FinCEN 1990-yil 25-aprelda Moliya vazirligining 105-08-sonli buyrug'i bilan tuzilgan (31 U.S.C. § 310 (a)). Adliya vazirligi bo'limi va IRS-CI ning tashkil topish tarixi bu loyihada o'qilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "FinCEN 1990-yil 25-aprelda Moliya vazirligining 105-08-sonli buyrug'i bilan tuzilgan (31 U.S.C. § 310 (a)). Adliya vazirligi Jinoyat bo'limining Firibgarlik seksiyasi (Fraud Section) 1955-yilda tuzilgan; bo'limning o'zi 1919-yilda rasman tashkil etilgan. IRS Jinoyat tergovi xizmati (IRS-CI) 1919-yilda Daromadlar departamentining Razvedka bo'limi sifatida, rahbari Elmer Irey boshchiligida, atigi oltita maxsus agent bilan boshlangan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "31 U.S.C. § 310 (Cornell LII)",
           "ref": "§ 310 (a)",
           "url": "https://www.law.cornell.edu/uscode/text/31/310",
-          "retrieved": "2026-11-09",
-          "original": "created by Treasury Order 105-08 on April 25, 1990"
+          "original": "created by Treasury Order 105-08 on April 25, 1990",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Adliya vazirligi, Jinoyat bo'limi tarixi",
+          "ref": "1919 va 1955 yozuvlari",
+          "url": "https://www.justice.gov/criminal/history/historical-timeline",
+          "original": "The Fraud Section is established.",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "IRS-CI 2025 yillik hisoboti",
+          "ref": "2-3-betlar",
+          "url": "https://www.irs.gov/pub/irs-pdf/p3583.pdf",
+          "original": "Founded in 1919 as the Intelligence Unit of the Department of Revenue, led by Chief Elmer Irey, the agency began with just six special agents.",
+          "retrieved": "2026-11-09"
         }
       ]
     },
     "legal_basis": {
-      "summary": "31 U.S.C. § 310 (FinCEN). Adliya vazirligi bo'limi va IRS-CI uchun qonuniy asoslar bu loyihada o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "FinCEN: 31 U.S.C. § 310. Adliya vazirligi Jinoyat bo'limi: 28 C.F.R. § 0.55 — bo'limga \"firibgarlik bo'yicha jinoyat ishlari\" (soliq firibgarligi va sog'liqni saqlash rejalari bo'yicha firibgarlik bundan mustasno) hamda fuqarolik yoki jinoiy musodara ishlari yuklangan (b, d bandlar). IRS-CI: 26 U.S.C. § 7608 (b).",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "31 U.S.C. § 310 (Cornell LII)",
           "ref": "§ 310",
           "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "28 C.F.R. § 0.55 (Cornell LII)",
+          "ref": "(b), (d)",
+          "url": "https://www.law.cornell.edu/cfr/text/28/0.55",
+          "original": "Cases involving criminal frauds except cases involving tax frauds and cases involving fraud with respect to health plans",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "26 U.S.C. § 7608 (Cornell LII)",
+          "ref": "(b)",
+          "url": "https://www.law.cornell.edu/uscode/text/26/7608",
           "retrieved": "2026-11-09"
         }
       ]
@@ -9774,13 +9905,27 @@ window.AGENCIES = [
       ]
     },
     "powers": {
-      "summary": "FinCEN: \"Financial crimes communications center\" yuritadi, xorijiy FIU bilan hamkorlik qiladi, davlat va xususiy sektor o'rtasida ixtiyoriy axborot almashish (FinCEN Exchange) shaklini yuritadi, chet davlatlarga kamida oltita aloqachi tayinlaydi (§ 310 (b)(2)(D), (H), (d), (h)). Adliya vazirligi bo'limining tintuv, hibsga olish va boshqa tergov vakolatlari bu loyihada o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "FinCEN: \"Financial crimes communications center\" yuritadi, xorijiy FIU bilan hamkorlik qiladi, davlat va xususiy sektor o'rtasida ixtiyoriy axborot almashish (FinCEN Exchange) shaklini yuritadi, chet davlatlarga kamida oltita aloqachi tayinlaydi (§ 310 (b)(2)(D), (H), (d), (h)). IRS-CI jinoiy tergovchilari qonun bo'yicha tintuv va hibsga olish orderlarini ijro etadi, sud chaqiruvlarini topshiradi, soliq qonunlari bo'yicha ularning ko'z o'ngida sodir etilgan huquqbuzarlik yoki asosli gumon bo'lgan og'ir jinoyat uchun orderlarsiz hibsga oladi va musodara qilinadigan mulkni olib qo'yadi (26 U.S.C. § 7608 (b)(2)). Firibgarlik seksiyasi, rasmiy tavsifiga ko'ra, murakkab ishlarni \"tergov qiladi va ayblov bilan chiqadi\" hamda ko'p okrugli tergovlarni muvofiqlashtiradi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "31 U.S.C. § 310 (Cornell LII)",
           "ref": "§ 310 (b), (d), (h)",
           "url": "https://www.law.cornell.edu/uscode/text/31/310",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "26 U.S.C. § 7608 (Cornell LII)",
+          "ref": "(b)(2)(A)-(C)",
+          "url": "https://www.law.cornell.edu/uscode/text/26/7608",
+          "original": "to execute and serve search warrants and arrest warrants ... to make arrests without warrant ... to make seizures of property subject to forfeiture under the internal revenue laws",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Adliya vazirligi Firibgarlik seksiyasi",
+          "ref": "Bosh sahifa",
+          "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "original": "The Section investigates and prosecutes these complex cases throughout the country.",
           "retrieved": "2026-11-09"
         }
       ]
@@ -9811,13 +9956,27 @@ window.AGENCIES = [
       ]
     },
     "structure": {
-      "summary": "Adliya vazirligi bo'limi, FinCEN va IRS-CI xodimlar soni va byudjeti bu loyihada ko'rsatilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Firibgarlik seksiyasi to'rtta bo'linmaga bo'lingan: Sog'liq va xavfsizlik, Qimmatli qog'ozlar-bozor-xususiy firibgarlik, Xorijiy korrupt amaliyotlar to'g'risidagi qonun (FCPA) va Korporativ ijro va muvofiqlik bo'linmalari; 2026-yil yanvarida seksiyada 200 dan ortiq prokuror ishlagan. IRS-CI: 2025 moliya yilida 2 189 maxsus agent va 954 yordamchi xodim (jami 3 143), 50 shtat, Guam, Puerto-Riko va Virjiniya orollarida, hamda chet elda 14 attashe posti.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "US DOJ Criminal Division: White Collar and Corporate Enforcement Section",
-          "ref": "bo'lim tavsifi",
+          "title": "Adliya vazirligi Firibgarlik seksiyasi",
+          "ref": "Bo'linmalar ro'yxati",
           "url": "https://www.justice.gov/criminal/criminal-fraud",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Adliya vazirligi matbuot xabari, 2026-yil 22-yanvar",
+          "ref": "Matn",
+          "url": "https://www.justice.gov/opa/pr/criminal-divisions-fraud-section-announces-historic-year-accomplishments",
+          "original": "Now, with more than 200 attorneys, the Section has strengthened its capacity",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "IRS-CI 2025 yillik hisoboti",
+          "ref": "3-bet, xodimlar jadvali",
+          "url": "https://www.irs.gov/pub/irs-pdf/p3583.pdf",
+          "original": "IRS-CI also maintains 14 attaché posts abroad",
           "retrieved": "2026-11-09"
         }
       ]
@@ -9875,7 +10034,7 @@ window.AGENCIES = [
       ]
     },
     "legal_basis": {
-      "summary": "Rasmiy sayt \"faoliyatning huquqiy asoslari\" sifatida quyidagilarni ko'rsatadi: Konstitutsiya; \"Prokuratura to'g'risida\"gi Qonun; \"Tezkor-qidiruv faoliyati to'g'risida\"gi Qonun; \"Prokuratura organlari xodimlari kunini belgilash to'g'risida\"gi Qonun; Prezidentning \"Huquqbuzarliklar profilaktikasi va jinoyatchilikka qarshi kurashish tizimini yanada takomillashtirish chora-tadbirlari to'g'risida\"gi qarori; hamda \"Departament to'g'risida\" nizom (sahifada nomi bor, raqam va sana ko'rsatilmagan). Bundan tashqari: PF-5446 (23.05.2018) farmoni, PQ-3947 (20.09.2018) qarori, O'RQ-1038 (25.02.2025) Qonuni. Diqqat: lex.uz sahifasida PF-5446 \"2024-yil 8-iyulda kuchini yo'qotgan\" deb belgilangan; amaldagi nizom matni topilmadi.",
+      "summary": "Rasmiy sayt \"faoliyatning huquqiy asoslari\" sifatida quyidagilarni ko'rsatadi: Konstitutsiya; \"Prokuratura to'g'risida\"gi Qonun; \"Tezkor-qidiruv faoliyati to'g'risida\"gi Qonun; \"Prokuratura organlari xodimlari kunini belgilash to'g'risida\"gi Qonun; Prezidentning \"Huquqbuzarliklar profilaktikasi va jinoyatchilikka qarshi kurashish tizimini yanada takomillashtirish chora-tadbirlari to'g'risida\"gi qarori; hamda \"Departament to'g'risida\" nizom (sahifada nomi bor, raqam va sana ko'rsatilmagan). Bundan tashqari: PF-5446 (23.05.2018) farmoni, PQ-3947 (20.09.2018) qarori, O'RQ-1038 (25.02.2025) Qonuni. Diqqat: lex.uz sahifasida PF-5446 uchun \"LexUZ sharhi\" bor: farmon Prezidentning 2024-yil 8-iyuldagi PF-99-sonli \"Yashirin iqtisodiyotga qarshi kurashish faoliyatini samarali tashkil etishga doir qo'shimcha chora-tadbirlar to'g'risida\"gi farmoniga asosan o'z kuchini yo'qotgan. PF-99 ning matni va u bilan tasdiqlangan amaldagi Departament nizomi topilmadi, shu sababli bu qator tasdiqlanmagan.",
       "status": "tekshirilmagan",
       "sources": [
         {

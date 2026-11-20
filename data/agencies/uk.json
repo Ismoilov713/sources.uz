@@ -111,25 +111,27 @@
       ]
     },
     "fiu_aml": {
-      "summary": "SFOning moliyaviy razvedka (FIU) roli bu manbalarda ko'rsatilmagan. Milliy jinoyat agentligi (NCA) sahifasida UKFIU haqida faqat havola bor; uning maqomi va vakolati bu loyihada birlamchi matndan tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "SFOning o'zi moliyaviy razvedka organi emas. Buyuk Britaniyaning moliyaviy razvedka bo'linmasi (UKFIU) Milliy jinoyat agentligi (NCA) tarkibidagi Milliy iqtisodiy jinoyat markazi (NECC) ichida joylashgan; u shubhali faoliyat haqidagi xabarlar (SAR) tizimi orqali kelgan razvedka ma'lumotlarini qabul qilish, tahlil qilish va tarqatish bo'yicha milliy mas'uliyatga ega, ma'lumotni mamlakat ichidagi va xalqaro huquq-tartibot organlari bilan bo'lishadi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "National Crime Agency",
-          "ref": "Who we are",
-          "url": "https://www.nationalcrimeagency.gov.uk/who-we-are",
+          "title": "NCA: UK Financial Intelligence Unit",
+          "ref": "Bosh sahifa",
+          "url": "https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/money-laundering-and-illicit-finance/ukfiu",
+          "original": "The UKFIU is housed within the National Crime Agency's National Economic Crime Centre (NECC).",
           "retrieved": "2026-11-09"
         }
       ]
     },
     "structure": {
-      "summary": "Xodimlar soni va moliyalashtirish sahifada ko'rsatilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "2025-26 moliya yilida SFO bo'yicha o'rtacha ekvivalent to'liq shtat soni 686,62 ni tashkil etgan (doimiy xodimlar 557,99, muddatli 24,84, agentlik orqali 103,79); 2024-25 yilda 643,34. Yillik byudjet 107,45 mln funt sterling.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Serious Fraud Office (SFO) rasmiy sahifasi, gov.uk",
-          "ref": "About us",
-          "url": "https://www.gov.uk/government/organisations/serious-fraud-office/about",
+          "title": "SFO Annual Report and Accounts 2025-26 (HC 480)",
+          "ref": "\"SFO at a Glance\" va xodimlar hisoboti",
+          "url": "https://assets.publishing.service.gov.uk/media/6a58aa679e631544544137f6/SFO_Annual_Report_and_Accounts_2025-26.pdf",
+          "original": "The average number of full-time equivalent employees during the year was as follows: ... 686.62 ... 643.34",
           "retrieved": "2026-11-09"
         }
       ]

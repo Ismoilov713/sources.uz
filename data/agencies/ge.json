@@ -87,13 +87,20 @@
       ]
     },
     "jurisdiction": {
-      "summary": "Moliya va iqtisod sohasidagi jinoyatlar (2-modda 1-qism); to'liq tergov faqat Jinoyat-protsessual kodeksidagi tergov tegishliligiga kiruvchi ishlar bo'yicha (8-modda \"b\"). Kodeksdagi aniq jinoyat moddalari ro'yxati bu loyihada o'qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Moliya va iqtisod sohasidagi jinoyatlar (Tergov xizmati to'g'risidagi qonunning 2-moddasi 1-qismi); to'liq tergov faqat Jinoyat-protsessual kodeksidagi tergov tegishliligiga kiruvchi ishlar bo'yicha (8-modda \"b\"). JPK 34-moddasi 1-qismi Moliya vazirligining tergov bo'linmalarini jinoyat ishlarini tergov qiluvchi organlar qatorida sanaydi; tergov tegishliligini, boshqacha qonunda belgilanmagan bo'lsa, Gruziya Bosh prokurori belgilaydi (35-modda), hududiy tegishlilikni ham (36-modda). Ya'ni qaysi jinoyatlar Xizmatga tegishli ekani kodeks moddalari ro'yxati bilan emas, Bosh prokuror belgilovi bilan aniqlanadi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge (2026-yil 25-iyungacha tahrir)",
+          "title": "Gruziya Qonuni № 1928 (03.11.2009) Moliya vazirligi Tergov xizmati to'g'risida, matsne.gov.ge",
           "ref": "2-modda 1-qism; 8-modda (b)",
           "url": "https://matsne.gov.ge/en/document/view/90304",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Gruziya Jinoyat-protsessual kodeksi, matsne.gov.ge",
+          "ref": "34-modda 1-qism; 35-36-moddalar",
+          "url": "https://matsne.gov.ge/en/document/view/90034",
+          "original": "An investigative jurisdiction shall be determined by the General Prosecutor of Georgia, unless otherwise determined by law.",
           "retrieved": "2026-11-09"
         }
       ]
@@ -130,13 +137,14 @@
       ]
     },
     "fiu_aml": {
-      "summary": "Gruziyada moliyaviy razvedka vazifasi alohida organga – Moliyaviy monitoring xizmatiga berilgan; Yevropa Kengashi 2018-yilgi xabarida uni FIU sifatida sanagan. Uning hozirgi maqomi va vakolati birlamchi manbadan tekshirilmadi (Transparency International Georgia materiali uni Moliya vazirligiga o'tkazish taklifi haqida eski).",
-      "status": "tekshirilmagan",
+      "summary": "Gruziyada moliyaviy razvedka vazifasi alohida organ — Moliyaviy monitoring xizmatiga berilgan. 2019-yil 30-oktabrdagi pul yuvish va terrorizmni moliyalashtirishga qarshi kurashga ko'maklashish to'g'risidagi qonunga ko'ra (31-modda) Xizmat — qonun asosida tuzilgan jamoat huquqi yuridik shaxsi, o'z faoliyatida mustaqil, unga ta'sir o'tkazish taqiqlangan; Gruziya Hukumati oldida hisobdor va yiliga hisobot beradi; rahbarini Bosh vazir tayinlaydi va ishdan bo'shatadi (32-modda); davlat byudjeti hisobidan moliyalashtiriladi (33-modda). Vazifasi (34-modda 1-qism): majburiy subyektlardan va boshqa manbalardan kelgan xabarlarni tahlil qiladi, pul yuvish, terrorizmni moliyalashtirish yoki boshqa jinoyatga asosli ishonch bo'lsa, tahlil natijasini Gruziya Prokuraturasi, Davlat xavfsizlik xizmati, Daromadlar xizmati va/yoki Ichki ishlar vazirligiga yuboradi. Matn qonunning 2019-yil 30-oktabrdagi dastlabki tahriridan olingan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Yevropa Kengashi, 2018",
-          "ref": "Gruziya FIU",
-          "url": "https://www.coe.int/en/web/corruption/-/council-of-europe-and-european-union-enhance-capacities-of-the-georgian-law-enforcement-agencies-and-financial-analysts-to-investigate-and-prosecute-m",
+          "title": "Gruziya qonuni: Pul yuvish va terrorizmni moliyalashtirishga qarshi kurashga ko'maklashish to'g'risida (5226-Iს, 30.10.2019), matsne.gov.ge",
+          "ref": "31-34-moddalar",
+          "url": "https://matsne.gov.ge/en/document/view/4690334?publication=0",
+          "original": "The Service is a legal entity under public law established on the basis of this Law ... In its activities, the Service shall be independent and guided by the legislation of Georgia.",
           "retrieved": "2026-11-09"
         }
       ]

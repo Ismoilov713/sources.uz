@@ -18,13 +18,21 @@
       ]
     },
     "history": {
-      "summary": "Ikkilamchi manbalarga ko'ra PNF 2013-yil 6-dekabrdagi 2013-1117-sonli Qonun bilan tuzilgan va 2014-yil 1-fevralda ish boshlagan; Konstitutsiyaviy kengash 2013-yil 4-dekabr qarori bilan tegishli normalarni konstitutsiyaga mos deb topgan. Birlamchi qonun matni bu loyihada o'qilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "PNF 2013-yil 6-dekabrdagi soliq firibgarligiga va yirik iqtisodiy-moliyaviy jinoyatchilikka qarshi kurash to'g'risidagi qonun bilan tuzilgan; 2014-yil 1-fevralda, qonun e'lon qilinganidan 55 kun o'tib, ish boshlagan. Konstitutsiyaviy kengash 2013-yil 4-dekabrda (2013-679 DC va 2013-680 DC) tegishli normalarni hech qanday izohsiz konstitutsiyaga mos deb topgan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Vie-publique: Parquet national financier (qidiruv natijasi)",
-          "ref": "PNF",
-          "url": "https://www.vie-publique.fr/fiches/292717-quest-ce-que-le-parquet-national-financier-pnf",
+          "title": "Adliya inspeksiyasi (IGJ) hisoboti, 2020-yil",
+          "ref": "Kirish qismi",
+          "url": "https://www.justice.gouv.fr/sites/default/files/migrations/presse/art_pix/IF%20PNF%2015092020.pdf",
+          "original": "Le PNF a été mis en place le 1er février 2014, 55 jours après la publication de la loi du 6 décembre 2013",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Adliya vazirligi, 2014-yil 31-yanvardagi jinoiy siyosat sirkulyari (JUSD1402887C)",
+          "ref": "1-izoh",
+          "url": "https://www.justice.gouv.fr/sites/default/files/migrations/textes/art_pix/JUSD1402887C.pdf",
+          "original": "Dans ses décisions n°2013-679 DC et 2013-680 DC du 4 décembre 2013, le Conseil constitutionnel a déclaré conformes à la Constitution les dispositions relatives au procureur de la République financier",
           "retrieved": "2026-11-09"
         }
       ]
@@ -42,13 +50,14 @@
       ]
     },
     "subordination": {
-      "summary": "PNFning Adliya vaziri va Parij bosh prokurori bilan bo'ysunuv munosabati bu manbalarda o'qilmadi; faqat \"Parij sudi huzurida\" joylashishi CPP 705-moddasidan ma'lum.",
-      "status": "tekshirilmagan",
+      "summary": "Moliyaviy prokuror Parij sudi huzurida, milliy vakolat bilan ishlaydi va Parij apellyatsiya sudi huzuridagi bosh prokurorning ierarxik rahbarligi ostida.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
-          "ref": "705-modda",
-          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "title": "Adliya vazirligi, 2014-yil 31-yanvardagi jinoiy siyosat sirkulyari (JUSD1402887C)",
+          "ref": "I.1, 1-bet",
+          "url": "https://www.justice.gouv.fr/sites/default/files/migrations/textes/art_pix/JUSD1402887C.pdf",
+          "original": "sous l'autorité hiérarchique du procureur général près la cour d'appel de Paris",
           "retrieved": "2026-11-09"
         }
       ]
@@ -122,13 +131,14 @@
       ]
     },
     "structure": {
-      "summary": "PNF tuzilmasi va magistratlar soni bu loyihada tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "PNF ishga tushganda 5 magistrat bilan boshlagan; dastlabki 18 oyda magistratlar soni 16 taga, sud kotibiyati xodimlari 1 tadan 7 taga o'sgan. Ishlar soni 2014-yildagi 211 tadan 2020-yilda 578 taga yetgan. Hozirgi xodimlar soni bu manbada ko'rsatilmagan, shuning uchun keltirilmadi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Code de procédure pénale (Fransiya, rasmiy matn, codes.droit.org nusxasi)",
-          "ref": "705",
-          "url": "https://codes.droit.org/payloads/Code%20de%20proc%C3%A9dure%20p%C3%A9nale.pdf",
+          "title": "Adliya inspeksiyasi (IGJ) hisoboti, 2020-yil",
+          "ref": "Kirish qismi",
+          "url": "https://www.justice.gouv.fr/sites/default/files/migrations/presse/art_pix/IF%20PNF%2015092020.pdf",
+          "original": "Les effectifs du PNF ont crû significativement les 18 premiers mois, passant de cinq à 16 magistrats et d'un à sept fonctionnaires de greffe.",
           "retrieved": "2026-11-09"
         }
       ]

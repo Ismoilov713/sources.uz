@@ -24,19 +24,21 @@
       ]
     },
     "history": {
-      "summary": "Moliyaviy tergov organlari to’g’risidagi qonun 2008-yil 16-iyulda № 414-З bilan qabul qilingan (matn 2023-yil 17-iyulgacha o’zgartirishlar bilan o’qildi). Davlat nazorat qo’mitasi to’g’risidagi № 142-З qonunning 3-moddasi 3-qismi Departamentning o’ziga xosliklari Prezident qarorlari va № 414-З qonun bilan belgilanishini yozadi. Departamentning Moliyaviy tergovlar davlat qo’mitasi asosida tashkil etilganligi qidiruv natijasida keltirilgan, birlamchi matndan tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "Moliyaviy tergov organlari to'g'risidagi qonun 2008-yil 16-iyulda № 414-З bilan qabul qilingan va rasmiy e'londan 10 kun o'tib kuchga kirgan; u 2001-yil 4-iyundagi \"Belarus moliyaviy tergov organlari to'g'risida\"gi oldingi qonunni bekor qilgan (34-modda). Qonun tizimi: Davlat nazorat qo'mitasi (KGK) Moliyaviy tergovlar departamenti (yuridik shaxs huquqi bilan), uning viloyatlar, Minsk viloyati va Minsk shahri boshqarmalari, ularning tumanlararo bo'limlari (7-modda). Qonun matni mirror nusxadan (2011-yilgi tahrir) o'qildi; keyingi o'zgartirishlar (jumladan 2020-yil 10-dekabrdagi № 63-З bilan 1-modda) 1-3-moddalarda ko'rilgan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Belarus Qonuni № 414-З (16.07.2008, 17.07.2023 tahriri), etalonline.by",
-          "ref": "qonun sanasi va tahriri",
-          "url": "https://etalonline.by/webnpa/text.asp?RN=H10800414",
+          "title": "Belarus qonuni № 414-З (16.07.2008) Moliyaviy tergov organlari to'g'risida, 34, 36-moddalar (levonevsky.org nusxasi)",
+          "ref": "7, 34, 36-moddalar",
+          "url": "http://pravo.levonevsky.org/bazaby11/republic14/text595.htm",
+          "original": "Признать утратившими силу: Закон Республики Беларусь от 4 июня 2001 года \"Об органах финансовых расследований Республики Беларусь\"",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "Belarus Qonuni № 142-З (КГК), etalonline.by",
-          "ref": "3-modda 3-qism",
-          "url": "https://etalonline.by/webnpa/text.asp?RN=h11000142",
+          "title": "Belarus qonuni № 414-З, 1-5-moddalar (spinform)",
+          "ref": "1-3-moddalar",
+          "url": "https://base.spinform.ru/show_doc.fwx?rgn=23925",
+          "original": "(В статью внесены изменения в соответствии с Законом Республики Беларусь от 10.12.2020 № 63-З )",
           "retrieved": "2026-11-09"
         }
       ]

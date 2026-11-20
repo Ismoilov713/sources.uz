@@ -18,18 +18,18 @@
       ]
     },
     "history": {
-      "summary": "Prokuratura Ustavi 1981-yilgi 50-sonli qonun (Ley 50/1981) bilan qabul qilingan; 2007-yil 9-oktabrdagi 24/2007-sonli qonun uni o’zgartirib, prokuraturaning maqomi (2-modda) va tegishli normalarni yangilagan. Pul yuvishga qarshi 10/2010-sonli qonun SEPBLAC va Komissiyaning tartibini belgilaydi. Korrupsiyaga qarshi prokuraturaning tashkil etilgan yilini bu manbalar ko’rsatmaydi. (Matnlar BOE rasmiy konsolidatsiyalangan nashridan 2026-yil noyabrda o’qildi.)",
-      "status": "tekshirilmagan",
+      "summary": "Prokuratura Ustavi 1981-yilgi 50-sonli qonun (Ley 50/1981) bilan qabul qilingan. 1995-yil 24-apreldagi 10/1995-sonli qonun unga korrupsiya bilan bog'liq iqtisodiy jinoyatlarga qarshi kurashuvchi maxsus prokuratura (Fiscalía Especial para la Represión de los Delitos Económicos relacionados con la Corrupción) tashkil etuvchi moddalarni qo'shgan. 2007-yil 9-oktabrdagi 24/2007-sonli qonun bu moddalarni (18 bis, 18 ter) bekor qilgan, hozirgi 19-moddaning \"ikki\" qismi maxsus prokuraturalar sifatida Antinarkotik prokuratura va Korrupsiya va uyushgan jinoyatchilikka qarshi prokuraturani (Fiscalía contra la Corrupción y la Criminalidad Organizada) nomlaydi. Pul yuvishga qarshi 10/2010-sonli qonun SEPBLAC va Komissiya tartibini belgilaydi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "Estatuto Orgánico del Ministerio Fiscal (Ley 50/1981), BOE konsolidatsiyalangan matn",
-          "ref": "2-modda va 5-moddadagi o’zgartirish izohlari",
+          "ref": "18 ter (bekor qilingan) va 19-moddalar, o'zgartirish izohlari",
           "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
-          "retrieved": "2026-11-09",
-          "original": "Se modifica el apartado 1 por el art. único.1 de la Ley 24/2007, de 9 de octubre."
+          "original": "Se añade por el art. único.3 de la Ley 10/1995, de 24 de abril. ... Se suprime por el art. único.13 de la Ley 24/2007, de 9 de octubre. ... Son Fiscalías Especiales la Fiscalía Antidroga y la Fiscalía contra la Corrupción y la Criminalidad Organizada.",
+          "retrieved": "2026-11-09"
         },
         {
-          "title": "Ley 10/2010 pul yuvishga qarshi kurash to’g’risida, BOE konsolidatsiyalangan matn",
+          "title": "Ley 10/2010 pul yuvishga qarshi kurash to'g'risida, BOE konsolidatsiyalangan matn",
           "ref": "44–48-moddalar",
           "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737",
           "retrieved": "2026-11-09"

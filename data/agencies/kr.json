@@ -54,9 +54,16 @@
       ]
     },
     "legal_basis": {
-      "summary": "OAV xabarlariga ko'ra: Davlat tashkiloti to'g'risidagi qonunga (Government Organization Act) o'zgartirish prokuratura idoralarini tugatgan; Jinoyat-protsessual qonun o'zgartirilib, prokurorlarning mustaqil va qo'shimcha tergov vakolati olib tashlangan (196-modda chiqarilgan); Prokuratura xizmati to'g'risidagi qonunda bosh prokuror Davlat ayblov xizmati rahbari etib belgilangan; SCIA to'g'risidagi qonun 2026-yil 29-sentabrdagi o'zgartirish (Act No. 22016) bilan kengaytirilgan. Qonunlarning o'zi (matni) bu loyihada o'qilmagan, mazmun ikkilamchi manbalardan olingan. Loyihada avval o'qilgan CPA ning inglizcha matni 2020-yilgacha va endi eskirgan.",
+      "summary": "Qonunlarning o'z matni (law.go.kr, elaw) bu yerda o'qilmadi: law.go.kr dinamik sayt bo'lib matn bermadi, inglizcha tarjima topilmadi. Mazmun ikki ikkilamchi manbadan olingan. Kim & Chang yuridik firmasi (2026-yil 10-avgust) yozishicha, 2026-yil martda Milliy majlis Prokuratura xizmati to'g'risidagi qonun va Jiddiy jinoyatlarni tergov qilish agentligini tashkil etish va faoliyati to'g'risidagi qonunni (SCIA Act) qabul qilgan, ular eski Prokuratura to'g'risidagi qonunni bekor qilgan; 2026-yil 31-iyulda Jinoyat-protsessual qonunga keng o'zgartirish qabul qilingan, u 4-avgustda e'lon qilingan va 2-oktabrdan kuchga kirgan: prokurorlarning umumiy tergov vakolati asosi bo'lgan 196-modda chiqarilgan, prokuror o'zi tergov boshlay olmaydi va politsiyadan kelgan ishni o'zi qo'shimcha tergov qila olmaydi, order uchun sudga faqat politsiya so'rovi bilan murojaat qiladi; ushlab turish muddatlari (politsiya 10 kun, prokuror yana 10 kun, bir marta 10 kunga uzaytiriladi) o'zgarmagan (202, 203, 205-moddalar). OAV (Seoul Economic Daily, Korea JoongAng Daily) shu o'zgarishlarni va SCIA to'g'risidagi qonunga 2026-yil 29-sentabrdagi o'zgartirish (Act No. 22016) haqida xabar bergan.",
       "status": "tekshirilmagan",
       "sources": [
+        {
+          "title": "Kim & Chang: Amended Criminal Procedure Act (2026.08.10)",
+          "ref": "1-3-bo'limlar",
+          "url": "https://www.kimchang.com/en/insights/detail.kc?sch_section=4&idx=35504",
+          "original": "deletion of Article 196, the provision that had long served as the legal basis for prosecutors' general investigative authority",
+          "retrieved": "2026-11-09"
+        },
         {
           "title": "Seoul Economic Daily, 17.10.2026",
           "ref": "JPK 196-modda chiqarilgan; Act No. 22016",
@@ -151,13 +158,14 @@
       ]
     },
     "fiu_aml": {
-      "summary": "Koreya moliyaviy razvedkasi (KoFIU) bu loyihada birlamchi manbadan tekshirilmadi; qidiruv natijalarida u haqida faqat tasodifiy eslatma bor.",
-      "status": "tekshirilmagan",
+      "summary": "Koreya moliyaviy razvedka bo'linmasi (KoFIU) \"Muayyan moliyaviy operatsiya ma'lumotlarini xabar qilish va ishlatish to'g'risida\"gi qonun (Act No. 6516, 2001-yil 27-sentabr) 3-moddasiga ko'ra Moliyaviy xizmatlar komissiyasi huzurida tuzilgan. Vazifalari: 4, 4-2 va 9-moddalar bo'yicha kelgan xabarlarni yig'ish, tahlil qilish va taqdim etish; moliya kompaniyalari faoliyatini nazorat qilish va tekshirish; xalqaro moliyaviy razvedka xizmatlari bilan hamkorlik; virtual aktiv xizmat ko'rsatuvchilarining xabarlari bilan bog'liq vazifalar; terrorizmni va ommaviy qirg'in qurolini tarqatishni moliyalashtirishni taqiqlash to'g'risidagi qonun bo'yicha vazifalar. KoFIU o'z vazifalarini mustaqil bajaradi, uning xodimlari boshqa vazifa bilan shug'ullanmaydi (3-modda 2-qism). Matn 2021-yil 28-dekabr tahriridan (elaw.klri.re.kr inglizcha tarjimasi).",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "Asia Economy qidiruv natijasi",
-          "ref": "KoFIU",
-          "url": "https://www.asiae.co.kr/en/article/2024031713435071359",
+          "title": "Act on Reporting and Using Specified Financial Transaction Information, 3-modda (elaw.klri.re.kr)",
+          "ref": "3-modda (1), (2)",
+          "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=60111&type=part&key=23",
+          "original": "The Korea Financial Intelligence Unit shall be established under the Financial Services Commission to efficiently perform the following duties",
           "retrieved": "2026-11-09"
         }
       ]

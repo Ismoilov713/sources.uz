@@ -23,13 +23,27 @@
       ]
     },
     "history": {
-      "summary": "Bu loyihada qonun matnlari o'qildi, tashkil topish tarixi va yillari birlamchi manbadan tekshirilmadi.",
-      "status": "tekshirilmagan",
+      "summary": "Moliyaviy razvedka (FIU) 2017-yil 26-iyunda Federal jinoyat idorasidan (BKA) Bosh bojxona direksiyasiga (Generalzolldirektion) o'tkazilgan. 2021-yil 1-maydan u Bosh bojxona direksiyasiga \"funksional organ\" va yangi X direksiya sifatida to'liq kiritilgan. Ixtisoslashgan prokuratura bo'limlari (Schwerpunktstaatsanwaltschaften) GVG § 143 (4) asosida tuziladi, ularning tashkil etilgan yillari umumiy qonunda yo'q, chunki ular Landlar bo'yicha alohida tashkil etiladi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "GVG (nemis asl matni)",
-          "ref": "§ 74c",
-          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "title": "BKA: FIU",
+          "ref": "Bosh sahifa",
+          "url": "https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/Geldwaesche/FIU/fiu.html",
+          "original": "Mit dem Wechsel der Zuständigkeit der Financial Intelligence Unit (FIU) zur Generalzolldirektion am 26. Juni 2017",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Zoll: FIU vazifalari",
+          "ref": "Tashkiliy joylashuv",
+          "url": "https://www.zoll.de/DE/Der-Zoll/Aufgaben-des-Zolls/Schutz-fuer-Mensch-Wirtschaft-und-Umwelt/FIU-Aufgaben/fiu-aufgaben_node.html",
+          "original": "als funktionale Behörde und als neue Direktion X in die Generalzolldirektion integriert",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GVG § 143",
+          "ref": "(4)",
+          "url": "https://www.gesetze-im-internet.de/gvg/__143.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -63,19 +77,33 @@
       ]
     },
     "subordination": {
-      "summary": "FIU: Federal moliya vazirligi nazorati ostida, kasbiy mustaqilligi saqlanadi (GwG § 28 (2)). Turli Land prokuraturalari qaysi biri ta’qibni o’z zimmasiga olishi haqida kelisha olmasa, Federal bosh prokuror hal qiladi (GVG § 143 (3)). Landlar prokuraturalarining vazirlikka bo’ysunuv tartibi bu loyihada o’qilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Prokuratura xodimlari o'z rahbarlarining xizmat ko'rsatmalariga bo'ysunadi (GVG § 146). Nazorat va rahbarlik huquqi: Federal adliya vaziriga — Bosh federal prokuror va federal prokurorlar bo'yicha; Land adliya ma'muriyatiga — o'sha Landning barcha prokuratura xodimlari bo'yicha; Oberlandesgericht va Landgericht huzuridagi birinchi prokuraturaga — o'z okrugidagi barcha prokuratura xodimlari bo'yicha (GVG § 147). Turli Land prokuraturalari ta'qibni kim olishi haqida kelisha olmasa, Federal bosh prokuror hal qiladi (§ 143 (3)). FIU: Federal moliya vazirligi nazoratida, kasbiy mustaqillik saqlanadi (GwG § 28 (2)); tashkiliy jihatdan Bosh bojxona direksiyasida joylashgan.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "GwG (nemis asl matni), § 28",
-          "ref": "§ 28 (2)",
-          "url": "https://www.gesetze-im-internet.de/gwg_2017/__28.html",
+          "title": "GVG § 146",
+          "ref": "§ 146",
+          "url": "https://www.gesetze-im-internet.de/gvg/__146.html",
+          "original": "Die Beamten der Staatsanwaltschaft haben den dienstlichen Anweisungen ihres Vorgesetzten nachzukommen.",
           "retrieved": "2026-11-09"
         },
         {
-          "title": "GVG (nemis asl matni), § 143 (3)",
-          "ref": "§ 143 (3)",
+          "title": "GVG § 147",
+          "ref": "§ 147 №1-3",
+          "url": "https://www.gesetze-im-internet.de/gvg/__147.html",
+          "original": "Das Recht der Aufsicht und Leitung steht zu: ... der Landesjustizverwaltung hinsichtlich aller staatsanwaltschaftlichen Beamten des betreffenden Landes",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GVG § 143",
+          "ref": "(3)",
           "url": "https://www.gesetze-im-internet.de/gvg/__143.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GwG § 28",
+          "ref": "(2)",
+          "url": "https://www.gesetze-im-internet.de/gwg_2017/__28.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -106,13 +134,39 @@
       ]
     },
     "powers": {
-      "summary": "Prokuratura tergov bo'yicha umumiy vakolatga ega (StPO § 161, § 161a: guvoh va ekspertlarni so'roq qilish). Tintuv, hibsga olish va boshqa tergov choralari uchun sud ruxsati kerak bo'lishi (§ 162 tergov sudyasi) bu manbalarda sarlavha darajasida ko'rilgan, mazmuni tekshirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "Prokuratura tergov bo'yicha umumiy vakolatga ega (StPO § 161, § 161a: guvoh va ekspertlarni so'roq qilish). Tintuv odatda faqat sudya buyrug'i bilan o'tkaziladi; kechiktirib bo'lmaydigan xavf bo'lsa prokuratura va uning tergov yordamchilari (Ermittlungspersonen) ham buyurishi mumkin (StPO § 105 (1)). Tintuv gumon qilinuvchining uyi, xonalari, shaxsi va mulkida o'tkazilishi mumkin (§ 102). Tergov hibsi faqat sudyaning yozma order bilan buyuriladi (§ 114 (1)); asos — qochish, dalillarni yo'q qilish xavfi va boshqalar (§ 112). Prokuratura sud tergov harakati kerak bo'lsa, ariza bilan tergov sudyasiga (Amtsgericht) murojaat qiladi (§ 162 (1)); sud harakat qonuniyligini tekshiradi (§ 162 (2)).",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "StPO (nemis asl matni)",
-          "ref": "§ 161, § 161a, § 162",
-          "url": "https://www.gesetze-im-internet.de/stpo/",
+          "title": "StPO § 105",
+          "ref": "(1)",
+          "url": "https://www.gesetze-im-internet.de/stpo/__105.html",
+          "original": "Durchsuchungen dürfen nur durch den Richter, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen ... angeordnet werden.",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO § 114",
+          "ref": "(1)",
+          "url": "https://www.gesetze-im-internet.de/stpo/__114.html",
+          "original": "Die Untersuchungshaft wird durch schriftlichen Haftbefehl des Richters angeordnet.",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO § 102",
+          "ref": "§ 102",
+          "url": "https://www.gesetze-im-internet.de/stpo/__102.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO § 112",
+          "ref": "(1), (2)",
+          "url": "https://www.gesetze-im-internet.de/stpo/__112.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "StPO § 162",
+          "ref": "(1), (2)",
+          "url": "https://www.gesetze-im-internet.de/stpo/__162.html",
           "retrieved": "2026-11-09"
         }
       ]
@@ -162,13 +216,25 @@
       ]
     },
     "structure": {
-      "summary": "Ixtisoslashgan prokuratura bo'limlari va xodimlar soni bu loyihada o'qilgan manbalarda yo'q.",
-      "status": "tekshirilmagan",
+      "summary": "Germaniyada iqtisodiy jinoyatlar uchun yagona milliy tuzilma yo'q. Prokuratura Oberlandesgericht va Landgericht huzurida tashkil etiladi, rahbari birinchi prokuror (GVG § 147 №3); ixtisoslashgan bo'limlar Landlar tomonidan GVG § 143 (4) asosida tuziladi. FIU esa Bosh bojxona direksiyasining X direksiyasi sifatida bitta markaziy organ.",
+      "status": "tasdiqlangan",
       "sources": [
         {
-          "title": "GVG (nemis asl matni)",
-          "ref": "§ 143 (4)",
-          "url": "https://www.gesetze-im-internet.de/gvg/",
+          "title": "GVG § 147",
+          "ref": "№3",
+          "url": "https://www.gesetze-im-internet.de/gvg/__147.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "GVG § 143",
+          "ref": "(4)",
+          "url": "https://www.gesetze-im-internet.de/gvg/__143.html",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "Zoll: FIU vazifalari",
+          "ref": "Tashkiliy joylashuv",
+          "url": "https://www.zoll.de/DE/Der-Zoll/Aufgaben-des-Zolls/Schutz-fuer-Mensch-Wirtschaft-und-Umwelt/FIU-Aufgaben/fiu-aufgaben_node.html",
           "retrieved": "2026-11-09"
         }
       ]

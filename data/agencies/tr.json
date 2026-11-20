@@ -111,13 +111,20 @@
       ]
     },
     "investigation": {
-      "summary": "MASAK tergov o'tkazmaydi, balki tahlil, tadqiqot va tekshiruv qiladi; legallashtirish yoki terrorizmni moliyalashtirish bo'yicha ishonchli shubha yoki dalil bo'lsa masalani prokuraturaga topshiradi yoki CMK bo'yicha jinoyat haqida xabar beradi (231/1 e, f). Prokuror, sudya yoki sud yuborgan masalalarni ham tahlil qiladi (g). Jinoyat ishini prokuratura va politsiya tergov qiladi (CMK); bu qismi bu loyihada MASAKdan tashqarida tekshirilmagan.",
-      "status": "tekshirilmagan",
+      "summary": "MASAK tergov o'tkazmaydi, balki tahlil, tadqiqot va tekshiruv qiladi; legallashtirish yoki terrorizmni moliyalashtirish bo'yicha ishonchli shubha yoki dalil bo'lsa masalani prokuraturaga topshiradi yoki CMK bo'yicha jinoyat haqida xabar beradi (231/1 e, f). Prokuror, sudya yoki sud yuborgan masalalarni ham tahlil qiladi (g). Jinoyat ishini prokuratura tergov qiladi: CMK 160-moddaga ko'ra prokuror jinoyat sodir etilganday ko'ringan holatni bilishi bilanoq ish haqiqatini aniqlashga kirishadi va o'ziga bo'ysunuvchi adliya kollukchilari orqali gumon qilinuvchi foydasiga va zarariga bo'lgan dalillarni to'playdi; 161-modda: prokuror bevosita yoki adliya kollukchilari orqali har qanday tekshiruv o'tkaza oladi, barcha davlat xizmatchilaridan axborot talab qila oladi, kollukchilar uning buyruqlarini kechiktirmay bajaradi; buyruqlar yozma, shoshilinch holda og'zaki beriladi.",
+      "status": "tasdiqlangan",
       "sources": [
         {
           "title": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Kararname (rasmiy matn, mevzuat.gov.tr)",
           "ref": "231-modda 1-qism (e, f, g)",
           "url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+          "retrieved": "2026-11-09"
+        },
+        {
+          "title": "5271 sayılı Ceza Muhakemesi Kanunu (mevzuat.gov.tr)",
+          "ref": "160-161-moddalar",
+          "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+          "original": "Cumhuriyet savcısı, doğrudan doğruya veya emrindeki adlî kolluk görevlileri aracılığı ile her türlü araştırmayı yapabilir",
           "retrieved": "2026-11-09"
         }
       ]
