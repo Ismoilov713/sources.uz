@@ -1,7 +1,7 @@
 /* GoatCounter (cookiesiz statistika). Kodni goatcounter.com da yaratilgan sayt nomiga almashtiring:
    masalan "sources" -> https://sources.goatcounter.com. Bo'sh bo'lsa hech narsa yuborilmaydi. */
 (function () {
-  var CODE = "";
+  var CODE = "sources";
   if (!CODE) { window.track = function () {}; return; }
   window.goatcounter = { no_onload: true, endpoint: "https://" + CODE + ".goatcounter.com/count" };
   var s = document.createElement("script");
